@@ -391,61 +391,474 @@ EMQ Practice Paper: 1
 #### Answer: 
 
 ## Theme: Ventilators
-
-
+	
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	
+### 88
+#### Answer: 
+### 89
+#### Answer: 
+### 90
+#### Answer: 
+### 91
+#### Answer: 
 
 ## Theme: Management of Chest Trauma
 
+	A. 
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	I.
+	
+### 92
+#### Answer: 
+### 93
+#### Answer: 
+### 94
+#### Answer: 
+
 ## Theme: Carcinogens
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	
+### 95
+#### Answer: 
+### 96
+#### Answer: 
+### 97
+#### Answer: 
+### 98
+#### Answer: 
+### 99
+#### Answer: 
+### 100
+#### Answer: 
 
 ## Theme: Inotropes
 
+	A.
+	B.
+	C.
+	D.
+	E.
+
+### 101
+#### Answer: 
+### 102
+#### Answer: 
+### 103
+#### Answer: 
+### 104
+#### Answer: 
+
 ## Theme: Scrotal Swellings
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	
+### 105
+#### Answer: 
+### 106
+#### Answer: 
+### 107
+#### Answer: 
 
 ## Theme: Trauma
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	
+### 108
+#### Answer: 
+### 109
+#### Answer: 
+### 110
+#### Answer: 
+
 ## Theme: Local Anaesthetics
 
-## Theme: Chemptherapy
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	
+### 111
+#### Answer: 
+### 112
+#### Answer: 
+### 113
+#### Answer: 
+### 114
+#### Answer: 
+
+## Theme: Chemotherapy
+
+	A.
+	B.
+	C.
+
+### 115
+#### Answer: 
+### 116
+#### Answer: 
+### 117
+#### Answer: 
 
 ## Theme: Diagnosis of Endocrine Disorders
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	
+### 118
+#### Answer: 
+### 119
+#### Answer: 
+### 120
+#### Answer: 
+### 121
+#### Answer: 
+### 122
+#### Answer: 
+
 ## Theme: Terms Used for Disorders of Growth and Differentiation
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	
+### 123
+#### Answer: 
+### 124
+#### Answer: 
+### 125
+#### Answer: 
+### 126
+#### Answer: 
 
 ## Theme: Conditions Caused by Microbes
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	
+### 127
+#### Answer: 
+### 128
+#### Answer: 
+### 129
+#### Answer: 
+### 130
+#### Answer: 
+### 131
+#### Answer: 
+### 132
+#### Answer: 
+
 ## Theme: Hypersensitivity Reactions
+
+	A.
+	B.
+	C.
+	D.
+	
+### 133
+#### Answer: 
+### 134
+#### Answer: 
+### 135
+#### Answer: 
+### 136
+#### Answer: 
+### 137
+#### Answer: 
+### 138
+#### Answer: 
 
 ## Theme: Glasgow Coma Scale Scores
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	
+### 139
+#### Answer: 
+### 140
+#### Answer: 
+### 141
+#### Answer: 
+### 142
+#### Answer: 
+
 ## Theme: Management of Transitional Cell Carcinoma of the Bladder
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+
+### 143
+#### Answer: 
+### 144
+#### Answer: 
 
 ## Theme: Haemorrhagic Shock
 
+	A.
+	B.
+	C.
+	D.
+	
+### 145
+#### Answer: 
+### 146
+#### Answer: 
+### 147
+#### Answer: 
+
 ## Theme: Management of Thyroid Disease
+
+	A. 
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+
+### 148
+#### Answer: 
+### 149
+#### Answer: 
+### 150
+#### Answer: 
+### 151
+#### Answer: 
 
 ## Theme: Causes of Jaundice
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	
+### 152
+#### Answer: 
+### 153
+#### Answer: 
+### 154
+#### Answer: 
+
 ## Theme: Knee Injuries
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	
+### 155
+#### Answer: 
+### 156
+#### Answer: 
 
 ## Theme: Treatment of Prostate Cancer
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	
+### 157
+#### Answer: 
+### 158
+#### Answer: 
+### 159
+#### Answer: 
+
 ## Theme: Management of Ankle Injuries
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	
+### 160
+#### Answer: 
+### 161
+#### Answer: 
+### 162
+#### Answer: 
 
 ## Theme: Complications of Colorectal Cancer
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	
+### 163
+#### Answer: 
+### 164
+#### Answer: 
+### 165
+#### Answer: 
+
 ## Theme: Abnormalities of Calcium Balance
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	
+### 166
+#### Answer: 
+### 167
+#### Answer: 
+### 168
+#### Answer: 
 
 ## Theme: Management of Benign Prostatic Hyperplasia
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	I.
+	
+### 169
+#### Answer: 
+### 170
+#### Answer: 
+### 171
+#### Answer: 
+
 ## Theme: Wound Complications
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+
+### 172
+#### Answer: 
+### 173
+#### Answer: 
+### 174
+#### Answer: 
 
 ## Theme: Management of Hernias
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+
+### 175
+#### Answer: 
+### 176
+#### Answer: 
+### 177
+#### Answer: 
+
 ## Theme: Treatment of Urinary Tract Infections
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+
+### 178
+#### Answer: 
+### 179
+#### Answer: 
+### 180
+#### Answer: 
 
 ## Theme: Post-Operative Critical Care
+
+	A.
+	B.
+	C.
+	D.
+	E.
 
 ### 181
 #### Answer: 
@@ -456,8 +869,18 @@ EMQ Practice Paper: 1
 ### 183
 #### Answer: 
 
-
 ## Theme: Skin Lesions
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	I.
+	J.
 
 ### 184
 #### Answer: 
