@@ -17,14 +17,23 @@ Overall: ??/??? = ??.0%
 	E. Blend
 
 ### 1
+Requires a patient plate electrode to be applied.
 #### Answer: 
+
 ### 2
+This is safer to use in patients with pacemakers.
 #### Answer: 
+
 ### 3
+Uses pulsed, short, high-frequency bursts.
 #### Answer: 
+
 ### 4
+Safe for use on digits.
 #### Answer: 
+
 ### 5
+Can be used for buzzing (touching other instruments to pass current through them).
 #### Answer: 
 
 ## Q2: Theme: Extensor Compartments of the Wrist
@@ -37,10 +46,15 @@ Overall: ??/??? = ??.0%
 	F. VI
 
 ### 6
+Extensor carpi radialis brevis is in this compartment.
 #### Answer: 
+
 ### 7
+This compartment lies radial to Lister's tubercle at the wrist.
 #### Answer: 
+
 ### 8
+Extensor digiti minimi is in this compartment.
 #### Answer: 
 
 ## Q3: Theme: Sepsis
@@ -52,12 +66,19 @@ Overall: ??/??? = ??.0%
 	E. Septic Shock
 
 ### 9
+A 30-year-old man presents with severe right loin pain, radiating to the groin. A mid-stream urine (MSU) shows blood, protein and nitrites. A KUB study reveals a calculus. His temperature is 39.1°C, pulse 127/min, respiratory rate (RR) 38 breaths/min and BP 81/43 mmHg despite 3 litres of intravenous fluids, and his white cell count (WCC) is 21 × 109/l.
 #### Answer: 
+
 ### 10
+A 79-year-old woman 1 week post-op has a pyrexia of 38.4°C, pulse 104/min, BP 144/90 mmHg and WCC 14 × 109/l. Chest X-ray (CXR) shows a left lower lobe pneumonia.
 #### Answer: 
+
 ### 11
+A 30-year-old male post-op patient had blood cultures taken 48 hours ago which are positive. He is currently apyrexial, pulse 64/min, RR 12 breaths/min, BP 123/82 mmHg, with a normal WCC.
 #### Answer: 
+
 ### 12
+A 27-year-old female post-op patient has a temperature of 38.7°C, pulse 86/min, RR 24 breaths/min, BP 127/74 mmHg and WCC 16 × 109/l. Her CXR is clear, an MSU negative and the wound is fine.
 #### Answer: 
 
 ## Q4: Theme: Facial Nerve Palsies (CN VII)
@@ -75,16 +96,27 @@ Overall: ??/??? = ??.0%
 	K. Bell's palsy
 
 ### 13
+An 18-year-old man presents to A&E with a head injury. He has a facial nerve palsy, Battle's sign and haemotympanum.
 #### Answer: 
+
 ### 14
+A 30-year-old woman presents with a sudden-onset facial nerve palsy sparing the forehead. She has a past medical history of optic neuritis.
 #### Answer: 
+
 ### 15
+An 80-year-old man presents with a facial nerve palsy, preceded by severe pain in the distribution of the facial nerve. He reports vertigo and hearing loss. Papules are seen on the tongue.
 #### Answer: 
+
 ### 16
+A 50-year-old man presents with a facial nerve palsy. He has had an intermittent discharge from his right ear for 2 months. He has posterosuperior retraction of the tympanic membrane.
 #### Answer: 
+
 ### 17
+A 55-year-old woman presents with a facial nerve palsy, sensorineural hearing loss, tinnitus and vertigo.
 #### Answer: 
+
 ### 18
+A 23-year-old man presents with a facial nerve palsy and a 3-month history of conductive hearing loss. The tympanic membrane is dull in the left ear.
 #### Answer: 
 
 ## Q5: Theme: Anaesthetic Agents
@@ -99,12 +131,19 @@ Overall: ??/??? = ??.0%
 	H. Enflurane
 	
 ### 19
+Can cause a ‘coronary steal’ syndrome.
 #### Answer: 
+
 ### 20
+The most rapidly acting depolarising muscle relaxant.
 #### Answer: 
+
 ### 21
+The only inhalational anaesthetic not known to cause malignant hyperpyrexia.
 #### Answer: 
+
 ### 22
+The induction agent with a slight anti-emetic effect, which is the agent of choice with laryngeal masks.
 #### Answer: 
 
 ## Q6: Theme: Flexor Tendon Injuries
@@ -116,10 +155,15 @@ Overall: ??/??? = ??.0%
 	E. Zone 5
 	
 ### 23
+Laceration across both hypothenar and thenar eminences.
 #### Answer: 
+
 ### 24
+Most difficult to repair, often yielding poor functional outcome.
 #### Answer: 
+
 ### 25
+Laceration across the metacarpophalangeal (MCP) joints.
 #### Answer: 
 
 ## Q7: Theme: Day-Case Surgery
@@ -128,10 +172,15 @@ Overall: ??/??? = ??.0%
 	B. Unsuitable for day-case surgery
 	
 ### 26
+A 40-year-old woman listed for varicose vein stripping, with no significant past medical history. Weight 90 kg, height 155 cm. Her husband can look after her post-op and she lives 10 minutes from the hospital.
 #### Answer: 
+
 ### 27
+A 64-year-old with well-controlled asthma listed for rigid cystoscopy. Weight 74 kg, height 173 cm. He lives with his wife approximately 10 minutes form the hospital.
 #### Answer: 
+
 ### 28
+A 50-year-old man with angina requiring frequent GTN spray, listed for a knee arthroscopy. Weight 70 kg, height 180 cm. He lives with his wife approximately 5 minutes from the hospital.
 #### Answer: 
 
 ## Q8: Theme: Urinary System Trauma
@@ -143,10 +192,15 @@ Overall: ??/??? = ??.0%
 	E. Class V
 
 ### 29
+An 18-year-old football player who sustained a kick to the loin during a game subsequently develops microscopic haematuria.
 #### Answer: 
+
 ### 30
+A 30-year-old man who has been stabbed in the right loin with a kitchen knife arrives in A&E with a pulse of 112/min, BP 120/100 mmHg. He has frank haematuria. IVU reveals urinary extravasation.
 #### Answer: 
+
 ### 31
+Following a hysterectomy a patient has macroscopic haematuria, ileus, pain and a low-grade fever. IVU reveals leakage from the left ureter. A 75% laceration with no devascularisation is found.
 #### Answer: 
 
 ## Q9: Theme: Burns
@@ -159,12 +213,19 @@ Overall: ??/??? = ??.0%
 	F. 14,400 mL
 	
 ### 32
+A man weighing 80 kg is admitted as an emergency after being rescued from a house fire. He has red, painful, blistered burns to his right arm, chest and abdomen. How much fluid does he require over the first 24 hours following his injury?
 #### Answer: 
+
 ### 33
+A 60-kg woman is admitted to A&E with extensive burns. Her left arm and leg have dry, white, painless burns, and her anterior torso has erythematous painful burns with blistering. How much fluid does she require over the first 8 hours after her injury?
 #### Answer: 
+
 ### 34
+A 120-kg chef is involved in a fire at work. He has sustained red, painful, blistered burns to both his arms, and has erythematous areas to his chest that haven't blistered. How much fluid does he require for resuscitation over the first 8 hours after this injury?
 #### Answer: 
+
 ### 35
+An 60-kg woman is involved in a house fire after falling asleep with a lit cigarette. She sustains full-thickness burns to both arms and legs, and partial-thickness burns to the front of her torso. How much fluid should she be given in the first 24 hours after this injury?
 #### Answer: 
 	
 ## Q10: Theme: Anti-Emetics
@@ -176,12 +237,19 @@ Overall: ??/??? = ??.0%
 	E. Haloperidol
 
 ### 36
+A selective 5-hydroxytryptamine antagonist, useful for preventing vomiting caused by cytotoxic drugs.
 #### Answer: 
+
 ### 37
+A selective 5-hydroxytryptamine antagonist, useful for preventing vomiting caused by cytotoxic drugs.
 #### Answer: 
+
 ### 38
+An H1-receptor antagonist, most effective if given before the onset of nausea and vomiting.
 #### Answer: 
+
 ### 39
+A non-phenothiazine antipsychotic used to combat vomiting caused by emetogenic anti-cancer drugs.
 #### Answer: 
 
 ## Q11: Theme: Surgical Incisions
@@ -195,12 +263,19 @@ Overall: ??/??? = ??.0%
 	G. Collar
 	
 ### 40
+A 63-year-old lady presents with a lump in her right groin, lateral and inferior to the pubic tubercle. It is tender to palpation and irreducible, with erythema to the overlying skin. Which incision would you make for her emergency procedure?
 #### Answer: 
+
 ### 41
+A 17-year-old girl presents with a 2-day history of right iliac fossa pain. She has a temperature 37.8°C and has vomited twice. Her blood tests reveal: CRP 142 mg/l, WCC 14.6 × 109/l. She requires an emergency operation. Which incision would you use?
 #### Answer: 
+
 ### 42
+A 52-year-old man undergoes a laparoscopic cholecystectomy. During dissection around Calot's triangle, unusual anatomy is discovered and it is no longer safe to proceed laparoscopically and the procedure is converted to an open one. Which incision would you make?
 #### Answer: 
+
 ### 43
+A 45-year-old lady with Graves’ disease presents with a large goitre and wants to have her condition corrected as she is hoping to get pregnant within the next couple of years. Which incision would you make for her elective procedure?
 #### Answer: 
 
 ## Q12: Theme: Anatomical Relations
