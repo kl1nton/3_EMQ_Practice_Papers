@@ -1180,50 +1180,126 @@ F   Slipped upper femoral epiphysis (SUFE)
 G   Tuberculosis
 
 ### 152
-#### Answer: 
-### 153
-#### Answer: 
-### 154
-#### Answer: 
-### 155
+A 4-year-old boy presents with a sudden-onset limp. There is no history of trauma. On arrival to A&E, he is flushed, dehydrated and pyrexial. All movements of his right hip appear to cause pain. Routine blood tests reveal a WCC of 15.1 × 109/l, CRP 234 mg/l and ESR 65 mm/h.
 #### Answer: 
 
+### 153
+A 14-year-old boy presents with a limp to the right-hand side. There is no history of trauma. He complains of pain around his right knee, and painful movements of the right knee and hip. He appears small for his age, and has no pubertal hair. On examination he has a full although painful range of movement in his right knee. Movements of the right hip are painful and internal rotation is restricted by 20 degrees.
+#### Answer: 
+
+### 154
+An 18-month-old girl with a limp is referred by her general practitioner. She has just started walking. She is otherwise fit and well, and is up to date with all her vaccinations. Perinatal history includes breech delivery and the parents report a club foot which was treated by physiotherapists when she was a neonate.
+#### Answer: 
+
+### 155
+A 4-year-old boy presents with vague pain in the left hip and thigh. Examination reveals a reduced range of internal rotation and abduction. X-rays show flattening and deformity of the femoral head.
+#### Answer: 
 
 ## Q35: Theme: Sterilisation
 
+A   Glutaraldehyde 2%
+ 
+B   Hot air sterilisation 160°C for 2 hours
+ 
+C   Irradiation
+ 
+D   Steam sterilisation – 15 minutes at 121°C
+ 
+E   Steam sterilisation – 15 minutes at 134°C
+
 ### 156
-#### Answer: 
-### 157
-#### Answer: 
-### 158
+Sterilisation of a minor instrument set.
 #### Answer: 
 
+### 157
+Sterilisation of a colonoscope.
+#### Answer: 
+
+### 158
+Sterilisation of a single-use stapling gun.
+#### Answer: 
 
 ## Q36: Theme: Consent
 
+A   Accept wishes for non-treatment
+ 
+B   Obtain consent from next of kin
+ 
+C   Proceed to treat without consent of patient
+ 
+D   Section under Mental Health Act to treat
+ 
+E   Seek second opinion
+ 
+F   Requires order from court of law to treat
+
 ### 159
-#### Answer: 
-### 160
-#### Answer: 
-### 161
-#### Answer: 
-### 162
+A 43-year-old man with chronic depression attends with sudden-onset abdominal pain. He is peritonitic and has air under his diaphragm. Your consultant has asked you to obtain consent for a laparotomy. The patient refuses and states he would rather die.
 #### Answer: 
 
+### 160
+A 13-year-old has an off-ended distal radial and ulna fracture. On examination she has signs of median nerve compromise. You have spoken with both the girl and her mother and informed them that an operation is necessary. The mother is happy to proceed. The child is adamant that she does not wish to have an operation even though she might not regain full use of her hand.
+#### Answer: 
+
+### 161
+An 84-year-old with known multi-infarct dementia has a fractured neck of femur. He keeps shouting that he wants to be left alone to die.
+#### Answer: 
+
+### 162
+A 64-year-old man is brought into A&E unconscious. He is thought to have a perforated peptic ulcer secondary to NSAID use. He is known to have metastatic carcinoma of the prostate. His wife attends with an advance directive stating that he does not wish any form of surgery or resuscitation.
+#### Answer: 
 
 ## Q37: Theme: Urological Investigations
 
+A   Abdominal ultrasound
+ 
+B   CT Scan
+ 
+C   Intravenous urography
+ 
+D   Plain radiograph (KUB)
+ 
+E   Radionucleotide imaging
+ 
+F   Transrectal ultrasound
+ 
+G   Uroflowmetry
+ 
+H   Video urodynamics
+
 ### 163
-#### Answer: 
-### 164
-#### Answer: 
-### 165
-#### Answer: 
-### 166
+A 64-year-old man is referred by his general practitioner with a PSA of 11.0 ng/ml. DRE reveals a 50-g craggy-feeling prostate.
 #### Answer: 
 
+### 164
+A 84-year-old man with known metastatic carcinoma of the prostate attends A&E. He is complaining of abdominal pain and has not passed urine in 18 hours. Clinical examination reveals a tender abdomen, with increased tenderness around the renal angles. DRE reveals a 50-g craggy prostate. He is catheterised and has a residual volume of 35 ml.
+#### Answer: 
+
+### 165
+A 46-year-old man presents with a single episode of haematuria. Flexible cystoscopy is performed in clinic, revealing normal-looking bladder and urethral mucosa.
+#### Answer: 
+
+### 166
+A 17-year-old boy presents with a left-sided scrotal swelling. A scrotal ultrasound reveals a varicocele.
+#### Answer: 
 
 ## Q38: Theme: Arterial Blood Gases (ABGs)
+
+A   Compensated metabolic acidosis
+ 
+B   Compensated metabolic alkalosis
+ 
+C   Compensated respiratory acidosis
+ 
+D   Compensated respiratory alkalosis
+ 
+E   Metabolic acidosis
+ 
+F   Metabolic alkalosis
+
+G   Respiratory acidosis
+ 
+H   Respiratory alkalosis
 
 ### 167
 #### Answer: 
