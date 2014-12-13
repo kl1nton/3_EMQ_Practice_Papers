@@ -1302,51 +1302,105 @@ G   Respiratory acidosis
 H   Respiratory alkalosis
 
 ### 167
+A 28-year-old woman with acute pancreatitis presents with severe epigastric pain and vomiting. Her blood gases are: pH 7.5; Pa(O2)13.9 kPa; Pa(CO2) 5 kPa; and bicarbonate 33 mmol/l.
 #### Answer: 
+
 ### 168
+A 52-year-old diabetic patient attends pre-admission clinic. He appears to be short of breath. His blood gases are: pH 7.31; Pa(O2) 14.8 kPa; Pa(CO2) 3 kPa; and bicarbonate 18 mmol/l.
 #### Answer: 
+
 ### 169
+A 64-year-old patient in the ICU on her first post-op day following an open aortic aneurysm repair. Her blood gases are: pH 7.31; Pa(O2) 6.6 kPa; Pa(CO2) 7.25 kPa; and bicarbonate 24 mmol/l.
 #### Answer: 
 
 ## Q39: Theme: Obstructive Jaundice
 
+A   Acute pancreatitis
+ 
+B   Biliary colic
+
+C   Carcinoma of the pancreas
+ 
+D   Cholangiocarcinoma
+ 
+E   Cholecystitis
+ 
+F   Chronic pancreatitis
+ 
+G   Sclerosing cholangitis
+ 
 ### 170
+A 72-year-old woman presents with jaundice and RUQ pain. On examination she has a palpable mass in the RUQ. Ultrasound scan of the abdomen reveals dilated ducts, but no gallstones are seen.
 #### Answer: 
 
 ### 171
+A 43-year-old presents with a 2-week history of jaundice and steatorrhoea. He has a long-term history of ulcerative colitis, which is treated currently with azathioprine.
 #### Answer: 
 
 ### 172
+A 56-year-old alcoholic presents with jaundice and recurrent episodes of severe epigastric pain radiating to the back. Liver function tests show: bilirubin 143 μmol/l, alkaline phosphatase 750 IU/l, aspartate aminotransferase 378 IU/l, gamma-glutaryl transferase 1106 IU/l. Her amylase is 121 IU/l.
 #### Answer: 
 
 ### 173
+A 33-year-old woman presents to A&E with severe RUQ pain. The pain has been coming and going for the past 2 hours. Full blood count, urea and electrolytes and liver function test results are all normal. On the consultant ward round the next morning her pain has gone and she wishes to go home.
 #### Answer: 
-
 
 ## Q40: Theme: Staging of Tumours
 
+A   Ann Arbor staging
+ 
+B   Breslow's staging
+ 
+C   Clark's staging
+ 
+D   Duke's staging
+ 
+E   Gleason's score
+ 
+F   Manchester staging
+
 ### 174
+An excised melanoma found to have a maximum depth of invasion of 6 mm.
 #### Answer: 
 
 ### 175
+A 24-year-old presents with a palpable lymph node in the anterior triangle of the neck. Fine-needle aspiration shows the presence of Reed–Sternberg cells.
 #### Answer: 
 
 ### 176
+A 73-year-old man presents with PSA of 17.6 ng/ml. A transrectal ultrasound-guided biopsy is performed.
 #### Answer: 
-
 
 ## Q41: Theme: Lower Limb Neuropathy
 
+A   Common peroneal nerve
+ 
+B   Deep peroneal nerve
+ 
+C   Saphenous nerve
+ 
+D   Sciatic nerve
+ 
+E   Superficial peroneal nerve
+ 
+F   Sural nerve
+ 
+G   Tibial nerve
+
 ### 177
+A 24-year-old woman was in a below-knee plaster cast for 6 weeks to immobilise a fracture of the distal fibula. On removal of the cast after 6 weeks, she is unable to dorsiflex or evert has no sensation on the dorsum of her foot up to the second interdigital cleft.
 #### Answer: 
 
 ### 178
+A 37-year-old woman reattends clinic following treatment of her short saphenous vein varicosities by multiple stab avulsions. She is complaining of numbness along the lateral border of the foot.
 #### Answer: 
 
 ### 179
+A 24-year-old man is involved in an RTA. He has a fracture dislocation of the left hip. Following reduction and internal fixation, he is unable to plantar-flex or dorsiflex his foot. He has no sensation below the knee except for the medial aspect of his leg and the upper medial calf.
 #### Answer: 
 
 ### 180
+A 69-year-old diabetic man complains of numbness around the medial aspect of the leg following femoro-popliteal bypass grafting using a reversed vein graft.
 #### Answer: 
 
----
+===
