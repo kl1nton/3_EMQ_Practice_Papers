@@ -334,63 +334,159 @@ I   Testicular tumour
 J   Varicocele
  
 ### 41
+A 42-year-old man presents with a non-tender right scrotal swelling which has been gradually increasing in size over several months. On examination it is fluctuant and transilluminates. It is not possible to feel the right testicle separately from the swelling, but it is possible to get above it and feel the cord as a separate structure.
 #### Answer: 
+
 ### 42
+A 65-year-old man presents with a slowly enlarging painless scrotal swelling. On examination it is fluctuant and transilluminates. It is possible to get above it on examination and feel the testis as a separate structure. The swelling is found to lie above and slightly behind the testis.
 #### Answer: 
+
 ### 43
+A 70-year-old man has a history of a long-standing ‘aching’ sensation in the right testis. On examination he has a firm craggy mass and a few discharging sinuses on the scrotal skin. Urine microscopy shows sterile pyuria.
 #### Answer: 
+
 ### 44
+A 38-year-old man presents with a left-sided scrotal swelling. On examination it is a soft, compressible swelling which does not have a cough impulse. It is not possible to get above it and it disappears on lying down.
 #### Answer: 
+
 ### 45
+A 45-year-old man presents with a right-sided scrotal swelling which increases in size on standing up. On examination it is not transilluminable and it is not possible to get above it. There is a positive cough impulse.
 #### Answer: 
+
 ### 46
+A 25-year-old man presents with a smooth, left-sided, painless scrotal swelling which is transilluminable and fluctuant. It is possible to feel the testis as a separate structure below the swelling.
 #### Answer: 
 
 ## Q10: Theme: Upper Limb Fractures
 
+A   Barton's fracture
+ 
+B   Bennett's fracture
+ 
+C   Colles’ fracture
+ 
+D   Galeazzi's fracture
+ 
+E   Monteggia's fracture
+ 
+F   Smith's fracture
+
 ### 47
+A 24-year-old woman presents with a painful left arm following an RTA. The X-ray shows a fracture of the upper third of the ulna together with an associated dislocated radial head.
 #### Answer: 
+
 ### 48
+An 84-year-old woman has a fall in the street, landing on her right hand, which appears swollen and deformed. An X-ray shows a fracture of the distal radius, which is angulated dorsally. The fracture extends intra-articularly and there is subluxation of the carpus.
 #### Answer: 
+
 ### 49
+A 76-year-old woman stumbles down the stairs at home, landing heavily on her left arm. On examination she has a deformed, bruised left wrist. An X-ray shows an extra-articular fracture of the distal radius, which is displaced volarly.
 #### Answer: 
+
 ### 50
+A 15-year-old boy is knocked off his bicycle and lands on his right arm. He presents to A&E with a swollen tender wrist. An X-ray shows a fracture of the mid-shaft of the radius and dislocation of the inferior radio-ulnar joint.
 #### Answer: 
 
 ## Q11: Theme: Staging of Colon Cancer
 
+A   Duke's A stage
+ 
+B   Duke's B stage
+ 
+C   Duke's C stage
+ 
+D   Duke's D stage
+
 ### 51
+A 68-year-old man presents with weight loss and iron-deficiency anaemia. Colonoscopy confirms a caecal mass. The specimen obtained at laparotomy shows adenocarcinoma extending through the bowel wall. All of the nine lymph nodes removed are involved.
 #### Answer: 
+
 ### 52
+A 52-year-old man presents with a history of increasingly severe constipation and rectal bleeding. He is found to have a stenosing lesion of the distal sigmoid colon. Biopsy confirms adenocarcinoma. He undergoes anterior resection and the specimen shows three out of the total seven nodes removed are involved.
 #### Answer: 
+
 ### 53
+A 25-year-old man from a family known to carry the HNPCC gene is found to have a lesion in the transverse colon at colonoscopy. Resection and histological examination of the specimen shows this to be invading the muscle layer of the bowel wall.
 #### Answer: 
 
 ## Q12: Theme: Urinary System Trauma
 
+A   Catheterisation and contrast
+ 
+B   CT scan
+ 
+C   Cystogram
+ 
+D   Retrograde uteropyelography
+ 
+E   Surgical exploration
+ 
+F   Urethrogram
+ 
 ### 54
+A 25-year-old man slips while walking along the top of a metal gate and falls, straddling the gate. On examination he is in significant pain and has butterfly pattern bruising to the perineum. There is fresh blood at the urethral meatus.
 #### Answer: 
+
 ### 55
+A 30-year-old man involved in a fight sustains a blow to the groin with a blunt instrument. On examination there is gross swelling and bruising with an area of tense swelling around the left testicle, which is becoming increasingly large and painful.
 #### Answer: 
+
 ### 56
+A 52-year-old man is mugged and stabbed with a knife in the area of the left renal angle. He complains of loin pain. Dipstick shows microscopic haematuria.
 #### Answer: 
 
 ## Q13: Theme: Preparation of Patients for Endocrine Surgery
 
+A   Bowel preparation
+ 
+B   Calcitonin infusion
+ 
+C   Corticosteroids
+ 
+D   Phenoxybenzamine and propranolol
+ 
+E   Thallium technetium scan
+ 
+F   Thyroxine
+ 
+G   Vocal cord examination
+
 ### 57
+A 28-year-old woman with Graves’ disease resistant to medical treatment is due to have a subtotal thyroidectomy for symptoms of compression.
 #### Answer: 
+
 ### 58
+A 42-year-old patient is planned to have a parathyroidectomy after presenting with raised calcium and parathyroid hormone levels with no history of renal disease.
 #### Answer: 
+
 ### 59
+A 34-year-old patient is found to have bilateral adrenal masses on CT, and suspected to have phaeochromocytoma. An adrenalectomy is planned.
 #### Answer: 
 
 ## Q14: Theme: Management of Paediatric Disorders
 
+A   Broad-spectrum antibiotics
+ 
+B   Gastrografin enema
+ 
+C   Laparotomy and duodenostomy
+ 
+D   Laparotomy and proceed
+ 
+E   Pneumatic reduction
+ 
+F   Ramstedt's pyloromyotomy
+
 ### 60
+A 40-day-old baby develops projectile vomiting approximately 20 minutes after each feed together with failure to thrive. On examination an olive-shaped mass is noted in the RUQ following feeding. Bloods show a metabolic alkalosis.
 #### Answer: 
+
 ### 61
+A 2-day-old baby known to have cystic fibrosis presents with a distended abdomen and bilious vomiting. His rectum is empty.
 #### Answer: 
+
 ### 62
+A 1-year-old infant presents with intermittent spasms of abdominal pain associated with drawing up of the legs and a small amount of rectal bleeding. A sausage-shaped mass is noted in the epigastrium. Two similar episodes in the past were treated with hydrostatic reduction.
 #### Answer: 
 
 ## Q15: Theme: Renal Stones
