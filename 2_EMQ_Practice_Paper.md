@@ -491,100 +491,280 @@ A 1-year-old infant presents with intermittent spasms of abdominal pain associat
 
 ## Q15: Theme: Renal Stones
 
+A Watch and wait
+ 
+B Extracorporeal shock-wave lithotripsy (ESWL)
+ 
+C Flexible ureteroscopy
+ 
+D Rigid ureteroscopy
+
+E Laparoscopic ureterolithotomy
+ 
+F Percutaneous nephrolithotomy (PCNL)
+ 
+G Nephrectomy
+
 ### 63
+A 54-year-old woman with a history of renal stone disease presents with a 2-month history of intermittent left loin pain. An intravenous urogram (IVU) shows a 1.5-cm stone in the left renal pelvis but no evidence of obstruction. She has a past history of ischaemic heart disease and has a 4-cm aortic aneurysm lying close to the origin of the left renal artery; this is under surveillance.
 #### Answer: 
+
 ### 64
+A 27-year-old man presents to A&E with severe right loin and groin pain and microscopic haematuria on dipstick. Pain is well controlled with NSAIDs and pethidine. An IVU confirms the presence of a 4-mm stone in the right mid-ureter region.
 #### Answer: 
+
 ### 65
+A 42-year-old man presents to A&E with severe right loin pain radiating to the groin. He is sweating profusely and vomiting, with a temperature of 38.9°C. Dipstick shows 3+ blood and 3+ leucocytes. An IVU shows a 5-mm stone in the upper right ureter and dilated calyces.
 #### Answer: 
+
 ### 66
+A 24-year-old woman develops severe loin pain with one episode of frank haematuria. She is apyrexial. An IVU shows a 1-cm calculus lying in the lower pole of the right kidney.
 #### Answer: 
+
 ### 67
+An asymptomatic 29-year-old woman undergoes an ultrasound scan which reveals a 1-cm renal calculus within a cyst.
 #### Answer: 
+
 ### 68
+A 35-year-old man with right loin to groin pain, who is apyrexial, has a 5-mm calculus in the proximal ureter on IVU.
 #### Answer: 
+
 ### 69
+A 53-year-old man presents with left loin to groin pain and haematuria. IVU reveals a 1-cm calculus in the lower pole of the right kidney.
 #### Answer: 
 
 ## Q16: Theme: Management of Thyroid Cancer
 
+A   Chemotherapy alone
+ 
+B   Lobectomy
+ 
+C   Subtotal thyroidectomy
+ 
+D   Surgery and external beam radiotherapy
+ 
+E   Total thyroidectomy and thyroxine replacement
+
 ### 70
+A 27-year-old man with history of previous neck irradiation for lymphoma presents with thyroid mass. Fine-needle aspiration reveals cells with ‘orphan Annie’ nuclei. CT shows localised disease.
 #### Answer: 
+
 ### 71
+A 90-year-old woman presents with a hard thyroid mass and a progressively hoarse voice. Cervical lymph nodes are hard and enlarged.
 #### Answer: 
+
 ### 72
+A 48-year-old patient with a family history of multiple endocrine neoplasia (MEN) syndrome presents with a thyroid mass that appears malignant but shows no evidence of spread.
 #### Answer: 
+
 ### 73
+A 57-year-old woman presents with painless thyroid swelling and weight loss. Fine-needle aspiration of the swelling indicates that it is a lymphoma.
 #### Answer: 
 
 ## Q17: Theme: Pruritus Ani
 
+A   Anal carcinoma
+ 
+B   Anal fissure
+ 
+C   Anal polyp
+ 
+D   Fistula in ano
+ 
+E   Gonorrhoea
+ 
+F   Haemorrhoids
+ 
+G   Syphilis
+
+H   Yeast infection
+
 ### 74
+A 35-year-old woman who regularly takes codeine-based analgesics for tension headaches presents with pruritus ani, rectal bleeding and severe pain following defecation.
 #### Answer: 
+
 ### 75
+A 57-year-old HIV-positive man has a history of long-standing anal intra-epithelial neoplasia (AIN) but was lost to follow-up for the past 5 years. He now presents with pruritus ani and a firm ulcerated mass at the anal margin with palpable lymph nodes.
 #### Answer: 
+
 ### 76
+A 25-year-old woman with a history of ulcerative colitis on maximum medical therapy to help control disease presents with pruritus ani. On examination the peri-anal area is red, inflamed and excoriated with a well-demarcated edge.
 #### Answer: 
+
 ### 77
+A 48-year-old man presents with a 3-month history of weight loss and intermittent fever. He also complains of itching around the anus, associated with soreness and purulent discharge.
 #### Answer: 
 
 ## Q18: Theme: Management of Venous Disease of the Lower Limb
 
+A   Debridement and compression bandaging
+ 
+B   Elevation and NSAIDs
+ 
+C   Injection sclerotherapy
+ 
+D   Sapheno-femoral ligation
+ 
+E   Split-skin graft
+ 
+F   Stab avulsions
+ 
+G   Systemic antibiotics
+ 
+H   Topical antibiotics
+
 ### 78
+A 46-year-old woman has long-standing varicose veins affecting both legs which have recently started to ache. Doppler examination shows no problem with the deep venous system. Varicosities are in the distribution of the long saphenous vein.
 #### Answer: 
+
 ### 79
+A 69-year-old woman has a history of deep vein thrombosis affecting the right leg 20 years ago. She now presents with longstanding ulcers over the right gaiter region. ABPI of both legs = 0.8. She is treated with debridement and compression dressing, but review at 12 weeks shows no improvement.
 #### Answer: 
+
 ### 80
+An 84-year-old woman with a long-standing venous ulcer of the left shin, treated with regular debridement and dressings, notices it is becoming increasingly tender. On examination the ulcer has a small amount of purulent, offensive discharge and there is surrounding cellulitis.
 #### Answer: 
+
 ### 81
+A 60-year-old woman with a 10-year history of varicose veins affecting both legs presents with an acute episode of painful thrombophlebitis.
 #### Answer: 
 
 ## Q19: Theme: Abdominal Signs
 
+A   Battle's sign
+ 
+B   Boas’ sign
+ 
+C   Cullen's sign
+ 
+D   Grey Turner's sign
+ 
+E   Murphy's sign
+ 
+F   Psoas stretch sign
+ 
+G   Rovsing's sign
+
 ### 82
+A 39-year-old man presents to A&E with severe epigastric and RUQ pain radiating through to the back, associated with nausea and vomiting. Inspection of the abdomen shows bruising around the umbilicus.
 #### Answer: 
+
 ### 83
+A 54-year-old alcoholic is found collapsed at home in a state of shock. She is unable to give a history but shouts out when her abdomen is palpated. Amylase is 3000 Somogyi U/dl, erect chest X-ray normal. A bluish discoloration is noticed around the flanks.
 #### Answer: 
+
 ### 84
+A 45-year-old woman with known gallstones presents with RUQ pain and fever and is found to have a raised WCC. On palpation of the abdomen she is found to be tender in the RUQ and this increases when she breathes in, such that it causes her to stop inspiring.
 #### Answer: 
+
 ### 85
+A 27-year-old man presents with right iliac fossa (RIF) pain, preceded by 2 days of generalised abdominal pain and associated vomiting. His WCC is raised. Palpation in the left iliac fossa (LIF) reproduces the pain in the RIF.
 #### Answer: 
 
 ## Q20: Theme: Abdominal Incisions
 
+A   Gridiron incision
+ 
+B   Kocher's incision
+ 
+C   Lanz incision
+ 
+D   Laparoscopic port incisions
+
+E   Midline incision
+ 
+F   Paramedian incision
+ 
+G   Pfannenstiel's incision
+ 
+H   Rooftop incision
+ 
+I     Rutherford–Morrison incision
+
 ### 86
+A 36-year-old woman presents with abdominal distension. A CT scan reveals a benign-looking right ovarian cyst, 5 × 5 cm. An elective excision is planned.
 #### Answer: 
+
 ### 87
+A 38-year-old alcoholic presents with severe epigastric pain. Examination reveals a rigid abdomen and no bowel sounds. Erect chest X-ray shows air under the diaphragm.
 #### Answer: 
+
 ### 88
+A 38-year-old woman who is in the second trimester of pregnancy has had multiple episodes of cholecystitis in recent months which are becoming increasingly frequent. She is to have cholecystectomy as soon as possible.
 #### Answer: 
+
 ### 89
+A 16-year-old girl presents with central abdominal pain which shifts to the right iliac fossa and is associated with nausea and diarrhoea. She has a low-grade temperature and WCC of 18 × 109/l. Examination reveals rebound tenderness and guarding in the RIF.
 #### Answer: 
+
 ### 90
+A 48-year-old woman admitted for curative surgery for carcinoma of the head of the pancreas.
 #### Answer: 
 
 ## Q21: Theme: Full Blood Count
 
+Normal values:
+ 
+- haemoglobin (Hb):
+	- women: 11.5-16.5 g/dL
+	- men: 13–18 g/dL
+- mean corpuscular volume (MCV): 78-98 fL
+- white cell count (WCC): 4-11 × 10^9/L
+	- neutrophils: 2.0–7.5 × 10^9/L
+	- eosinophils: 0.05–0.35 × 10^9/L
+- platelets: 150–400 × 10^9/L
+
+	| Hb	| MCV	| WCC	| Neutrophils	| Eosinophils	| Platelets	|
+----|------:|------:|------:|--------------:|--------------:|----------:|
+A	| 10.0	| 120 	|  9.0	| 6.0			| 0.1			| 300  
+B	|  7.0	|  80 	|  8.0	| 5.0			| 0.2			| 250
+C	|  6.0	|  60 	|  7.0	| 4.0			| 0.1			| 170
+D	| 13.6	|  90 	| 19.0	| 16.0			| 0.1			| 290
+E	| 22.0	|  87 	|  5.0	| 2.5			| 0.3			| 350
+F	| 15.0	|  89 	| 14.0	| 7.5			| 4.0			| 350
+
 ### 91
+An 18-year-old girl returns from a gap year in Africa with fever, abdominal pain and diarrhoea. Positive stool sample indicates amoebic dysentery.
 #### Answer: 
+
 ### 92
+A 67-year-old chronic alcoholic.
 #### Answer: 
+
 ### 93
+A 55-year-old woman on intravenous steroid therapy.
 #### Answer: 
+
 ### 94
+A 66-year-old man diagnosed with a friable tumour in the right colon on colonoscopy.
 #### Answer: 
+
 ### 95
+A 33-year-old man known to have hereditary elliptocytosis (haemolytic anaemia).
 #### Answer: 
+
 ### 96
+A 75-year-old hypertensive man with a diagnosis of polycythaemia rubra vera.
 #### Answer: 
 
 ## Q22: Theme: Salivary Glands
 
+A   Parotid gland
+ 
+B   Sublingual gland
+ 
+C   Submandibular gland
+
 ### 97
+The facial nerve runs through this gland and its blood supply comes from a branch of the external carotid artery. Of tumours arising in this gland, 80% are benign.
 #### Answer: 
+
 ### 98
+This gland secretes mucous and serous saliva. Secretomotor fibres come from the parasympathetic system which hitch-hike along with the chorda tympani and lingual nerve.
 #### Answer: 
+
 ### 99
+This gland is divided into deep and superficial parts by the posterior border of the mylohyoid muscle. Blood supply comes from the facial artery and vein.
 #### Answer: 
 
 ## Q23: Theme: Management of Hernias
