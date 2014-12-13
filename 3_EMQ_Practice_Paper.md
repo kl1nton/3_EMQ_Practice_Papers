@@ -1,7 +1,14 @@
 EMQ Practice Paper: 3
 =====================
 
-## Theme: Obstruction
+Group	| Score			| Errors 					|
+--------|---------------|---------------------------|
+1		| 
+
+Overall: ??/??? = ??.0%
+
+
+## Q1: Theme: Obstruction
 
 ### 1
 #### Answer: 
@@ -12,7 +19,7 @@ EMQ Practice Paper: 3
 ### 4
 #### Answer: 
 
-## Theme: Investigation of Renal Trauma
+## Q2: Theme: Investigation of Renal Trauma
 
 ### 5
 #### Answer: 
@@ -23,7 +30,7 @@ EMQ Practice Paper: 3
 ### 8
 #### Answer: 
 
-## Theme: Burns
+## Q3: Theme: Burns
 
 ### 9
 #### Answer: 
@@ -34,7 +41,7 @@ EMQ Practice Paper: 3
 ### 12
 #### Answer: 
 
-## Theme: Statistics
+## Q4: Theme: Statistics
 
 ### 13
 #### Answer: 
@@ -43,7 +50,7 @@ EMQ Practice Paper: 3
 ### 15
 #### Answer: 
 
-## Theme: Drains
+## Q5: Theme: Drains
 
 ### 16
 #### Answer: 
@@ -56,7 +63,7 @@ EMQ Practice Paper: 3
 ### 20
 #### Answer: 
 
-## Theme: Fracture Classifications
+## Q6: Theme: Fracture Classifications
 
 ### 21
 #### Answer: 
@@ -67,7 +74,7 @@ EMQ Practice Paper: 3
 ### 24
 #### Answer: 
 
-## Theme: Local Anaesthetics
+## Q7: Theme: Local Anaesthetics
 
 ### 25
 #### Answer: 
@@ -80,7 +87,7 @@ EMQ Practice Paper: 3
 ### 29
 #### Answer: 
 
-## Theme: Treatment of Fractures
+## Q8: Theme: Treatment of Fractures
 
 ### 30
 #### Answer: 
@@ -91,7 +98,7 @@ EMQ Practice Paper: 3
 ### 33
 #### Answer: 
 
-## Theme: The Limping Child
+## Q9: Theme: The Limping Child
 
 ### 34
 #### Answer: 
@@ -102,7 +109,7 @@ EMQ Practice Paper: 3
 ### 37
 #### Answer: 
 
-## Theme: Fractured Neck of Femur
+## Q10: Theme: Fractured Neck of Femur
 
 ### 38
 #### Answer: 
@@ -115,7 +122,7 @@ EMQ Practice Paper: 3
 ### 42
 #### Answer: 
 
-## Theme: Ischaemic Limbs
+## Q11: Theme: Ischaemic Limbs
 
 ### 43
 #### Answer: 
@@ -126,7 +133,7 @@ EMQ Practice Paper: 3
 ### 46
 #### Answer: 
 
-## Theme: Abdominal Aortic Aneuryms (AAA)
+## Q12: Theme: Abdominal Aortic Aneuryms (AAA)
 
 ### 47
 #### Answer: 
@@ -137,7 +144,7 @@ EMQ Practice Paper: 3
 ### 50
 #### Answer: 
 
-## Theme: Carotid Artery Disease
+## Q13: Theme: Carotid Artery Disease
 
 ### 51
 #### Answer: 
@@ -148,7 +155,7 @@ EMQ Practice Paper: 3
 ### 54
 #### Answer: 
 
-## Theme: Head Injuries
+## Q14: Theme: Head Injuries
 
 ### 55
 #### Answer: 
@@ -159,7 +166,7 @@ EMQ Practice Paper: 3
 ### 58
 #### Answer: 
 
-## Theme: Blood Gas Analysis
+## Q15: Theme: Blood Gas Analysis
 
 ### 59
 #### Answer: 
@@ -170,7 +177,7 @@ EMQ Practice Paper: 3
 ### 62
 #### Answer: 
 
-## Theme: Consent
+## Q16: Theme: Consent
 
 ### 63
 #### Answer: 
@@ -181,7 +188,7 @@ EMQ Practice Paper: 3
 ### 66
 #### Answer: 
 
-## Theme: Scrotal Swellings
+## Q17: Theme: Scrotal Swellings
 
 ### 67
 #### Answer: 
@@ -194,7 +201,7 @@ EMQ Practice Paper: 3
 ### 71
 #### Answer: 
 
-## Theme: Tumour Markers
+## Q18: Theme: Tumour Markers
 
 ### 72
 #### Answer: 
@@ -209,7 +216,7 @@ EMQ Practice Paper: 3
 ### 77
 #### Answer: 
 
-## Theme: Congenital Gastrointestinal Anomalies
+## Q19: Theme: Congenital Gastrointestinal Anomalies
 
 ### 78
 #### Answer: 
@@ -222,7 +229,7 @@ EMQ Practice Paper: 3
 ### 82
 #### Answer: 
 
-## Theme: Treatment of Gallstones
+## Q20: Theme: Treatment of Gallstones
 
 ### 83
 #### Answer: 
@@ -231,7 +238,7 @@ EMQ Practice Paper: 3
 ### 85
 #### Answer: 
 
-## Theme: Chest Injuries
+## Q21: Theme: Chest Injuries
 
 ### 86
 #### Answer: 
@@ -250,7 +257,7 @@ EMQ Practice Paper: 3
 ### 93
 #### Answer: 
 
-## Theme: Sterilisation
+## Q22: Theme: Sterilisation
 
 ### 94
 #### Answer: 
@@ -261,7 +268,7 @@ EMQ Practice Paper: 3
 ### 97
 #### Answer: 
 
-## Theme: Tourniquets
+## Q23: Theme: Tourniquets
 
 ### 98
 #### Answer: 
@@ -270,7 +277,7 @@ EMQ Practice Paper: 3
 ### 100
 #### Answer: 
 
-## Theme: Biopsy Techniques
+## Q24: Theme: Biopsy Techniques
 
 ### 101
 #### Answer: 
@@ -281,7 +288,7 @@ EMQ Practice Paper: 3
 ### 104
 #### Answer: 
 
-## Theme: Parotid Swellings
+## Q25: Theme: Parotid Swellings
 
 ### 105
 #### Answer: 
@@ -300,7 +307,7 @@ EMQ Practice Paper: 3
 ### 112
 #### Answer: 
 
-## Theme: Joint Infections
+## Q26: Theme: Joint Infections
 
 ### 113
 #### Answer: 
@@ -309,7 +316,7 @@ EMQ Practice Paper: 3
 ### 115
 #### Answer: 
 
-## Theme: Suture Materials
+## Q27: Theme: Suture Materials
 
 ### 116
 #### Answer: 
@@ -322,7 +329,7 @@ EMQ Practice Paper: 3
 ### 1120
 #### Answer: 
 
-## Theme: Multiple Endocrine Neoplasia (MEN)
+## Q28: Theme: Multiple Endocrine Neoplasia (MEN)
 
 ### 121
 #### Answer: 
@@ -333,7 +340,7 @@ EMQ Practice Paper: 3
 ### 124
 #### Answer: 
 
-## Theme: Types of Graft
+## Q29: Theme: Types of Graft
 
 ### 125
 #### Answer: 
@@ -344,7 +351,7 @@ EMQ Practice Paper: 3
 ### 128
 #### Answer: 
 
-## Theme: Upper Gastrointestinal Haemorrhage
+## Q30: Theme: Upper Gastrointestinal Haemorrhage
 
 ### 129
 #### Answer: 
@@ -357,7 +364,7 @@ EMQ Practice Paper: 3
 ### 133
 #### Answer: 
 
-## Theme: Lower Gastrointestinal haemorrhage
+## Q31: Theme: Lower Gastrointestinal haemorrhage
 
 ### 134
 #### Answer: 
@@ -370,7 +377,7 @@ EMQ Practice Paper: 3
 ### 138
 #### Answer: 
 
-## Theme: Fluids
+## Q32: Theme: Fluids
 
 ### 139
 #### Answer: 
@@ -383,7 +390,7 @@ EMQ Practice Paper: 3
 ### 143
 #### Answer: 
 
-## Theme: Hypovolaemic Shock
+## Q33: Theme: Hypovolaemic Shock
 
 ### 144
 #### Answer: 
@@ -392,7 +399,7 @@ EMQ Practice Paper: 3
 ### 146
 #### Answer: 
 
-## Theme: Nutritional Support
+## Q34: Theme: Nutritional Support
 
 ### 147
 #### Answer: 
@@ -403,7 +410,7 @@ EMQ Practice Paper: 3
 ### 150
 #### Answer: 
 
-## Theme: Thyroid Neoplasms
+## Q35: Theme: Thyroid Neoplasms
 
 ### 151
 #### Answer: 
@@ -412,7 +419,7 @@ EMQ Practice Paper: 3
 ### 153
 #### Answer: 
 
-## Theme: Nipple Discharge
+## Q36: Theme: Nipple Discharge
 
 ### 154
 #### Answer: 
@@ -423,7 +430,7 @@ EMQ Practice Paper: 3
 ### 157
 #### Answer: 
 
-## Theme: Shoulder Pain
+## Q37: Theme: Shoulder Pain
 
 ### 158
 #### Answer: 
@@ -432,7 +439,7 @@ EMQ Practice Paper: 3
 ### 160
 #### Answer: 
 
-## Theme: ASA Grading - Classification fo Physical Status
+## Q38: Theme: ASA Grading - Classification fo Physical Status
 
 ### 161
 #### Answer: 
@@ -445,14 +452,14 @@ EMQ Practice Paper: 3
 ### 165
 #### Answer: 
 
-## Theme: Staging of Transitional Cell Carcinoma of the Bladder
+## Q39: Theme: Staging of Transitional Cell Carcinoma of the Bladder
 
 ### 166
 #### Answer: 
 ### 167
 #### Answer: 
 
-## Theme: Polyps
+## Q40: Theme: Polyps
 
 ### 168
 #### Answer: 
@@ -461,14 +468,14 @@ EMQ Practice Paper: 3
 ### 170
 #### Answer: 
 
-## Theme: Radiological Appearances
+## Q41: Theme: Radiological Appearances
 
 ### 171
 #### Answer: 
 ### 172
 #### Answer: 
 
-## Theme: Peripheral Nerve Injury
+## Q42: Theme: Peripheral Nerve Injury
 
 ### 173
 #### Answer: 
