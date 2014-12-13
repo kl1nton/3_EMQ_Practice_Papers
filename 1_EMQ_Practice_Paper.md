@@ -1,7 +1,14 @@
 EMQ Practice Paper: 1
 =====================
 
-## Theme: Diathermy
+Group	| Score			| Errors 					|
+--------|---------------|---------------------------|
+1		| 
+
+Overall: ??/??? = ??.0%
+
+
+## Q1: Theme: Diathermy
 
 	A. Monopolar diathermy
 	B. Bipolar diathermy 
@@ -20,7 +27,7 @@ EMQ Practice Paper: 1
 ### 5
 #### Answer: 
 
-## Theme: Extensor Compartments of the Wrist
+## Q2: Theme: Extensor Compartments of the Wrist
 
 	A. I
 	B. II
@@ -36,7 +43,7 @@ EMQ Practice Paper: 1
 ### 8
 #### Answer: 
 
-## Theme: Sepsis
+## Q3: Theme: Sepsis
 
 	A. Bacteraemia
 	B. Systemic inflammatory response 	syndrome (_to sepsis_; SIRS)
@@ -53,7 +60,7 @@ EMQ Practice Paper: 1
 ### 12
 #### Answer: 
 
-## Theme: Facial Nerve Palsies (CN VII)
+## Q4: Theme: Facial Nerve Palsies (CN VII)
 
 	A. Multiple sclerosis (MS)
 	B. Acoustic neuroma
@@ -80,7 +87,7 @@ EMQ Practice Paper: 1
 ### 18
 #### Answer: 
 
-## Theme: Anaesthetic Agents
+## Q5: Theme: Anaesthetic Agents
 
 	A. Thiopentone sodium
 	B. Propofol
@@ -100,7 +107,7 @@ EMQ Practice Paper: 1
 ### 22
 #### Answer: 
 
-## Theme: Flexor Tendon Injuries
+## Q6: Theme: Flexor Tendon Injuries
 
 	A. Zone 1
 	B. Zone 2
@@ -115,7 +122,7 @@ EMQ Practice Paper: 1
 ### 25
 #### Answer: 
 
-## Theme: Day-Case Surgery
+## Q7: Theme: Day-Case Surgery
 
 	A. Suitable for day-case surgery
 	B. Unsuitable for day-case surgery
@@ -127,7 +134,7 @@ EMQ Practice Paper: 1
 ### 28
 #### Answer: 
 
-## Theme: Urinary System Trauma
+## Q8: Theme: Urinary System Trauma
 
 	A. Class I
 	B. Class II
@@ -142,7 +149,7 @@ EMQ Practice Paper: 1
 ### 31
 #### Answer: 
 
-## Theme: Burns
+## Q9: Theme: Burns
 
 	A. 10,800 mL
 	B. 5,400 mL
@@ -160,7 +167,7 @@ EMQ Practice Paper: 1
 ### 35
 #### Answer: 
 	
-## Theme: Anti-Emetics
+## Q10: Theme: Anti-Emetics
 
 	A. Cyclizine
 	B. Metoclopromide
@@ -177,7 +184,7 @@ EMQ Practice Paper: 1
 ### 39
 #### Answer: 
 
-## Theme: Surgical Incisions
+## Q11: Theme: Surgical Incisions
 
 	A. Lanz
 	B. Kocher's
@@ -196,7 +203,7 @@ EMQ Practice Paper: 1
 ### 43
 #### Answer: 
 
-## Theme: Anatomical Relations
+## Q12: Theme: Anatomical Relations
 
 	A. Artery
 	B. Nerve
@@ -211,7 +218,7 @@ EMQ Practice Paper: 1
 ### 47
 #### Answer: 
 
-## Theme: Urinary Tract Infections
+## Q13: Theme: Urinary Tract Infections
 
 	A. Chlamydia
 	B. Escherichia coli
@@ -228,7 +235,7 @@ EMQ Practice Paper: 1
 ### 50
 #### Answer: 
 
-## Theme: Dysphagia
+## Q14: Theme: Dysphagia
 
 	A. Achalasia
 	B. Barrett's Oesophagus
@@ -246,7 +253,7 @@ EMQ Practice Paper: 1
 ### 53
 #### Answer: 
 
-## Theme: Incontinence
+## Q15: Theme: Incontinence
 
 	A. Bladder instability
 	B. Bladder outlet obstruction
@@ -266,7 +273,7 @@ EMQ Practice Paper: 1
 ### 58
 #### Answer: 
 
-## Theme: Pre-Operative Investigations
+## Q16: Theme: Pre-Operative Investigations
 
 	A. Electrocardiogram (ECG)
 	B. ECG + Full Blood Count (FBC)
@@ -288,7 +295,7 @@ EMQ Practice Paper: 1
 ### 64
 #### Answer: 
 
-## Theme: Treatment of Ulcers
+## Q17: Theme: Treatment of Ulcers
 
 	A. Compression bandaging
 	B. Debridement
@@ -307,7 +314,7 @@ EMQ Practice Paper: 1
 ### 69
 #### Answer: 
 
-## Theme: Surgically Important Organisms
+## Q18: Theme: Surgically Important Organisms
 
 	A. Acinetobacter
 	B. Bacteroides fragilis
@@ -329,7 +336,7 @@ EMQ Practice Paper: 1
 ### 74
 #### Answer: 
 
-## Theme: Cord Lesions
+## Q19: Theme: Cord Lesions
 
 	A. Anterior cord syndrome
 	B. Brown-Sequard syndrome
@@ -346,7 +353,7 @@ EMQ Practice Paper: 1
 ### 78
 #### Answer: 
 
-## Theme: Benign Ano-Rectal Conditions
+## Q20: Theme: Benign Ano-Rectal Conditions
 
 	A. Delorme's procedure
 	B. Diltiazem ointment
@@ -366,7 +373,7 @@ EMQ Practice Paper: 1
 ### 82
 #### Answer: 
 
-## Theme: Pain in the Right Upper Quadrant (RUQ)
+## Q21: Theme: Pain in the Right Upper Quadrant (RUQ)
 
 	A.
 	B.
@@ -390,7 +397,7 @@ EMQ Practice Paper: 1
 ### 87
 #### Answer: 
 
-## Theme: Ventilators
+## Q22: Theme: Ventilators
 	
 	A.
 	B.
@@ -409,7 +416,7 @@ EMQ Practice Paper: 1
 ### 91
 #### Answer: 
 
-## Theme: Management of Chest Trauma
+## Q23: Theme: Management of Chest Trauma
 
 	A. 
 	B.
@@ -428,7 +435,7 @@ EMQ Practice Paper: 1
 ### 94
 #### Answer: 
 
-## Theme: Carcinogens
+## Q24: Theme: Carcinogens
 
 	A.
 	B.
@@ -452,7 +459,7 @@ EMQ Practice Paper: 1
 ### 100
 #### Answer: 
 
-## Theme: Inotropes
+## Q25: Theme: Inotropes
 
 	A.
 	B.
@@ -469,7 +476,7 @@ EMQ Practice Paper: 1
 ### 104
 #### Answer: 
 
-## Theme: Scrotal Swellings
+## Q26: Theme: Scrotal Swellings
 
 	A.
 	B.
@@ -487,7 +494,7 @@ EMQ Practice Paper: 1
 ### 107
 #### Answer: 
 
-## Theme: Trauma
+## Q27: Theme: Trauma
 
 	A.
 	B.
@@ -503,7 +510,7 @@ EMQ Practice Paper: 1
 ### 110
 #### Answer: 
 
-## Theme: Local Anaesthetics
+## Q28: Theme: Local Anaesthetics
 
 	A.
 	B.
@@ -523,7 +530,7 @@ EMQ Practice Paper: 1
 ### 114
 #### Answer: 
 
-## Theme: Chemotherapy
+## Q29: Theme: Chemotherapy
 
 	A.
 	B.
@@ -536,7 +543,7 @@ EMQ Practice Paper: 1
 ### 117
 #### Answer: 
 
-## Theme: Diagnosis of Endocrine Disorders
+## Q30: Theme: Diagnosis of Endocrine Disorders
 
 	A.
 	B.
@@ -557,7 +564,7 @@ EMQ Practice Paper: 1
 ### 122
 #### Answer: 
 
-## Theme: Terms Used for Disorders of Growth and Differentiation
+## Q31: Theme: Terms Used for Disorders of Growth and Differentiation
 
 	A.
 	B.
@@ -577,7 +584,7 @@ EMQ Practice Paper: 1
 ### 126
 #### Answer: 
 
-## Theme: Conditions Caused by Microbes
+## Q32: Theme: Conditions Caused by Microbes
 
 	A.
 	B.
@@ -601,7 +608,7 @@ EMQ Practice Paper: 1
 ### 132
 #### Answer: 
 
-## Theme: Hypersensitivity Reactions
+## Q33: Theme: Hypersensitivity Reactions
 
 	A.
 	B.
@@ -621,7 +628,7 @@ EMQ Practice Paper: 1
 ### 138
 #### Answer: 
 
-## Theme: Glasgow Coma Scale Scores
+## Q34: Theme: Glasgow Coma Scale Scores
 
 	A.
 	B.
@@ -640,7 +647,7 @@ EMQ Practice Paper: 1
 ### 142
 #### Answer: 
 
-## Theme: Management of Transitional Cell Carcinoma of the Bladder
+## Q35: Theme: Management of Transitional Cell Carcinoma of the Bladder
 
 	A.
 	B.
@@ -656,7 +663,7 @@ EMQ Practice Paper: 1
 ### 144
 #### Answer: 
 
-## Theme: Haemorrhagic Shock
+## Q36: Theme: Haemorrhagic Shock
 
 	A.
 	B.
@@ -670,7 +677,7 @@ EMQ Practice Paper: 1
 ### 147
 #### Answer: 
 
-## Theme: Management of Thyroid Disease
+## Q37: Theme: Management of Thyroid Disease
 
 	A. 
 	B.
@@ -690,7 +697,7 @@ EMQ Practice Paper: 1
 ### 151
 #### Answer: 
 
-## Theme: Causes of Jaundice
+## Q38: Theme: Causes of Jaundice
 
 	A.
 	B.
@@ -706,7 +713,7 @@ EMQ Practice Paper: 1
 ### 154
 #### Answer: 
 
-## Theme: Knee Injuries
+## Q39: Theme: Knee Injuries
 
 	A.
 	B.
@@ -720,7 +727,7 @@ EMQ Practice Paper: 1
 ### 156
 #### Answer: 
 
-## Theme: Treatment of Prostate Cancer
+## Q40: Theme: Treatment of Prostate Cancer
 
 	A.
 	B.
@@ -735,7 +742,7 @@ EMQ Practice Paper: 1
 ### 159
 #### Answer: 
 
-## Theme: Management of Ankle Injuries
+## Q41: Theme: Management of Ankle Injuries
 
 	A.
 	B.
@@ -750,7 +757,7 @@ EMQ Practice Paper: 1
 ### 162
 #### Answer: 
 
-## Theme: Complications of Colorectal Cancer
+## Q42: Theme: Complications of Colorectal Cancer
 
 	A.
 	B.
@@ -766,7 +773,7 @@ EMQ Practice Paper: 1
 ### 165
 #### Answer: 
 
-## Theme: Abnormalities of Calcium Balance
+## Q43: Theme: Abnormalities of Calcium Balance
 
 	A.
 	B.
@@ -782,7 +789,7 @@ EMQ Practice Paper: 1
 ### 168
 #### Answer: 
 
-## Theme: Management of Benign Prostatic Hyperplasia
+## Q44: Theme: Management of Benign Prostatic Hyperplasia
 
 	A.
 	B.
@@ -801,7 +808,7 @@ EMQ Practice Paper: 1
 ### 171
 #### Answer: 
 
-## Theme: Wound Complications
+## Q45: Theme: Wound Complications
 
 	A.
 	B.
@@ -817,7 +824,7 @@ EMQ Practice Paper: 1
 ### 174
 #### Answer: 
 
-## Theme: Management of Hernias
+## Q46: Theme: Management of Hernias
 
 	A.
 	B.
@@ -835,7 +842,7 @@ EMQ Practice Paper: 1
 ### 177
 #### Answer: 
 
-## Theme: Treatment of Urinary Tract Infections
+## Q47: Theme: Treatment of Urinary Tract Infections
 
 	A.
 	B.
@@ -852,7 +859,7 @@ EMQ Practice Paper: 1
 ### 180
 #### Answer: 
 
-## Theme: Post-Operative Critical Care
+## Q48: Theme: Post-Operative Critical Care
 
 	A.
 	B.
@@ -869,7 +876,7 @@ EMQ Practice Paper: 1
 ### 183
 #### Answer: 
 
-## Theme: Skin Lesions
+## Q49: Theme: Skin Lesions
 
 	A.
 	B.
