@@ -1185,79 +1185,96 @@ A patient who is 5 days post-op following appendicectomy develops low-grade pyre
 
 ## Q46: Theme: Management of Hernias
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
-
+	A. Conservative management
+	B. Laparoscopic repair
+	C. Mayo's operation ‘vest over pants’
+	D. Mesh repair
+	E. Repair via crural (Lockwood) approach
+	F. Repair via high inguinal (Lotheissen) approach
+	G. Resection of bowel, anatomosis and repair of abdominal wall defect
+	H. Shouldice repair
+ 
 ### 175
+A 1-year-old infant of African origin has had an umbilical hernia since birth. He is asymptomatic.
 #### Answer: 
+
 ### 176
+A 38-year-old man presents to the outpatients department with a femoral hernia which is non-tender and with no evidence of strangulation or obstruction. He wants to have it repaired.
 #### Answer: 
+
 ### 177
+A fit and well 32-year-old man develops bilateral inguinal hernias which are increasing in size and becoming unsightly. He has not had any abdominal surgery previously.
 #### Answer: 
 
 ## Q47: Theme: Treatment of Urinary Tract Infections
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
+	A. Aciclovir
+	B. Fluconazole
+	C. Intravenous co-amoxiclav (Augmentin)
+	D. Metronidazole
+	E. Mitomycin
+	F. Oral ciprofloxacin
+	G. Rifampicin
 
 ### 178
+A 24-year-old woman presents with a several-month history of recurrent urinary tract infections (UTIs), recent night sweats and weight loss. Mid-stream urine shows many white blood cells but fails to grow any bacteria. She spent her childhood in Bangladesh.
 #### Answer: 
+
 ### 179
+A 47-year-old diabetic woman presents with dysuria, frequency and urgency. The urine is cloudy and smells offensive and is positive for nitrites and leucocytes on urine dipstick. She is systemically well.
 #### Answer: 
+
 ### 180
+A 52-year-old man presents to A&E with a 2-day history of feeling generally unwell. Over the last 12 hours he has developed right loin pain and rigors and has a temperature of 39°C. Urine dipstick is positive for nitrites.
 #### Answer: 
 
 ## Q48: Theme: Post-Operative Critical Care
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Anaphylactic shock
+	B. Cardiogenic shock
+	C. Hypovolaemic shock
+	D. Neurogenic shock
+	E. Septic shock
 
 ### 181
+A post-operative patient in ICU has a pulse of 112/min, central venous pressure (CVP) 1 mmHg, cardiac output 4 l/min, and stroke volume 50 ml.
 #### Answer: 
 
 ### 182
+A post-operative patient in ICU has: pulse 40/min, CVP 4 mmHg, cardiac output 3 l/min, and stroke volume 80 ml.
 #### Answer: 
 
 ### 183
+A post-operative patient in ICU has: pulse 109/min, CVP 5 mmHg, cardiac output 6 l/min, and stroke volume 40 ml.
 #### Answer: 
 
 ## Q49: Theme: Skin Lesions
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
-	I.
-	J.
+	A. Basal cell carcinoma
+	B. Bowen's disease
+	C. Kaposi's sarcoma
+	D. Keratoacanthoma
+	E. Lentigo maligna
+	F. Malignant melanoma
+	G. Seborrhoeic warts
+	H. Skin tag
+	I. Solar keratosis
+	J. Squamous cell carcinoma
 
 ### 184
+A 64-year-old man presents with a circumscribed scaly plaque approximately 4 cm in diameter on the right calf. Histological examination shows full-thickness epidermal dysplasia.
 #### Answer: 
 
 ### 185
+A 52-year-old man presents with an irregularly pigmented plaque on the left cheek, which has been increasing in size and was initially uniformly pigmented.
 #### Answer: 
 
 ### 186
+An 84-year-old man presents with an enlarging painless ulcer with everted edges on the back of his neck. It has been bleeding intermittently.
 #### Answer: 
 
 ### 187
+A 65-year-old woman presents with a 1-month history of an ulcer over the angle of the mandible with a rolled pearly edge.
 #### Answer: 
 
----
+===
