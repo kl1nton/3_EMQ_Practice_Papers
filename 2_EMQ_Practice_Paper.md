@@ -1,7 +1,14 @@
 EMQ Practice Paper: 2
 =====================
 
-## Theme: Wound Closure
+Group	| Score			| Errors 					|
+--------|---------------|---------------------------|
+1		| 
+
+Overall: ??/??? = ??.0%
+
+
+## Q1: Theme: Wound Closure
 
 ### 1
 #### Answer: 
@@ -16,7 +23,7 @@ EMQ Practice Paper: 2
 ### 6
 #### Answer: 
 
-## Theme: Cardiac Murmurs
+## Q2: Theme: Cardiac Murmurs
 
 ### 7
 #### Answer: 
@@ -29,7 +36,7 @@ EMQ Practice Paper: 2
 ### 11
 #### Answer: 
 
-## Theme: Treatment of Testicular Tumours
+## Q3: Theme: Treatment of Testicular Tumours
 
 ### 12
 #### Answer: 
@@ -38,7 +45,7 @@ EMQ Practice Paper: 2
 ### 14
 #### Answer: 
 
-## Theme: Types of Hernia
+## Q4: Theme: Types of Hernia
 
 ### 15
 #### Answer: 
@@ -55,7 +62,7 @@ EMQ Practice Paper: 2
 ### 21
 #### Answer: 
 
-## Theme: Bone Tumours
+## Q5: Theme: Bone Tumours
 
 ### 22
 #### Answer: 
@@ -66,7 +73,7 @@ EMQ Practice Paper: 2
 ### 25
 #### Answer: 
 
-## Theme: Management of Acute Ischaemia
+## Q6: Theme: Management of Acute Ischaemia
 
 ### 26
 #### Answer: 
@@ -77,7 +84,7 @@ EMQ Practice Paper: 2
 ### 29
 #### Answer: 
 
-## Theme: Neck Lumps
+## Q7: Theme: Neck Lumps
 
 ### 30
 #### Answer: 
@@ -92,7 +99,7 @@ EMQ Practice Paper: 2
 ### 35
 #### Answer: 
 
-## Theme: Surgical Management of Inflammatory Bowel Disease
+## Q8: Theme: Surgical Management of Inflammatory Bowel Disease
 
 ### 36
 #### Answer: 
@@ -105,7 +112,7 @@ EMQ Practice Paper: 2
 ### 40
 #### Answer: 
 
-## Theme: Scrotal Swellings
+## Q9: Theme: Scrotal Swellings
 
 ### 41
 #### Answer: 
@@ -120,7 +127,7 @@ EMQ Practice Paper: 2
 ### 46
 #### Answer: 
 
-## Theme: Upper Limb Fractures
+## Q10: Theme: Upper Limb Fractures
 
 ### 47
 #### Answer: 
@@ -131,7 +138,7 @@ EMQ Practice Paper: 2
 ### 50
 #### Answer: 
 
-## Theme: Staging of Colon Cancer
+## Q11: Theme: Staging of Colon Cancer
 
 ### 51
 #### Answer: 
@@ -140,7 +147,7 @@ EMQ Practice Paper: 2
 ### 53
 #### Answer: 
 
-## Theme: Urinary System Trauma
+## Q12: Theme: Urinary System Trauma
 
 ### 54
 #### Answer: 
@@ -149,8 +156,7 @@ EMQ Practice Paper: 2
 ### 56
 #### Answer: 
 
-
-## Theme: Preparation of Patients for Endocrine Surgery
+## Q13: Theme: Preparation of Patients for Endocrine Surgery
 
 ### 57
 #### Answer: 
@@ -159,7 +165,7 @@ EMQ Practice Paper: 2
 ### 59
 #### Answer: 
 
-## Theme: Management of Paediatric Disorders
+## Q14: Theme: Management of Paediatric Disorders
 
 ### 60
 #### Answer: 
@@ -168,7 +174,7 @@ EMQ Practice Paper: 2
 ### 62
 #### Answer: 
 
-## Theme: Renal Stones
+## Q15: Theme: Renal Stones
 
 ### 63
 #### Answer: 
@@ -185,7 +191,7 @@ EMQ Practice Paper: 2
 ### 69
 #### Answer: 
 
-## Theme: Management of Thyroid Cancer
+## Q16: Theme: Management of Thyroid Cancer
 
 ### 70
 #### Answer: 
@@ -196,7 +202,7 @@ EMQ Practice Paper: 2
 ### 73
 #### Answer: 
 
-## Theme: Pruritus Ani
+## Q17: Theme: Pruritus Ani
 
 ### 74
 #### Answer: 
@@ -207,7 +213,7 @@ EMQ Practice Paper: 2
 ### 77
 #### Answer: 
 
-## Theme: Management of Venous Disease of the Lower Limb
+## Q18: Theme: Management of Venous Disease of the Lower Limb
 
 ### 78
 #### Answer: 
@@ -218,8 +224,7 @@ EMQ Practice Paper: 2
 ### 81
 #### Answer: 
 
-
-## Theme: Abdominal Signs
+## Q19: Theme: Abdominal Signs
 
 ### 82
 #### Answer: 
@@ -230,8 +235,7 @@ EMQ Practice Paper: 2
 ### 85
 #### Answer: 
 
-
-## Theme: Abdominal Incisions
+## Q20: Theme: Abdominal Incisions
 
 ### 86
 #### Answer: 
@@ -244,7 +248,7 @@ EMQ Practice Paper: 2
 ### 90
 #### Answer: 
 
-## Theme: Full Blood Count
+## Q21: Theme: Full Blood Count
 
 ### 91
 #### Answer: 
@@ -259,7 +263,7 @@ EMQ Practice Paper: 2
 ### 96
 #### Answer: 
 
-## Theme: Salivary Glands
+## Q22: Theme: Salivary Glands
 
 ### 97
 #### Answer: 
@@ -268,7 +272,7 @@ EMQ Practice Paper: 2
 ### 99
 #### Answer: 
 
-## Theme: Management of Hernias
+## Q23: Theme: Management of Hernias
 
 ### 100
 #### Answer: 
@@ -284,7 +288,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Statistics
+## Q24: Theme: Statistics
 
 ### 106
 #### Answer: 
@@ -295,7 +299,7 @@ EMQ Practice Paper: 2
 ### 109
 #### Answer: 
 
-## Theme: Pancreatic Tumours
+## Q25: Theme: Pancreatic Tumours
 
 ### 110
 #### Answer: 
@@ -308,15 +312,14 @@ EMQ Practice Paper: 2
 ### 114
 #### Answer: 
 
-## Theme: Breast Investigations
+## Q26: Theme: Breast Investigations
 
 ### 115
 #### Answer: 
 ### 116
 #### Answer: 
 
-
-## Theme: Intravenous Fluids
+## Q27: Theme: Intravenous Fluids
 
 ### 117
 #### Answer: 
@@ -329,8 +332,7 @@ EMQ Practice Paper: 2
 ### 121
 #### Answer: 
 
-
-## Theme: Specific Tests
+## Q28: Theme: Specific Tests
 
 ### 122
 #### Answer: 
@@ -339,7 +341,7 @@ EMQ Practice Paper: 2
 ### 124
 #### Answer: 
 
-## Theme: Calculi
+## Q29: Theme: Calculi
 
 ### 125
 #### Answer: 
@@ -348,7 +350,7 @@ EMQ Practice Paper: 2
 ### 127
 #### Answer: 
 
-## Theme: Types of Ulcer
+## Q30: Theme: Types of Ulcer
 
 ### 128
 #### Answer: 
@@ -360,7 +362,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Skin Lesions
+## Q31: Theme: Skin Lesions
 
 ### 132
 #### Answer: 
@@ -375,7 +377,7 @@ EMQ Practice Paper: 2
 ### 137
 #### Answer: 
 
-## Theme: Airway Management
+## Q32: Theme: Airway Management
 
 ### 138
 #### Answer: 
@@ -389,7 +391,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Colorectal Carcinoma Procedures
+## Q33: Theme: Colorectal Carcinoma Procedures
 
 ### 143
 #### Answer: 
@@ -411,7 +413,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: The Limping Child
+## Q34: Theme: The Limping Child
 
 ### 152
 #### Answer: 
@@ -423,7 +425,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Sterilisation
+## Q35: Theme: Sterilisation
 
 ### 156
 #### Answer: 
@@ -433,7 +435,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Consent
+## Q36: Theme: Consent
 
 ### 159
 #### Answer: 
@@ -445,7 +447,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Urological Investigations
+## Q37: Theme: Urological Investigations
 
 ### 163
 #### Answer: 
@@ -457,7 +459,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Arterial Blood Gases (ABGs)
+## Q38: Theme: Arterial Blood Gases (ABGs)
 
 ### 167
 #### Answer: 
@@ -466,7 +468,7 @@ EMQ Practice Paper: 2
 ### 169
 #### Answer: 
 
-## Theme: Obstructive Jaundice
+## Q39: Theme: Obstructive Jaundice
 
 ### 170
 #### Answer: 
@@ -481,7 +483,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Staging of Tumours
+## Q40: Theme: Staging of Tumours
 
 ### 174
 #### Answer: 
@@ -493,7 +495,7 @@ EMQ Practice Paper: 2
 #### Answer: 
 
 
-## Theme: Lower Limb Neuropathy
+## Q41: Theme: Lower Limb Neuropathy
 
 ### 177
 #### Answer: 
