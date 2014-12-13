@@ -769,106 +769,301 @@ This gland is divided into deep and superficial parts by the posterior border of
 
 ## Q23: Theme: Management of Hernias
 
+A   Conservative management
+ 
+B   Elective hernia repair
+ 
+C   Emergency hernia repair
+ 
+D   Urgent hernia repairs, ie on an elective list but prioritised over benign conditions
+
 ### 100
-#### Answer: 
-### 101
-#### Answer: 
-### 102
-#### Answer: 
-### 103
-#### Answer: 
-### 104
-#### Answer: 
-### 105
+A 79-year-old woman presents to clinic with a small (3 cm) non-tender lump in her groin. It has been present for the past 2 months. It lies below and lateral to the pubic tubercle. It is irreducible and there is no cough impulse.
 #### Answer: 
 
+### 101
+A 1-year-old boy presents with a small indirect inguinal hernia.
+#### Answer: 
+
+### 102
+A 65-year-old man presents with an indirect inguinal hernia. It is non-tender and has been present for 3 weeks. It initially reduced spontaneously, but over the past 2 days it has not been reducible.
+#### Answer: 
+
+### 103
+An 84-year-old man with chronic bronchitis, diabetes mellitus and a past medical history of two episodes of myocardial infarction presents with an inguinal hernia. It has been present for 7 years, but for the past day it has been very painful and irreducible. On examination it is tender and erythematous and there is no cough impulse.
+#### Answer: 
+
+### 104
+A healthy 84-year-old man presents to clinic with a small right inguinal hernia. On examination there is a 2-cm-diameter direct hernia which is palpable only on coughing.
+#### Answer: 
+
+### 105
+A 20-year-old man presents with a painless, reducible lump in the right groin, above and medial to the pubic tubercle, extending into the scrotum, which can be controlled with occlusion of the deep inguinal ring.
+#### Answer: 
 
 ## Q24: Theme: Statistics
 
+A   4%
+ 
+B   5%
+ 
+C   10%
+ 
+D   20%
+ 
+E   24%
+ 
+F   25%
+ 
+G   75%
+ 
+H   76%
+ 
+I    80%
+ 
+J    90%
+ 
+K   95%
+ 
+L   96%
+
 ### 106
+Specificity
 #### Answer: 
+
 ### 107
+Sensitivity
 #### Answer: 
+
 ### 108
+Negative predictive value (NPV)
 #### Answer: 
+
 ### 109
+Positive predictive value (PPV)
 #### Answer: 
 
 ## Q25: Theme: Pancreatic Tumours
 
+A   Gastrinoma
+ 
+B   Glucagonoma
+ 
+C   Insulinoma
+ 
+D   Somatostatinoma
+ 
+E   VIPoma
+ 
+F   Carcinoma
+ 
+G   Cystadenocarcinoma
+ 
+H   Cystadenoma
+ 
+I     Zollinger–Ellison tumour
+
 ### 110
+A 43-year-old man with known parathyroid adenoma presents to A&E with haematemesis.
 #### Answer: 
+
 ### 111
+A 64-year-old woman presents with obstructive jaundice and RUQ pain. A random blood glucose is 15.4 mmol/l and an ultrasound scan of the abdomen reveals gallstones.
 #### Answer: 
+
 ### 112
+A 50-year-old man with a history of weight loss is found to have a mass on his pancreas on CT. He is discovered to be diabetic. He also has a persistent eczematous rash on his buttocks which has been present for over a year.
 #### Answer: 
+
 ### 113
+A 40-year-old woman presents with a 1-year history of epigastric pain. She is prompted to visit A&E following an episode of melaena. Endoscopy reveals multiple peptic ulcers. A CT scan shows tumours affecting the pancreas and duodenum.
 #### Answer: 
+
 ### 114
+A 28-year-old man is taken to his GP by his partner, who says he has been behaving strangely and has had eposodes of altered consciousness. This occurs particularly if he skips meals. He has a family history of MEN I.
 #### Answer: 
 
 ## Q26: Theme: Breast Investigations
 
+A   Core biopsy
+ 
+B   CT scan
+ 
+C   Fine-needle aspiration
+ 
+D   Magnetic resonance imaging (MRI)
+ 
+E   No further investigation
+ 
+F   Ultrasound-guided fine-needle aspiration
+ 
+G   Ultrasound scan
+ 
 ### 115
+A 28-year-old woman presents with a right-sided breast lump. It measures 1 cm in diameter, is mobile, smooth, non-tender, and is superficial to the pectoralis major. There are no associated skin changes. Both axillae are clear. An ultrasound scan is reported as showing a benign lump.
 #### Answer: 
+
 ### 116
+A 55-year-old woman is sent to your clinic after screening mammography reveals a suspicious area in the left breast. Clinical examination does not reveal any suspicious areas.
 #### Answer: 
 
 ## Q27: Theme: Intravenous Fluids
 
+A   0.45% Sodium chloride solution
+ 
+B   0.9% Sodium chloride solution
+ 
+C   4% Dextrose/0.18% sodium chloride solution
+ 
+D   5% Dextrose solution
+ 
+E   Compound sodium lactate solution
+ 
+F   Dextran 70
+
 ### 117
+Which fluid has been shown to reduce the incidence of deep venous thrombosis?
 #### Answer: 
+
 ### 118
+Which fluid is recommended in the Advanced Trauma Life Support (ATLS) guidelines for the initial resuscitation of the trauma patient?
 #### Answer: 
+
 ### 119
+Which fluid contains 5 mmol of potassium per litre?
 #### Answer: 
+
 ### 120
+Which fluid contains 150 mmol of sodium per litre?
 #### Answer: 
+
 ### 121
+Which fluid given in equal volumes expands the intravascular compartment least?
 #### Answer: 
 
 ## Q28: Theme: Specific Tests
 
+A   Allen's test
+ 
+B   Froment's test
+ 
+C   Lachman's test
+ 
+D   Pivot shift test
+ 
+E   Simmonds’ test
+ 
+F   Tinel's test
+ 
+G   Trendelenburg's test
+
+
 ### 122
+A 21-year-old, very anxious footballer presents to the fracture clinic with an acute swelling of the right knee following a twisting injury 2 days ago. There is no bony tenderness around the knee joint. He is able to fully weight-bear, fully extend his knee and flex to 90 degrees. Aspiration confirms a haemarthrosis.
 #### Answer: 
+
 ### 123
+A 69-year-old woman attends the outpatients clinic. On examination she has guttering in the dorsal aspect of her right hand and apparent wasting of the muscles of the hand.
 #### Answer: 
+
 ### 124
+A 35-year-old man attends A&E with acute, severe pain in the right calf. He finds it difficult to walk, and cannot plantar-flex his right foot.
 #### Answer: 
 
 ## Q29: Theme: Calculi
 
+A   Bile pigment stone
+ 
+B   Calcium oxalate
+ 
+C   Calcium phosphate
+ 
+D   Cholesterol stone
+ 
+E   Cystine stone
+
+F   Urate
+
 ### 125
+A 32-year-old man presents with haematuria. A KUB X-ray reveals a staghorn calculus in the right kidney and a mid-stream urine sample grows proteus.
 #### Answer: 
+
 ### 126
+A 31-year-old woman with known si
+ckle cell anaemia attends A&E with biliary colic. X-rays show the presence of stones in the gallbladder.
 #### Answer: 
+
 ### 127
+A 28-year-old man presents with ureteric colic. A KUB study shows a stone at the right vesico-ureteric junction.
 #### Answer: 
 
 ## Q30: Theme: Types of Ulcer
 
+A   Arterial ulcer
+ 
+B   Curling's ulcer
+ 
+C   Cushing's ulcer
+ 
+D   Duodenal ulcer
+ 
+E   Gastric ulcer
+ 
+F   Marjolin's ulcer
+ 
+G   Rodent ulcer
+ 
+H   Venous ulcer
+
 ### 128
-#### Answer: 
-### 129
-#### Answer: 
-### 130
-#### Answer: 
-### 131
+A 43-year-old man is admitted to the ICU following an RTA. He has been unconscious and intubated since having a subdural haematoma evacuated. On day 4 of his admission he begins to have blood aspirated from his nasogastric tube.
 #### Answer: 
 
+### 129
+A 76-year-old woman presents to clinic with a large ulcer over her medial malleolus. She has recently noticed that it has grown and bleeds more easily. On examination it has a friable centre and raised edges.
+#### Answer: 
+
+### 130
+An 84-year-old man presents with a small ulcer on the bridge of his nose. It has been present for a number of months. On examination it has pearly white, rolled edges.
+#### Answer: 
+
+### 131
+A 24-year-old has 24% third-degree burns. Three days after his admission he complains of melaena.
+#### Answer: 
 
 ## Q31: Theme: Skin Lesions
 
+A   Basal cell carcinoma
+ 
+B   Dermatofibroma
+ 
+C   Keratoacanthoma
+ 
+D   Melanoma
+ 
+E   Pyoderma gangrenosum
+ 
+F   Pyogenic granuloma
+ 
+G   Squamous cell carcinoma
+ 
+H   Strawberry naevus
+ 
 ### 132
 #### Answer: 
+
 ### 133
 #### Answer: 
+
 ### 134
 #### Answer: 
+
 ### 135
 #### Answer: 
+
 ### 136
 #### Answer: 
+
 ### 137
 #### Answer: 
 
