@@ -1020,123 +1020,167 @@ A 54-year-old woman presents with a goitre which has been there for a long time 
 
 ## Q38: Theme: Causes of Jaundice
 
+	A. Carcinoma of the head of the pancreas
+	B. Gallstones
+	C. Gilbert syndrome
+	D. Haemolytic anaemia
+	E. Hepatitis
+	F. Primary liver carcinoma
 	
 ### 152
+A 20-year-old woman presents with complaints of dark-coloured urine, pale stools and weight loss for a few weeks. On examination she has painless jaundice.
 #### Answer: 
+
 ### 153
+A 10-year-old boy with known sickle cell disease presents with pain in the epigastric region. On examination he has jaundice.
 #### Answer: 
+
 ### 154
+A known intravenous drug misuser with a history of hepatitis B presents with jaundice and loss of weight. Blood tests reveal raised α-fetoprotein. He admits sharing needles with other drug misusers.
 #### Answer: 
 
 ## Q39: Theme: Knee Injuries
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	
+	A. Anterior cruciate ligament tear
+	B. Lateral meniscus tear
+	C. Medial collateral ligament tear
+	D. Medial meniscus tear
+	E. Patella fracture
+	F. Posterior cruciate ligament tear
+ 	
 ### 155
+A 35-year-old rugby player twists his knee during a match. It gradually swells and becomes tender, and he finds himself unable to fully extend it. It is tender over the medial joint line. An X-ray shows evidence of an effusion. Despite aspiration of the traumatic effusion, he is still unable to fully extend the knee.
 #### Answer: 
+
 ### 156
+A 25-year-old footballer hyperextends his knee while attempting to kick the ball. He hears a loud ‘popping’ sound. The knee swells up immediately. In the following weeks his knee is painful on weight-bearing and gives way without warning.
 #### Answer: 
 
 ## Q40: Theme: Treatment of Prostate Cancer
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Androgen ablation
+	B. Brachytherapy
+	C. External beam radiotherapy
+	D. Radical prostatectomy
+	E. Surveillance
 	
 ### 157
+An 80-year-old man diagnosed with a pT1 prostate cancer, an incidental finding when the chips obtained from TURP were examined.
 #### Answer: 
+
 ### 158
+A 50-year-old man with pT2 prostate cancer diagnosed on rectal biopsy wants curative treatment. He is sexually active and wants to have a minimal chance of developing incontinence and impotence, and wants to reduce the amount of time spent in hospital. He has a small-volume prostate.
 #### Answer: 
+
 ### 159
+A 65-year-old man was diagnosed as having prostate cancer with lung and bony metastases and local invasion. He was treated with androgen ablation for 6 months but is now complaining of increasing bony and pelvic pain.
 #### Answer: 
 
 ## Q41: Theme: Management of Ankle Injuries
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Arthrodesis
+	B. Closed reduction and plaster of Paris
+	C. Open reduction and internal fixation
+	D. Strict non-weight-bearing and physiotherapy only
+	E. Support, non-steroidal anti-inflammatory drugs (NSAIDs) and early mobilisation
 	
 ### 160
+A 46-year-old woman stumbles on a pavement kerb, landing awkwardly on her left ankle. She is unable to weight bear. An X-ray shows a fracture of the lateral malleolus only.
 #### Answer: 
+
 ### 161
+A 34-year-old footballer has an eversion injury to the right ankle, resulting in an avulsion fracture of the medial malleolus. An X-ray also shows an undisplaced fracture of the fibula at the junction between the middle and lower thirds of the shaft.
 #### Answer: 
+
 ### 162
+A 29-year-old woman stumbles while running for the bus, landing heavily on her left ankle. The ankle becomes swollen over the lateral aspect and she has difficulty weight-bearing. An X-ray shows no fracture.
 #### Answer: 
 
 ## Q42: Theme: Complications of Colorectal Cancer
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
+	A. Appendicitis
+	B. Colocolic intussusception
+	C. Fistula formation
+	D. Haemorrhage
+	E. Invasion into adjacent organ
+	F. Obstruction
 	
 ### 163
+A 69-year-old man presents with a caecal mass presumed to be adenocarcinoma. While undergoing staging investigations, he develops right-sided abdominal pain, guarding and rebound in the right iliac fossa (RIF) associated with fever. There is a mild pyrexia and raised white blood cell count.
 #### Answer: 
+
 ### 164
+A 70-year-old man with a known tumour of the transverse colon presents with spasms of abdominal pain, abdominal distension and dehydration. A new sausage-shaped mass is palpable in the epigastrium.
 #### Answer: 
+
 ### 165
+A 52-year-old man with metastatic adenocarcinoma of the transverse colon presents with faecal vomiting.
 #### Answer: 
 
 ## Q43: Theme: Abnormalities of Calcium Balance
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
+	A. Addison's disease
+	B. Hypercalcaemia of malignancy
+	C. Hypoparathyroidism
+	D. Primary hyperparathyroidism
+	E. Secondary hyperparathyroidism
+	F. Tertiary hyperparathyroidism
 	
 ### 166
+A 69-year-old woman presents with paraesthesia, muscle cramps and a tingling sensation around the mouth. She has a past history of thyroidectomy for benign goitre.
 #### Answer: 
+
 ### 167
+A 54-year-old renal dialysis patient is found to have raised serum calcium and parathyroid hormone (PTH) levels.
 #### Answer: 
+
 ### 168
+A 47-year-old woman with a history of postural hypotension and pigmentation of the buccal mucosa and skin is admitted as an emergency with abdominal pain and constipation. She had an episode of renal colic 2 weeks ago.
 #### Answer: 
 
 ## Q44: Theme: Management of Benign Prostatic Hyperplasia
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
-	I.
+	A. Doxazosin
+	B. Finasteride
+	C. Long-term urethral catheter
+	D. Open prostatectomy
+	E. Suprapubic catheter
+	F. Transurethral incision of prostate
+	G. Transurethral resection of prostate (TURP)
+	H. Trial without catheter (TWOC) and α-blocker
+	I. TWOC alone
 	
 ### 169
+A 60-year-old man, day 1 post-op right shoulder hemiarthroplasty for severe arthritis develops acute urinary retention. He is catheterised and found to have a residual volume of 800 ml. Digital rectal examination (DRE) shows a smooth, benign, moderately sized prostate.
 #### Answer: 
+
 ### 170
+A 65-year-old man has bladder outflow obstruction secondary to benign prostatic hyperplasia (BPH) confirmed by urodynamic studies. Initial success with medical management has been followed by worsening of symptoms, severely affecting his quality of life. DRE reveals a benign-feeling prostate, 50 g in size. Transrectal ultrasound shows no hypoechogenic areas. The patient is very fit, well and active and will not accept long-term catheterisation.
 #### Answer: 
+
 ### 171
+A 56-year-old man recently remarried and wants to start a family. He has long-standing symptoms of hesitancy, frequency and terminal dribbling. He recently developed occasional haematuria – fully investigated and not found to be due to any other cause than BPH. DRE and ultrasound scan reveal a benign 40-g prostate.
 #### Answer: 
 
 ## Q45: Theme: Wound Complications
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
+	A. Abscess
+	B. Delayed healing
+	C. Evisceration
+	D. Incisional hernia
+	E. Superficial infection
+	F. Wound dehiscence
 
 ### 172
+A patient who has undergone appendicectomy has the sutures removed and the medial 2 cm of the wound opens up, with only a small serous discharge.
 #### Answer: 
+
 ### 173
+A patient who has undergone laparotomy has pink fluid oozing from the wound a day before having the sutures removed. The wound opens and the bowel extrudes.
 #### Answer: 
+
 ### 174
+A patient who is 5 days post-op following appendicectomy develops low-grade pyrexia. The wound is full and very tender, and pressure on the medial aspect causes pus to extrude.
 #### Answer: 
 
 ## Q46: Theme: Management of Hernias
