@@ -16,7 +16,7 @@ Overall: ??/??? = ??.0%
 	D. Coagulation
 	E. Blend
 
-For each of the following scenarios, choose the most appropriate option from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 3076
 
 ### 1
 Requires a patient plate electrode to be applied.
@@ -46,6 +46,8 @@ Can be used for buzzing (touching other instruments to pass current through them
 	D. IV
 	E. V
 	F. VI
+	
+- Bk1: 22753
 
 For each of the following statements, choose the most appropriate compartment from the list above. Each option may be used once, more than once or not at all.
 
@@ -69,7 +71,7 @@ Extensor digiti minimi is in this compartment.
 	D. Severe sepsis
 	E. Septic Shock
 
-For each of the following clinical scenarios, choose the most appropriate diagnosis from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 9670
 
 ### 9
 A 30-year-old man presents with severe right loin pain, radiating to the groin. A mid-stream urine (MSU) shows blood, protein and nitrites. A KUB study reveals a calculus. His temperature is 39.1°C, pulse 127/min, respiratory rate (RR) 38 breaths/min and BP 81/43 mmHg despite 3 litres of intravenous fluids, and his white cell count (WCC) is 21 × 109/l.
@@ -101,7 +103,7 @@ A 27-year-old female post-op patient has a temperature of 38.7°C, pulse 86/min,
 	J. Cerebrovascular accident (CVA)
 	K. Bell's palsy
 
-For each of the following scenarios, choose the most appropriate option from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 15757
 
 ### 13
 An 18-year-old man presents to A&E with a head injury. He has a facial nerve palsy, Battle's sign and haemotympanum.
@@ -138,7 +140,7 @@ A 23-year-old man presents with a facial nerve palsy and a 3-month history of co
 	G. Halothane
 	H. Enflurane
 	
-For each of the following statements, choose the most appropriate agent from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 2030
 
 ### 19
 Can cause a ‘coronary steal’ syndrome.
@@ -164,7 +166,7 @@ The induction agent with a slight anti-emetic effect, which is the agent of choi
 	D. Zone 4
 	E. Zone 5
 	
-For each of the following injuries, choose the most appropriate zone from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 22778
 
 ### 23
 Laceration across both hypothenar and thenar eminences.
@@ -172,7 +174,7 @@ Laceration across both hypothenar and thenar eminences.
 
 ### 24
 Most difficult to repair, often yielding poor functional outcome.
-#### Answer: 
+#### Answer: B. Zone 2 - ?
 
 ### 25
 Laceration across the metacarpophalangeal (MCP) joints.
@@ -183,7 +185,7 @@ Laceration across the metacarpophalangeal (MCP) joints.
 	A. Suitable for day-case surgery
 	B. Unsuitable for day-case surgery
 	
-For each of the following patients, choose the most appropriate option from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 3631
 
 ### 26
 A 40-year-old woman listed for varicose vein stripping, with no significant past medical history. Weight 90 kg, height 155 cm. Her husband can look after her post-op and she lives 10 minutes from the hospital.
@@ -205,7 +207,7 @@ A 50-year-old man with angina requiring frequent GTN spray, listed for a knee ar
 	D. Class IV
 	E. Class V
 
-For each of the following scenarios, choose the most appropriate trauma class from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 16436
 
 ### 29
 An 18-year-old football player who sustained a kick to the loin during a game subsequently develops microscopic haematuria.
@@ -228,7 +230,7 @@ Following a hysterectomy a patient has macroscopic haematuria, ileus, pain and a
 	E. 17,280 mL
 	F. 14,400 mL
 	
-For each of the following scenarios, choose the correct volume of fluid replacement required from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 16885
 
 ### 32
 A man weighing 80 kg is admitted as an emergency after being rescued from a house fire. He has red, painful, blistered burns to his right arm, chest and abdomen. How much fluid does he require over the first 24 hours following his injury?
@@ -254,7 +256,7 @@ An 60-kg woman is involved in a house fire after falling asleep with a lit cigar
 	D. Levomepromazine
 	E. Haloperidol
 
-For each of the following, choose the most appropriate anti-emetic from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 
 ### 36
 A selective 5-hydroxytryptamine antagonist, useful for preventing vomiting caused by cytotoxic drugs.
@@ -282,7 +284,7 @@ A non-phenothiazine antipsychotic used to combat vomiting caused by emetogenic a
 	F. Gridiron
 	G. Collar
 	
-For each of the following operations, choose the most appropriate incision from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 2940
 
 ### 40
 A 63-year-old lady presents with a lump in her right groin, lateral and inferior to the pubic tubercle. It is tender to palpation and irreducible, with erythema to the overlying skin. Which incision would you make for her emergency procedure?
@@ -306,7 +308,7 @@ A 45-year-old lady with Graves’ disease presents with a large goitre and wants
 	B. Nerve
 	C. Vein
 
-For each of the following, choose the most appropriate structure from the list of options above. Each option may be used once, more than once or not at all.
+- Bk1: 21703, ?, ?, ?
 	
 ### 44
 In the popliteal fossa, which structure lies the deepest?
@@ -334,7 +336,7 @@ Of the femoral structures immediately inferior to the inguinal ligament, which s
 	F. Schistosoma haematobium
 	G. Streptococcus pneumoniae
 	
-For each of the following scenarios, choose the most likely pathogen from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 11657
 
 ### 48
 A 26-year-old woman presents with ureteric colic. A KUB study reveals a staghorn calculus in the right kidney.
@@ -359,7 +361,7 @@ A 35-year-old businessman presents with a first episode of frank haematuria. He 
 	G. Pharyngeal pouch
 	H. Scleroderma
 
-For each of the following scenarios, choose the most likely diagnosis from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 
 ### 51
 A 72-year-old heavy smoker presents with dysphagia, retrosternal discomfort and new-onset hoarseness of voice.
@@ -382,7 +384,7 @@ A 45-year-old woman presents with dysphagia. Barium swallow shows a ‘bird's be
 	E. Psychogenic incontinence
 	F. Small bladder capacity
 
-For each of the following scenarios, choose the most likely diagnosis from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 
 ### 54
 A 78-year-old man presents with urinary leakage. This occurs on coughing or sneezing. On further questioning, he admits to decreasing urinary flow and increased frequency of micturition, with small volumes passed. In addition he reports symptoms of incomplete emptying.
@@ -413,7 +415,7 @@ A 36-year-old man presents with occasional urinary incontinence. He gives a hist
 	E. ECG + FBC + U&E + CXR + Pulmonary Function Tests (PFTs)
 	F. ECG + U&E
 
-For each of the following scenarios, choose the most appropriate minimum acceptable pre-operative investigations needed from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 
 ### 59
 A 55-year-old man presents with a distal radius fracture requiring open reduction and internal fixation. He is otherwise fit and well and is not taking any medication. His body mass index (BMI) is 26 kg/m2 and he is a non-smoker.
@@ -447,7 +449,7 @@ A 49-year-old woman with hypertension, a non-smoker, is admitted for elective va
 	D. Revascularisation
 	E. Total contact casting
 	
-For each of the following scenarios, choose the most appropriate treatment option from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 	
 ### 65
 A 38-year-old type 1 diabetic patient presents with a deep ulcer over the head of the first metatarsal. It is painless and on further examination he has decreased sensation in the whole of the foot.
@@ -480,7 +482,7 @@ A 71-year-old heavy smoker attends clinic with a painful, deep, punched-out ulce
 	G. Staphylococcus aureus
 	H. Staphylococcus epidermidis
 	
-For each of the following scenarios, choose the most likely organism from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 
 ### 70
 A 34-year-old man has been on the intensive care unit (ICU) for 4 weeks. He has had multiple infections and is being treated with different antibiotics. He begins to show signs of multi-system infection, including meningitis.
@@ -510,7 +512,7 @@ A 74-year-old with a chronic venous leg ulcer develops an infection within the u
 	D. Central cord syndrome
 	E. Posterior cord syndrome
 	
-For each of the following scenarios, choose the most likely diagnosis from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 22468
 	
 ### 75
 A 34-year-old man suffers a knife injury to the back. He is unable to move his left lower limb, and is complaining of severe pain from a further stab injury to the left leg. He is insensate to temperature on the right leg.
@@ -539,7 +541,7 @@ A 76-year-old man walks into the A&E department. He complains of bilateral upper
 	G. Seton drainage
 	H. Steroid enema
 
-For each of the following scenarios, choose the most appropriate treatment from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 
 ### 79
 A 79-year-old woman presents with a prolapsed rectum.
@@ -570,7 +572,7 @@ A 43-year-old man complains of itching around the anus. He also admits to anal p
 	I. Pulmonary embolism
 	J. Subphrenic abscess
  
-For each of the following scenarios, choose the most appropriate option from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 
 ### 83
 A 40-year-old presents with intermittent right upper quadrant (RUQ) pain radiating to the back. It is associated with nausea and vomiting. The patient is not obviously jaundiced, but has dark urine. The patient is apyrexial.
@@ -602,7 +604,7 @@ A 25-year-old man presents with RUQ pain and pyrexia, but no rigors. He has a ra
 	F. Positive end-expiratory pressure
 	G. Synchronous intermittent mandatory ventilation (SIMV)
 	
-For each of the following statements, choose the most appropriate form of ventilation from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 8190
 
 ### 88
 The form of ventilation used to assist a patient's inspiratory effort. It is used to effectively ‘top-up’ a patient's own volume of inspired air.
@@ -626,13 +628,13 @@ The form of ventilation used to help wean patients from ventilators. Breaths are
 	B. Cardiopulmonary resuscitation
 	C. Close observation
 	D. Immediate open thoracotomy
-	E. Insertion of chest drain
+	E. Insertion of chest drain 
 	F. Needle aspiration
 	G. Needle thoracocentesis
 	H. Pericardiocentesis
 	I. Urgent arteriography
 	
-For each of the following scenarios, choose the best therapeutic option from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 
 ### 92
 A 31-year-old is brought to A&E unconscious. He has been involved in a road traffic accident (RTA). He had a right tension pneumothorax which was treated at the scene by needle thoracocentesis. On arrival he has a heart rate of 134 beats/min, a BP of 82/45 mmHg and an RR of 38 breaths/min. On examination he has absent breath sounds and hyper-resonance on the right side of the chest, with tracheal deviation to the left.
@@ -657,7 +659,7 @@ A 34-year-old is brought in with a stab wound to the right side of his mediastin
 	G. Hodgkin's lymphoma
 	H. Oropharyngeal carcinoma
 	
-From the list above, choose the malignancy associated with exposure to the substances/organisms listed below. You may use each option once, more than once or not at all.
+- Bk1: 13016
 
 ### 95
 _Schistosoma_
@@ -691,7 +693,7 @@ Betel nuts
 	D. Isoprenaline
 	E. Noradrenaline (_norepinephrine_)
 	
-For each of the following statements, choose the most appropriate inotrope from the list above. Each option may be used once, more than once or not at all.
+- Bk: 8870
 
 ### 101
 The inotrope which has the greatest bronchodilator effect.
@@ -720,7 +722,7 @@ The inotrope that is used in the treatment of shock to increase total peripheral
 	G. Torsion of hydatid of Morgagni
 	H. Varicocele
 	
-For each of the following scenarios, choose the most likely diagnosis from the list above. Each option may be used once, more than once or not at all.
+- Bk1: ?
 	
 ### 105
 A 23-year-old man presents with acute scrotal pain. The right testicle is exquisitely tender and is higher than the left. There is some superficial erythema.
