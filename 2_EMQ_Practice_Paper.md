@@ -1050,60 +1050,134 @@ G   Squamous cell carcinoma
 H   Strawberry naevus
  
 ### 132
+A 40-year-old woman presents with a lump on the anterior aspect of the leg. It has been slowly growing over the past 3 years and is now causing cosmetic disfigurement. On examination you find a 1-cm-smooth, firm disc.
 #### Answer: 
 
 ### 133
+A 2-year-old child is brought to clinic with a small 1-cm lump in her hairline. The lump has been present since birth, but recently it has begun to bleed. On examination the lump is sessile, dark red and has a small ulcerated area in its centre.
 #### Answer: 
 
 ### 134
+A 76-year-old woman presents with a lesion on her left cheek. There is a small ulcer with a raised pearly edge. She reports that it has been scabbing over, with the scab falling off every now and then.
 #### Answer: 
 
 ### 135
+A 31-year-old man presents with a mole on his right shoulder. It has grown over the past 2 months and is very itchy. It bleeds occasionally. On examination there is a 2-cm, irregular mole on the shoulder with a surrounding brown halo. He is also jaundiced.
 #### Answer: 
 
 ### 136
+A 28-year-old man presents with a lump on the dorsum of his left hand. The lump has grown rapidly over the past 2 weeks. It bleeds easily and is discharging serous fluid. He gives a history of minor trauma to the same hand 3 weeks before. The lump is not painful. On examination there is a bright-red, soft, 1-cm hemispherical lump present.
 #### Answer: 
 
 ### 137
+A 64-year-old woman presents with a non-painful lump on her left arm. It has grown rapidly over the past 2 weeks. On examination it is approximately 2 cm in diameter and has a central brown core. It is firm in consistency, but the central core is hard.
 #### Answer: 
 
 ## Q32: Theme: Airway Management
 
+A   Bag-valve-mask
+ 
+B   Double-lumen cuffed endotracheal tube
+ 
+C   Nasopharyngeal airway
+
+D   Needle cricothyroidotomy
+ 
+E   Oropharyngeal airway
+ 
+F   Percutaneous tracheostomy
+ 
+G   Single-lumen cuffed endotracheal tube
+ 
+H   Single-lumen uncuffed endotracheal tube
+
 ### 138
-#### Answer: 
-### 139
-#### Answer: 
-### 140
-#### Answer: 
-### 141
-#### Answer: 
-### 142
+A 7-year-old child is brought in to A&E having been rescued from a house fire. He is in respiratory distress and there is evidence of soot around his nasal passages.
 #### Answer: 
 
+### 139
+A 64-year-old man due to undergo elective repair of a thoracic aortic aneurysm.
+#### Answer: 
+
+### 140
+You are the only doctor in the A&E department. A patient with severe facial injuries suffered in an RTA is brought in by paramedics. He goes into respiratory arrest and an initial attempt at endotracheal intubation fails.
+#### Answer: 
+
+### 141
+A 76-year-old man is on the ICU following emergency laparotomy. He is expected to remain there for another week.
+#### Answer: 
+
+### 142
+A 27-year-old man involved in a house fire is brought to A&E. He has some singeing of his nasal hair. His RR is 28 breaths/min, and pulse oximetry gives a reading of 94% on 4 l/min oxygen.
+#### Answer: 
 
 ## Q33: Theme: Colorectal Carcinoma Procedures
 
+A   Abdomino-perineal resection
+ 
+B   Anterior resection
+ 
+C   Delorme's procedure
+ 
+D   Extended right hemicolectomy
+ 
+E   Hartmann's procedure
+ 
+F   Right hemicolectomy
+ 
+G   Sigmoid colectomy
+
 ### 143
-#### Answer: 
-### 144
-#### Answer: 
-### 145
-#### Answer: 
-### 146
-#### Answer: 
-### 147
-#### Answer: 
-### 148
-#### Answer: 
-### 149
-#### Answer: 
-### 150
-#### Answer: 
-### 151
+A patient with carcinoma of the sigmoid colon presenting with peritonitis due to a perforation.
 #### Answer: 
 
+### 144
+A 68-year-old man presents with rectal bleeding. Colonoscopy reveals a caecal tumour.
+#### Answer: 
+
+### 145
+A 76-year-old woman presents with rectal bleeding. Digital rectal examination reveals a tumour 2 cm from the anal margin. This is confirmed by proctoscopy.
+#### Answer: 
+
+### 146
+A 54-year-old woman presents with acute appendicitis. A tumour is found in the appendix at appendicectomy.
+#### Answer: 
+
+### 147
+A 64-year-old man presents with small-bowel obstruction. He gives a 2-month history of a weight loss of 12 kg (2 stone) and intermittent rectal bleeding.
+#### Answer: 
+
+### 148
+An 88-year-old man is found to have a 2-cm tumour of the sigmoid colon. His past medical history includes diabetes mellitus, two episodes of myocardial infarction and peripheral vascular disease.
+#### Answer: 
+
+### 149
+A 77-year-old woman presents with a tumour of the transverse colon, 2 cm from the splenic flexure, which is not causing obstruction; there are no metastases.
+#### Answer: 
+
+### 150
+A 45-year-old man with a non-obtructing tumour of the sigmoid colon without metastases.
+#### Answer: 
+
+### 151
+A 66-year-old man presents with altered bowel habit and he is found to have a tumour approximately 12 cm from the anus. There is no obstruction and there are no metastases.
+#### Answer: 
 
 ## Q34: Theme: The Limping Child
+
+A   Developmental dysplasia of the hip (DDH)
+ 
+B   Irritable hip
+ 
+C   Osteomyelitis
+
+D   Perthes’ disease
+ 
+E   Septic arthritis
+ 
+F   Slipped upper femoral epiphysis (SUFE)
+ 
+G   Tuberculosis
 
 ### 152
 #### Answer: 
