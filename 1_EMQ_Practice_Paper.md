@@ -16,6 +16,8 @@ Overall: ??/??? = ??.0%
 	D. Coagulation
 	E. Blend
 
+For each of the following scenarios, choose the most appropriate option from the list above. Each option may be used once, more than once or not at all.
+
 ### 1
 Requires a patient plate electrode to be applied.
 #### Answer: 
@@ -45,6 +47,8 @@ Can be used for buzzing (touching other instruments to pass current through them
 	E. V
 	F. VI
 
+For each of the following statements, choose the most appropriate compartment from the list above. Each option may be used once, more than once or not at all.
+
 ### 6
 Extensor carpi radialis brevis is in this compartment.
 #### Answer: 
@@ -64,6 +68,8 @@ Extensor digiti minimi is in this compartment.
 	C. Sepsis
 	D. Severe sepsis
 	E. Septic Shock
+
+For each of the following clinical scenarios, choose the most appropriate diagnosis from the list above. Each option may be used once, more than once or not at all.
 
 ### 9
 A 30-year-old man presents with severe right loin pain, radiating to the groin. A mid-stream urine (MSU) shows blood, protein and nitrites. A KUB study reveals a calculus. His temperature is 39.1°C, pulse 127/min, respiratory rate (RR) 38 breaths/min and BP 81/43 mmHg despite 3 litres of intravenous fluids, and his white cell count (WCC) is 21 × 109/l.
@@ -94,6 +100,8 @@ A 27-year-old female post-op patient has a temperature of 38.7°C, pulse 86/min,
 	I. Chronic suppurative otitis media
 	J. Cerebrovascular accident (CVA)
 	K. Bell's palsy
+
+For each of the following scenarios, choose the most appropriate option from the list above. Each option may be used once, more than once or not at all.
 
 ### 13
 An 18-year-old man presents to A&E with a head injury. He has a facial nerve palsy, Battle's sign and haemotympanum.
@@ -130,6 +138,8 @@ A 23-year-old man presents with a facial nerve palsy and a 3-month history of co
 	G. Halothane
 	H. Enflurane
 	
+For each of the following statements, choose the most appropriate agent from the list above. Each option may be used once, more than once or not at all.
+
 ### 19
 Can cause a ‘coronary steal’ syndrome.
 #### Answer: 
@@ -154,6 +164,8 @@ The induction agent with a slight anti-emetic effect, which is the agent of choi
 	D. Zone 4
 	E. Zone 5
 	
+For each of the following injuries, choose the most appropriate zone from the list above. Each option may be used once, more than once or not at all.
+
 ### 23
 Laceration across both hypothenar and thenar eminences.
 #### Answer: 
@@ -171,6 +183,8 @@ Laceration across the metacarpophalangeal (MCP) joints.
 	A. Suitable for day-case surgery
 	B. Unsuitable for day-case surgery
 	
+For each of the following patients, choose the most appropriate option from the list above. Each option may be used once, more than once or not at all.
+
 ### 26
 A 40-year-old woman listed for varicose vein stripping, with no significant past medical history. Weight 90 kg, height 155 cm. Her husband can look after her post-op and she lives 10 minutes from the hospital.
 #### Answer: 
@@ -190,6 +204,8 @@ A 50-year-old man with angina requiring frequent GTN spray, listed for a knee ar
 	C. Class III
 	D. Class IV
 	E. Class V
+
+For each of the following scenarios, choose the most appropriate trauma class from the list above. Each option may be used once, more than once or not at all.
 
 ### 29
 An 18-year-old football player who sustained a kick to the loin during a game subsequently develops microscopic haematuria.
@@ -212,6 +228,8 @@ Following a hysterectomy a patient has macroscopic haematuria, ileus, pain and a
 	E. 17,280 mL
 	F. 14,400 mL
 	
+For each of the following scenarios, choose the correct volume of fluid replacement required from the list above. Each option may be used once, more than once or not at all.
+
 ### 32
 A man weighing 80 kg is admitted as an emergency after being rescued from a house fire. He has red, painful, blistered burns to his right arm, chest and abdomen. How much fluid does he require over the first 24 hours following his injury?
 #### Answer: 
@@ -235,6 +253,8 @@ An 60-kg woman is involved in a house fire after falling asleep with a lit cigar
 	C. Ondansetron
 	D. Levomepromazine
 	E. Haloperidol
+
+For each of the following, choose the most appropriate anti-emetic from the list above. Each option may be used once, more than once or not at all.
 
 ### 36
 A selective 5-hydroxytryptamine antagonist, useful for preventing vomiting caused by cytotoxic drugs.
@@ -262,6 +282,8 @@ A non-phenothiazine antipsychotic used to combat vomiting caused by emetogenic a
 	F. Gridiron
 	G. Collar
 	
+For each of the following operations, choose the most appropriate incision from the list above. Each option may be used once, more than once or not at all.
+
 ### 40
 A 63-year-old lady presents with a lump in her right groin, lateral and inferior to the pubic tubercle. It is tender to palpation and irreducible, with erythema to the overlying skin. Which incision would you make for her emergency procedure?
 #### Answer: 
@@ -283,6 +305,8 @@ A 45-year-old lady with Graves’ disease presents with a large goitre and wants
 	A. Artery
 	B. Nerve
 	C. Vein
+
+For each of the following, choose the most appropriate structure from the list of options above. Each option may be used once, more than once or not at all.
 	
 ### 44
 In the popliteal fossa, which structure lies the deepest?
@@ -310,6 +334,8 @@ Of the femoral structures immediately inferior to the inguinal ligament, which s
 	F. Schistosoma haematobium
 	G. Streptococcus pneumoniae
 	
+For each of the following scenarios, choose the most likely pathogen from the list above. Each option may be used once, more than once or not at all.
+
 ### 48
 A 26-year-old woman presents with ureteric colic. A KUB study reveals a staghorn calculus in the right kidney.
 #### Answer: 
@@ -333,6 +359,8 @@ A 35-year-old businessman presents with a first episode of frank haematuria. He 
 	G. Pharyngeal pouch
 	H. Scleroderma
 
+For each of the following scenarios, choose the most likely diagnosis from the list above. Each option may be used once, more than once or not at all.
+
 ### 51
 A 72-year-old heavy smoker presents with dysphagia, retrosternal discomfort and new-onset hoarseness of voice.
 #### Answer: 
@@ -353,6 +381,8 @@ A 45-year-old woman presents with dysphagia. Barium swallow shows a ‘bird's be
 	D. Neurogenic incontinence
 	E. Psychogenic incontinence
 	F. Small bladder capacity
+
+For each of the following scenarios, choose the most likely diagnosis from the list above. Each option may be used once, more than once or not at all.
 
 ### 54
 A 78-year-old man presents with urinary leakage. This occurs on coughing or sneezing. On further questioning, he admits to decreasing urinary flow and increased frequency of micturition, with small volumes passed. In addition he reports symptoms of incomplete emptying.
@@ -382,6 +412,8 @@ A 36-year-old man presents with occasional urinary incontinence. He gives a hist
 	D. ECG + FBC + U&E + CXR
 	E. ECG + FBC + U&E + CXR + Pulmonary Function Tests (PFTs)
 	F. ECG + U&E
+
+For each of the following scenarios, choose the most appropriate minimum acceptable pre-operative investigations needed from the list above. Each option may be used once, more than once or not at all.
 
 ### 59
 A 55-year-old man presents with a distal radius fracture requiring open reduction and internal fixation. He is otherwise fit and well and is not taking any medication. His body mass index (BMI) is 26 kg/m2 and he is a non-smoker.
@@ -415,6 +447,8 @@ A 49-year-old woman with hypertension, a non-smoker, is admitted for elective va
 	D. Revascularisation
 	E. Total contact casting
 	
+For each of the following scenarios, choose the most appropriate treatment option from the list above. Each option may be used once, more than once or not at all.
+	
 ### 65
 A 38-year-old type 1 diabetic patient presents with a deep ulcer over the head of the first metatarsal. It is painless and on further examination he has decreased sensation in the whole of the foot.
 #### Answer: 
@@ -445,6 +479,8 @@ A 71-year-old heavy smoker attends clinic with a painful, deep, punched-out ulce
 	F. Psuedomonas aeruginosa
 	G. Staphylococcus aureus
 	H. Staphylococcus epidermidis
+	
+For each of the following scenarios, choose the most likely organism from the list above. Each option may be used once, more than once or not at all.
 
 ### 70
 A 34-year-old man has been on the intensive care unit (ICU) for 4 weeks. He has had multiple infections and is being treated with different antibiotics. He begins to show signs of multi-system infection, including meningitis.
@@ -474,6 +510,8 @@ A 74-year-old with a chronic venous leg ulcer develops an infection within the u
 	D. Central cord syndrome
 	E. Posterior cord syndrome
 	
+For each of the following scenarios, choose the most likely diagnosis from the list above. Each option may be used once, more than once or not at all.
+	
 ### 75
 A 34-year-old man suffers a knife injury to the back. He is unable to move his left lower limb, and is complaining of severe pain from a further stab injury to the left leg. He is insensate to temperature on the right leg.
 #### Answer: 
@@ -500,6 +538,8 @@ A 76-year-old man walks into the A&E department. He complains of bilateral upper
 	F. Rubber-band ligation
 	G. Seton drainage
 	H. Steroid enema
+
+For each of the following scenarios, choose the most appropriate treatment from the list above. Each option may be used once, more than once or not at all.
 
 ### 79
 A 79-year-old woman presents with a prolapsed rectum.
@@ -530,6 +570,8 @@ A 43-year-old man complains of itching around the anus. He also admits to anal p
 	I. Pulmonary embolism
 	J. Subphrenic abscess
  
+For each of the following scenarios, choose the most appropriate option from the list above. Each option may be used once, more than once or not at all.
+
 ### 83
 A 40-year-old presents with intermittent right upper quadrant (RUQ) pain radiating to the back. It is associated with nausea and vomiting. The patient is not obviously jaundiced, but has dark urine. The patient is apyrexial.
 #### Answer: 
@@ -560,6 +602,8 @@ A 25-year-old man presents with RUQ pain and pyrexia, but no rigors. He has a ra
 	F. Positive end-expiratory pressure
 	G. Synchronous intermittent mandatory ventilation (SIMV)
 	
+For each of the following statements, choose the most appropriate form of ventilation from the list above. Each option may be used once, more than once or not at all.
+
 ### 88
 The form of ventilation used to assist a patient's inspiratory effort. It is used to effectively ‘top-up’ a patient's own volume of inspired air.
 #### Answer: 
@@ -588,6 +632,8 @@ The form of ventilation used to help wean patients from ventilators. Breaths are
 	H. Pericardiocentesis
 	I. Urgent arteriography
 	
+For each of the following scenarios, choose the best therapeutic option from the list above. Each option may be used once, more than once or not at all.
+
 ### 92
 A 31-year-old is brought to A&E unconscious. He has been involved in a road traffic accident (RTA). He had a right tension pneumothorax which was treated at the scene by needle thoracocentesis. On arrival he has a heart rate of 134 beats/min, a BP of 82/45 mmHg and an RR of 38 breaths/min. On examination he has absent breath sounds and hyper-resonance on the right side of the chest, with tracheal deviation to the left.
 #### Answer: 
@@ -611,6 +657,8 @@ A 34-year-old is brought in with a stab wound to the right side of his mediastin
 	G. Hodgkin's lymphoma
 	H. Oropharyngeal carcinoma
 	
+From the list above, choose the malignancy associated with exposure to the substances/organisms listed below. You may use each option once, more than once or not at all.
+
 ### 95
 _Schistosoma_
 #### Answer: 
@@ -637,250 +685,341 @@ Betel nuts
 
 ## Q25: Theme: Inotropes
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Adrenaline (_epinephrine_)
+	B. Dobutamine
+	C. Dopamine
+	D. Isoprenaline
+	E. Noradrenaline (_norepinephrine_)
+	
+For each of the following statements, choose the most appropriate inotrope from the list above. Each option may be used once, more than once or not at all.
 
 ### 101
+The inotrope which has the greatest bronchodilator effect.
 #### Answer: 
+
 ### 102
+The inotrope used in cardiac arrest situations to provoke ventricular fibrillation.
 #### Answer: 
+
 ### 103
+The inotrope that in a low dose (less than 4 μg/kg per min) can be used to increase glomerular filtration rate and sodium excretion.
 #### Answer: 
+
 ### 104
+The inotrope that is used in the treatment of shock to increase total peripheral resistance, causing increase in both systolic and diastolic blood pressure.
 #### Answer: 
 
 ## Q26: Theme: Scrotal Swellings
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
+	A. Epididymo-orchitis
+	B. Fournier's gangrene
+	C. Hydrocoele
+	D. Testicular malignancy
+	E. Testicular torsion
+	F. Testicular trauma
+	G. Torsion of hydatid of Morgagni
+	H. Varicocele
+	
+For each of the following scenarios, choose the most likely diagnosis from the list above. Each option may be used once, more than once or not at all.
 	
 ### 105
+A 23-year-old man presents with acute scrotal pain. The right testicle is exquisitely tender and is higher than the left. There is some superficial erythema.
 #### Answer: 
+
 ### 106
+A 65-year-old man presents with a scrotal swelling. It has recently enlarged, but is painless. Examination reveals a large soft swelling which transilluminates.
 #### Answer: 
+
 ### 107
+A 70-year-old diabetic man presents in septic shock. The scrotum is swollen and dusky purple.
 #### Answer: 
 
 ## Q27: Theme: Trauma
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
+	A. Application of hard collar and head restraints
+	B. Computed tomography (CT) scan of the head
+	C. Full spinal and neurological assessment
+	D. Immobilisation
+	E. Intubation
+	F. Plain X-rays of the skull
 	
+For each of the following scenarios, choose the most appropriate next step from the list above. Each option may be used once, more than once or not at all.
+
 ### 108
+A 38-year-old man in a hard collar and with head restraints is brought to A&E by the paramedics on a spinal board. He has fallen from a horse. On arrival, he is unconscious and makes no response to painful stimuli. He has a large boggy swelling around his left occiput.
 #### Answer: 
+
 ### 109
+A 26-year-old man falls approximately 6 m down from a ladder. He has been unable to walk since, complaining of pain in his feet. X-rays requested from triage confirm bilateral calcaneal fractures.
 #### Answer: 
+
 ### 110
+A 48-year-old man is brought to A&E following an RTA. He was unconscious at the scene, but on arrival at the department he was fully conscious. He is now talking in a confused manner, opening his eyes in response to pain, and localising to pain.
 #### Answer: 
 
 ## Q28: Theme: Local Anaesthetics
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
+	A. 5 mL
+	B. 10 mL
+	C. 20 mL
+	D. 30 mL
+	E. 40 mL
+	F. 50 mL
+	G. 60 mL
+	H. 80 mL
 	
+What is the maximum volume of each of the local anaesthetic agents given below that can safely be used in an 80-kg man who is otherwise healthy. Each option may be used once, more than once or not at all.
+
 ### 111
+Lidocaine 2%.
 #### Answer: 
+
 ### 112
+Bupivacaine 0.5%.
 #### Answer: 
+
 ### 113
+Bupivacaine 0.25% with 1 in 200 000 adrenaline.
 #### Answer: 
+
 ### 114
+Lidocaine 1% with 1 in 200 000 adrenaline.
 #### Answer: 
 
 ## Q29: Theme: Chemotherapy
 
-	A.
-	B.
-	C.
+	A. Adjuvant chemotherapy
+	B. Neo-adjuvant chemotherapy
+	C. No chemotherapy
 
 ### 115
+A 46-year-old woman presents with a breast lump. After wide local excision and axillary node clearance she is found to have ductal carcinoma in situ with the excision margins clear and no lymph node involvement.
 #### Answer: 
+
 ### 116
+A 54-year-old man has a right hemicolectomy. The histopathological report is well differentiated Duke's B carcinoma with vascular invasion.
 #### Answer: 
+
 ### 117
+A 42-year-old woman has a cystectomy for squamous cell carcinoma of the bladder. The histopathological report is a poorly differentiated tumour with micrometastases in adjacent lymph nodes. A pre-operative staging CT did not show any evidence of metastasis.
 #### Answer: 
 
 ## Q30: Theme: Diagnosis of Endocrine Disorders
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
+	A. 24-hour urinary vanillylmandelic acid (VMA)
+	B. Dexamethasone suppression test
+	C. Plasma aldosterone levels
+	D. Radio-immunoassay of 17-hydroxyprogesterone
+	E. Serum calcitonin
+	F. Short Synacthen test
+	G. Vitamin D levels
 	
 ### 118
+A 36-year-old man presents with a history of intermittent hypertension, anxiety, palpitations, tachycardia and excess sweating. Phaeochromocytoma is suspected.
 #### Answer: 
+
 ### 119
+A 46-year-old woman with history of vitiligo and rheumatoid arthritis presents with pigmentation of the buccal mucosa and skin, loss of body hair and postural hypotension, suggestive of Addison's disease.
 #### Answer: 
+
 ### 120
+A 54-year-old woman presents with hypertension, polyuria and polydipsia. Renal function, blood sugar and calcium levels are all normal. Conn syndrome is suspected.
 #### Answer: 
+
 ### 121
+A 6-year-old child with short stature, penile enlargement and history of failure to thrive as an infant is suspected of having congenital adrenal hyperplasia.
 #### Answer: 
+
 ### 122
+A 24-year-old woman is referred for investigation after developing excessive hair growth and acne, purple striae over the abdomen and central obesity.
 #### Answer: 
 
 ## Q31: Theme: Terms Used for Disorders of Growth and Differentiation
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
+	A. Agenesis
+	B. Atrophy
+	C. Dysplasia
+	D. Hyperplasia
+	E. Hypertrophy
+	F. Hypoplasia
+	G. Metaplasia
+	H. Neoplasia
 	
 ### 123
+Increased numbers of red blood cells in individuals living at altitude.
 #### Answer: 
+
 ### 124
+Weakness, reduced size and function of an arm immobilised for a long period of time.
 #### Answer: 
+
 ### 125
+Change of bladder transitional cell epithelium to squamous epithelium following Schistosoma haematobium infection.
 #### Answer: 
+
 ### 126
+Anencephaly (failure of neural tube development).
 #### Answer: 
 
 ## Q32: Theme: Conditions Caused by Microbes
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
-	
+	A. Candida albicans
+	B. Clostridium difficile
+	C. Clostridium perfringens
+	D. Escherichia coli
+	E. Helicobacter pylori
+	F. Staphylococcus aureus
+	G. Streptococcus faecalis
+	H. Streptococcus pyogenes	
+
 ### 127
+A 42-year-old HIV-positive man with white fluffy patches in the mouth surrounded by painful areas of erythema.
 #### Answer: 
+
 ### 128
+A 12-year-old girl with an enlarging, hot, tender, erythematous area on her right leg which began as an insect bite.
 #### Answer: 
+
 ### 129
+A 42-year-old diabetic woman with dysuria, frequency and offensive-smelling urine.
 #### Answer: 
+
 ### 130
+A 66-year-old gentleman who had a recent operation for evacuation of traumatic haematoma of the thigh develops discoloration and swelling at the operation site, with crepitus on examination and a subcutaneous gas collection visible on X-ray.
 #### Answer: 
+
 ### 131
+An 84-year-old woman, treated for 4 weeks with co-amoxiclav (_Augmentin_) for a respiratory tract infection, develops profuse, offensive-smelling diarrhoea.
 #### Answer: 
+
 ### 132
+A 33-year-old man presents to A&E with severe epigastric pain and signs of peritonism. Erect chest X-ray shows air under the diaphragm.
 #### Answer: 
 
 ## Q33: Theme: Hypersensitivity Reactions
 
-	A.
-	B.
-	C.
-	D.
-	
+	A. Type I hypersensitivity reaction
+ 	B. Type II hypersensitivity reaction
+ 	C. Type III hypersensitivity reaction
+ 	D. Type IV hypersensitivity reaction	
+
 ### 133
+A 42-year-old woman develops itching, swelling and erythema at the site of the nickel buckle of a new watch.
 #### Answer: 
+
 ### 134
+A 15-year-old girl has a streptococcal throat infection, then goes on to develop post-streptococcal glomerulonephritis.
 #### Answer: 
+
 ### 135
+A 14-year-old boy develops sneezing and watering of the eyes in the summer months when the pollen count is high.
 #### Answer: 
+
 ### 136
+A 44-year-old renal transplant patient develops graft-versus-host disease.
 #### Answer: 
+
 ### 137
+A 22-year-old man develops wheezing, rash and swelling of the mouth and tongue after eating a peanut.
 #### Answer: 
+
 ### 138
+A baby develops haemolytic disease of the newborn. The mother is rhesus-negative.
 #### Answer: 
 
 ## Q34: Theme: Glasgow Coma Scale Scores
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
+	A. 4
+	B. 6
+	C. 7
+	D. 8
+	E. 10
+	F. 13
+	G. 14
 	
 ### 139
+A 25-year-old motorcyclist is involved in a head-on collision with a lorry. On arrival in A&E he is unable to obey commands, but localises to pain and is able to speak but appears confused. He only opens his eyes in response to pain.
 #### Answer: 
+
 ### 140
+A 66-year-old man has a fall in the street, hitting his head. On initial assessment GCS is 15. However, on arrival in A&E he is unable to obey commands and withdraws only from painful stimuli, making incomprehensible sounds and not opening his eyes at all.
 #### Answer: 
+
 ### 141
+A 44-year-old known intravenous drug user (IVDU) is brought to A&E after being found collapsed after a suspected overdose. He will not open his eyes in response to commands but does so in response to painful stimuli. His pupils are pinpoint. His only movement is withdrawal from pain and he doesn't speak.
 #### Answer: 
+
 ### 142
+A 29-year-old man involved in a pub brawl is hit over the head with a glass bottle. He is able to give a partial history but appears quite confused. He opens his eyes when spoken to and moves on command.
 #### Answer: 
 
 ## Q35: Theme: Management of Transitional Cell Carcinoma of the Bladder
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
+	A. Brachytherapy
+	B. Cystectomy + reconstruction
+	C. Cystectomy + urethrectomy + ileal conduit
+	D. Intravesical chemotherapy
+	E. MVAC chemotherapy
+	F. Nephrectomy
+	G. Nephro-uretectomy
+	H. Transurethral resection of bladder tumour (TURBT)
 
 ### 143
+A 45-year-old woman presents with a 3-week history of haematuria. An IVU reveals a filling defect in the renal pelvis. This is confirmed as a soft-tissue mass on CT scan.
 #### Answer: 
+
 ### 144
+A 55-year-old woman is found to have widespread carcinoma in situ (CIS) on cystoscopy and biopsy. She is treated initially with several instillations of intravesical BCG. Repeat cystoscopy shows no change in the CIS and urethral biopsy confirms CIS. She is keen to have aggressive treatment.
 #### Answer: 
 
 ## Q36: Theme: Haemorrhagic Shock
 
-	A.
-	B.
-	C.
-	D.
-	
+	A. Class I haemorrhagic shock
+	B. Class II haemorrhagic shock
+	C. Class III haemorrhagic shock
+	D. Class IV haemorrhagic shock
+ 	
 ### 145
+A 20-year-old man involved in an RTA sustains bilateral fractured femurs. He is brought to A&E, where on assessment he is found to be anxious and confused, with a pulse of 130/min and BP of 70/50 mmHg. Urine output over 1 hour is 10 ml.
 #### Answer: 
+
 ### 146
+A 70-year-old patient with a known 5-cm abdominal aortic aneurysm is admitted to A&E with severe central abdominal pain that radiates to the back. Prior to resuscitation, his pulse is 110/min, BP 120/100 mmHg and RR 24 breaths/min. He is slightly anxious but fully lucid.
 #### Answer: 
+
 ### 147
+A 60-year-old alcoholic has three episodes of haematemesis (total 500 ml) and melaena. On examination, he is anxious, sweaty and uncooperative with a pulse of 126/min, BP 80/60 mmHg and RR 24 breaths/min.
 #### Answer: 
 
 ## Q37: Theme: Management of Thyroid Disease
 
-	A. 
-	B.
-	C.
-	D.
-	E.
-	F.
-	G.
-	H.
+	A. Carbimazole
+	B. Hemithyroidectomy
+	C. Propranolol
+	D. Propylthiouracil
+	E. Radio-iodine ablation
+	F. Subtotal thyroidectomy
+	G. Thyroxine
+	H. Total thyroidectomy
 
 ### 148
+A 20-year-old woman presents with a smooth goitre, weight loss, palpitations and diarrhoea. She is diagnosed as having Graves’ disease but is unable to tolerate carbimazole due to development of agranulocytosis.
 #### Answer: 
+
 ### 149
+A 36-year-old woman is in her second trimester of pregnancy. She was mildly thyrotoxic at first but is increasingly symptomatic and requires treatment.
 #### Answer: 
+
 ### 150
+A 56-year-old woman diagnosed with toxic multinodular goitre which is unresponsive to medical treatment.
 #### Answer: 
+
 ### 151
+A 54-year-old woman presents with a goitre which has been there for a long time but was not bothering her. She is now having some difficulty breathing when lying down and feels 'pressure' in her throat.
 #### Answer: 
 
 ## Q38: Theme: Causes of Jaundice
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
 	
 ### 152
 #### Answer: 
