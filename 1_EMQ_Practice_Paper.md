@@ -218,7 +218,7 @@ A 30-year-old man who has been stabbed in the right loin with a kitchen knife ar
 #### Answer: 
 
 ### 31
-Following a hysterectomy a patient has macroscopic haematuria, ileus, pain and a low-grade fever. IVU reveals leakage from the left ureter. A 75% laceration with no devascularisation is found.
+Following a hysterectomy a patient has microscopic haematuria, ileus, pain and a low-grade fever. IVU reveals leakage from the left ureter. A 75% laceration with no devascularisation is found.
 #### Answer: 
 
 ## Q9: Theme: Burns
@@ -722,7 +722,8 @@ The inotrope that is used in the treatment of shock to increase total peripheral
 	G. Torsion of hydatid of Morgagni
 	H. Varicocele
 	
-- Bk1: ?
+- Bk1: Ø
+- Bk2: Ch8
 	
 ### 105
 A 23-year-old man presents with acute scrotal pain. The right testicle is exquisitely tender and is higher than the left. There is some superficial erythema.
@@ -745,7 +746,8 @@ A 70-year-old diabetic man presents in septic shock. The scrotum is swollen and 
 	E. Intubation
 	F. Plain X-rays of the skull
 	
-For each of the following scenarios, choose the most appropriate next step from the list above. Each option may be used once, more than once or not at all.
+- Bk1: 14628, 8068
+- Bk2: ?
 
 ### 108
 A 38-year-old man in a hard collar and with head restraints is brought to A&E by the paramedics on a spinal board. He has fallen from a horse. On arrival, he is unconscious and makes no response to painful stimuli. He has a large boggy swelling around his left occiput.
@@ -770,6 +772,9 @@ A 48-year-old man is brought to A&E following an RTA. He was unconscious at the 
 	G. 60 mL
 	H. 80 mL
 	
+- Bk1: 1770
+- Bk2: ?
+
 What is the maximum volume of each of the local anaesthetic agents given below that can safely be used in an 80-kg man who is otherwise healthy. Each option may be used once, more than once or not at all.
 
 ### 111
@@ -781,11 +786,11 @@ Bupivacaine 0.5%.
 #### Answer: 
 
 ### 113
-Bupivacaine 0.25% with 1 in 200 000 adrenaline.
+Bupivacaine 0.25% with 1 in 200,000 adrenaline.
 #### Answer: 
 
 ### 114
-Lidocaine 1% with 1 in 200 000 adrenaline.
+Lidocaine 1% with 1 in 200,000 adrenaline.
 #### Answer: 
 
 ## Q29: Theme: Chemotherapy
@@ -793,6 +798,8 @@ Lidocaine 1% with 1 in 200 000 adrenaline.
 	A. Adjuvant chemotherapy
 	B. Neo-adjuvant chemotherapy
 	C. No chemotherapy
+
+- Bk1: 13732
 
 ### 115
 A 46-year-old woman presents with a breast lump. After wide local excision and axillary node clearance she is found to have ductal carcinoma in situ with the excision margins clear and no lymph node involvement.
@@ -816,6 +823,8 @@ A 42-year-old woman has a cystectomy for squamous cell carcinoma of the bladder.
 	F. Short Synacthen test
 	G. Vitamin D levels
 	
+- Bk1: 10414
+
 ### 118
 A 36-year-old man presents with a history of intermittent hypertension, anxiety, palpitations, tachycardia and excess sweating. Phaeochromocytoma is suspected.
 #### Answer: 
@@ -847,6 +856,8 @@ A 24-year-old woman is referred for investigation after developing excessive hai
 	G. Metaplasia
 	H. Neoplasia
 	
+- Bk1: 12895
+
 ### 123
 Increased numbers of red blood cells in individuals living at altitude.
 #### Answer: 
@@ -873,6 +884,8 @@ Anencephaly (failure of neural tube development).
 	F. Staphylococcus aureus
 	G. Streptococcus faecalis
 	H. Streptococcus pyogenes	
+
+- Bk1: 10903
 
 ### 127
 A 42-year-old HIV-positive man with white fluffy patches in the mouth surrounded by painful areas of erythema.
@@ -904,6 +917,8 @@ A 33-year-old man presents to A&E with severe epigastric pain and signs of perit
  	B. Type II hypersensitivity reaction
  	C. Type III hypersensitivity reaction
  	D. Type IV hypersensitivity reaction	
+
+- Bk1: ?
 
 ### 133
 A 42-year-old woman develops itching, swelling and erythema at the site of the nickel buckle of a new watch.
