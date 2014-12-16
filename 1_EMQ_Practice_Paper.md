@@ -3,12 +3,60 @@ EMQ Practice Paper: 1
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1		| 
+1-5		| 5/5 = 100%	|
+6-8		| 1/3 =  33% 	| 7, 8
+9-12	| 2/4 =  50%	| 10, 12
+13-18	| ?/6 =  ??%	| 
+19-22	|
+23-25	|
+26-28	|
+29-31	|
+32-35	|
+36-39	|
+40-43	|
+44-47	|
+48-50	|
+51-53	|
+54-58	|
+59-64	|
+65-69	|
+70-74	|
+75-79	|
+80-82	|
+83-87	|
+88-91	|
+92-94	|
+95-100	|
+101-104	|
+105-107	|
+108-110	|
+111-114	|
+115-117	|
+118-122	|
+123-126	|
+127-132	|
+133-138	|
+139-142	|
+143-144	|
+145-147	|
+148-151	|
+152-154	|
+155-156	|
+157-159	|
+160-162	|
+163-165	|
+166-168	|
+169-171	|
+172-174	|
+175-177	|
+178-180	|
+181-183	|
+184-187	|
 
 Overall: ??/??? = ??.0%
 
 
-## Q1: Theme: Diathermy
+## Q1-5: Theme: Diathermy
 
 	A. Monopolar diathermy
 	B. Bipolar diathermy 
@@ -20,25 +68,44 @@ Overall: ??/??? = ??.0%
 
 ### 1
 Requires a patient plate electrode to be applied.
-#### Answer: 
+#### Answer: A. Monopolar diathermy - TRUE
 
 ### 2
 This is safer to use in patients with pacemakers.
-#### Answer: 
+#### Answer: B. Bipolar diathermy - TRUE
 
 ### 3
 Uses pulsed, short, high-frequency bursts.
-#### Answer: 
+#### Answer: D. Coagulation - TRUE
 
 ### 4
 Safe for use on digits.
-#### Answer: 
+#### Answer: B. Bipolar diathermy - TRUE
 
 ### 5
 Can be used for buzzing (touching other instruments to pass current through them).
-#### Answer: 
+#### Answer: A. Monopolar diathermy - TRUE
 
-## Q2: Theme: Extensor Compartments of the Wrist
+### Notes
+
+#### Monopolar Diathermy
+- Works with a high-power unit (400 W)
+	- Passing current from the active electrode through the patient to the patient electrode and back to the generator
+	- It can be used for cutting and buzzing
+
+#### Bipolar Diathermy
+- Works with a low-power unit (50 W)
+	- Passing current between the tips of the forcepts
+	- Safer to use in patients with pacemakers and on end-arteries in the extremities
+		- e.g Digits, Scrotum, Penis
+- It **cannot** be used for cutting or buzzing
+
+#### Cutting vs. Coagulation vs. Blend Diathermy
+- Cutting: works with a continuous output
+- Coagulation: with a pulsed, short high-frequency output
+- Blend: with a combination of the two 
+
+## Q6-8: Theme: Extensor Compartments of the Wrist
 
 	A. I
 	B. II
@@ -53,43 +120,86 @@ For each of the following statements, choose the most appropriate compartment fr
 
 ### 6
 Extensor carpi radialis brevis is in this compartment.
-#### Answer: 
+#### Answer: B. II - TRUE
 
 ### 7
 This compartment lies radial to Lister's tubercle at the wrist.
-#### Answer: 
+#### Answer: A. I - *FALSE* = B. II - TRUE
 
 ### 8
 Extensor digiti minimi is in this compartment.
-#### Answer: 
+#### Answer: F. VI - *FALSE* = #. V - TRUE
 
-## Q3: Theme: Sepsis
+### Notes - LEARN
+
+#### Extensor Compartments of Wrist and Contents
+
+Compartment | Contents							| Abbreviation
+------------|-----------------------------------|
+I			| Abductor pollicis longus			| APL
+			| Extensor pollicis brevis 			| EPB
+II			| Extensor carpi radialis brevis 	| ECRB
+			| Extensor carpi radialis longus 	| ECRL
+III			| Extensor pollicis longus 			| EPL
+IV			| Extensor indicis					| EI
+			| Extensor digitorum				| ED
+V			| Extensor digiti minimi			| EDM
+VI			| Extensor carpi ulnaris			| ECU
+
+
+#### Lister's Tubercle
+- Compartment II lies radial
+- Compartment III lies ulnar
+
+## Q9-12: Theme: Sepsis
 
 	A. Bacteraemia
-	B. Systemic inflammatory response 	syndrome (_to sepsis_; SIRS)
+	B. Systemic inflammatory response syndrome (_to sepsis_; SIRS)
 	C. Sepsis
 	D. Severe sepsis
-	E. Septic Shock
+	E. Septic shock
 
 - Bk1: 9670
 
-### 9
-A 30-year-old man presents with severe right loin pain, radiating to the groin. A mid-stream urine (MSU) shows blood, protein and nitrites. A KUB study reveals a calculus. His temperature is 39.1°C, pulse 127/min, respiratory rate (RR) 38 breaths/min and BP 81/43 mmHg despite 3 litres of intravenous fluids, and his white cell count (WCC) is 21 × 109/l.
-#### Answer: 
+### Q9
+A 30-year-old man presents with severe right loin pain, radiating to the groin. A mid-stream urine (MSU) shows blood, protein and nitrites. A KUB study reveals a calculus. His temperature is 39.1°C, pulse 127/min, respiratory rate (RR) 38 breaths/min and BP 81/43 mmHg despite 3 litres of intravenous fluids, and his white cell count (WCC) is 21 × 10^9/l.
+#### Answer: E. Septic shock - TRUE
 
-### 10
-A 79-year-old woman 1 week post-op has a pyrexia of 38.4°C, pulse 104/min, BP 144/90 mmHg and WCC 14 × 109/l. Chest X-ray (CXR) shows a left lower lobe pneumonia.
-#### Answer: 
+### Q10
+A 79-year-old woman 1 week post-op has a pyrexia of 38.4°C, pulse 104/min, BP 144/90 mmHg and WCC 14 × 10^9/l. Chest X-ray (CXR) shows a left lower lobe pneumonia.
+#### Answer: B. Systemic inflammatory response syndrome (_to sepsis_; SIRS) - *FALSE* = C. Sepsis - TRUE
 
-### 11
+### Q11
 A 30-year-old male post-op patient had blood cultures taken 48 hours ago which are positive. He is currently apyrexial, pulse 64/min, RR 12 breaths/min, BP 123/82 mmHg, with a normal WCC.
-#### Answer: 
+#### Answer: A. Bacteraemia - TRUE
 
-### 12
-A 27-year-old female post-op patient has a temperature of 38.7°C, pulse 86/min, RR 24 breaths/min, BP 127/74 mmHg and WCC 16 × 109/l. Her CXR is clear, an MSU negative and the wound is fine.
-#### Answer: 
+### Q12
+A 27-year-old female post-op patient has a temperature of 38.7°C, pulse 86/min, RR 24 breaths/min, BP 127/74 mmHg and WCC 16 × 109/l. Her CXR is clear, an MSU negative and the wound is fine. 
+#### Answer: C. Sepsis - *FALSE* = B. Systemic inflammatory response syndrome (_to sepsis_; SIRS) - TRUE
 
-## Q4: Theme: Facial Nerve Palsies (CN VII)
+### Notes
+The important definitions concerning sepsis are:
+
+#### Bacteraemia
+- Presence of bacteria in the bloodstream
+
+#### SIRS (Systemic Inflammatory Response Syndrome)
+- Systemic inflammatory response to a range of insults, with 2 or more of the following
+	1. Temperature (T) < 36ºC or > 38ºC
+	2. Pulse (HR) < 90 bpm
+	3. Respiratory Rate (RR) > 20 bpm **or** PaCO2 > 4.3 kPa
+	4. White Cell Count (WCC) < 4 x 10^9 /L **or** > 12 x 10^9 /L
+
+#### Sepsis
+- SIRS + **documented infection**
+
+#### Severe Sepsis
+- Sepsis + HyPOtension + HyPOperfusion + Organ Dysfunction
+
+#### Septic Shock
+- Sepsis + Hypotension persisting despite adequate fluid resuscitation
+
+## Q13-18: Theme: Facial Nerve Palsies (CN VII)
 
 	A. Multiple sclerosis (MS)
 	B. Acoustic neuroma
@@ -107,23 +217,23 @@ A 27-year-old female post-op patient has a temperature of 38.7°C, pulse 86/min,
 
 ### 13
 An 18-year-old man presents to A&E with a head injury. He has a facial nerve palsy, Battle's sign and haemotympanum.
-#### Answer: 
+#### Answer: ?
 
 ### 14
 A 30-year-old woman presents with a sudden-onset facial nerve palsy sparing the forehead. She has a past medical history of optic neuritis.
-#### Answer: 
+#### Answer: ?
 
 ### 15
 An 80-year-old man presents with a facial nerve palsy, preceded by severe pain in the distribution of the facial nerve. He reports vertigo and hearing loss. Papules are seen on the tongue.
-#### Answer: 
+#### Answer: ?
 
 ### 16
 A 50-year-old man presents with a facial nerve palsy. He has had an intermittent discharge from his right ear for 2 months. He has posterosuperior retraction of the tympanic membrane.
-#### Answer: 
+#### Answer: ?
 
 ### 17
 A 55-year-old woman presents with a facial nerve palsy, sensorineural hearing loss, tinnitus and vertigo.
-#### Answer: 
+#### Answer: ?
 
 ### 18
 A 23-year-old man presents with a facial nerve palsy and a 3-month history of conductive hearing loss. The tympanic membrane is dull in the left ear.
@@ -918,7 +1028,7 @@ A 33-year-old man presents to A&E with severe epigastric pain and signs of perit
  	C. Type III hypersensitivity reaction
  	D. Type IV hypersensitivity reaction	
 
-- Bk1: ?
+- Bk1: 10658
 
 ### 133
 A 42-year-old woman develops itching, swelling and erythema at the site of the nickel buckle of a new watch.
@@ -954,6 +1064,8 @@ A baby develops haemolytic disease of the newborn. The mother is rhesus-negative
 	F. 13
 	G. 14
 	
+- Bk1: 15559
+
 ### 139
 A 25-year-old motorcyclist is involved in a head-on collision with a lorry. On arrival in A&E he is unable to obey commands, but localises to pain and is able to speak but appears confused. He only opens his eyes in response to pain.
 #### Answer: 
@@ -981,6 +1093,8 @@ A 29-year-old man involved in a pub brawl is hit over the head with a glass bott
 	G. Nephro-uretectomy
 	H. Transurethral resection of bladder tumour (TURBT)
 
+- Bk1: 10239, 13013, 13802
+
 ### 143
 A 45-year-old woman presents with a 3-week history of haematuria. An IVU reveals a filling defect in the renal pelvis. This is confirmed as a soft-tissue mass on CT scan.
 #### Answer: 
@@ -996,6 +1110,8 @@ A 55-year-old woman is found to have widespread carcinoma in situ (CIS) on cysto
 	C. Class III haemorrhagic shock
 	D. Class IV haemorrhagic shock
  	
+- Bk1: ?
+
 ### 145
 A 20-year-old man involved in an RTA sustains bilateral fractured femurs. He is brought to A&E, where on assessment he is found to be anxious and confused, with a pulse of 130/min and BP of 70/50 mmHg. Urine output over 1 hour is 10 ml.
 #### Answer: 
@@ -1018,6 +1134,8 @@ A 60-year-old alcoholic has three episodes of haematemesis (total 500 ml) and me
 	F. Subtotal thyroidectomy
 	G. Thyroxine
 	H. Total thyroidectomy
+
+- Bk1: ?
 
 ### 148
 A 20-year-old woman presents with a smooth goitre, weight loss, palpitations and diarrhoea. She is diagnosed as having Graves’ disease but is unable to tolerate carbimazole due to development of agranulocytosis.
@@ -1044,6 +1162,8 @@ A 54-year-old woman presents with a goitre which has been there for a long time 
 	E. Hepatitis
 	F. Primary liver carcinoma
 	
+- Bk1: ?
+
 ### 152
 A 20-year-old woman presents with complaints of dark-coloured urine, pale stools and weight loss for a few weeks. On examination she has painless jaundice.
 #### Answer: 
@@ -1058,13 +1178,15 @@ A known intravenous drug misuser with a history of hepatitis B presents with jau
 
 ## Q39: Theme: Knee Injuries
 
-	A. Anterior cruciate ligament tear
+	A. Anterior cruciate ligament (ACL) tear
 	B. Lateral meniscus tear
 	C. Medial collateral ligament tear
 	D. Medial meniscus tear
 	E. Patella fracture
-	F. Posterior cruciate ligament tear
+	F. Posterior cruciate ligament (PCL) tear
  	
+- Bk1: 21648
+
 ### 155
 A 35-year-old rugby player twists his knee during a match. It gradually swells and becomes tender, and he finds himself unable to fully extend it. It is tender over the medial joint line. An X-ray shows evidence of an effusion. Despite aspiration of the traumatic effusion, he is still unable to fully extend the knee.
 #### Answer: 
@@ -1081,6 +1203,8 @@ A 25-year-old footballer hyperextends his knee while attempting to kick the ball
 	D. Radical prostatectomy
 	E. Surveillance
 	
+- Bk1: 13516, 
+
 ### 157
 An 80-year-old man diagnosed with a pT1 prostate cancer, an incidental finding when the chips obtained from TURP were examined.
 #### Answer: 
@@ -1101,6 +1225,8 @@ A 65-year-old man was diagnosed as having prostate cancer with lung and bony met
 	D. Strict non-weight-bearing and physiotherapy only
 	E. Support, non-steroidal anti-inflammatory drugs (NSAIDs) and early mobilisation
 	
+- Bk1: 20831
+
 ### 160
 A 46-year-old woman stumbles on a pavement kerb, landing awkwardly on her left ankle. She is unable to weight bear. An X-ray shows a fracture of the lateral malleolus only.
 #### Answer: 
@@ -1121,7 +1247,9 @@ A 29-year-old woman stumbles while running for the bus, landing heavily on her l
 	D. Haemorrhage
 	E. Invasion into adjacent organ
 	F. Obstruction
-	
+
+- Bk1: 9051
+
 ### 163
 A 69-year-old man presents with a caecal mass presumed to be adenocarcinoma. While undergoing staging investigations, he develops right-sided abdominal pain, guarding and rebound in the right iliac fossa (RIF) associated with fever. There is a mild pyrexia and raised white blood cell count.
 #### Answer: 
@@ -1142,6 +1270,8 @@ A 52-year-old man with metastatic adenocarcinoma of the transverse colon present
 	D. Primary hyperparathyroidism
 	E. Secondary hyperparathyroidism
 	F. Tertiary hyperparathyroidism
+
+- Bk1: ?
 	
 ### 166
 A 69-year-old woman presents with paraesthesia, muscle cramps and a tingling sensation around the mouth. She has a past history of thyroidectomy for benign goitre.
@@ -1166,6 +1296,8 @@ A 47-year-old woman with a history of postural hypotension and pigmentation of t
 	G. Transurethral resection of prostate (TURP)
 	H. Trial without catheter (TWOC) and α-blocker
 	I. TWOC alone
+
+- Bk1: 1483, 12923, 13518
 	
 ### 169
 A 60-year-old man, day 1 post-op right shoulder hemiarthroplasty for severe arthritis develops acute urinary retention. He is catheterised and found to have a residual volume of 800 ml. Digital rectal examination (DRE) shows a smooth, benign, moderately sized prostate.
@@ -1187,6 +1319,8 @@ A 56-year-old man recently remarried and wants to start a family. He has long-st
 	D. Incisional hernia
 	E. Superficial infection
 	F. Wound dehiscence
+
+- Bk1: 11707, 17467, 2757, 2772, 2757
 
 ### 172
 A patient who has undergone appendicectomy has the sutures removed and the medial 2 cm of the wound opens up, with only a small serous discharge.
@@ -1211,6 +1345,8 @@ A patient who is 5 days post-op following appendicectomy develops low-grade pyre
 	G. Resection of bowel, anatomosis and repair of abdominal wall defect
 	H. Shouldice repair
  
+- Bk2: Ch1
+
 ### 175
 A 1-year-old infant of African origin has had an umbilical hernia since birth. He is asymptomatic.
 #### Answer: 
@@ -1232,6 +1368,8 @@ A fit and well 32-year-old man develops bilateral inguinal hernias which are inc
 	E. Mitomycin
 	F. Oral ciprofloxacin
 	G. Rifampicin
+
+- Bk1: ?
 
 ### 178
 A 24-year-old woman presents with a several-month history of recurrent urinary tract infections (UTIs), recent night sweats and weight loss. Mid-stream urine shows many white blood cells but fails to grow any bacteria. She spent her childhood in Bangladesh.
