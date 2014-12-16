@@ -8,9 +8,9 @@ Group	| Score			| Errors 					|
 9-12	| 2/4 =  50%	| 10, 12
 13-18	| 3/6 =  50%	| 16, 17, 18
 19-22	| 1/4 =  25%	| 19, 20, 21
-23-25	|
-26-28	|
-29-31	|
+23-25	| 0/3 =   0%	| 23, 24, 35
+26-28	| 2/3 =  66%	| 28
+29-31	| 
 32-35	|
 36-39	|
 40-43	|
@@ -320,15 +320,27 @@ The induction agent with a slight anti-emetic effect, which is the agent of choi
 
 ### Q23
 Laceration across both hypothenar and thenar eminences.
-#### Answer: 
+#### Answer: B. Zone 2 - *FALSE* = D. Zone 4 - TRUE
 
 ### Q24
 Most difficult to repair, often yielding poor functional outcome.
-#### Answer: B. Zone 2 - ?
+#### Answer: D. Zone 4 - *FALSE* = B. Zone 2 - TRUE
 
 ### Q25
 Laceration across the metacarpophalangeal (MCP) joints.
-#### Answer: 
+#### Answer: C. Zone 3 - *FALSE* = B. Zone 2 - TRUE
+
+### Zones of Flexor Tendon Injury
+
+Zone	| Description	|
+:------:|---------------| 
+1		| Between the distal and proximal interphalangeal joint creases
+2		| Between the midpoint of middle phalanx and distal palmar crease
+3		| Between distal palmar crease and distal margin of carpal tunnel
+4		| Over the carpal tunnel
+5		| From proximal margin of carpal tunnel up the wrist and forearm
+
+- Zone 2 is referred to as 'no man's land': repairs here often have **poor** outcomes
 
 ## Q26-28: Theme: Day-Case Surgery
 
@@ -339,15 +351,25 @@ Laceration across the metacarpophalangeal (MCP) joints.
 
 ### Q26
 A 40-year-old woman listed for varicose vein stripping, with no significant past medical history. Weight 90 kg, height 155 cm. Her husband can look after her post-op and she lives 10 minutes from the hospital.
-#### Answer: 
+#### Answer: B. Unsuitable for day-case surgery - TRUE
+- BMI = 90 / 1.55^2 = 37.5 > 35 → Unsuitable for day-case surgery
 
 ### Q27
 A 64-year-old with well-controlled asthma listed for rigid cystoscopy. Weight 74 kg, height 173 cm. He lives with his wife approximately 10 minutes form the hospital.
-#### Answer: 
+#### Answer: A. Suitable for day-case surgery - TRUE
 
 ### Q28
 A 50-year-old man with angina requiring frequent GTN spray, listed for a knee arthroscopy. Weight 70 kg, height 180 cm. He lives with his wife approximately 5 minutes from the hospital.
-#### Answer: 
+#### Answer: A. Suitable for day-case surgery - *FALSE* = B. Unsuitable for day-case surgery - TRUE
+- ASA Grade 3 > 2 → Unsuitable for day-case surgery
+
+### Contraindications to Day-Case Surgery
+1. ASA > 2 (the patient in Q28)
+2. BMI > 35 (the patient in Q26)
+3. Extent of pathology
+4. No one at home after procedure
+5. Lives more than 1-hour away from hospital
+6. No access to a phone
 
 ## Q29-31: Theme: Urinary System Trauma
 
