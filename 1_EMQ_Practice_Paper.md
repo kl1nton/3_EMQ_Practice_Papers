@@ -6,8 +6,8 @@ Group	| Score			| Errors 					|
 1-5		| 5/5 = 100%	|
 6-8		| 1/3 =  33% 	| 7, 8
 9-12	| 2/4 =  50%	| 10, 12
-13-18	| ?/6 =  ??%	| 
-19-22	|
+13-18	| 3/6 =  50%	| 16, 17, 18
+19-22	| 1/4 =  25%	| 19, 20, 21
 23-25	|
 26-28	|
 29-31	|
@@ -66,23 +66,23 @@ Overall: ??/??? = ??.0%
 
 - Bk1: 3076
 
-### 1
+### Q1
 Requires a patient plate electrode to be applied.
 #### Answer: A. Monopolar diathermy - TRUE
 
-### 2
+### Q2
 This is safer to use in patients with pacemakers.
 #### Answer: B. Bipolar diathermy - TRUE
 
-### 3
+### Q3
 Uses pulsed, short, high-frequency bursts.
 #### Answer: D. Coagulation - TRUE
 
-### 4
+### Q4
 Safe for use on digits.
 #### Answer: B. Bipolar diathermy - TRUE
 
-### 5
+### Q5
 Can be used for buzzing (touching other instruments to pass current through them).
 #### Answer: A. Monopolar diathermy - TRUE
 
@@ -105,6 +105,7 @@ Can be used for buzzing (touching other instruments to pass current through them
 - Coagulation: with a pulsed, short high-frequency output
 - Blend: with a combination of the two 
 
+
 ## Q6-8: Theme: Extensor Compartments of the Wrist
 
 	A. I
@@ -118,15 +119,15 @@ Can be used for buzzing (touching other instruments to pass current through them
 
 For each of the following statements, choose the most appropriate compartment from the list above. Each option may be used once, more than once or not at all.
 
-### 6
+### Q6
 Extensor carpi radialis brevis is in this compartment.
 #### Answer: B. II - TRUE
 
-### 7
+### Q7
 This compartment lies radial to Lister's tubercle at the wrist.
 #### Answer: A. I - *FALSE* = B. II - TRUE
 
-### 8
+### Q8
 Extensor digiti minimi is in this compartment.
 #### Answer: F. VI - *FALSE* = #. V - TRUE
 
@@ -150,6 +151,7 @@ VI			| Extensor carpi ulnaris			| ECU
 #### Lister's Tubercle
 - Compartment II lies radial
 - Compartment III lies ulnar
+
 
 ## Q9-12: Theme: Sepsis
 
@@ -199,6 +201,7 @@ The important definitions concerning sepsis are:
 #### Septic Shock
 - Sepsis + Hypotension persisting despite adequate fluid resuscitation
 
+
 ## Q13-18: Theme: Facial Nerve Palsies (CN VII)
 
 	A. Multiple sclerosis (MS)
@@ -215,31 +218,45 @@ The important definitions concerning sepsis are:
 
 - Bk1: 15757
 
-### 13
+### Q13
 An 18-year-old man presents to A&E with a head injury. He has a facial nerve palsy, Battle's sign and haemotympanum.
-#### Answer: ?
+#### Answer: G. Temporal bone fracture - TRUE
+- Recent head injury suggests temporal bone fracture
+	- Battle's sign and haemotympanum are both signs of this
 
-### 14
+### Q14
 A 30-year-old woman presents with a sudden-onset facial nerve palsy sparing the forehead. She has a past medical history of optic neuritis.
-#### Answer: ?
+#### Answer: A. Multiple sclerosis (MS) - TRUE
+- Sparing of Forehead suggests that the cause of facial nerve palsy is supranuclear
+- Optic Neuritis is a common presentation of Multiple Sclerosis (MS)
 
-### 15
+### Q15
 An 80-year-old man presents with a facial nerve palsy, preceded by severe pain in the distribution of the facial nerve. He reports vertigo and hearing loss. Papules are seen on the tongue.
-#### Answer: ?
+#### Answer: H. Ramsay-Hunt syndrome - TRUE
+- Ramsay-Hunt syndrome is _Herpes Zoster_
+- Hx of severe pain prior to palsy + vertigo + hearing loss + papules
+	- Which can be present in ear canal or tongue → Dx of Ramsay-Hunt syndrome
 
-### 16
+### Q16
 A 50-year-old man presents with a facial nerve palsy. He has had an intermittent discharge from his right ear for 2 months. He has posterosuperior retraction of the tympanic membrane.
-#### Answer: ?
+#### Answer: I. Chronic suppurative otitis media - *FALSE* = D. Cholesteatoma - TRUE
+- Hx of 2/12 intermittent discharge is a concerning feature with Facial Nerve Palsy
+- Cholesteatoma Dx should not be missed
+	- Typically cause **retraction pockets** in tympanic membrane 
 
-### 17
-A 55-year-old woman presents with a facial nerve palsy, sensorineural hearing loss, tinnitus and vertigo.
-#### Answer: ?
+### Q17
+A 55-year-old woman presents with a facial nerve palsy, _sensorineural hearing loss_, tinnitus and vertigo.
+#### Answer: K. Bell's palsy - *FALSE* = B. Acoustic neuroma - TRUE
+- Accompanying Sx, esp. sensorineural hearing loss, are typical of Acoustic Neuroma
 
-### 18
-A 23-year-old man presents with a facial nerve palsy and a 3-month history of conductive hearing loss. The tympanic membrane is dull in the left ear.
-#### Answer: 
+### Q18
+A 23-year-old man presents with a facial nerve palsy and a 3-month history of _conductive hearing loss_. The _tympanic membrane is dull_ in the left ear.
+#### Answer: B. Acoustic neuroma - *FALSE = I. Chronic suppurative otitis media - TRUE
+- Hx of hearing loss (conductive) + dull tympanic membrane (fluid collecting behind)
+	- Point to Chronic Suppurative Otitis Media
 
-## Q5: Theme: Anaesthetic Agents
+
+## Q19-22: Theme: Anaesthetic Agents
 
 	A. Thiopentone sodium
 	B. Propofol
@@ -249,26 +266,49 @@ A 23-year-old man presents with a facial nerve palsy and a 3-month history of co
 	F. Vercuronium
 	G. Halothane
 	H. Enflurane
+	I. Isoflurane
+	J. Sevoflurane
+	K. Nitrous oxide
 	
 - Bk1: 2030
 
-### 19
-Can cause a ‘coronary steal’ syndrome.
-#### Answer: 
+### Q19
+Can cause a 'coronary steal' syndrome.
+#### Answer: G. Halothane - *FALSE* = I. Isoflurane - TRUE
+- Isoflurane is known to be associated with a 'coronary steal' syndrome
 
-### 20
+### Q20
 The most rapidly acting depolarising muscle relaxant.
-#### Answer: 
+#### Answer: A. Thiopentone sodium - *FALSE* = D. Suxamethonium - TRUE
+- Depolarising muscle relaxants
+	- Suxamethonium
+- Non-depolarising muscle relaxants
+	- Atracurium
+	- Vercuronium
 
-### 21
-The only inhalational anaesthetic not known to cause malignant hyperpyrexia.
-#### Answer: 
+### Q21
+The only inhalational anaesthetic not known to cause malignant hyPERpyrexia.
+#### Answer: D. Suxamethonium - *FALSE* - K. Nitrous oxide - TRUE
+- Inhalation agents
+	- Halothane
+	- Enflurance
+	- Isoflurane
+	- Sevoflurane
+	- Nitrous oxide
+- **All** inhalational agents *except* Nitrous Oxide can cause malignant hyPERpyrexia
+	- Suxamethonium (a rapidly-acting depolarising muscle relaxant) can also cause it
 
-### 22
+### Q22
 The induction agent with a slight anti-emetic effect, which is the agent of choice with laryngeal masks.
-#### Answer: 
+#### Answer: B. Propofol - TRUE
+- Induction agents include
+	1. Thiopentone sodium
+	2. Propofol
+	3. Etomidate
+- Propofol is the only one with a slight anti-emetic effect
+	- And is the choice of agent with laryngeal masks
 
-## Q6: Theme: Flexor Tendon Injuries
+## Q23-25: Theme: Flexor Tendon Injuries
 
 	A. Zone 1
 	B. Zone 2
@@ -278,38 +318,38 @@ The induction agent with a slight anti-emetic effect, which is the agent of choi
 	
 - Bk1: 22778
 
-### 23
+### Q23
 Laceration across both hypothenar and thenar eminences.
 #### Answer: 
 
-### 24
+### Q24
 Most difficult to repair, often yielding poor functional outcome.
 #### Answer: B. Zone 2 - ?
 
-### 25
+### Q25
 Laceration across the metacarpophalangeal (MCP) joints.
 #### Answer: 
 
-## Q7: Theme: Day-Case Surgery
+## Q26-28: Theme: Day-Case Surgery
 
 	A. Suitable for day-case surgery
 	B. Unsuitable for day-case surgery
 	
 - Bk1: 3631
 
-### 26
+### Q26
 A 40-year-old woman listed for varicose vein stripping, with no significant past medical history. Weight 90 kg, height 155 cm. Her husband can look after her post-op and she lives 10 minutes from the hospital.
 #### Answer: 
 
-### 27
+### Q27
 A 64-year-old with well-controlled asthma listed for rigid cystoscopy. Weight 74 kg, height 173 cm. He lives with his wife approximately 10 minutes form the hospital.
 #### Answer: 
 
-### 28
+### Q28
 A 50-year-old man with angina requiring frequent GTN spray, listed for a knee arthroscopy. Weight 70 kg, height 180 cm. He lives with his wife approximately 5 minutes from the hospital.
 #### Answer: 
 
-## Q8: Theme: Urinary System Trauma
+## Q29-31: Theme: Urinary System Trauma
 
 	A. Class I
 	B. Class II
@@ -319,19 +359,19 @@ A 50-year-old man with angina requiring frequent GTN spray, listed for a knee ar
 
 - Bk1: 16436
 
-### 29
+### Q29
 An 18-year-old football player who sustained a kick to the loin during a game subsequently develops microscopic haematuria.
 #### Answer: 
 
-### 30
+### Q30
 A 30-year-old man who has been stabbed in the right loin with a kitchen knife arrives in A&E with a pulse of 112/min, BP 120/100 mmHg. He has frank haematuria. IVU reveals urinary extravasation.
 #### Answer: 
 
-### 31
+### Q31
 Following a hysterectomy a patient has microscopic haematuria, ileus, pain and a low-grade fever. IVU reveals leakage from the left ureter. A 75% laceration with no devascularisation is found.
 #### Answer: 
 
-## Q9: Theme: Burns
+## Q32-35: Theme: Burns
 
 	A. 10,800 mL
 	B. 5,400 mL
@@ -342,23 +382,23 @@ Following a hysterectomy a patient has microscopic haematuria, ileus, pain and a
 	
 - Bk1: 16885
 
-### 32
+### Q32
 A man weighing 80 kg is admitted as an emergency after being rescued from a house fire. He has red, painful, blistered burns to his right arm, chest and abdomen. How much fluid does he require over the first 24 hours following his injury?
 #### Answer: 
 
-### 33
+### Q33
 A 60-kg woman is admitted to A&E with extensive burns. Her left arm and leg have dry, white, painless burns, and her anterior torso has erythematous painful burns with blistering. How much fluid does she require over the first 8 hours after her injury?
 #### Answer: 
 
-### 34
+### Q34
 A 120-kg chef is involved in a fire at work. He has sustained red, painful, blistered burns to both his arms, and has erythematous areas to his chest that haven't blistered. How much fluid does he require for resuscitation over the first 8 hours after this injury?
 #### Answer: 
 
-### 35
+### Q35
 An 60-kg woman is involved in a house fire after falling asleep with a lit cigarette. She sustains full-thickness burns to both arms and legs, and partial-thickness burns to the front of her torso. How much fluid should she be given in the first 24 hours after this injury?
 #### Answer: 
 	
-## Q10: Theme: Anti-Emetics
+## Q36-39: Theme: Anti-Emetics
 
 	A. Cyclizine
 	B. Metoclopromide
@@ -368,19 +408,19 @@ An 60-kg woman is involved in a house fire after falling asleep with a lit cigar
 
 - Bk1: ?
 
-### 36
+### Q36
 A selective 5-hydroxytryptamine antagonist, useful for preventing vomiting caused by cytotoxic drugs.
 #### Answer: 
 
-### 37
+### Q37
 A selective 5-hydroxytryptamine antagonist, useful for preventing vomiting caused by cytotoxic drugs.
 #### Answer: 
 
-### 38
+### Q38
 An H1-receptor antagonist, most effective if given before the onset of nausea and vomiting.
 #### Answer: 
 
-### 39
+### Q39
 A non-phenothiazine antipsychotic used to combat vomiting caused by emetogenic anti-cancer drugs.
 #### Answer: 
 
@@ -614,7 +654,7 @@ A 19-year-old man attends with a large tonsillar abscess. Bacteriological examin
 A 74-year-old with a chronic venous leg ulcer develops an infection within the ulcer. Bacteriological examination reveals a Gram-negative bacillus.
 #### Answer: 
 
-## Q19: Theme: Cord Lesions
+## Q75-78: Theme: Cord Lesions
 
 	A. Anterior cord syndrome
 	B. Brown-Sequard syndrome
