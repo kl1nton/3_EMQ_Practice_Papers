@@ -164,273 +164,226 @@ An 80-year-old man with known Paget's disease affecting both legs presents with 
 
 ## Q26-29: Theme: Management of Acute Ischaemia
 
-A   Amputation
- 
-B   Angioplasty
- 
-C   Embolectomy
- 
-D   Management of risk factors
- 
-E   Reconstruction
- 
-F   Thrombolysis
- 
-G   Watch and wait
+	A. Amputation
+	B. Angioplasty
+	C. Embolectomy
+	D. Management of risk factors
+	E. Reconstruction
+	F. Thrombolysis
+	G. Watch and wait
 
-### 26
+### Q26
 A 72-year-old man has history of atrial fibrillation but not of peripheral vascular disease or claudication pain. He presents to A&E with a 2-hour history of an acutely ischaemic left leg. Angiography shows a blockage at the origin of the left femoral artery.
 #### Answer: 
 
-### 27
+### Q27
 An 84-year-old woman, who lives alone, presents with a 36-hour history of acute ischaemia of right foot. Angiography shows occlusion of the right superficial femoral artery.
 #### Answer: 
 
-### 28
+### Q28
 A 64-year-old man, a heavy smoker, has a history of intermittent claudication affecting the right calf. He presents with an acutely ischaemic right leg. On examination the limb is found to be insensate. Angiography shows occlusion of the right femoral artery with good distal run-off.
 #### Answer: 
 
-### 29
+### Q29
 A 70-year-old woman has a history of acute on chronic ischaemic right leg. This was treated initially with thrombolysis, which failed. An angiogram shows occlusion of the superficial femoral artery with poor distal run-off.
 #### Answer: 
 
-## Q7: Theme: Neck Lumps
+## Q30-35: Theme: Neck Lumps
 
-A   Branchial cyst
- 
-B   Cystic hygroma
- 
-C   Lymph node
- 
-D   Lymphoma
- 
-E   Thyroglossal cyst
- 
-F   Thyroid carcinoma
- 
-G   Toxic multinodular goitre
- 
-H   Cervical rib
- 
-I   Pharyngeal pouch
- 
-J   Chemodectoma
+	A. Branchial cyst
+	B. Cystic hygroma
+	C. Lymph node
+	D. Lymphoma
+	E. Thyroglossal cyst
+	F. Thyroid carcinoma
+	G. Toxic multinodular goitre
+	H. Cervical rib
+	I. Pharyngeal pouch
+	J. Chemodectoma
 
-### 30
+### Q30
 A 12-year-old child presents with a painless midline neck swelling which is fluctuant on palpation. It moves both on swallowing and on protrusion of the tongue.
 #### Answer: 
 
-### 31
+### Q31
 A 2-year-old boy presents with unilateral painless swelling at the base of the neck. It brilliantly transilluminates.
 #### Answer: 
 
-### 32
+### Q32
 A 25-year-old woman presents with an irregular, painless, midline neck swelling which moves on swallowing but not on protrusion of the tongue. She also complains of feeling anxious and sweaty, and has lost some weight in recent weeks.
 #### Answer: 
 
-### 33
+### Q33
 A 35-year-old man presents with an enlarging neck lump between the junction of the upper and middle thirds of the anterior border of the left sternocleidomastoid muscle. The mass is non-tender.
 #### Answer: 
 
-### 34
+### Q34
 A 69-year-old gentleman presents with weight loss, epigastric pain and a hard lump in the supraclavicular fossa.
 #### Answer: 
 
-### 35
+### Q35
 A 50-year-old man attends complaining of a painless lump in the neck. On examination a 4-cm, smooth, firm lump is found in the upper part of the anterior triangle of the neck. It is pulsatile and, on further questioning, the patient admits to a number of recent blackouts.
 #### Answer: 
 
-## Q8: Theme: Surgical Management of Inflammatory Bowel Disease
+## Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
 
-A   Colectomy and ileorectal anastomosis
- 
-B   Extended right hemicolectomy
- 
-C   Ileo-caecal resection
- 
-D   Proctocolectomy and ileo-anal pouch
- 
-E   Proctocolectomy and ileostomy
- 
-F   Stricturoplasty
- 
-G   Subtotal colectomy + ileostomy + mucous fistula
+	A. Colectomy and ileorectal anastomosis
+	B. Extended right hemicolectomy
+	C. Ileo-caecal resection
+	D. Proctocolectomy and ileo-anal pouch
+	E. Proctocolectomy and ileostomy
+	F. Stricturoplasty
+	G. Subtotal colectomy + ileostomy + mucous fistula
 
-### 36
+### Q36
 A 15-year-old boy with a history of ulcerative colitis for 5 years has a 2-year history of severe disease, resulting in weight loss and growth failure. He is commenced on increasing doses of steroids without success. Disease is present from transverse colon to rectum.
 #### Answer: 
 
-### 37
+### Q37
 A 39-year-old gentleman with ulcerative colitis presents with a severe acute exacerbation. Three days after admission he develops severe abdominal pain, becomes septic, and on examination has a rigid abdomen with peritonism. Erect chest X-ray shows air under the diaphragm.
 #### Answer: 
 
-### 38
+### Q38
 A 27-year-old woman with Crohn's disease is admitted for the fourth occasion in 6 months with small-bowel obstruction. Barium follow-through shows a 4-cm stricture of the proximal ileum.
 #### Answer: 
 
-### 39
+### Q39
 A 22-year-old woman with diagnosis of Crohn's disease has a history over the past year of recurrent anaemia and weight loss. Colonoscopy shows severe inflammation and active disease affecting the caecum and terminal ileum. Maximum medical therapy has been unsuccessful.
 #### Answer: 
 
-### 40
+### Q40
 A 21-year-old patient with a history of severe ulcerative colitis has failed on medical treatment alone. Investigations show rectal sparing.
 #### Answer: 
 
-## Q9: Theme: Scrotal Swellings
 
-A   Acute epididymo-orchitis
+## Q41-46: Theme: Scrotal Swellings
+
+	A. Acute epididymo-orchitis
+	B. Encysted hydrocoele of the cord
+	C. Epididymal cyst
+	D. Chronic epididymo-orchitis
+	E. Haematocele
+	F. Hydrocoele
+	G. Inguino-scrotal hernia
+	H. Sebaceous cyst
+	I. Testicular tumour
+	J. Varicocele
  
-B   Encysted hydrocoele of the cord
- 
-C   Epididymal cyst
- 
-D   Chronic epididymo-orchitis
- 
-E   Haematocele
- 
-F   Hydrocoele
- 
-G   Inguino-scrotal hernia
- 
-H   Sebaceous cyst
- 
-I   Testicular tumour
- 
-J   Varicocele
- 
-### 41
+### Q41
 A 42-year-old man presents with a non-tender right scrotal swelling which has been gradually increasing in size over several months. On examination it is fluctuant and transilluminates. It is not possible to feel the right testicle separately from the swelling, but it is possible to get above it and feel the cord as a separate structure.
 #### Answer: 
 
-### 42
+### Q42
 A 65-year-old man presents with a slowly enlarging painless scrotal swelling. On examination it is fluctuant and transilluminates. It is possible to get above it on examination and feel the testis as a separate structure. The swelling is found to lie above and slightly behind the testis.
 #### Answer: 
 
-### 43
+### Q43
 A 70-year-old man has a history of a long-standing ‘aching’ sensation in the right testis. On examination he has a firm craggy mass and a few discharging sinuses on the scrotal skin. Urine microscopy shows sterile pyuria.
 #### Answer: 
 
-### 44
+### Q44
 A 38-year-old man presents with a left-sided scrotal swelling. On examination it is a soft, compressible swelling which does not have a cough impulse. It is not possible to get above it and it disappears on lying down.
 #### Answer: 
 
-### 45
+### Q45
 A 45-year-old man presents with a right-sided scrotal swelling which increases in size on standing up. On examination it is not transilluminable and it is not possible to get above it. There is a positive cough impulse.
 #### Answer: 
 
-### 46
+### Q46
 A 25-year-old man presents with a smooth, left-sided, painless scrotal swelling which is transilluminable and fluctuant. It is possible to feel the testis as a separate structure below the swelling.
 #### Answer: 
 
-## Q10: Theme: Upper Limb Fractures
 
-A   Barton's fracture
- 
-B   Bennett's fracture
- 
-C   Colles’ fracture
- 
-D   Galeazzi's fracture
- 
-E   Monteggia's fracture
- 
-F   Smith's fracture
+## Q47-50: Theme: Upper Limb Fractures
 
-### 47
+	A. Barton's fracture
+	B. Bennett's fracture
+	C. Colles’ fracture
+	D. Galeazzi's fracture
+	E. Monteggia's fracture
+	F. Smith's fracture
+
+### Q47
 A 24-year-old woman presents with a painful left arm following an RTA. The X-ray shows a fracture of the upper third of the ulna together with an associated dislocated radial head.
 #### Answer: 
 
-### 48
+### Q48
 An 84-year-old woman has a fall in the street, landing on her right hand, which appears swollen and deformed. An X-ray shows a fracture of the distal radius, which is angulated dorsally. The fracture extends intra-articularly and there is subluxation of the carpus.
 #### Answer: 
 
-### 49
+### Q49
 A 76-year-old woman stumbles down the stairs at home, landing heavily on her left arm. On examination she has a deformed, bruised left wrist. An X-ray shows an extra-articular fracture of the distal radius, which is displaced volarly.
 #### Answer: 
 
-### 50
+### Q50
 A 15-year-old boy is knocked off his bicycle and lands on his right arm. He presents to A&E with a swollen tender wrist. An X-ray shows a fracture of the mid-shaft of the radius and dislocation of the inferior radio-ulnar joint.
 #### Answer: 
 
 ## Q11: Theme: Staging of Colon Cancer
 
-A   Duke's A stage
- 
-B   Duke's B stage
- 
-C   Duke's C stage
- 
-D   Duke's D stage
+	A. Duke's A stage
+	B. Duke's B stage
+	C. Duke's C stage
+	D. Duke's D stage
 
-### 51
+### Q51
 A 68-year-old man presents with weight loss and iron-deficiency anaemia. Colonoscopy confirms a caecal mass. The specimen obtained at laparotomy shows adenocarcinoma extending through the bowel wall. All of the nine lymph nodes removed are involved.
 #### Answer: 
 
-### 52
+### Q52
 A 52-year-old man presents with a history of increasingly severe constipation and rectal bleeding. He is found to have a stenosing lesion of the distal sigmoid colon. Biopsy confirms adenocarcinoma. He undergoes anterior resection and the specimen shows three out of the total seven nodes removed are involved.
 #### Answer: 
 
-### 53
+### Q53
 A 25-year-old man from a family known to carry the HNPCC gene is found to have a lesion in the transverse colon at colonoscopy. Resection and histological examination of the specimen shows this to be invading the muscle layer of the bowel wall.
 #### Answer: 
 
-## Q12: Theme: Urinary System Trauma
+## Q54-56: Theme: Urinary System Trauma
 
-A   Catheterisation and contrast
+	A. Catheterisation and contrast
+	B. CT scan
+	C. Cystogram
+	D. Retrograde uteropyelography
+	E. Surgical exploration
+	F. Urethrogram
  
-B   CT scan
- 
-C   Cystogram
- 
-D   Retrograde uteropyelography
- 
-E   Surgical exploration
- 
-F   Urethrogram
- 
-### 54
+### Q54
 A 25-year-old man slips while walking along the top of a metal gate and falls, straddling the gate. On examination he is in significant pain and has butterfly pattern bruising to the perineum. There is fresh blood at the urethral meatus.
 #### Answer: 
 
-### 55
+### Q55
 A 30-year-old man involved in a fight sustains a blow to the groin with a blunt instrument. On examination there is gross swelling and bruising with an area of tense swelling around the left testicle, which is becoming increasingly large and painful.
 #### Answer: 
 
-### 56
+### Q56
 A 52-year-old man is mugged and stabbed with a knife in the area of the left renal angle. He complains of loin pain. Dipstick shows microscopic haematuria.
 #### Answer: 
 
-## Q13: Theme: Preparation of Patients for Endocrine Surgery
+## Q57-59: Theme: Preparation of Patients for Endocrine Surgery
 
-A   Bowel preparation
- 
-B   Calcitonin infusion
- 
-C   Corticosteroids
- 
-D   Phenoxybenzamine and propranolol
- 
-E   Thallium technetium scan
- 
-F   Thyroxine
- 
-G   Vocal cord examination
+	A. Bowel preparation
+	B. Calcitonin infusion
+	C. Corticosteroids
+	D. Phenoxybenzamine and propranolol
+	E. Thallium technetium scan
+	F. Thyroxine
+	G. Vocal cord examination
 
-### 57
+### Q57
 A 28-year-old woman with Graves’ disease resistant to medical treatment is due to have a subtotal thyroidectomy for symptoms of compression.
 #### Answer: 
 
-### 58
+### Q58
 A 42-year-old patient is planned to have a parathyroidectomy after presenting with raised calcium and parathyroid hormone levels with no history of renal disease.
 #### Answer: 
 
-### 59
+### Q59
 A 34-year-old patient is found to have bilateral adrenal masses on CT, and suspected to have phaeochromocytoma. An adrenalectomy is planned.
 #### Answer: 
 
-## Q14: Theme: Management of Paediatric Disorders
+## Q60-62: Theme: Management of Paediatric Disorders
 
-A   Broad-spectrum antibiotics
+	A   Broad-spectrum antibiotics
  
 B   Gastrografin enema
  
