@@ -8,196 +8,161 @@ Group	| Score			| Errors 					|
 Overall: ??/??? = ??.0%
 
 
-## Q1: Theme: Wound Closure
+## Q1-6: Theme: Wound Closure
 
-A   Healing by secondary intention with simple dressings
- 
-B   Primary closure
- 
-C   Split-thickness skin graft
- 
-D   Full-thickness skin graft
- 
-E   Local flap
- 
-F   Free flap
+	A. Healing by secondary intention with simple dressings
+ 	B. Primary closure
+ 	C. Split-thickness skin graft
+ 	D. Full-thickness skin graft
+	E. Local flap
+	F.Free flap
 
-### 1
+### Q1
 A 45-year-old man with a grade IIIA open fracture of the tibia with loss of skin, fascia and muscle, and bone exposed over a 4-cm-diameter area mid-shin. No infection present.
 #### Answer: 
 
-### 2
+### Q2
 A 25-year-old woman with an injury to the pulp of the right middle finger, with a loss of approximately 1 cm of tissue. Bone not exposed, no infection present.
 #### Answer: 
 
-### 3
+### Q3
 A 29-year-old woman undergoing mastectomy for breast cancer, wishing to have a primary reconstruction.
 #### Answer: 
 
-### 4
+### Q4
 A 50-year-old man with a scalp laceration with an area of skin loss and fascia, down to bone, approximately 2 cm in diameter. No infection.
 #### Answer: 
 
-### 5
+### Q5
 Coverage of a 10-cm-diameter area of burns.
 #### Answer: 
 
-### 6
+### Q6
 A 35-year-old man with a degloving injury to the right arm, approximately 6 cm in extent, with the deep fascia still intact. No infection.
 #### Answer: 
 
-## Q2: Theme: Cardiac Murmurs
+## Q7-11: Theme: Cardiac Murmurs
 
-A   Mitral stenosis
- 
-B   Mitral regurgitation
- 
-C   Aortic stenosis
- 
-D   Aortic regurgitation
- 
-E   Atrial septal defect
- 
-F   Ventricular septal defect
- 
-G   Patent ductus arteriosus
+	A. Mitral stenosis
+ 	B. Mitral regurgitation
+ 	C. Aortic stenosis
+ 	D. Aortic regurgitation
+ 	E. Atrial septal defect
+ 	F. Ventricular septal defect
+ 	G. Patent ductus arteriosus
 
-### 7
+### Q7
 A 74-year-old woman is admitted with a fractured neck of femur. She reports several recent episodes of ‘fainting’ and increasing shortness of breath on exertion. Her apex beat is undisplaced and an ejection systolic murmur is heard from the base radiating to the carotids, loudest at the second intercostal space to the right of the sternum.
 #### Answer: 
 
-### 8
+### Q8
 A 70-year-old man attending pre-op clinic reports a 1-year history of exertional dyspnoea and palpitations. He has a malar flush, irregular pulse and undisplaced apex beat. A mid-diastolic murmur is heard.
 #### Answer: 
 
-### 9
+### Q9
 A 50-year-old man admitted with right upper quadrant pain reports increasing shortness of breath. He has an irregular pulse, raised JVP and bilateral pitting oedema. The apex beat is undisplaced and a pulmonary ejection systolic murmur is heard.
 #### Answer: 
 
-### 10
+### Q10
 A 4-month-old baby presents with abdominal pain, pneumonia and failure to thrive. He has had several previous chest infections. He has a systolic murmur, loudest in the second intercostal space at the left sternal edge.
 #### Answer: 
 
-### 11
+### Q11
 A 60-year-old woman in the pre-op clinic reports a 6-month history of dyspnoea, associated with palpitations. A water-hammer pulse is felt, and Corrigan's and Quincke's signs are noted. Her apex beat is displaced and a high-pitched early systolic murmur is heard.
 #### Answer: 
 
-## Q3: Theme: Treatment of Testicular Tumours
+## Q12-14: Theme: Treatment of Testicular Tumours
 
-A   Chemotherapy
- 
-B   Chemotherapy and radiotherapy
- 
-C   Orchidectomy and prophylactic radiotherapy
- 
-D   Orchidectomy and surveillance
- 
-E   Radiotherapy
- 
-F   Retroperitoneal lymph node dissection
- 
-G   Testicular biopsy
+	A. Chemotherapy
+	B. Chemotherapy and radiotherapy
+	C. Orchidectomy and prophylactic radiotherapy
+	D. Orchidectomy and surveillance
+	E. Radiotherapy
+	F. Retroperitoneal lymph node dissection
+	G. Testicular biopsy
 
-### 12
+### Q12
 A 22-year-old man presents with hard swelling of the left testis and undergoes orchidectomy. Histological examination shows non-seminomatous germ cell tumour. Staging CT scan shows retroperitoneal lymphadenopathy but no nodes above the diaphragm.
 #### Answer: 
 
-### 13
+### Q13
 A 30-year-old man with right-sided undescended testis develops a mass in the left testicle. Left orchidectomy shows seminoma. CT scan shows no evidence of spread.
 #### Answer: 
 
-### 14
+### Q14
 A 35-year-old man develops a hard right testicular mass. He undergoes orchidectomy, which shows it to be a seminoma. A staging CT scan shows lymph node spread above and below the diaphragm.
 #### Answer: 
 
-## Q4: Theme: Types of Hernia
+## Q15-21: Theme: Types of Hernia
 
-A   Direct inguinal hernia
- 
-B   Femoral hernia
- 
-C   Indirect inguinal hernia
- 
-D   Littre's hernia
- 
-E   Lumbar hernia
- 
-F   Paraumbilical hernia
- 
-G   Spigelian hernia
- 
-H   Maydl's hernia
- 
-I   Epigastric hernia
- 
-J   Richter's hernia
- 
-K   Umbilical hernia
+	A. Direct inguinal hernia
+	B. Femoral hernia
+	C. Indirect inguinal hernia
+	D. Littre's hernia
+	E. Lumbar hernia
+	F. Paraumbilical hernia
+	G. Spigelian hernia
+	H. Maydl's hernia
+	I. Epigastric hernia
+	J. Richter's hernia
+	K. Umbilical hernia
 
-### 15
+### Q15
 A 58-year-old man with previous laparotomy for diverticular disease develops a hernia at the lower end of his midline scar. The hernia becomes irreducible and he presents to A&E with severe pain. At operation the contents of the hernia show a strangulated Meckel's diverticulum.
 #### Answer: 
 
-### 16
+### Q16
 A 52-year-old woman presents with a tender swelling in the left groin. Examination reveals that this is irreducible with a cough impulse, and lies below and lateral to the pubic tubercle.
 #### Answer: 
 
-### 17
+### Q17
 A 28-year-old man presents with a groin swelling, which is easily reducible and has a cough impulse. On standing, the hernia descends into the scrotum. Reducing the hernia and placing pressure 1 cm above the midpoint of the inguinal ligament prevents the hernia from reappearing.
 #### Answer: 
 
-### 18
+### Q18
 A 78-year-old man presents with a reducible mass just superior to the right iliac crest.
 #### Answer: 
 
-### 19
+### Q19
 A 78-year-old man with a past history of chronic obstructive pulmonary disease (COPD) presents with a swelling that is protruding through the linea alba, adjacent to the umbilical cicatrix.
 #### Answer: 
 
-### 20
+### Q20
 A 44-year-old woman with a 3-month history of an aching lump is seen in clinic. There is a swelling protruding through the bands of the internal oblique at the level of the line of Douglas.
 #### Answer: 
 
-### 21
+### Q21
 A 52-year-old man presents with a painful, irreducible lump, which contains the antimesenteric border of the bowel.
 #### Answer: 
 
-## Q5: Theme: Bone Tumours
+## Q22-25: Theme: Bone Tumours
 
- 
-A   Angiosarcoma
- 
-B   Chondrosarcoma
- 
-C   Ewing's sarcoma
- 
-D   Giant-cell tumour
- 
-E   Metastasis from lung carcinoma
- 
-F   Myeloma
- 
-G   Osteoblastoma
- 
-H   Osteosarcoma
+	A. Angiosarcoma
+	B. Chondrosarcoma
+	C. Ewing's sarcoma
+	D. Giant-cell tumour
+	E. Metastasis from lung carcinoma
+	F. Myeloma
+	G. Osteoblastoma
+	H. Osteosarcoma
 
-### 22
+### Q22
 A 15-year-old boy presents with a painful enlarging mass of the lower left femur. An X-ray shows a sclerotic lesion with periosteal elevation. The knee joint is not involved. Chest X-ray shows lesions suspicious of pulmonary metastases. He has a past medical history of retinoblastoma as a child.
 #### Answer: 
 
-### 23
+### Q23
 A 60-year-old gentleman with a past history of multiple osteochondromas affecting the right proximal humerus and ribs presents with a slowly enlarging mass of the right humerus. The X-ray shows endosteal scalloping and cortical thickening. There is evidence of pulmonary spread on chest X-ray.
 #### Answer: 
 
-### 24
+### Q24
 A 10-year-old girl presents with a tender enlarging mass affecting the diaphysis of the left femur. An X-ray shows this to be a lytic lesion. Biopsy identifies it as being a tumour of vascular endothelium.
 #### Answer: 
 
-### 25
+### Q25
 An 80-year-old man with known Paget's disease affecting both legs presents with a painful mass affecting the right tibia. An X-ray shows a lytic lesion arising from the medullary cavity. Pulmonary metastases are present on chest X-ray.
 #### Answer: 
 
-## Q6: Theme: Management of Acute Ischaemia
+## Q26-29: Theme: Management of Acute Ischaemia
 
 A   Amputation
  
