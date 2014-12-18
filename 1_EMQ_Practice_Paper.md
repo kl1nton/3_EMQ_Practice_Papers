@@ -11,7 +11,7 @@ Group	| Score			| Errors 					|
 23-25	| 0/3 =   0%	| 23, 24, 35
 26-28	| 2/3 =  66%	| 28
 29-31	| 1/3 =  33%	| 29, 31
-32-35	|
+32-35	| 3/4 =  75%	| 34
 36-39	|
 40-43	|
 44-47	|
@@ -409,20 +409,28 @@ Following a hysterectomy a patient has _microscopic haematuria_, ileus, pain and
 
 ### Q32
 A man weighing 80 kg is admitted as an emergency after being rescued from a house fire. He has red, painful, blistered burns to his right arm, chest and abdomen. How much fluid does he require over the first 24 hours following his injury?
-#### Answer: 
+#### Answer: C. 8,640 mL - TRUE
+- arm: 9%, chest + abdomen: 18%
+- 9% x (1 + 2) = 27 x 4 x 80 = 8,640 mL in 24hr  
 
 ### Q33
-A 60-kg woman is admitted to A&E with extensive burns. Her left arm and leg have dry, white, painless burns, and her anterior torso has erythematous painful burns with blistering. How much fluid does she require over the first 8 hours after her injury?
-#### Answer: 
+A 60-kg woman is admitted to A&E with extensive burns. Her left arm and leg have dry, white, painless burns, and her anterior torso has erythematous painful burns *with blistering*. How much fluid does she require over the first 8 hours after her injury?
+#### Answer: B. 5,400 mL - TRUE
+- arm: 9%, leg: 18%, anterior torso: 18%
+- 9% x (1 + 2 + 2) = 45 x 4 x 60 = 10,800 mL in 24-hr => 5,400 mL in first 8-hr
 
 ### Q34
-A 120-kg chef is involved in a fire at work. He has sustained red, painful, blistered burns to both his arms, and has erythematous areas to his chest that haven't blistered. How much fluid does he require for resuscitation over the first 8 hours after this injury?
-#### Answer: 
+A 120-kg chef is involved in a fire at work. He has sustained red, painful, blistered burns to both his arms, and has erythematous areas to his chest that **haven't blistered**. How much fluid does he require for resuscitation over the first 8 hours after this injury?
+#### Answer: C. 8,640 mL - *FALSE* = D. 4,320 mL (18 x 4 x 120 / 2) - TRUE
+- arms: 2 x 9% = 18%, chest: 18%
+- 9% x (2 + 2) = 36 x 4 x 120 = 17,280 mL in 24-hr => 8,640 mL in first 8-hr 
 
 ### Q35
 An 60-kg woman is involved in a house fire after falling asleep with a lit cigarette. She sustains full-thickness burns to both arms and legs, and partial-thickness burns to the front of her torso. How much fluid should she be given in the first 24 hours after this injury?
-#### Answer: 
-	
+#### Answer: E. 17,280 mL - TRUE
+- arms: 18%, legs: 36%, torso: 18%
+- 9% (2 + 4 + 2) = 72 x 4 x 60 = 17,280 mL in 24-hr 
+
 ## Q36-39: Theme: Anti-Emetics
 
 	A. Cyclizine
