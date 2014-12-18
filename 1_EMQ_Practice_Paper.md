@@ -10,7 +10,7 @@ Group	| Score			| Errors 					|
 19-22	| 1/4 =  25%	| 19, 20, 21
 23-25	| 0/3 =   0%	| 23, 24, 35
 26-28	| 2/3 =  66%	| 28
-29-31	| 
+29-31	| 1/3 =  33%	| 29, 31
 32-35	|
 36-39	|
 40-43	|
@@ -382,16 +382,19 @@ A 50-year-old man with angina requiring frequent GTN spray, listed for a knee ar
 - Bk1: 16436
 
 ### Q29
-An 18-year-old football player who sustained a kick to the loin during a game subsequently develops microscopic haematuria.
-#### Answer: 
+An 18-year-old football player who sustained a kick to the loin during a game subsequently develops _microscopic haematuria_.
+#### Answer: B. Class II - *FALSE* = A. Class I - TRUE
+- Class I: _renal contusion_ or contained subcapsular haematoma
 
 ### Q30
-A 30-year-old man who has been stabbed in the right loin with a kitchen knife arrives in A&E with a pulse of 112/min, BP 120/100 mmHg. He has frank haematuria. IVU reveals urinary extravasation.
-#### Answer: 
+A 30-year-old man who has been stabbed in the right loin with a kitchen knife arrives in A&E with a pulse of 112/min, BP 120/100 mmHg. He has _frank haematuria_. IVU reveals *urinary extravasation*.
+#### Answer: D. Class IV - TRUE
+- Class IV: laceration across corticomedullary junction (with *urinary extravasation*)
 
 ### Q31
-Following a hysterectomy a patient has microscopic haematuria, ileus, pain and a low-grade fever. IVU reveals leakage from the left ureter. A 75% laceration with no devascularisation is found.
-#### Answer: 
+Following a hysterectomy a patient has _microscopic haematuria_, ileus, pain and a low-grade fever. IVU reveals leakage from the left ureter. A **75% laceration** with *no devascularisation* is found.
+#### Answer: E. Class V - *FALSE* = C: Class III - TRUE
+- Class III: *parenchymal laceration* > 1 cm into renal substance *without urinary extravasation*
 
 ## Q32-35: Theme: Burns
 
