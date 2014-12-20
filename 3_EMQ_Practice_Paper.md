@@ -775,103 +775,217 @@ An absorbable suture commonly used for bowel anastomosis.
 
 ## Q121-124: Theme: Multiple Endocrine Neoplasia (MEN)
 
+    A. Gorlin syndrome
+    B. Sipple syndrome
+    C. Werner syndrome
+
 ### Q121
+A very tall 20-year-old man with a high, arched palate, large span and long fingers, presenting with a medullary thyroid carcinoma.
 #### Answer: 
+
 ### Q122
+A 40-year-old woman presents with bilateral phaeochromocytoma. She has a past medical history of medullary thyroid carcinoma.
 #### Answer: 
+
 ### Q123
+A 50-year-old woman presents with pituitary adenoma and parathyroid hyperplasia. Her mother also had a pituitary adenoma.
 #### Answer: 
+
 ### Q124
+A 60-year-old man who has multiple mucosal neuromas presents with a medullary thyroid carcinoma.
 #### Answer: 
 
 ## Q125-128: Theme: Types of Graft
 
-### 125
+    A. Allogenic heterotropic graft
+    B. Allogenic orthotopic graft
+    C. Autogenic graft
+    D. Xenogenic heterotropic graft
+    E. Xenogenic orthotopic graft
+
+### Q125
+A kidney transplant from mother to son.
 #### Answer: 
-### 126
+
+### Q126
+A baboon's heart into a human recipient.
 #### Answer: 
-### 127
+
+### Q127
+A full-thickness skin graft.
 #### Answer: 
-### 128
+
+### Q128
+Pancreas from an unrelated human donor to a recipient.
 #### Answer: 
 
 ## Q129-133: Theme: Upper Gastrointestinal Haemorrhage
 
-### 129
+    A. Aorto-enteric fistula
+    B. Duodenal ulcer
+    C. Gastric malignancy
+    D. Gastric ulcer
+    E. Mallory–Weiss tear
+    F. Oesophageal varices
+    G. Oesophagitis
+    H. Vascular malformation
+
+### Q129
+A 80-year-old woman presents with haematemesis. She has had intermittent epigastric pain after food for the past 6 months. She has lost weight – about 3.5 kg (half a stone). She was recently commenced on diclofenac.
 #### Answer: 
-### 130
+
+### Q130
+A 21-year-old student presents with haematemesis. He drank a large amount of alcohol last night and was retching prior to the haematemesis.
 #### Answer: 
-### 131
+
+### Q131
+A 50-year-old man presents with a massive haematemesis. He is haemodynamically unstable. He has clubbing, palmar erythema, gynaecomastia and hepatomegaly.
 #### Answer: 
-### 132
+
+### Q132
+A 30-year-old man presents with haematemesis. He complains of a year-long history of epigastric pain relieved by eating. He is a smoker.
 #### Answer: 
-### 133
+
+### Q133
+A 64-year-old man presents with haematemesis and melaena. He is haemodynamically unstable. He has a previous history of an AAA repair 15 years ago.
 #### Answer: 
 
 ## Q134-138: Theme: Lower Gastrointestinal haemorrhage
 
-### 134
+    A. Angiodysplasia
+    B. Colorectal cancer
+    C. Crohn's disease
+    D. Diverticular disease
+    E. Haemorrhoids
+    F. Infection
+    G. Ulcerative colitis
+
+### Q134
+A 40-year-old patient presents with recurrent episodes of fresh bleeding per rectum, with no associated abdominal pain. Fresh blood, but no mass is found on rectal examination. The patient has telangiectasia on the face and mouth. His haemoglobin is 9.2 g/dl.
 #### Answer: 
-### 135
+
+### Q135
+A 25-year-old woman presents with a 1-month history of worsening intermittent bloody diarrhoea with mucus, associated with crampy abdominal pain. She has lost 3.5 kg (half a stone). There is clubbing of her fingers.
 #### Answer: 
-### 136
+
+### Q136
+A 70-year-old woman presents with a large, fresh rectal bleed. She has no abdominal pain. She gives a history of altered bowel habit and left-sided abdominal pain relieved by defecation for 1 year. She has not lost any weight.
 #### Answer: 
-### 137
+
+### Q137
+A 75-year-old man presents with a painless rectal bleed. He complains of altered bowel habit and tenesmus for a month, associated with smaller rectal bleeds. He has lost 1.5 kg (quarter of a stone).
 #### Answer: 
-### 138
+
+### Q138
+A 30-year-old pregnant woman presents with fresh bleeding per rectum, which she has noticed on the toilet paper.
 #### Answer: 
 
 ## Q139-143: Theme: Fluids
 
-### 139
+    A. 0 mmol/l
+    B. 4 mmol/l
+    C. 4.5 mmol/l
+    D. 5 mmol/l
+    E. 30 mmol/l
+    F. 50 mmol/l
+    G. 130 mmol/l
+    H. 142 mmol/l
+    I. 154 mmol/l
+
+### Q139
+The sodium concentration of serum.
 #### Answer: 
-### 140
+
+### Q140
+The sodium concentration of Hartmann's solution.
 #### Answer: 
-### 141
+
+### Q141
+The sodium concentration of Gelofusine.
 #### Answer: 
-### 142
+
+### Q142
+The sodium concentration of 4% dextrose saline.
 #### Answer: 
-### 143
+
+### Q143
+The potassium concentration of Gelofusine.
 #### Answer: 
 
 ## Q144-146: Theme: Hypovolaemic Shock
 
-### 144
+    A. Class I hypovolaemic shock
+    B. Class II hypovolaemic shock
+    C. Class III hypovolaemic shock
+    D. Class IV hypovolaemic shock
+
+### Q144
+An 18-year-old man involved in an RTA has a fractured right femur and open fracture of the left tibia. His pulse is 109/min regular, BP 114/90 mmHg and RR 25 breaths/min.
 #### Answer: 
-### 145
+
+### Q145
+A 50-year-old man with a bleeding peptic ulcer. His pulse is 98/min, BP 134/72 mmHg and RR 20 breaths/min.
 #### Answer: 
-### 146
+
+### Q146
+A 30-year-old pregnant woman with a per vaginal bleed. Her pulse is 138/min, BP 92/70 mmHg, RR 35 breaths/min.
 #### Answer: 
 
 ## Q147-150: Theme: Nutritional Support
 
-### 147
+    A. Jejunostomy
+    B. Nasogastric feeding
+    C. Nasojejunal feeding
+    D. Oral supplementation
+    E. Percutaneous endoscopic gastrostomy (PEG) feeding
+    F. Total parenteral nutrition (TPN)
+
+### Q147
+A patient with severe acute pancreatitis.
 #### Answer: 
-### 148
+
+### Q148
+A patient who has had a CVA affecting their swallowing a week ago.
 #### Answer: 
-### 149
+
+### Q149
+A patient undergoing Whipple's procedure.
 #### Answer: 
-### 150
+
+### Q150
+A patient with Crohn's disease affecting the small bowel.
 #### Answer: 
 
 ## Q151-153: Theme: Thyroid Neoplasms
 
-### 151
+    A. Anaplastic carcinoma
+    B. Follicular carcinoma
+    C. Malignant lymphoma
+    D. Medullary carcinoma
+    E. Metastases
+    F. Papillary carcinoma
+
+### Q151
 #### Answer: 
-### 152
+
+### Q152
 #### Answer: 
-### 153
+
+### Q153
 #### Answer: 
 
 ## Q154-157: Theme: Nipple Discharge
 
-### 154
+### Q154
 #### Answer: 
-### 155
+
+### Q155
 #### Answer: 
-### 156
+
+### Q156
 #### Answer: 
-### 157
+
+### Q157
 #### Answer: 
 
 ## Q158-160: Theme: Shoulder Pain
