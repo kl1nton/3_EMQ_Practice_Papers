@@ -966,84 +966,181 @@ A patient with Crohn's disease affecting the small bowel.
     F. Papillary carcinoma
 
 ### Q151
+A 35-year-old woman presents with a painless nodule, gradually increasing in size, in the left lobe of the thyroid. Histological examination reveals psammoma bodies.
 #### Answer: 
 
 ### Q152
+An 83-year-old woman presents with a rapidly growing hard painless lump in the right lobe of the thyroid, associated with dysphagia.
 #### Answer: 
 
 ### Q153
+A 47-year-old woman presents with a painless lump, gradually increasing in size, in the left lobe of the thyroid. Her serum calcitonin level is elevated.
 #### Answer: 
 
 ## Q154-157: Theme: Nipple Discharge
 
+    A. Ductal carcinoma in situ
+    B. Duct ectasia
+    C. Intraductal papilloma
+    D. Periductal mastitis
+    E. Physiological discharge
+    F. Prolactinoma
+
 ### Q154
+A 20-year-old woman with a bloody single-duct discharge and a palpable mass at the areola. No malignant cells are isolated from the discharge.
 #### Answer: 
 
 ### Q155
+A 31-year-old woman, a smoker, with a purulent discharge associated with tenderness.
 #### Answer: 
 
 ### Q156
+A 62-year-old woman with a bloody single-duct discharge. There is no palpable mass.
 #### Answer: 
 
 ### Q157
+A 33-year-old multiparous woman presents with a multiductal white discharge, no blood on dipstick. She is being investigated for weight gain and irregular menstruation.
 #### Answer: 
 
 ## Q158-160: Theme: Shoulder Pain
 
-### 158
+    A. Acute calcific tendonitis
+    B. Acute dislocation
+    C. Frozen shoulder
+    D. Glenohumeral arthritis
+    E. Recurrent dislocation
+    F. Referred from cervical spine
+    G. Rotator cuff tear
+    H. Subacromial impingement
+
+### Q158
+A 25-year-old woman presents with a 12-hour history of rapidly increasing severe right shoulder pain, worst on abduction between 120 and 170 degrees.
 #### Answer: 
-### 159
+
+### Q159
+An 18-year-old rugby player presents with severe left shoulder pain following a direct blow to the shoulder. The left shoulder appears flattened.
 #### Answer: 
-### 160
+
+### Q160
+A 73-year-old man presents 3 days after a fall with a painful left shoulder. The pain is worse at night and he is unable to lie on that side. Abduction and external rotation are severely decreased, and all movements are painful.
 #### Answer: 
 
 ## Q161-165: Theme: ASA Grading - Classification fo Physical Status
 
-### 161
+    A. Class 1
+    B. Class 2
+    C. Class 3
+    D. Class 4
+    E. Class 5
+
+For each of the following patients select the most appropriate ASA (American Society of Anesthesiologists) grade. 
+
+### Q161
+A 54-year-old man with chronic renal failure, requiring dialysis. He wants to have a total hip replacement for severe osteoarthritis.
 #### Answer: 
-### 162
+
+### Q162
+A 64-year-old woman with tablet-controlled hypertension for whom a laparoscopic cholecystectomy has been planned.
 #### Answer: 
-### 163
+
+### Q163
+A 34-year-old man ruptures his anterior cruciate ligament (ACL) playing football and needs to have it repaired.
 #### Answer: 
-### 164
+
+### Q164
+A 32-year-old patient with a 10-year history of ulcerative colitis, fully controlled with medication, due to undergo varicose vein stripping in the lower limbs.
 #### Answer: 
-### 165
+
+### Q165
+An 18-year-old man due to undergo inguinal hernia repair. He has a history of severe asthma that needed ICU admission in the past. He has to use inhalers four times a day, and is admitted to hospital with an acute exacerbation at least twice a year.
 #### Answer: 
 
 ## Q166-167: Theme: Staging of Transitional Cell Carcinoma of the Bladder
 
-### 166
+    A. Tis
+    B. T1
+    C. T2a
+    D. T2b
+    E. T3a
+    F. T3b
+    G. T4a
+    H. T4b
+
+### Q166
+A 67-year-old woman presents with a several-month history of painless haematuria. Ultrasound of the upper tracts in normal but urine cytological examination is positive for malignant cells. Bimanual examination under general anaesthetic shows that the tumour is fixed to the left lateral side wall.
 #### Answer: 
-### 167
+
+### Q167
+A 70-year-old man presents for 6-monthly surveillance cystoscopy following a diagnosis and resection of transitional cell carcinoma bladder (stage T1) 2 years ago. A suspicious area is seen and TURBT is carried out. Histological examination shows that the tumour breaches the lamina propria and invades the superficial muscle.
 #### Answer: 
 
 ## Q168-170: Theme: Polyps
 
-### 168
+    A. Fibroma
+    B. Hyperplastic polyp
+    C. Inflammatory polyp
+    D. Juvenile polyp
+    E. Peutz–Jeghers polyp
+    F. Tubular adenoma
+    G. Villous adenoma
+
+### Q168
+The most common polyp found in children. Present as PR bleeding or by prolapsing through the anus. Not pre-malignant.
 #### Answer: 
-### 169
+
+### Q169
+Rare colonic tumour which arises from the submucosal layer. Can contain muscle or glandular tissue.
 #### Answer: 
-### 170
+
+### Q170
+Most common type of polyp, usually found in the rectum. No evidence that they undergo malignant change.
 #### Answer: 
 
 ## Q171-172: Theme: Radiological Appearances
 
-### 171
+    A. Diverticular disease
+    B. Duodenal atresia
+    C. Hirschprung's disease
+    D. Necrotising enterocolitis
+    E. Perforated duodenal ulcer
+    F. Sigmoid volvulus
+    G. Ulcerative colitis
+
+### Q171
+Distended loop of bowel and ‘beak sign’ on instant enema.
 #### Answer: 
-### 172
+
+### Q172
+Tubular shaped colon with no faecal matter within the affected part of the bowel.
 #### Answer: 
 
 ## Q173-177: Theme: Peripheral Nerve Injury
 
-### 173
+    A. Axillary nerve
+    B. Median nerve
+    C. Musculocutaneous nerve
+    D. Posterior interosseous nerve of the forearm
+    E. Radial nerve
+    F. Ulnar nerve
+
+### Q173
+A 21-year-old man suffers an anterior dislocation of his right shoulder. Examination after reduction reveals an area of sensory loss around the lateral aspect of the shoulder.
 #### Answer: 
-### 174
+
+### Q174
+A 53-year-old woman falls onto an outstretched hand. X-rays of the elbow reveal a fracture of the radial neck. She has no sensory loss, but has weak extension of the wrist and cannot extend her fingers.
 #### Answer: 
-### 175
+
+### Q175
+A 66-year-old woman falls, fracturing the surgical neck of humerus. Six months after the injury she continues to struggle to abduct her shoulder.
 #### Answer: 
-### 176
+
+### Q176
+An 8-year-old boy has a supracondylar fracture of the right elbow. After initial K-wire fixation he reattends the clinic for routine follow-up. There is hyperextension of the metacarpophalangeal joints of the ring and little fingers and flexion of the interphalangeal joints.
 #### Answer: 
-### 177
+
+### Q177
+A 23-year-old man has a deep laceration to the anterior aspect of his arm. When seen in A&E there is pulsatile bleeding from the wound and he is unable to flex at the wrist.
 #### Answer: 
 
 ---
