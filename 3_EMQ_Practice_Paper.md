@@ -336,205 +336,455 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 
 ## Q51-54: Theme: Carotid Artery Disease
 
+	A. Best medical therapy
+	B. Endarterectomy left side
+	C. Endarterectomy right side
 
-### 51
+### Q51
+A fit and well 76-year-old patient presents with a history of right-sided facial drooping lasting approximately 12 hours, then fully resolving. Duplex scans show a bilateral carotid artery stenosis of 86%.
 #### Answer: 
 
-### 52
+### Q52
+A 73-year-old woman presents with three episodes of amaurosis fugax affecting the right eye during the past 6 months. Duplex scans reveal a bilateral stenosis of 75%.
 #### Answer: 
 
-### 53
+### Q53
+An 87-year-old man presents with an episode of right-sided hemiparesis which fully resolves after 1 week. Duplex scans show a right-sided stenosis of 100% and a left-sided stenosis of 50%.
 #### Answer: 
 
-### 54
+### Q54
+An 82-year-old woman presents with a history of one episode of vertigo and diplopia resolving within 24 hours. Duplex scans show a left-sided stenosis of 60%.
 #### Answer: 
 
 ## Q55-58: Theme: Head Injuries
 
-### 55
-#### Answer: 
-### 56
-#### Answer: 
-### 57
-#### Answer: 
-### 58
+	A. Admission for neurological observations
+	B. CT scan
+	C. Home with advice
+	D. Intubation and ventilation
+	E. Referral to neurosurgery
+	F. Skull X-ray
+
+### Q55
+A 50-year-old man falls and bangs his head on a cupboard. He cannot remember the events of the fall, but remembers everything since. He had a loss of consciousness of approximately 30 seconds witnessed by his wife, who lives with him.
 #### Answer: 
 
-## Q15: Theme: Blood Gas Analysis
-
-### 59
-#### Answer: 
-### 60
-#### Answer: 
-### 61
-#### Answer: 
-### 62
+### Q56
+A 70-year-old man on warfarin for atrial fibrillation trips and falls. There is no loss of consciousness, but he has large laceration over the occiput. He lives with his wife.
 #### Answer: 
 
-## Q16: Theme: Consent
-
-### 63
-#### Answer: 
-### 64
-#### Answer: 
-### 65
-#### Answer: 
-### 66
+### Q57
+A 30-year-old woman is hit with a metal bar. She has a depressed skull fracture on X-ray. Her Glasgow Coma Scale (GCS) score is 15.
 #### Answer: 
 
-## Q17: Theme: Scrotal Swellings
-
-### 67
-#### Answer: 
-### 68
-#### Answer: 
-### 69
-#### Answer: 
-### 70
-#### Answer: 
-### 71
+### Q58
+A 35-year-old woman has a head injury in an RTA. She remembers the events and did not lose consciousness. Her GCS is 15 throughout. She has a left haemotympanum on examination.
 #### Answer: 
 
-## Q18: Theme: Tumour Markers
+## Q59-62: Theme: Blood Gas Analysis
 
-### 72
-#### Answer: 
-### 73
-#### Answer: 
-### 74
-#### Answer: 
-### 75
-#### Answer: 
-### 76
-#### Answer: 
-### 77
+	A. Respiratory alkalosis
+	B. Respiratory acidosis with compensation
+	C. Respiratory acidosis without compensation
+	D. Metabolic alkalosis
+	E. Metabolic acidosis with compensation
+	F. Metabolic acidosis without compensation
+
+### Q59
+pH 7.47; Pa(O2) 12.3 kPa; Pa(CO2) 4.8 kPa; bicarbonate 25 mmol/l; base excess +5 mmol/l.
 #### Answer: 
 
-## Q19: Theme: Congenital Gastrointestinal Anomalies
-
-### 78
-#### Answer: 
-### 79
-#### Answer: 
-### 80
-#### Answer: 
-### 81
-#### Answer: 
-### 82
+### Q60
+pH 7.31; Pa(O2) 12.7 kPa; Pa(CO2) 3.2 kPa; bicarbonate 19 mmol/l; base excess –7 mmol/l.
 #### Answer: 
 
-## Q20: Theme: Treatment of Gallstones
-
-### 83
-#### Answer: 
-### 84
-#### Answer: 
-### 85
+### Q61
+pH 7.29; Pa(O2) 8.4 kPa; Pa(CO2) 6.7 kPa; bicarbonate 32 mmol/l; base excess –1 mmol/l.
 #### Answer: 
 
-## Q21: Theme: Chest Injuries
-
-### 86
-#### Answer: 
-### 87
-#### Answer: 
-### 88
-#### Answer: 
-### 89
-#### Answer: 
-### 90
-#### Answer: 
-### 91
-#### Answer: 
-### 92
-#### Answer: 
-### 93
+### Q62
+pH 7.28; Pa(O2) 13.8 kPa; Pa(CO2) 5.0 kPa; bicarbonate 20 mmol/l; base excess –8 mmol/l.
 #### Answer: 
 
-## Q22: Theme: Sterilisation
+## Q63-66: Theme: Consent
 
-### 94
-#### Answer: 
-### 95
-#### Answer: 
-### 96
-#### Answer: 
-### 97
-#### Answer: 
+	A. Doctor can consent for the patient
+	B. Patient can give valid consent
+	C. Patient's refusal is valid and doctor cannot override
+	D. Parents can consent for the patient
+	E. Refusal is not valid and can be overridden
 
-## Q23: Theme: Tourniquets
-
-### 98
-#### Answer: 
-### 99
-#### Answer: 
-### 100
+### Q63
+A 24-year-old nurse presents with testicular torsion. He refuses surgery despite having had the benefits and risks of the procedure explained.
 #### Answer: 
 
-## Q24: Theme: Biopsy Techniques
-
-### 101
-#### Answer: 
-### 102
-#### Answer: 
-### 103
-#### Answer: 
-### 104
+### Q64
+A 15-year-old girl whose parents are abroad requires an emergency appendicectomy. She understands the operation, its benefits and risks.
 #### Answer: 
 
-## Q25: Theme: Parotid Swellings
-
-### 105
-#### Answer: 
-### 106
-#### Answer: 
-### 107
-#### Answer: 
-### 108
-#### Answer: 
-### 109
-#### Answer: 
-### 110
-#### Answer: 
-### 111
-#### Answer: 
-### 112
+### Q65
+An 86-year-old woman with dementia, mini-mental state score 4/10, is admitted with a fractured neck of femur. Her daughter states that she would not have wanted surgery, but there is no advance directive.
 #### Answer: 
 
-## Q26: Theme: Joint Infections
-
-### 113
-#### Answer: 
-### 114
-#### Answer: 
-### 115
+### Q66
+A 15-year-old boy needs an appendicectomy. His parents refuse the surgery despite hearing the risks and benefits, but the patient gives consent. The patient has five GCSEs.
 #### Answer: 
 
-## Q27: Theme: Suture Materials
+## Q67-71: Theme: Scrotal Swellings
 
-### 116
-#### Answer: 
-### 117
-#### Answer: 
-### 118
-#### Answer: 
-### 119
-#### Answer: 
-### 1120
-#### Answer: 
+	A. Epididymal cyst
+	B. Epididymo-orchitis
+	C. Gumma
+	D. Hernia
+	E. Hydrocoele
+	F. Spermatocele
+	G. Testicular torsion
+	H. Testicular tumour
+	I. Varicocele
 
-## Q28: Theme: Multiple Endocrine Neoplasia (MEN)
-
-### 121
-#### Answer: 
-### 122
-#### Answer: 
-### 123
-#### Answer: 
-### 124
+### Q67
+The patient has a right-sided swelling in the scrotum separate from the testis, which you cannot get above. The swelling transmits a cough impulse.
 #### Answer: 
 
-## Q29: Theme: Types of Graft
+### Q68
+The patient has a left-sided swelling and dull ache for 1–2 weeks. The swelling is separate from the testis and transilluminates.
+#### Answer: 
+
+### Q69
+The patient has a generalised, non-tender swelling of the left hemiscrotum, which has been gradually increasing in size for 2 months. The testis and epididymis cannot be defined. The swelling transilluminates.
+#### Answer: 
+
+### Q70
+A 28-year-old man presents with a 6-hour history of a painful right hemiscrotum. The testis and epididymis can be defined, with a normal lie of the testis, and the epididymis is tender to palpation. The patient has been feeling generally unwell and has had dysuria for 2 days.
+#### Answer: 
+
+### Q71
+A 20-year-old man presents with a 2-hour history of severe right-sided testicular pain and swelling. The hemiscrotum is very tender, with the testis lying normally.
+#### Answer: 
+
+## Q72-77: Theme: Tumour Markers
+
+	A. Adrenocorticotropic hormone (ACTH)
+	B. CA 19-9
+	C. CA 125
+	D. Calcitonin
+	E. Carcinoembryonic antigen (CEA)
+	F. α-Fetoprotein
+	G. γ-Glutamyl transferase (GGT)
+	H. β-Human chorionic gonadotropin (hCG)
+	I. Lactate dehydrogenase
+	J. Prostate-specific antigen (PSA)
+
+### Q72
+Colorectal carcinoma.
+#### Answer: 
+
+### Q73
+Breast cancer.
+#### Answer: 
+
+### Q74
+Ovarian cancer.
+#### Answer: 
+
+### Q75
+Prostate cancer.
+#### Answer: 
+
+### Q76
+Choriocarcinoma.
+#### Answer: 
+
+### Q77
+Small-cell lung cancer.
+#### Answer: 
+
+## Q78-82: Theme: Congenital Gastrointestinal Anomalies
+
+    A. Duodenal atresia
+    B. Exomphalos
+    C. Gastroschisis
+    D. Hirschsprung's disease
+    E. Hypertrophic pyloric stenosis
+    F. Meconium ileus
+    G. Oesophageal atresia
+    H. Small-bowel atresia
+
+### Q78
+Neonate girl, born at term, presents with uncovered intestine and an ovary protruding through the abdominal wall to the right of the umbilicus, through a defect of approximately 3 cm.
+#### Answer: 
+
+### Q79
+A term neonate boy, who has failed to pass meconium, has now developed bilious vomiting and abdominal distension. Per rectal examination reveals a mucus plug, removal of which temporarily relieves the symptoms, but they recur.
+#### Answer: 
+
+### Q80
+A neonate girl presents with bilious vomiting and abdominal distension. She passed meconium, but has not opened her bowels since. An abdominal X-ray reveals distended bowel loops with fluid levels.
+#### Answer: 
+
+### Q81
+A neonate boy with trisomy 21 presents with bilious vomiting and abdominal distension on day 2. An abdominal X-ray reveals a double gas bubble.
+#### Answer: 
+
+### Q82
+A 1-month-old baby boy presents with repeated projectile vomiting of unaltered feed approximately 10 minutes after feeding.
+#### Answer: 
+
+## Q83-85: Theme: Treatment of Gallstones
+
+    A. Elective laparoscopic cholecystectomy
+    B. Elective open cholecystectomy
+    C. Endoscopic retrograde cholangiopancreatography (ERCP) + sphincterotomy
+    D. Low-fat diet
+    E. Urgent cholecystectomy
+
+### Q83
+A 46-year-old woman with renal calculi has a routine ultrasound which reveals three small stones in the gallbladder.
+#### Answer: 
+
+### Q84
+A patient admitted 3 days ago with RUQ pain, vomiting, rigors and a temperature greater than 38°C, which have failed to settle despite intravenous antibiotics.
+#### Answer: 
+
+### Q85
+A 50-year-old man known to have gallstones in the gallbladder, who has had two previous attacks of biliary colic, one requiring hospital admission. He has a past medical history of epilepsy, and a vagotomy and pyloroplasty.
+#### Answer: 
+
+## Q86-93: Theme: Chest Injuries
+
+    A. Aortic dissection/disruption
+    B. Cardiac tamponade
+    C. Diaphragmatic rupture
+    D. Flail chest
+    E. Haemothorax
+    F. Oesophageal injury
+    G. Simple pneumothorax
+    H. Tension pneumothorax
+    I. Tracheobronchial injury
+
+### Q86
+A restrained driver involved in an RTA develops dyspnoea and tachypnoea prior to arrival in A&E. On examination air entry is decreased on the left side of the chest and decreased bowel sounds are audible.
+#### Answer: 
+
+### Q87
+A restrained passenger involved in an RTA develops dyspnoea, tachypnoea and tachycardia. On examination chest wall movements are paradoxical.
+#### Answer: 
+
+### Q88
+A restrained front-seat passenger involved in an RTA in which a car travelling at high speed collided with a wall was haemodynamically unstable at the scene. Both radial pulses were absent and he went into cardiac arrest at the scene.
+#### Answer: 
+
+### Q89
+A restrained back-seat passenger involved in an RTA has remained haemodynamically stable, but is tachypnoeic and dyspnoeic. Examination reveals no tracheal deviation, with decreased chest wall expansion, decreased air entry on the left and a dullness to percussion on this side.
+#### Answer: 
+
+### Q90
+A restrained driver involved in a high-speed impact with a tree has stridor, tachypnoea, dyspnoea and subcutaneous emphysema.
+#### Answer: 
+
+### Q91
+A 21-year-old is brought to A&E unconscious. He has been involved in an RTA. Primary survey reveals that he is hypotensive and tachycardic, and a chest X-ray reveals a flail chest but no obvious pneumothorax. He has refractory hypotension, with no obvious point of blood loss, so a laparotomy is organised. He is intubated in the department and has a 4-unit blood transfusion started in the department. As he is being transferred to the operating theatre he goes into cardiac arrest.
+#### Answer: 
+
+### Q92
+A 29-year-old has a stab injury to the left side of the chest. Primary survey shows a large left haemothorax which is subsequently drained with a water seal chest drain. After 30 minutes he appears to be in significant distress. On examination he is tachycardic at 120 beats/min and his BP is 90/50 mmHg. He appears to have engorgement of his neck veins and his heart sounds are difficult to hear.
+#### Answer: 
+
+### Q93
+A 34-year-old is brought in with a stab wound to the right side of his chest. Primary survey shows a tension pneumothorax. This is initially treated with needle thoracocentesis. A chest drain is inserted. A check X-ray 30 minutes after tube insertion shows the tube to be in a satisfactory position. The patient continues to be in respiratory distress and a repeat chest X-ray after 30 minutes shows a persistent large pneumothorax.
+#### Answer: 
+
+## Q94-97: Theme: Sterilisation
+
+    A. Autoclave
+    B. Dry heat
+    C. Ethylene oxide
+    D. Glutaraldehyde
+    E. Irradiation
+    F. Low-temperature steam and formaldehyde
+
+### Q94
+Catheters
+#### Answer: 
+
+### Q95
+Flexible naso-endoscope.
+#### Answer: 
+
+### Q96
+Sutures.
+#### Answer: 
+
+### Q97
+Small McIndoe scissors.
+#### Answer: 
+
+## Q98-100: Theme: Tourniquets
+
+    A. No tourniquet
+    B. Simple tourniquet
+    C. Tourniquet at 150 mmHg
+    D. Tourniquet at 200 mmHg
+    E. Tourniquet at 250 mmHg
+    F. Tourniquet at 300 mmHg
+
+### Q98
+A patient with a blood pressure of 150/90 mmHg undergoing Zadik's procedure.
+#### Answer: 
+
+### Q99
+A patient with a blood pressure of 140/80 mmHg undergoing fasciectomy for Dupuytren's contracture.
+#### Answer: 
+
+### Q100
+A patient with a blood pressure of 150/114 mmHg undergoing knee arthroscopy, who has previously had a femoro-popliteal bypass.
+#### Answer: 
+
+## Q101-104: Theme: Biopsy Techniques
+
+    A. Brush cytology
+    B. Core biopsy
+    C. Endoscopic biopsy
+    D. Excisional biopsy
+    E. Fine-needle aspiration cytology
+    F. Frozen section
+    G. Incisional biopsy
+
+### Q101
+A lymph node found during Whipple's procedure.
+#### Answer: 
+
+### Q102
+A solitary nodule within the thyroid.
+#### Answer: 
+
+### Q103
+A suspected basal cell carcinoma.
+#### Answer: 
+
+### Q104
+A mass on the bladder wall.
+#### Answer: 
+
+## Q105-112: Theme: Parotid Swellings
+
+A   Acute bacterial sialolithiasis
+ 
+B   Adenocarcinoma
+ 
+C   Adenolymphoma
+ 
+D   Pleomorphic adenoma
+ 
+E   Sarcoidosis
+ 
+F   Sialolithiasis
+ 
+G   Sjögren syndrome
+ 
+H   Squamous cell carcinoma
+ 
+I   Acute viral sialadenitis
+ 
+J   Frey syndrome
+
+K  Mikulicz syndrome
+
+### Q105
+A 47-year-old man presents with a 6-month history of a slowly growing, smooth lesion in the right parotid. All facial movements are normal.
+#### Answer: 
+
+### Q106
+A 70-year-old man presents with a painless swelling of the left parotid which he has had for 3 months. He previously had surgery for a right parotid lesion. All facial movements are normal.
+#### Answer: 
+
+### Q107
+A 70-year-old man presents with a rapidly growing, painful, hard, left parotid lump, which has been there for 1 month. The left side of his mouth is drooping. He has previously had radiotherapy to his parathyroids.
+#### Answer: 
+
+### Q108
+A 64-year-old man attends for routine post-operative follow-up following surgery to remove a stone from his parotid gland. He now complains of diffuse facial sweating before meals.
+#### Answer: 
+
+### Q109
+A 21-year-old man presents with bilateral tender swellings of his parotid glands along with bilaterally tender testes.
+#### Answer: 
+
+### Q110
+A 43-year-old woman with a history of systemic lupus erythematosus (SLE) presents with a severe dry mouth and dry eyes.
+#### Answer: 
+
+### Q111
+A 79-year-old woman with recently diagnosed acute lymphocytic leukaemia presents with symmetrical enlargement of all salivary glands, narrowing of her palpebral fissures and a dry mouth.
+#### Answer: 
+
+### Q112
+A 59-year-old woman presents with left parotid swelling. It occurs immediately before meals and is exquisitely tender.
+#### Answer: 
+
+## Q113-115: Theme: Joint Infections
+
+    A. Group B streptococcus
+    B. Haemolytic streptococcus
+    C. Haemophilus influenzae
+    D. Neisseria gonorrhoeae
+    E. Staphylococcus aureus
+
+### Q113
+Septic arthritis in a 2-year-old child.
+#### Answer: 
+
+### Q114
+Septic arthritis in a 9-year-old child.
+#### Answer: 
+
+### Q115
+Osteomyelitis in a 49-year-old man.
+#### Answer: 
+
+## Q116-120: Theme: Suture Materials
+
+    A. 1 PDS (polydioxanone suture)
+    B. 3-0 PDS
+    C. 3-0 Prolene
+    D. 6-0 Prolene
+    E. 3-0 Nylon
+    F. Steel wire
+    G. 3-0 Vicryl
+    H. 1 Vicryl
+
+### Q116
+Distal sutures for a femoro-distal anastomosis.
+#### Answer: 
+
+### Q117
+Abdominal mass closure following laparotomy.
+#### Answer: 
+
+### Q118
+Interrupted sutures following Dupuytren's contracture surgery.
+#### Answer: 
+
+### Q119
+Sternal closure following bypass surgery.
+#### Answer: 
+
+### Q120
+An absorbable suture commonly used for bowel anastomosis.
+#### Answer: 
+
+## Q121-124: Theme: Multiple Endocrine Neoplasia (MEN)
+
+### Q121
+#### Answer: 
+### Q122
+#### Answer: 
+### Q123
+#### Answer: 
+### Q124
+#### Answer: 
+
+## Q125-128: Theme: Types of Graft
 
 ### 125
 #### Answer: 
@@ -545,7 +795,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 128
 #### Answer: 
 
-## Q30: Theme: Upper Gastrointestinal Haemorrhage
+## Q129-133: Theme: Upper Gastrointestinal Haemorrhage
 
 ### 129
 #### Answer: 
@@ -558,7 +808,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 133
 #### Answer: 
 
-## Q31: Theme: Lower Gastrointestinal haemorrhage
+## Q134-138: Theme: Lower Gastrointestinal haemorrhage
 
 ### 134
 #### Answer: 
@@ -571,7 +821,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 138
 #### Answer: 
 
-## Q32: Theme: Fluids
+## Q139-143: Theme: Fluids
 
 ### 139
 #### Answer: 
@@ -584,7 +834,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 143
 #### Answer: 
 
-## Q33: Theme: Hypovolaemic Shock
+## Q144-146: Theme: Hypovolaemic Shock
 
 ### 144
 #### Answer: 
@@ -593,7 +843,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 146
 #### Answer: 
 
-## Q34: Theme: Nutritional Support
+## Q147-150: Theme: Nutritional Support
 
 ### 147
 #### Answer: 
@@ -604,7 +854,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 150
 #### Answer: 
 
-## Q35: Theme: Thyroid Neoplasms
+## Q151-153: Theme: Thyroid Neoplasms
 
 ### 151
 #### Answer: 
@@ -613,7 +863,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 153
 #### Answer: 
 
-## Q36: Theme: Nipple Discharge
+## Q154-157: Theme: Nipple Discharge
 
 ### 154
 #### Answer: 
@@ -624,7 +874,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 157
 #### Answer: 
 
-## Q37: Theme: Shoulder Pain
+## Q158-160: Theme: Shoulder Pain
 
 ### 158
 #### Answer: 
@@ -633,7 +883,7 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 160
 #### Answer: 
 
-## Q38: Theme: ASA Grading - Classification fo Physical Status
+## Q161-165: Theme: ASA Grading - Classification fo Physical Status
 
 ### 161
 #### Answer: 
@@ -646,14 +896,14 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 165
 #### Answer: 
 
-## Q39: Theme: Staging of Transitional Cell Carcinoma of the Bladder
+## Q166-167: Theme: Staging of Transitional Cell Carcinoma of the Bladder
 
 ### 166
 #### Answer: 
 ### 167
 #### Answer: 
 
-## Q40: Theme: Polyps
+## Q168-170: Theme: Polyps
 
 ### 168
 #### Answer: 
@@ -662,14 +912,14 @@ An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. 
 ### 170
 #### Answer: 
 
-## Q41: Theme: Radiological Appearances
+## Q171-172: Theme: Radiological Appearances
 
 ### 171
 #### Answer: 
 ### 172
 #### Answer: 
 
-## Q42: Theme: Peripheral Nerve Injury
+## Q173-177: Theme: Peripheral Nerve Injury
 
 ### 173
 #### Answer: 
