@@ -631,25 +631,22 @@ A 75-year-old hypertensive man with a diagnosis of polycythaemia rubra vera.
 
 ### Q97
 The facial nerve runs through this gland and its blood supply comes from a branch of the external carotid artery. Of tumours arising in this gland, 80% are benign.
-#### Answer: 
+#### Answer: A. Parotid gland - ?
 
 ### Q98
 This gland secretes mucous and serous saliva. Secretomotor fibres come from the parasympathetic system which hitch-hike along with the chorda tympani and lingual nerve.
 #### Answer: 
 
 ### Q99
-This gland is divided into deep and superficial parts by the posterior border of the mylohyoid muscle. Blood supply comes from the facial artery and vein.
-#### Answer: 
+This gland is divided into deep and superficial parts by the posterior border of the myohyoid muscle. Blood supply comes from the facial artery and vein.
+#### Answer: A. Parotid gland - ?
 
 ## Q100: Theme: Management of Hernias
 
-A   Conservative management
- 
-B   Elective hernia repair
- 
-C   Emergency hernia repair
- 
-D   Urgent hernia repairs, ie on an elective list but prioritised over benign conditions
+	A. Conservative management
+	B. Elective hernia repair
+	C. Emergency hernia repair
+	D. Urgent hernia repairs, i.e. on an elective list but prioritised over benign conditions
 
 ### 100
 A 79-year-old woman presents to clinic with a small (3 cm) non-tender lump in her groin. It has been present for the past 2 months. It lies below and lateral to the pubic tubercle. It is irreducible and there is no cough impulse.
@@ -675,605 +672,490 @@ A healthy 84-year-old man presents to clinic with a small right inguinal hernia.
 A 20-year-old man presents with a painless, reducible lump in the right groin, above and medial to the pubic tubercle, extending into the scrotum, which can be controlled with occlusion of the deep inguinal ring.
 #### Answer: 
 
-## Q24: Theme: Statistics
+## Q106-109: Theme: Statistics
 
-A   4%
- 
-B   5%
- 
-C   10%
- 
-D   20%
- 
-E   24%
- 
-F   25%
- 
-G   75%
- 
-H   76%
- 
-I    80%
- 
-J    90%
- 
-K   95%
- 
-L   96%
+	A. 4%
+	B. 5%
+	C. 10%
+	D. 20%
+	E. 24%
+	F. 25%
+	G. 75%
+	H. 76%
+	I. 80%
+	J. 90%
+	K. 95%
+	L. 96%
 
-### 106
+### Q106
 Specificity
 #### Answer: 
 
-### 107
+### Q107
 Sensitivity
 #### Answer: 
 
-### 108
+### Q108
 Negative predictive value (NPV)
 #### Answer: 
 
-### 109
+### Q109
 Positive predictive value (PPV)
 #### Answer: 
 
-## Q25: Theme: Pancreatic Tumours
+## Q110-114: Theme: Pancreatic Tumours
 
-A   Gastrinoma
- 
-B   Glucagonoma
- 
-C   Insulinoma
- 
-D   Somatostatinoma
- 
-E   VIPoma
- 
-F   Carcinoma
- 
-G   Cystadenocarcinoma
- 
-H   Cystadenoma
- 
-I     Zollinger–Ellison tumour
+	A. Gastrinoma
+	B. Glucagonoma
+	C. Insulinoma
+	D. Somatostatinoma
+	E. VIPoma
+	F. Carcinoma
+	G. Cystadenocarcinoma
+	H. Cystadenoma
+	I. Zollinger–Ellison tumour
 
-### 110
+### Q110
 A 43-year-old man with known parathyroid adenoma presents to A&E with haematemesis.
 #### Answer: 
 
-### 111
+### Q111
 A 64-year-old woman presents with obstructive jaundice and RUQ pain. A random blood glucose is 15.4 mmol/l and an ultrasound scan of the abdomen reveals gallstones.
 #### Answer: 
 
-### 112
+### Q112
 A 50-year-old man with a history of weight loss is found to have a mass on his pancreas on CT. He is discovered to be diabetic. He also has a persistent eczematous rash on his buttocks which has been present for over a year.
 #### Answer: 
 
-### 113
+### Q113
 A 40-year-old woman presents with a 1-year history of epigastric pain. She is prompted to visit A&E following an episode of melaena. Endoscopy reveals multiple peptic ulcers. A CT scan shows tumours affecting the pancreas and duodenum.
 #### Answer: 
 
-### 114
+### Q114
 A 28-year-old man is taken to his GP by his partner, who says he has been behaving strangely and has had eposodes of altered consciousness. This occurs particularly if he skips meals. He has a family history of MEN I.
 #### Answer: 
 
-## Q26: Theme: Breast Investigations
+## Q115-116: Theme: Breast Investigations
 
-A   Core biopsy
+	A. Core biopsy
+	B. CT scan
+	C. Fine-needle aspiration
+	D. Magnetic resonance imaging (MRI)
+	E. No further investigation
+	F. Ultrasound-guided fine-needle aspiration
+	G. Ultrasound scan
  
-B   CT scan
- 
-C   Fine-needle aspiration
- 
-D   Magnetic resonance imaging (MRI)
- 
-E   No further investigation
- 
-F   Ultrasound-guided fine-needle aspiration
- 
-G   Ultrasound scan
- 
-### 115
+### Q115
 A 28-year-old woman presents with a right-sided breast lump. It measures 1 cm in diameter, is mobile, smooth, non-tender, and is superficial to the pectoralis major. There are no associated skin changes. Both axillae are clear. An ultrasound scan is reported as showing a benign lump.
 #### Answer: 
 
-### 116
+### Q116
 A 55-year-old woman is sent to your clinic after screening mammography reveals a suspicious area in the left breast. Clinical examination does not reveal any suspicious areas.
 #### Answer: 
 
-## Q27: Theme: Intravenous Fluids
+## Q117-121: Theme: Intravenous Fluids
 
-A   0.45% Sodium chloride solution
- 
-B   0.9% Sodium chloride solution
- 
-C   4% Dextrose/0.18% sodium chloride solution
- 
-D   5% Dextrose solution
- 
-E   Compound sodium lactate solution
- 
-F   Dextran 70
+	A. 0.45% Sodium chloride solution
+	B. 0.9% Sodium chloride solution
+	C. 4% Dextrose/0.18% sodium chloride solution
+	D. 5% Dextrose solution
+	E. Compound sodium lactate solution
+	F. Dextran 70
 
-### 117
+### Q117
 Which fluid has been shown to reduce the incidence of deep venous thrombosis?
 #### Answer: 
 
-### 118
+### Q118
 Which fluid is recommended in the Advanced Trauma Life Support (ATLS) guidelines for the initial resuscitation of the trauma patient?
 #### Answer: 
 
-### 119
+### Q119
 Which fluid contains 5 mmol of potassium per litre?
 #### Answer: 
 
-### 120
+### Q120
 Which fluid contains 150 mmol of sodium per litre?
 #### Answer: 
 
-### 121
+### Q121
 Which fluid given in equal volumes expands the intravascular compartment least?
 #### Answer: 
 
-## Q28: Theme: Specific Tests
+## Q122-124: Theme: Specific Tests
 
-A   Allen's test
- 
-B   Froment's test
- 
-C   Lachman's test
- 
-D   Pivot shift test
- 
-E   Simmonds’ test
- 
-F   Tinel's test
- 
-G   Trendelenburg's test
+	A. Allen's test
+	B. Froment's test
+	C. Lachman's test
+	D. Pivot shift test
+	E. Simmonds’ test
+	F. Tinel's test
+	G. Trendelenburg's test
 
-
-### 122
+### Q122
 A 21-year-old, very anxious footballer presents to the fracture clinic with an acute swelling of the right knee following a twisting injury 2 days ago. There is no bony tenderness around the knee joint. He is able to fully weight-bear, fully extend his knee and flex to 90 degrees. Aspiration confirms a haemarthrosis.
 #### Answer: 
 
-### 123
+### Q123
 A 69-year-old woman attends the outpatients clinic. On examination she has guttering in the dorsal aspect of her right hand and apparent wasting of the muscles of the hand.
 #### Answer: 
 
-### 124
+### Q124
 A 35-year-old man attends A&E with acute, severe pain in the right calf. He finds it difficult to walk, and cannot plantar-flex his right foot.
 #### Answer: 
 
-## Q29: Theme: Calculi
+## Q125-127: Theme: Calculi
 
-A   Bile pigment stone
- 
-B   Calcium oxalate
- 
-C   Calcium phosphate
- 
-D   Cholesterol stone
- 
-E   Cystine stone
+	A. Bile pigment stone
+	B. Calcium oxalate
+	C. Calcium phosphate
+	D. Cholesterol stone
+	E. Cystine stone
+	F. Urate
 
-F   Urate
-
-### 125
+### Q125
 A 32-year-old man presents with haematuria. A KUB X-ray reveals a staghorn calculus in the right kidney and a mid-stream urine sample grows proteus.
 #### Answer: 
 
-### 126
+### Q126
 A 31-year-old woman with known si
 ckle cell anaemia attends A&E with biliary colic. X-rays show the presence of stones in the gallbladder.
 #### Answer: 
 
-### 127
+### Q127
 A 28-year-old man presents with ureteric colic. A KUB study shows a stone at the right vesico-ureteric junction.
 #### Answer: 
 
-## Q30: Theme: Types of Ulcer
+## Q128-131: Theme: Types of Ulcer
 
-A   Arterial ulcer
- 
-B   Curling's ulcer
- 
-C   Cushing's ulcer
- 
-D   Duodenal ulcer
- 
-E   Gastric ulcer
- 
-F   Marjolin's ulcer
- 
-G   Rodent ulcer
- 
-H   Venous ulcer
+	A. Arterial ulcer
+	B. Curling's ulcer
+	C. Cushing's ulcer
+	D. Duodenal ulcer
+	E. Gastric ulcer
+	F. Marjolin's ulcer
+	G. Rodent ulcer
+	H. Venous ulcer
 
-### 128
+### Q128
 A 43-year-old man is admitted to the ICU following an RTA. He has been unconscious and intubated since having a subdural haematoma evacuated. On day 4 of his admission he begins to have blood aspirated from his nasogastric tube.
 #### Answer: 
 
-### 129
+### Q129
 A 76-year-old woman presents to clinic with a large ulcer over her medial malleolus. She has recently noticed that it has grown and bleeds more easily. On examination it has a friable centre and raised edges.
 #### Answer: 
 
-### 130
+### Q130
 An 84-year-old man presents with a small ulcer on the bridge of his nose. It has been present for a number of months. On examination it has pearly white, rolled edges.
 #### Answer: 
 
-### 131
+### Q131
 A 24-year-old has 24% third-degree burns. Three days after his admission he complains of melaena.
 #### Answer: 
 
-## Q31: Theme: Skin Lesions
+## Q132-137: Theme: Skin Lesions
 
-A   Basal cell carcinoma
+	A. Basal cell carcinoma
+	B. Dermatofibroma
+	C. Keratoacanthoma
+	D. Melanoma
+	E. Pyoderma gangrenosum
+	F. Pyogenic granuloma
+	G. Squamous cell carcinoma
+	H. Strawberry naevus
  
-B   Dermatofibroma
- 
-C   Keratoacanthoma
- 
-D   Melanoma
- 
-E   Pyoderma gangrenosum
- 
-F   Pyogenic granuloma
- 
-G   Squamous cell carcinoma
- 
-H   Strawberry naevus
- 
-### 132
+### Q132
 A 40-year-old woman presents with a lump on the anterior aspect of the leg. It has been slowly growing over the past 3 years and is now causing cosmetic disfigurement. On examination you find a 1-cm-smooth, firm disc.
 #### Answer: 
 
-### 133
+### Q133
 A 2-year-old child is brought to clinic with a small 1-cm lump in her hairline. The lump has been present since birth, but recently it has begun to bleed. On examination the lump is sessile, dark red and has a small ulcerated area in its centre.
 #### Answer: 
 
-### 134
+### Q134
 A 76-year-old woman presents with a lesion on her left cheek. There is a small ulcer with a raised pearly edge. She reports that it has been scabbing over, with the scab falling off every now and then.
 #### Answer: 
 
-### 135
+### Q135
 A 31-year-old man presents with a mole on his right shoulder. It has grown over the past 2 months and is very itchy. It bleeds occasionally. On examination there is a 2-cm, irregular mole on the shoulder with a surrounding brown halo. He is also jaundiced.
 #### Answer: 
 
-### 136
+### Q136
 A 28-year-old man presents with a lump on the dorsum of his left hand. The lump has grown rapidly over the past 2 weeks. It bleeds easily and is discharging serous fluid. He gives a history of minor trauma to the same hand 3 weeks before. The lump is not painful. On examination there is a bright-red, soft, 1-cm hemispherical lump present.
 #### Answer: 
 
-### 137
+### Q137
 A 64-year-old woman presents with a non-painful lump on her left arm. It has grown rapidly over the past 2 weeks. On examination it is approximately 2 cm in diameter and has a central brown core. It is firm in consistency, but the central core is hard.
 #### Answer: 
 
-## Q32: Theme: Airway Management
+## Q138-142: Theme: Airway Management
 
-A   Bag-valve-mask
- 
-B   Double-lumen cuffed endotracheal tube
- 
-C   Nasopharyngeal airway
+	A. Bag-valve-mask
+	B. Double-lumen cuffed endotracheal tube
+	C. Nasopharyngeal airway
+	D. Needle cricothyroidotomy
+	E. Oropharyngeal airway
+	F. Percutaneous tracheostomy
+	G. Single-lumen cuffed endotracheal tube
+	H. Single-lumen uncuffed endotracheal tube
 
-D   Needle cricothyroidotomy
- 
-E   Oropharyngeal airway
- 
-F   Percutaneous tracheostomy
- 
-G   Single-lumen cuffed endotracheal tube
- 
-H   Single-lumen uncuffed endotracheal tube
-
-### 138
+### Q138
 A 7-year-old child is brought in to A&E having been rescued from a house fire. He is in respiratory distress and there is evidence of soot around his nasal passages.
 #### Answer: 
 
-### 139
+### Q139
 A 64-year-old man due to undergo elective repair of a thoracic aortic aneurysm.
 #### Answer: 
 
-### 140
+### Q140
 You are the only doctor in the A&E department. A patient with severe facial injuries suffered in an RTA is brought in by paramedics. He goes into respiratory arrest and an initial attempt at endotracheal intubation fails.
 #### Answer: 
 
-### 141
+### Q141
 A 76-year-old man is on the ICU following emergency laparotomy. He is expected to remain there for another week.
 #### Answer: 
 
-### 142
+### Q142
 A 27-year-old man involved in a house fire is brought to A&E. He has some singeing of his nasal hair. His RR is 28 breaths/min, and pulse oximetry gives a reading of 94% on 4 l/min oxygen.
 #### Answer: 
 
-## Q33: Theme: Colorectal Carcinoma Procedures
+## Q143-151: Theme: Colorectal Carcinoma Procedures
 
-A   Abdomino-perineal resection
- 
-B   Anterior resection
- 
-C   Delorme's procedure
- 
-D   Extended right hemicolectomy
- 
-E   Hartmann's procedure
- 
-F   Right hemicolectomy
- 
-G   Sigmoid colectomy
+	A. Abdomino-perineal resection (APR)
+	B. Anterior resection
+	C. Delorme's procedure
+	D. Extended right hemicolectomy
+	E. Hartmann's procedure
+	F. Right hemicolectomy
+	G. Sigmoid colectomy
 
-### 143
+### Q143
 A patient with carcinoma of the sigmoid colon presenting with peritonitis due to a perforation.
 #### Answer: 
 
-### 144
+### Q144
 A 68-year-old man presents with rectal bleeding. Colonoscopy reveals a caecal tumour.
 #### Answer: 
 
-### 145
+### Q145
 A 76-year-old woman presents with rectal bleeding. Digital rectal examination reveals a tumour 2 cm from the anal margin. This is confirmed by proctoscopy.
 #### Answer: 
 
-### 146
+### Q146
 A 54-year-old woman presents with acute appendicitis. A tumour is found in the appendix at appendicectomy.
 #### Answer: 
 
-### 147
+### Q147
 A 64-year-old man presents with small-bowel obstruction. He gives a 2-month history of a weight loss of 12 kg (2 stone) and intermittent rectal bleeding.
 #### Answer: 
 
-### 148
+### Q148
 An 88-year-old man is found to have a 2-cm tumour of the sigmoid colon. His past medical history includes diabetes mellitus, two episodes of myocardial infarction and peripheral vascular disease.
 #### Answer: 
 
-### 149
+### Q149
 A 77-year-old woman presents with a tumour of the transverse colon, 2 cm from the splenic flexure, which is not causing obstruction; there are no metastases.
 #### Answer: 
 
-### 150
+### Q150
 A 45-year-old man with a non-obtructing tumour of the sigmoid colon without metastases.
 #### Answer: 
 
-### 151
+### Q151
 A 66-year-old man presents with altered bowel habit and he is found to have a tumour approximately 12 cm from the anus. There is no obstruction and there are no metastases.
 #### Answer: 
 
-## Q34: Theme: The Limping Child
+## Q152-155: Theme: The Limping Child
 
-A   Developmental dysplasia of the hip (DDH)
- 
-B   Irritable hip
- 
-C   Osteomyelitis
+	A. Developmental dysplasia of the hip (DDH)
+	B. Irritable hip
+	C. Osteomyelitis
+	D. Perthes’ disease
+	E. Septic arthritis
+	F. Slipped upper femoral epiphysis (SUFE)
+	G. Tuberculosis
 
-D   Perthes’ disease
- 
-E   Septic arthritis
- 
-F   Slipped upper femoral epiphysis (SUFE)
- 
-G   Tuberculosis
-
-### 152
+### Q152
 A 4-year-old boy presents with a sudden-onset limp. There is no history of trauma. On arrival to A&E, he is flushed, dehydrated and pyrexial. All movements of his right hip appear to cause pain. Routine blood tests reveal a WCC of 15.1 × 109/l, CRP 234 mg/l and ESR 65 mm/h.
 #### Answer: 
 
-### 153
+### Q153
 A 14-year-old boy presents with a limp to the right-hand side. There is no history of trauma. He complains of pain around his right knee, and painful movements of the right knee and hip. He appears small for his age, and has no pubertal hair. On examination he has a full although painful range of movement in his right knee. Movements of the right hip are painful and internal rotation is restricted by 20 degrees.
 #### Answer: 
 
-### 154
+### Q154
 An 18-month-old girl with a limp is referred by her general practitioner. She has just started walking. She is otherwise fit and well, and is up to date with all her vaccinations. Perinatal history includes breech delivery and the parents report a club foot which was treated by physiotherapists when she was a neonate.
 #### Answer: 
 
-### 155
+### Q155
 A 4-year-old boy presents with vague pain in the left hip and thigh. Examination reveals a reduced range of internal rotation and abduction. X-rays show flattening and deformity of the femoral head.
 #### Answer: 
 
-## Q35: Theme: Sterilisation
+## Q156-158: Theme: Sterilisation
 
-A   Glutaraldehyde 2%
- 
-B   Hot air sterilisation 160°C for 2 hours
- 
-C   Irradiation
- 
-D   Steam sterilisation – 15 minutes at 121°C
- 
-E   Steam sterilisation – 15 minutes at 134°C
+	A. Glutaraldehyde 2%
+	B. Hot air sterilisation 160°C for 2 hours
+	C. Irradiation
+	D. Steam sterilisation – 15 minutes at 121°C
+	E. Steam sterilisation – 15 minutes at 134°C
 
-### 156
+### Q156
 Sterilisation of a minor instrument set.
 #### Answer: 
 
-### 157
+### Q157
 Sterilisation of a colonoscope.
 #### Answer: 
 
-### 158
+### Q158
 Sterilisation of a single-use stapling gun.
 #### Answer: 
 
-## Q36: Theme: Consent
+## Q159-162: Theme: Consent
 
-A   Accept wishes for non-treatment
- 
-B   Obtain consent from next of kin
- 
-C   Proceed to treat without consent of patient
- 
-D   Section under Mental Health Act to treat
- 
-E   Seek second opinion
- 
-F   Requires order from court of law to treat
+	A. Accept wishes for non-treatment
+	B. Obtain consent from next of kin
+	C. Proceed to treat without consent of patient
+	D. Section under Mental Health Act to treat
+	E. Seek second opinion
+	F. Requires order from court of law to treat
 
-### 159
+### Q159
 A 43-year-old man with chronic depression attends with sudden-onset abdominal pain. He is peritonitic and has air under his diaphragm. Your consultant has asked you to obtain consent for a laparotomy. The patient refuses and states he would rather die.
 #### Answer: 
 
-### 160
+### Q160
 A 13-year-old has an off-ended distal radial and ulna fracture. On examination she has signs of median nerve compromise. You have spoken with both the girl and her mother and informed them that an operation is necessary. The mother is happy to proceed. The child is adamant that she does not wish to have an operation even though she might not regain full use of her hand.
 #### Answer: 
 
-### 161
+### Q161
 An 84-year-old with known multi-infarct dementia has a fractured neck of femur. He keeps shouting that he wants to be left alone to die.
 #### Answer: 
 
-### 162
+### Q162
 A 64-year-old man is brought into A&E unconscious. He is thought to have a perforated peptic ulcer secondary to NSAID use. He is known to have metastatic carcinoma of the prostate. His wife attends with an advance directive stating that he does not wish any form of surgery or resuscitation.
 #### Answer: 
 
-## Q37: Theme: Urological Investigations
+## Q163-166: Theme: Urological Investigations
 
-A   Abdominal ultrasound
- 
-B   CT Scan
- 
-C   Intravenous urography
- 
-D   Plain radiograph (KUB)
- 
-E   Radionucleotide imaging
- 
-F   Transrectal ultrasound
- 
-G   Uroflowmetry
- 
-H   Video urodynamics
+	A. Abdominal ultrasound
+	B. CT Scan
+	C. Intravenous urography
+	D. Plain radiograph (KUB)
+	E. Radionucleotide imaging
+	F. Transrectal ultrasound
+	G. Uroflowmetry
+	H. Video urodynamics
 
-### 163
+### Q163
 A 64-year-old man is referred by his general practitioner with a PSA of 11.0 ng/ml. DRE reveals a 50-g craggy-feeling prostate.
 #### Answer: 
 
-### 164
+### Q164
 A 84-year-old man with known metastatic carcinoma of the prostate attends A&E. He is complaining of abdominal pain and has not passed urine in 18 hours. Clinical examination reveals a tender abdomen, with increased tenderness around the renal angles. DRE reveals a 50-g craggy prostate. He is catheterised and has a residual volume of 35 ml.
 #### Answer: 
 
-### 165
+### Q165
 A 46-year-old man presents with a single episode of haematuria. Flexible cystoscopy is performed in clinic, revealing normal-looking bladder and urethral mucosa.
 #### Answer: 
 
-### 166
+### Q166
 A 17-year-old boy presents with a left-sided scrotal swelling. A scrotal ultrasound reveals a varicocele.
 #### Answer: 
 
-## Q38: Theme: Arterial Blood Gases (ABGs)
+## Q167-169: Theme: Arterial Blood Gases (ABGs)
 
-A   Compensated metabolic acidosis
- 
-B   Compensated metabolic alkalosis
- 
-C   Compensated respiratory acidosis
- 
-D   Compensated respiratory alkalosis
- 
-E   Metabolic acidosis
- 
-F   Metabolic alkalosis
+	A. Compensated metabolic acidosis
+	B. Compensated metabolic alkalosis
+	C. Compensated respiratory acidosis
+	D. Compensated respiratory alkalosis
+	E. Metabolic acidosis
+	F. Metabolic alkalosis
+	G. Respiratory acidosis
+	H. Respiratory alkalosis
 
-G   Respiratory acidosis
- 
-H   Respiratory alkalosis
-
-### 167
+### Q167
 A 28-year-old woman with acute pancreatitis presents with severe epigastric pain and vomiting. Her blood gases are: pH 7.5; Pa(O2)13.9 kPa; Pa(CO2) 5 kPa; and bicarbonate 33 mmol/l.
 #### Answer: 
 
-### 168
+### Q168
 A 52-year-old diabetic patient attends pre-admission clinic. He appears to be short of breath. His blood gases are: pH 7.31; Pa(O2) 14.8 kPa; Pa(CO2) 3 kPa; and bicarbonate 18 mmol/l.
 #### Answer: 
 
-### 169
+### Q169
 A 64-year-old patient in the ICU on her first post-op day following an open aortic aneurysm repair. Her blood gases are: pH 7.31; Pa(O2) 6.6 kPa; Pa(CO2) 7.25 kPa; and bicarbonate 24 mmol/l.
 #### Answer: 
 
-## Q39: Theme: Obstructive Jaundice
+## Q170-173: Theme: Obstructive Jaundice
 
-A   Acute pancreatitis
+	A. Acute pancreatitis
+	B. Biliary colic
+	C. Carcinoma of the pancreas
+	D. Cholangiocarcinoma
+	E. Cholecystitis
+	F. Chronic pancreatitis
+	G. Sclerosing cholangitis
  
-B   Biliary colic
-
-C   Carcinoma of the pancreas
- 
-D   Cholangiocarcinoma
- 
-E   Cholecystitis
- 
-F   Chronic pancreatitis
- 
-G   Sclerosing cholangitis
- 
-### 170
+### Q170
 A 72-year-old woman presents with jaundice and RUQ pain. On examination she has a palpable mass in the RUQ. Ultrasound scan of the abdomen reveals dilated ducts, but no gallstones are seen.
 #### Answer: 
 
-### 171
+### Q171
 A 43-year-old presents with a 2-week history of jaundice and steatorrhoea. He has a long-term history of ulcerative colitis, which is treated currently with azathioprine.
 #### Answer: 
 
-### 172
+### Q172
 A 56-year-old alcoholic presents with jaundice and recurrent episodes of severe epigastric pain radiating to the back. Liver function tests show: bilirubin 143 μmol/l, alkaline phosphatase 750 IU/l, aspartate aminotransferase 378 IU/l, gamma-glutaryl transferase 1106 IU/l. Her amylase is 121 IU/l.
 #### Answer: 
 
-### 173
+### Q173
 A 33-year-old woman presents to A&E with severe RUQ pain. The pain has been coming and going for the past 2 hours. Full blood count, urea and electrolytes and liver function test results are all normal. On the consultant ward round the next morning her pain has gone and she wishes to go home.
 #### Answer: 
 
-## Q40: Theme: Staging of Tumours
+## Q174-176: Theme: Staging of Tumours
 
-A   Ann Arbor staging
- 
-B   Breslow's staging
- 
-C   Clark's staging
- 
-D   Duke's staging
- 
-E   Gleason's score
- 
-F   Manchester staging
+	A. Ann Arbor staging
+	B. Breslow's staging
+	C. Clark's staging
+	D. Duke's staging
+	E. Gleason's score
+	F. Manchester staging
 
-### 174
+### Q174
 An excised melanoma found to have a maximum depth of invasion of 6 mm.
 #### Answer: 
 
-### 175
-A 24-year-old presents with a palpable lymph node in the anterior triangle of the neck. Fine-needle aspiration shows the presence of Reed–Sternberg cells.
+### Q175
+A 24-year-old presents with a palpable lymph node in the anterior triangle of the neck. Fine-needle aspiration shows the presence of Reed-Sternberg cells.
 #### Answer: 
 
-### 176
+### Q176
 A 73-year-old man presents with PSA of 17.6 ng/ml. A transrectal ultrasound-guided biopsy is performed.
 #### Answer: 
 
-## Q41: Theme: Lower Limb Neuropathy
+## Q177-180: Theme: Lower Limb Neuropathy
 
-A   Common peroneal nerve
- 
-B   Deep peroneal nerve
- 
-C   Saphenous nerve
- 
-D   Sciatic nerve
- 
-E   Superficial peroneal nerve
- 
-F   Sural nerve
- 
-G   Tibial nerve
+	A. Common peroneal nerve
+	B. Deep peroneal nerve
+	C. Saphenous nerve
+	D. Sciatic nerve
+	E. Superficial peroneal nerve
+	F. Sural nerve
+	G. Tibial nerve
 
-### 177
+### Q177
 A 24-year-old woman was in a below-knee plaster cast for 6 weeks to immobilise a fracture of the distal fibula. On removal of the cast after 6 weeks, she is unable to dorsiflex or evert has no sensation on the dorsum of her foot up to the second interdigital cleft.
 #### Answer: 
 
-### 178
+### Q178
 A 37-year-old woman reattends clinic following treatment of her short saphenous vein varicosities by multiple stab avulsions. She is complaining of numbness along the lateral border of the foot.
 #### Answer: 
 
-### 179
+### Q179
 A 24-year-old man is involved in an RTA. He has a fracture dislocation of the left hip. Following reduction and internal fixation, he is unable to plantar-flex or dorsiflex his foot. He has no sensation below the knee except for the medial aspect of his leg and the upper medial calf.
 #### Answer: 
 
-### 180
+### Q180
 A 69-year-old diabetic man complains of numbness around the medial aspect of the leg following femoro-popliteal bypass grafting using a reversed vein graft.
 #### Answer: 
 
