@@ -1,18 +1,56 @@
 EMQ Practice Paper: 3
 =====================
 
+Overall: ??/??? = ??.?% (?? errors)
+
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1-4		| 
-5-8
-9-12
-13-15
-16-20
+1-4		| ?/4 =  ?%		| 
+5-8		| ?/4 =  ?%		| 
+9-12	| ?/4 =  ?%		| 
+13-15	| ?/3 =  ?%		| 
+16-20	| ?/5 =  ?%		| 
+21-24	| ?/4 =  ?%		| 
+25-29	| ?/5 =  ?%		| 
+30-33	| ?/4 =  ?%		| 
+34-37	| ?/4 =  ?%		| 
+38-42	| ?/5 =  ?%		| 
+43-46	| ?/4 =  ?%		| 
+47-50	| ?/4 =  ?%		| 
+51-54	| ?/4 =  ?%		| 
+55-58	| ?/4 =  ?%		| 
+59-62	| ?/4 =  ?%		| 
+63-66	| ?/4 =  ?%		| 
+67-71	| ?/5 =  ?%		| 
+72-77	| ?/6 =  ?%		| 
+78-82	| ?/5 =  ?%		| 
+83-85	| ?/3 =  ?%		| 
+86-93	| ?/8 =  ?%		| 
+94-97	| ?/4 =  ?%		| 
+98-100	| ?/3 =  ?%		| 
+101-104	| ?/4 =  ?%		| 
+105-112	| ?/8 =  ?%		| 
+113-115	| ?/3 =  ?%		| 
+116-120	| ?/5 =  ?%		| 
+121-124	| ?/4 =  ?%		| 
+125-128	| ?/4 =  ?%		| 
+129-133	| ?/5 =  ?%		| 
+134-138	| ?/5 =  ?%		| 
+139-143	| ?/5 =  ?%		| 
+144-146	| ?/3 =  ?%		| 
+147-150	| ?/4 =  ?%		| 
+151-153	| ?/3 =  ?%		| 
+154-157	| ?/4 =  ?%		| 
+158-160	| ?/3 =  ?%		| 
+161-165	| ?/5 =  ?%		| 
+166-167	| ?/2 =  ?%		| 
+168-170	| ?/3 =  ?%		| 
+171-172	| ?/3 =  ?%		| 
+173-177	| ?/5 =  ?%		| 
 
-Overall: ??/??? = ??.0%
 
-
-## Q1-4: Theme: Obstruction
+Q1-4: Theme: Obstruction
+------------------------
 
 	A. Paralytic ileus
 	B. Adhesions
@@ -39,7 +77,9 @@ A 90-year-old woman 5 days post-op following a hemiarthroplasty of the left hip 
 A 46-year-old woman who has previously had a hysterectomy and several episodes of abdominal pain presents with increasing pain, distension and absolute constipation. Abdominal X-ray shows distended bowel loops and the biliary tree is outlined.
 #### Answer: 
 
-## Q5-8: Theme: Investigation of Renal Trauma
+
+Q5-8: Theme: Investigation of Renal Trauma
+------------------------------------------
 
 	A. Plain X-ray
 	B. KUB study
@@ -67,7 +107,9 @@ A 25-year-old man sustains a stab wound to the left flank. He has haematuria dra
 A 30-year-old motorcyclist sustains an unstable pelvic fracture. His catheter is draining frank haematuria.
 #### Answer: 
 
-## Q9-12: Theme: Burns
+
+Q9-12: Theme: Burns
+-------------------
 
 	A. 1%
 	B. 1.25%
@@ -96,7 +138,9 @@ A 69-year-old man is brought to A&E following a house fire, with black, insensat
 A 45-year-old woman presents to A&E with painful, red, blistered burns covering the head and neck, and pink, unblistered skin on the right palm.
 #### Answer: 
 
-## Q13-15: Theme: Statistics
+
+Q13-15: Theme: Statistics
+-------------------------
 
 	A. Quantitative measured data
 	B. Quantitative counted data
@@ -115,7 +159,9 @@ Blood pressure.
 Staging of colorectal cancer.
 #### Answer: 
 
-## Q16-20: Theme: Drains
+
+Q16-20: Theme: Drains
+---------------------
 
 	A. Closed non-suction drain
 	B. Closed suction drain
@@ -124,27 +170,29 @@ Staging of colorectal cancer.
 	E. Sump drain
 	F. T-tube
 
-### 16
+### Q16
 Bowel anastomosis following uncomplicated elective surgery.
 #### Answer: 
 
-### 17
+### Q17
 Immediately following thyroidectomy.
 #### Answer: 
 
-### 18
+### Q18
 A high-output enteric fistula.
 #### Answer: 
 
-### 19
+### Q19
 A skin flap.
 #### Answer: 
 
-### 20
+### Q20
 An oesophageal perforation.
 #### Answer: 
 
-## Q21-24: Theme: Fracture Classifications
+
+Q21-24: Theme: Fracture Classifications
+---------------------------------------
 
 	A. Colton's classification
 	B. Garden's classification
@@ -170,7 +218,9 @@ A fractured distal radius in an 11-year-old child.
 An intracapsular fractured neck of femur.
 #### Answer: 
 
-## Q25-29: Theme: Local Anaesthetics
+
+Q25-29: Theme: Local Anaesthetics
+---------------------------------
 
 	A. Bupivacaine
 	B. Bupivacaine and adrenaline
@@ -200,7 +250,9 @@ For post-operative analgesia after Zadik's procedure under a general anaesthetic
 For a spinal anaesthetic.
 #### Answer: 
 
-## Q30-33: Theme: Treatment of Fractures
+
+Q30-33: Theme: Treatment of Fractures
+-------------------------------------
 
 	A. Broad arm sling
 	B. Intramedullary nail
@@ -225,7 +277,9 @@ A closed femoral shaft fracture in a patient injured in an RTA who has also sust
 An undisplaced clavicle fracture, with no compromise of the overlying skin.
 #### Answer: 
 
-## Q34-37: Theme: The Limping Child
+
+Q34-37: Theme: The Limping Child
+--------------------------------
 
 	A. Osteomyelitis
 	B. Perthes’ disease
@@ -250,7 +304,9 @@ A 2-year-old boy with a chest infection is pyrexial and cries on all movements o
 A 14-year-old boy, weighing 70 kg, presents with pain in the right thigh and knee and a decreased range of abduction.
 #### Answer: 
 
-## Q38-42: Theme: Fractured Neck of Femur
+
+Q38-42: Theme: Fractured Neck of Femur
+--------------------------------------
 
 	A. Austin Moore hemiarthroplasty
 	B. Closed reduction and cannulated screws
@@ -280,7 +336,9 @@ A 26-year-old man is involved in an RTA and injures his right hip. An X-ray show
 A 77-year-old woman trips while shopping, sustaining an intertrochanteric fracture of the left neck of femur. There is a 6-cm subtrochanteric extension.
 #### Answer: 
 
-## Q43-46: Theme: Ischaemic Limbs
+
+Q43-46: Theme: Ischaemic Limbs
+------------------------------
 
 	A. Amputation
 	B. Angiogram
@@ -308,7 +366,9 @@ A diabetic patient who has been on the ward for several weeks for treatment of l
 A 64-year-old man, a heavy smoker, has a history of intermittent claudication affecting the right calf. He presents with an acutely ischaemic right leg. On examination the limb is found to have lost sensation. Angiography shows occlusion of the right femoral artery with good distal run-off.
 #### Answer: 
 
-## Q47-50: Theme: Abdominal Aortic Aneuryms (AAA)
+
+Q47-50: Theme: Abdominal Aortic Aneuryms (AAA)
+----------------------------------------------
 
 	A. CT scan
 	B. Emergency surgery
@@ -334,7 +394,9 @@ A patient known to have an AAA is reviewed in clinic for the third time. Ultraso
 An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. A scan taken 6 months before showed a 3.7-cm aneurysm.
 #### Answer: 
 
-## Q51-54: Theme: Carotid Artery Disease
+
+Q51-54: Theme: Carotid Artery Disease
+-------------------------------------
 
 	A. Best medical therapy
 	B. Endarterectomy left side
@@ -356,7 +418,9 @@ An 87-year-old man presents with an episode of right-sided hemiparesis which ful
 An 82-year-old woman presents with a history of one episode of vertigo and diplopia resolving within 24 hours. Duplex scans show a left-sided stenosis of 60%.
 #### Answer: 
 
-## Q55-58: Theme: Head Injuries
+
+Q55-58: Theme: Head Injuries
+----------------------------
 
 	A. Admission for neurological observations
 	B. CT scan
@@ -381,7 +445,9 @@ A 30-year-old woman is hit with a metal bar. She has a depressed skull fracture 
 A 35-year-old woman has a head injury in an RTA. She remembers the events and did not lose consciousness. Her GCS is 15 throughout. She has a left haemotympanum on examination.
 #### Answer: 
 
-## Q59-62: Theme: Blood Gas Analysis
+
+Q59-62: Theme: Blood Gas Analysis
+---------------------------------
 
 	A. Respiratory alkalosis
 	B. Respiratory acidosis with compensation
@@ -406,7 +472,9 @@ pH 7.29; Pa(O2) 8.4 kPa; Pa(CO2) 6.7 kPa; bicarbonate 32 mmol/l; base excess –
 pH 7.28; Pa(O2) 13.8 kPa; Pa(CO2) 5.0 kPa; bicarbonate 20 mmol/l; base excess –8 mmol/l.
 #### Answer: 
 
-## Q63-66: Theme: Consent
+
+Q63-66: Theme: Consent
+----------------------
 
 	A. Doctor can consent for the patient
 	B. Patient can give valid consent
@@ -430,7 +498,9 @@ An 86-year-old woman with dementia, mini-mental state score 4/10, is admitted wi
 A 15-year-old boy needs an appendicectomy. His parents refuse the surgery despite hearing the risks and benefits, but the patient gives consent. The patient has five GCSEs.
 #### Answer: 
 
-## Q67-71: Theme: Scrotal Swellings
+
+Q67-71: Theme: Scrotal Swellings
+--------------------------------
 
 	A. Epididymal cyst
 	B. Epididymo-orchitis
@@ -462,7 +532,9 @@ A 28-year-old man presents with a 6-hour history of a painful right hemiscrotum.
 A 20-year-old man presents with a 2-hour history of severe right-sided testicular pain and swelling. The hemiscrotum is very tender, with the testis lying normally.
 #### Answer: 
 
-## Q72-77: Theme: Tumour Markers
+
+Q72-77: Theme: Tumour Markers
+-----------------------------
 
 	A. Adrenocorticotropic hormone (ACTH)
 	B. CA 19-9
@@ -499,7 +571,9 @@ Choriocarcinoma.
 Small-cell lung cancer.
 #### Answer: 
 
-## Q78-82: Theme: Congenital Gastrointestinal Anomalies
+
+Q78-82: Theme: Congenital Gastrointestinal Anomalies
+----------------------------------------------------
 
     A. Duodenal atresia
     B. Exomphalos
@@ -530,7 +604,9 @@ A neonate boy with trisomy 21 presents with bilious vomiting and abdominal diste
 A 1-month-old baby boy presents with repeated projectile vomiting of unaltered feed approximately 10 minutes after feeding.
 #### Answer: 
 
-## Q83-85: Theme: Treatment of Gallstones
+
+Q83-85: Theme: Treatment of Gallstones
+--------------------------------------
 
     A. Elective laparoscopic cholecystectomy
     B. Elective open cholecystectomy
@@ -550,7 +626,9 @@ A patient admitted 3 days ago with RUQ pain, vomiting, rigors and a temperature 
 A 50-year-old man known to have gallstones in the gallbladder, who has had two previous attacks of biliary colic, one requiring hospital admission. He has a past medical history of epilepsy, and a vagotomy and pyloroplasty.
 #### Answer: 
 
-## Q86-93: Theme: Chest Injuries
+
+Q86-93: Theme: Chest Injuries
+-----------------------------
 
     A. Aortic dissection/disruption
     B. Cardiac tamponade
@@ -594,7 +672,9 @@ A 29-year-old has a stab injury to the left side of the chest. Primary survey sh
 A 34-year-old is brought in with a stab wound to the right side of his chest. Primary survey shows a tension pneumothorax. This is initially treated with needle thoracocentesis. A chest drain is inserted. A check X-ray 30 minutes after tube insertion shows the tube to be in a satisfactory position. The patient continues to be in respiratory distress and a repeat chest X-ray after 30 minutes shows a persistent large pneumothorax.
 #### Answer: 
 
-## Q94-97: Theme: Sterilisation
+
+Q94-97: Theme: Sterilisation
+----------------------------
 
     A. Autoclave
     B. Dry heat
@@ -619,7 +699,9 @@ Sutures.
 Small McIndoe scissors.
 #### Answer: 
 
-## Q98-100: Theme: Tourniquets
+
+Q98-100: Theme: Tourniquets
+---------------------------
 
     A. No tourniquet
     B. Simple tourniquet
@@ -640,7 +722,9 @@ A patient with a blood pressure of 140/80 mmHg undergoing fasciectomy for Dupuyt
 A patient with a blood pressure of 150/114 mmHg undergoing knee arthroscopy, who has previously had a femoro-popliteal bypass.
 #### Answer: 
 
-## Q101-104: Theme: Biopsy Techniques
+
+Q101-104: Theme: Biopsy Techniques
+----------------------------------
 
     A. Brush cytology
     B. Core biopsy
@@ -666,29 +750,21 @@ A suspected basal cell carcinoma.
 A mass on the bladder wall.
 #### Answer: 
 
-## Q105-112: Theme: Parotid Swellings
 
-A   Acute bacterial sialolithiasis
- 
-B   Adenocarcinoma
- 
-C   Adenolymphoma
- 
-D   Pleomorphic adenoma
- 
-E   Sarcoidosis
- 
-F   Sialolithiasis
- 
-G   Sjögren syndrome
- 
-H   Squamous cell carcinoma
- 
-I   Acute viral sialadenitis
- 
-J   Frey syndrome
+Q105-112: Theme: Parotid Swellings
+----------------------------------
 
-K  Mikulicz syndrome
+	A. Acute bacterial sialolithiasis
+	B. Adenocarcinoma
+	C. Adenolymphoma
+	D. Pleomorphic adenoma
+	E. Sarcoidosis
+	F. Sialolithiasis
+	G. Sjögren syndrome
+	H. Squamous cell carcinoma
+	I. Acute viral sialadenitis
+	J. Frey syndrome
+	K. Mikulicz syndrome
 
 ### Q105
 A 47-year-old man presents with a 6-month history of a slowly growing, smooth lesion in the right parotid. All facial movements are normal.
@@ -722,7 +798,9 @@ A 79-year-old woman with recently diagnosed acute lymphocytic leukaemia presents
 A 59-year-old woman presents with left parotid swelling. It occurs immediately before meals and is exquisitely tender.
 #### Answer: 
 
-## Q113-115: Theme: Joint Infections
+
+Q113-115: Theme: Joint Infections
+---------------------------------
 
     A. Group B streptococcus
     B. Haemolytic streptococcus
@@ -742,7 +820,9 @@ Septic arthritis in a 9-year-old child.
 Osteomyelitis in a 49-year-old man.
 #### Answer: 
 
-## Q116-120: Theme: Suture Materials
+
+Q116-120: Theme: Suture Materials
+---------------------------------
 
     A. 1 PDS (polydioxanone suture)
     B. 3-0 PDS
@@ -773,7 +853,9 @@ Sternal closure following bypass surgery.
 An absorbable suture commonly used for bowel anastomosis.
 #### Answer: 
 
-## Q121-124: Theme: Multiple Endocrine Neoplasia (MEN)
+
+Q121-124: Theme: Multiple Endocrine Neoplasia (MEN)
+---------------------------------------------------
 
     A. Gorlin syndrome
     B. Sipple syndrome
@@ -795,7 +877,9 @@ A 50-year-old woman presents with pituitary adenoma and parathyroid hyperplasia.
 A 60-year-old man who has multiple mucosal neuromas presents with a medullary thyroid carcinoma.
 #### Answer: 
 
-## Q125-128: Theme: Types of Graft
+
+Q125-128: Theme: Types of Graft
+-------------------------------
 
     A. Allogenic heterotropic graft
     B. Allogenic orthotopic graft
@@ -819,7 +903,9 @@ A full-thickness skin graft.
 Pancreas from an unrelated human donor to a recipient.
 #### Answer: 
 
-## Q129-133: Theme: Upper Gastrointestinal Haemorrhage
+
+Q129-133: Theme: Upper Gastrointestinal Haemorrhage
+---------------------------------------------------
 
     A. Aorto-enteric fistula
     B. Duodenal ulcer
@@ -850,7 +936,9 @@ A 30-year-old man presents with haematemesis. He complains of a year-long histor
 A 64-year-old man presents with haematemesis and melaena. He is haemodynamically unstable. He has a previous history of an AAA repair 15 years ago.
 #### Answer: 
 
-## Q134-138: Theme: Lower Gastrointestinal haemorrhage
+
+Q134-138: Theme: Lower Gastrointestinal haemorrhage
+---------------------------------------------------
 
     A. Angiodysplasia
     B. Colorectal cancer
@@ -880,7 +968,9 @@ A 75-year-old man presents with a painless rectal bleed. He complains of altered
 A 30-year-old pregnant woman presents with fresh bleeding per rectum, which she has noticed on the toilet paper.
 #### Answer: 
 
-## Q139-143: Theme: Fluids
+
+Q139-143: Theme: Fluids
+-----------------------
 
     A. 0 mmol/l
     B. 4 mmol/l
@@ -912,7 +1002,9 @@ The sodium concentration of 4% dextrose saline.
 The potassium concentration of Gelofusine.
 #### Answer: 
 
-## Q144-146: Theme: Hypovolaemic Shock
+
+Q144-146: Theme: Hypovolaemic Shock
+-----------------------------------
 
     A. Class I hypovolaemic shock
     B. Class II hypovolaemic shock
@@ -931,7 +1023,9 @@ A 50-year-old man with a bleeding peptic ulcer. His pulse is 98/min, BP 134/72 m
 A 30-year-old pregnant woman with a per vaginal bleed. Her pulse is 138/min, BP 92/70 mmHg, RR 35 breaths/min.
 #### Answer: 
 
-## Q147-150: Theme: Nutritional Support
+
+Q147-150: Theme: Nutritional Support
+------------------------------------
 
     A. Jejunostomy
     B. Nasogastric feeding
@@ -956,7 +1050,9 @@ A patient undergoing Whipple's procedure.
 A patient with Crohn's disease affecting the small bowel.
 #### Answer: 
 
-## Q151-153: Theme: Thyroid Neoplasms
+
+Q151-153: Theme: Thyroid Neoplasms
+----------------------------------
 
     A. Anaplastic carcinoma
     B. Follicular carcinoma
@@ -977,7 +1073,9 @@ An 83-year-old woman presents with a rapidly growing hard painless lump in the r
 A 47-year-old woman presents with a painless lump, gradually increasing in size, in the left lobe of the thyroid. Her serum calcitonin level is elevated.
 #### Answer: 
 
-## Q154-157: Theme: Nipple Discharge
+
+Q154-157: Theme: Nipple Discharge
+---------------------------------
 
     A. Ductal carcinoma in situ
     B. Duct ectasia
@@ -1002,7 +1100,9 @@ A 62-year-old woman with a bloody single-duct discharge. There is no palpable ma
 A 33-year-old multiparous woman presents with a multiductal white discharge, no blood on dipstick. She is being investigated for weight gain and irregular menstruation.
 #### Answer: 
 
-## Q158-160: Theme: Shoulder Pain
+
+Q158-160: Theme: Shoulder Pain
+------------------------------
 
     A. Acute calcific tendonitis
     B. Acute dislocation
@@ -1025,7 +1125,9 @@ An 18-year-old rugby player presents with severe left shoulder pain following a 
 A 73-year-old man presents 3 days after a fall with a painful left shoulder. The pain is worse at night and he is unable to lie on that side. Abduction and external rotation are severely decreased, and all movements are painful.
 #### Answer: 
 
-## Q161-165: Theme: ASA Grading - Classification fo Physical Status
+
+Q161-165: Theme: ASA Grading - Classification fo Physical Status
+----------------------------------------------------------------
 
     A. Class 1
     B. Class 2
@@ -1055,7 +1157,9 @@ A 32-year-old patient with a 10-year history of ulcerative colitis, fully contro
 An 18-year-old man due to undergo inguinal hernia repair. He has a history of severe asthma that needed ICU admission in the past. He has to use inhalers four times a day, and is admitted to hospital with an acute exacerbation at least twice a year.
 #### Answer: 
 
-## Q166-167: Theme: Staging of Transitional Cell Carcinoma of the Bladder
+
+Q166-167: Theme: Staging of Transitional Cell Carcinoma of the Bladder
+----------------------------------------------------------------------
 
     A. Tis
     B. T1
@@ -1074,7 +1178,9 @@ A 67-year-old woman presents with a several-month history of painless haematuria
 A 70-year-old man presents for 6-monthly surveillance cystoscopy following a diagnosis and resection of transitional cell carcinoma bladder (stage T1) 2 years ago. A suspicious area is seen and TURBT is carried out. Histological examination shows that the tumour breaches the lamina propria and invades the superficial muscle.
 #### Answer: 
 
-## Q168-170: Theme: Polyps
+
+Q168-170: Theme: Polyps
+-----------------------
 
     A. Fibroma
     B. Hyperplastic polyp
@@ -1096,7 +1202,9 @@ Rare colonic tumour which arises from the submucosal layer. Can contain muscle o
 Most common type of polyp, usually found in the rectum. No evidence that they undergo malignant change.
 #### Answer: 
 
-## Q171-172: Theme: Radiological Appearances
+
+Q171-172: Theme: Radiological Appearances
+-----------------------------------------
 
     A. Diverticular disease
     B. Duodenal atresia
@@ -1114,7 +1222,9 @@ Distended loop of bowel and ‘beak sign’ on instant enema.
 Tubular shaped colon with no faecal matter within the affected part of the bowel.
 #### Answer: 
 
-## Q173-177: Theme: Peripheral Nerve Injury
+
+Q173-177: Theme: Peripheral Nerve Injury
+----------------------------------------
 
     A. Axillary nerve
     B. Median nerve

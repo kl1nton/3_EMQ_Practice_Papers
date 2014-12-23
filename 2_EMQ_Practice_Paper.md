@@ -1,14 +1,55 @@
 EMQ Practice Paper: 2
 =====================
 
+Overall: ??/??? = ??.0% (?? errors)
+
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1		| 
+1-6		| ?/6 =  ?%		| 
+7-11	| ?/5 =  ?%		|  
+12-14	| ?/3 =  ?%		| 
+15-21	| ?/7 =  ?%		| 
+22-25	| ?/4 =  ?%		| 
+26-29	| ?/4 =  ?%		| 
+30-35	| ?/6 =  ?%		| 
+36-40	| ?/5 =  ?%		| 
+41-46	| ?/6 =  ?%		| 
+47-50	| ?/4 =  ?%		| 
+51-53	| ?/3 =  ?%		| 
+54-56	| ?/3 =  ?%		| 
+57-59	| ?/3 =  ?%		| 
+60-62	| ?/3 =  ?%		| 
+63-69	| ?/7 =  ?%		| 
+70-73	| ?/4 =  ?%		| 
+74-77	| ?/4 =  ?%		| 
+78-81	| ?/4 =  ?%		| 
+82-85	| ?/4 =  ?%		| 
+86-90	| ?/5 =  ?%		| 
+91-96	| ?/6 =  ?%		| 
+97-99	| ?/3 =  ?%		| 
+100-105	| ?/6 =  ?%		| 
+106-109	| ?/4 =  ?%		| 
+110-114	| ?/5 =  ?%		| 
+115-116	| ?/2 =  ?%		| 
+117-121	| ?/5 =  ?%		| 
+122-124	| ?/3 =  ?%		| 
+125-127	| ?/3 =  ?%		| 
+128-131	| ?/4 =  ?%		| 
+132-137	| ?/6 =  ?%		| 
+138-142	| ?/5 =  ?%		| 
+143-151	| ?/9 =  ?%		| 
+152-155	| ?/4 =  ?%		| 
+156-158	| ?/3 =  ?%		| 
+159-162	| ?/4 =  ?%		| 
+163-166	| ?/4 =  ?%		| 
+167-169	| ?/3 =  ?%		| 
+170-173	| ?/4 =  ?%		| 
+174-176	| ?/3 =  ?%		| 
+177-180	| ?/4 =  ?%		| 
 
-Overall: ??/??? = ??.0%
 
-
-## Q1-6: Theme: Wound Closure
+Q1-6: Theme: Wound Closure
+--------------------------
 
 	A. Healing by secondary intention with simple dressings
  	B. Primary closure
@@ -41,7 +82,9 @@ Coverage of a 10-cm-diameter area of burns.
 A 35-year-old man with a degloving injury to the right arm, approximately 6 cm in extent, with the deep fascia still intact. No infection.
 #### Answer: 
 
-## Q7-11: Theme: Cardiac Murmurs
+
+Q7-11: Theme: Cardiac Murmurs
+-----------------------------
 
 	A. Mitral stenosis
  	B. Mitral regurgitation
@@ -71,7 +114,9 @@ A 4-month-old baby presents with abdominal pain, pneumonia and failure to thrive
 A 60-year-old woman in the pre-op clinic reports a 6-month history of dyspnoea, associated with palpitations. A water-hammer pulse is felt, and Corrigan's and Quincke's signs are noted. Her apex beat is displaced and a high-pitched early systolic murmur is heard.
 #### Answer: 
 
-## Q12-14: Theme: Treatment of Testicular Tumours
+
+Q12-14: Theme: Treatment of Testicular Tumours
+----------------------------------------------
 
 	A. Chemotherapy
 	B. Chemotherapy and radiotherapy
@@ -93,7 +138,9 @@ A 30-year-old man with right-sided undescended testis develops a mass in the lef
 A 35-year-old man develops a hard right testicular mass. He undergoes orchidectomy, which shows it to be a seminoma. A staging CT scan shows lymph node spread above and below the diaphragm.
 #### Answer: 
 
-## Q15-21: Theme: Types of Hernia
+
+Q15-21: Theme: Types of Hernia
+------------------------------
 
 	A. Direct inguinal hernia
 	B. Femoral hernia
@@ -135,7 +182,9 @@ A 44-year-old woman with a 3-month history of an aching lump is seen in clinic. 
 A 52-year-old man presents with a painful, irreducible lump, which contains the antimesenteric border of the bowel.
 #### Answer: 
 
-## Q22-25: Theme: Bone Tumours
+
+Q22-25: Theme: Bone Tumours
+---------------------------
 
 	A. Angiosarcoma
 	B. Chondrosarcoma
@@ -162,7 +211,9 @@ A 10-year-old girl presents with a tender enlarging mass affecting the diaphysis
 An 80-year-old man with known Paget's disease affecting both legs presents with a painful mass affecting the right tibia. An X-ray shows a lytic lesion arising from the medullary cavity. Pulmonary metastases are present on chest X-ray.
 #### Answer: 
 
-## Q26-29: Theme: Management of Acute Ischaemia
+
+Q26-29: Theme: Management of Acute Ischaemia
+--------------------------------------------
 
 	A. Amputation
 	B. Angioplasty
@@ -188,7 +239,9 @@ A 64-year-old man, a heavy smoker, has a history of intermittent claudication af
 A 70-year-old woman has a history of acute on chronic ischaemic right leg. This was treated initially with thrombolysis, which failed. An angiogram shows occlusion of the superficial femoral artery with poor distal run-off.
 #### Answer: 
 
-## Q30-35: Theme: Neck Lumps
+
+Q30-35: Theme: Neck Lumps
+-------------------------
 
 	A. Branchial cyst
 	B. Cystic hygroma
@@ -225,7 +278,9 @@ A 69-year-old gentleman presents with weight loss, epigastric pain and a hard lu
 A 50-year-old man attends complaining of a painless lump in the neck. On examination a 4-cm, smooth, firm lump is found in the upper part of the anterior triangle of the neck. It is pulsatile and, on further questioning, the patient admits to a number of recent blackouts.
 #### Answer: 
 
-## Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
+
+Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
+----------------------------------------------------------------
 
 	A. Colectomy and ileorectal anastomosis
 	B. Extended right hemicolectomy
@@ -256,7 +311,8 @@ A 21-year-old patient with a history of severe ulcerative colitis has failed on 
 #### Answer: 
 
 
-## Q41-46: Theme: Scrotal Swellings
+Q41-46: Theme: Scrotal Swellings
+--------------------------------
 
 	A. Acute epididymo-orchitis
 	B. Encysted hydrocoele of the cord
@@ -294,7 +350,8 @@ A 25-year-old man presents with a smooth, left-sided, painless scrotal swelling 
 #### Answer: 
 
 
-## Q47-50: Theme: Upper Limb Fractures
+Q47-50: Theme: Upper Limb Fractures
+-----------------------------------
 
 	A. Barton's fracture
 	B. Bennett's fracture
@@ -319,7 +376,9 @@ A 76-year-old woman stumbles down the stairs at home, landing heavily on her lef
 A 15-year-old boy is knocked off his bicycle and lands on his right arm. He presents to A&E with a swollen tender wrist. An X-ray shows a fracture of the mid-shaft of the radius and dislocation of the inferior radio-ulnar joint.
 #### Answer: 
 
-## Q11: Theme: Staging of Colon Cancer
+
+Q51-53: Theme: Staging of Colon Cancer
+--------------------------------------
 
 	A. Duke's A stage
 	B. Duke's B stage
@@ -338,7 +397,9 @@ A 52-year-old man presents with a history of increasingly severe constipation an
 A 25-year-old man from a family known to carry the HNPCC gene is found to have a lesion in the transverse colon at colonoscopy. Resection and histological examination of the specimen shows this to be invading the muscle layer of the bowel wall.
 #### Answer: 
 
-## Q54-56: Theme: Urinary System Trauma
+
+Q54-56: Theme: Urinary System Trauma
+------------------------------------
 
 	A. Catheterisation and contrast
 	B. CT scan
@@ -359,7 +420,9 @@ A 30-year-old man involved in a fight sustains a blow to the groin with a blunt 
 A 52-year-old man is mugged and stabbed with a knife in the area of the left renal angle. He complains of loin pain. Dipstick shows microscopic haematuria.
 #### Answer: 
 
-## Q57-59: Theme: Preparation of Patients for Endocrine Surgery
+
+Q57-59: Theme: Preparation of Patients for Endocrine Surgery
+------------------------------------------------------------
 
 	A. Bowel preparation
 	B. Calcitonin infusion
@@ -381,7 +444,9 @@ A 42-year-old patient is planned to have a parathyroidectomy after presenting wi
 A 34-year-old patient is found to have bilateral adrenal masses on CT, and suspected to have phaeochromocytoma. An adrenalectomy is planned.
 #### Answer: 
 
-## Q60-62: Theme: Management of Paediatric Disorders
+
+Q60-62: Theme: Management of Paediatric Disorders
+-------------------------------------------------
 
 	A. Broad-spectrum antibiotics
 	B. Gastrografin enema
@@ -403,7 +468,8 @@ A 1-year-old infant presents with intermittent spasms of abdominal pain associat
 #### Answer: 
 
 
-## Q63-69: Theme: Renal Stones
+Q63-69: Theme: Renal Stones
+---------------------------
 
 	A. Watch and wait
 	B. Extracorporeal shock-wave lithotripsy (ESWL)
@@ -441,7 +507,9 @@ A 35-year-old man with right loin to groin pain, who is apyrexial, has a 5-mm ca
 A 53-year-old man presents with left loin to groin pain and haematuria. IVU reveals a 1-cm calculus in the lower pole of the right kidney.
 #### Answer: 
 
-## Q70-73: Theme: Management of Thyroid Cancer
+
+Q70-73: Theme: Management of Thyroid Cancer
+-------------------------------------------
 
 	A. Chemotherapy alone
 	B. Lobectomy
@@ -465,7 +533,9 @@ A 48-year-old patient with a family history of multiple endocrine neoplasia (MEN
 A 57-year-old woman presents with painless thyroid swelling and weight loss. Fine-needle aspiration of the swelling indicates that it is a lymphoma.
 #### Answer: 
 
-## Q74-77: Theme: Pruritus Ani
+
+Q74-77: Theme: Pruritus Ani
+---------------------------
 
 	A. Anal carcinoma
 	B. Anal fissure
@@ -492,7 +562,9 @@ A 25-year-old woman with a history of ulcerative colitis on maximum medical ther
 A 48-year-old man presents with a 3-month history of weight loss and intermittent fever. He also complains of itching around the anus, associated with soreness and purulent discharge.
 #### Answer: 
 
-## Q78-81: Theme: Management of Venous Disease of the Lower Limb
+
+Q78-81: Theme: Management of Venous Disease of the Lower Limb
+-------------------------------------------------------------
 
 	A. Debridement and compression bandaging
 	B. Elevation and NSAIDs
@@ -519,7 +591,9 @@ An 84-year-old woman with a long-standing venous ulcer of the left shin, treated
 A 60-year-old woman with a 10-year history of varicose veins affecting both legs presents with an acute episode of painful thrombophlebitis.
 #### Answer: 
 
-## Q82-85: Theme: Abdominal Signs
+
+Q82-85: Theme: Abdominal Signs
+------------------------------
 
 	A. Battle's sign
 	B. Boas’ sign
@@ -545,7 +619,9 @@ A 45-year-old woman with known gallstones presents with RUQ pain and fever and i
 A 27-year-old man presents with right iliac fossa (RIF) pain, preceded by 2 days of generalised abdominal pain and associated vomiting. His WCC is raised. Palpation in the left iliac fossa (LIF) reproduces the pain in the RIF.
 #### Answer: 
 
-## Q86-90: Theme: Abdominal Incisions
+
+Q86-90: Theme: Abdominal Incisions
+----------------------------------
 
 	A. Gridiron incision
 	B. Kocher's incision
@@ -577,7 +653,9 @@ A 16-year-old girl presents with central abdominal pain which shifts to the righ
 A 48-year-old woman admitted for curative surgery for carcinoma of the head of the pancreas.
 #### Answer: 
 
-## Q91-96: Theme: Full Blood Count
+
+Q91-96: Theme: Full Blood Count
+-------------------------------
 
 Normal values:
  
@@ -623,7 +701,9 @@ A 33-year-old man known to have hereditary elliptocytosis (haemolytic anaemia).
 A 75-year-old hypertensive man with a diagnosis of polycythaemia rubra vera.
 #### Answer: 
 
-## Q22: Theme: Salivary Glands
+
+Q97-99: Theme: Salivary Glands
+------------------------------
 
 	A. Parotid gland
 	B. Sublingual gland
@@ -641,7 +721,9 @@ This gland secretes mucous and serous saliva. Secretomotor fibres come from the 
 This gland is divided into deep and superficial parts by the posterior border of the myohyoid muscle. Blood supply comes from the facial artery and vein.
 #### Answer: A. Parotid gland - ?
 
-## Q100: Theme: Management of Hernias
+
+Q100-105: Theme: Management of Hernias
+--------------------------------------
 
 	A. Conservative management
 	B. Elective hernia repair
@@ -672,7 +754,9 @@ A healthy 84-year-old man presents to clinic with a small right inguinal hernia.
 A 20-year-old man presents with a painless, reducible lump in the right groin, above and medial to the pubic tubercle, extending into the scrotum, which can be controlled with occlusion of the deep inguinal ring.
 #### Answer: 
 
-## Q106-109: Theme: Statistics
+
+Q106-109: Theme: Statistics
+---------------------------
 
 	A. 4%
 	B. 5%
@@ -703,7 +787,9 @@ Negative predictive value (NPV)
 Positive predictive value (PPV)
 #### Answer: 
 
-## Q110-114: Theme: Pancreatic Tumours
+
+Q110-114: Theme: Pancreatic Tumours
+-----------------------------------
 
 	A. Gastrinoma
 	B. Glucagonoma
@@ -735,7 +821,9 @@ A 40-year-old woman presents with a 1-year history of epigastric pain. She is pr
 A 28-year-old man is taken to his GP by his partner, who says he has been behaving strangely and has had eposodes of altered consciousness. This occurs particularly if he skips meals. He has a family history of MEN I.
 #### Answer: 
 
-## Q115-116: Theme: Breast Investigations
+
+Q115-116: Theme: Breast Investigations
+--------------------------------------
 
 	A. Core biopsy
 	B. CT scan
@@ -753,7 +841,9 @@ A 28-year-old woman presents with a right-sided breast lump. It measures 1 cm in
 A 55-year-old woman is sent to your clinic after screening mammography reveals a suspicious area in the left breast. Clinical examination does not reveal any suspicious areas.
 #### Answer: 
 
-## Q117-121: Theme: Intravenous Fluids
+
+Q117-121: Theme: Intravenous Fluids
+-----------------------------------
 
 	A. 0.45% Sodium chloride solution
 	B. 0.9% Sodium chloride solution
@@ -782,7 +872,9 @@ Which fluid contains 150 mmol of sodium per litre?
 Which fluid given in equal volumes expands the intravascular compartment least?
 #### Answer: 
 
-## Q122-124: Theme: Specific Tests
+
+Q122-124: Theme: Specific Tests
+-------------------------------
 
 	A. Allen's test
 	B. Froment's test
@@ -804,7 +896,9 @@ A 69-year-old woman attends the outpatients clinic. On examination she has gutte
 A 35-year-old man attends A&E with acute, severe pain in the right calf. He finds it difficult to walk, and cannot plantar-flex his right foot.
 #### Answer: 
 
-## Q125-127: Theme: Calculi
+
+Q125-127: Theme: Calculi
+------------------------
 
 	A. Bile pigment stone
 	B. Calcium oxalate
@@ -826,7 +920,9 @@ ckle cell anaemia attends A&E with biliary colic. X-rays show the presence of st
 A 28-year-old man presents with ureteric colic. A KUB study shows a stone at the right vesico-ureteric junction.
 #### Answer: 
 
-## Q128-131: Theme: Types of Ulcer
+
+Q128-131: Theme: Types of Ulcer
+-------------------------------
 
 	A. Arterial ulcer
 	B. Curling's ulcer
@@ -853,7 +949,9 @@ An 84-year-old man presents with a small ulcer on the bridge of his nose. It has
 A 24-year-old has 24% third-degree burns. Three days after his admission he complains of melaena.
 #### Answer: 
 
-## Q132-137: Theme: Skin Lesions
+
+Q132-137: Theme: Skin Lesions
+-----------------------------
 
 	A. Basal cell carcinoma
 	B. Dermatofibroma
@@ -888,7 +986,9 @@ A 28-year-old man presents with a lump on the dorsum of his left hand. The lump 
 A 64-year-old woman presents with a non-painful lump on her left arm. It has grown rapidly over the past 2 weeks. On examination it is approximately 2 cm in diameter and has a central brown core. It is firm in consistency, but the central core is hard.
 #### Answer: 
 
-## Q138-142: Theme: Airway Management
+
+Q138-142: Theme: Airway Management
+----------------------------------
 
 	A. Bag-valve-mask
 	B. Double-lumen cuffed endotracheal tube
@@ -919,7 +1019,9 @@ A 76-year-old man is on the ICU following emergency laparotomy. He is expected t
 A 27-year-old man involved in a house fire is brought to A&E. He has some singeing of his nasal hair. His RR is 28 breaths/min, and pulse oximetry gives a reading of 94% on 4 l/min oxygen.
 #### Answer: 
 
-## Q143-151: Theme: Colorectal Carcinoma Procedures
+
+Q143-151: Theme: Colorectal Carcinoma Procedures
+------------------------------------------------
 
 	A. Abdomino-perineal resection (APR)
 	B. Anterior resection
@@ -965,7 +1067,9 @@ A 45-year-old man with a non-obtructing tumour of the sigmoid colon without meta
 A 66-year-old man presents with altered bowel habit and he is found to have a tumour approximately 12 cm from the anus. There is no obstruction and there are no metastases.
 #### Answer: 
 
-## Q152-155: Theme: The Limping Child
+
+Q152-155: Theme: The Limping Child
+----------------------------------
 
 	A. Developmental dysplasia of the hip (DDH)
 	B. Irritable hip
@@ -991,7 +1095,9 @@ An 18-month-old girl with a limp is referred by her general practitioner. She ha
 A 4-year-old boy presents with vague pain in the left hip and thigh. Examination reveals a reduced range of internal rotation and abduction. X-rays show flattening and deformity of the femoral head.
 #### Answer: 
 
-## Q156-158: Theme: Sterilisation
+
+Q156-158: Theme: Sterilisation
+------------------------------
 
 	A. Glutaraldehyde 2%
 	B. Hot air sterilisation 160°C for 2 hours
@@ -1011,7 +1117,9 @@ Sterilisation of a colonoscope.
 Sterilisation of a single-use stapling gun.
 #### Answer: 
 
-## Q159-162: Theme: Consent
+
+Q159-162: Theme: Consent
+------------------------
 
 	A. Accept wishes for non-treatment
 	B. Obtain consent from next of kin
@@ -1036,7 +1144,9 @@ An 84-year-old with known multi-infarct dementia has a fractured neck of femur. 
 A 64-year-old man is brought into A&E unconscious. He is thought to have a perforated peptic ulcer secondary to NSAID use. He is known to have metastatic carcinoma of the prostate. His wife attends with an advance directive stating that he does not wish any form of surgery or resuscitation.
 #### Answer: 
 
-## Q163-166: Theme: Urological Investigations
+
+Q163-166: Theme: Urological Investigations
+------------------------------------------
 
 	A. Abdominal ultrasound
 	B. CT Scan
@@ -1063,7 +1173,9 @@ A 46-year-old man presents with a single episode of haematuria. Flexible cystosc
 A 17-year-old boy presents with a left-sided scrotal swelling. A scrotal ultrasound reveals a varicocele.
 #### Answer: 
 
-## Q167-169: Theme: Arterial Blood Gases (ABGs)
+
+Q167-169: Theme: Arterial Blood Gases (ABGs)
+--------------------------------------------
 
 	A. Compensated metabolic acidosis
 	B. Compensated metabolic alkalosis
@@ -1086,7 +1198,9 @@ A 52-year-old diabetic patient attends pre-admission clinic. He appears to be sh
 A 64-year-old patient in the ICU on her first post-op day following an open aortic aneurysm repair. Her blood gases are: pH 7.31; Pa(O2) 6.6 kPa; Pa(CO2) 7.25 kPa; and bicarbonate 24 mmol/l.
 #### Answer: 
 
-## Q170-173: Theme: Obstructive Jaundice
+
+Q170-173: Theme: Obstructive Jaundice
+-------------------------------------
 
 	A. Acute pancreatitis
 	B. Biliary colic
@@ -1112,7 +1226,9 @@ A 56-year-old alcoholic presents with jaundice and recurrent episodes of severe 
 A 33-year-old woman presents to A&E with severe RUQ pain. The pain has been coming and going for the past 2 hours. Full blood count, urea and electrolytes and liver function test results are all normal. On the consultant ward round the next morning her pain has gone and she wishes to go home.
 #### Answer: 
 
-## Q174-176: Theme: Staging of Tumours
+
+Q174-176: Theme: Staging of Tumours
+-----------------------------------
 
 	A. Ann Arbor staging
 	B. Breslow's staging
@@ -1133,7 +1249,9 @@ A 24-year-old presents with a palpable lymph node in the anterior triangle of th
 A 73-year-old man presents with PSA of 17.6 ng/ml. A transrectal ultrasound-guided biopsy is performed.
 #### Answer: 
 
-## Q177-180: Theme: Lower Limb Neuropathy
+
+Q177-180: Theme: Lower Limb Neuropathy
+--------------------------------------
 
 	A. Common peroneal nerve
 	B. Deep peroneal nerve
