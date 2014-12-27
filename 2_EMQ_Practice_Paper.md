@@ -56,31 +56,31 @@ Q1-6: Theme: Wound Closure
  	C. Split-thickness skin graft
  	D. Full-thickness skin graft
 	E. Local flap
-	F.Free flap
+	F. Free flap
 
 ### Q1
 A 45-year-old man with a grade IIIA open fracture of the tibia with loss of skin, fascia and muscle, and bone exposed over a 4-cm-diameter area mid-shin. No infection present.
-#### Answer: 
+#### Answer: D. Full-thickness skin graft - ?
 
 ### Q2
 A 25-year-old woman with an injury to the pulp of the right middle finger, with a loss of approximately 1 cm of tissue. Bone not exposed, no infection present.
-#### Answer: 
+#### Answer: E. Local flap - ? 
 
 ### Q3
 A 29-year-old woman undergoing mastectomy for breast cancer, wishing to have a primary reconstruction.
-#### Answer: 
+#### Answer: F. Free flap - ? 
 
 ### Q4
 A 50-year-old man with a scalp laceration with an area of skin loss and fascia, down to bone, approximately 2 cm in diameter. No infection.
-#### Answer: 
+#### Answer: E. Local flap - ?
 
 ### Q5
 Coverage of a 10-cm-diameter area of burns.
-#### Answer: 
+#### Answer: C. Split-thickness skin graft - ?
 
 ### Q6
 A 35-year-old man with a degloving injury to the right arm, approximately 6 cm in extent, with the deep fascia still intact. No infection.
-#### Answer: 
+#### Answer: B. Primary closure - ? 
 
 
 Q7-11: Theme: Cardiac Murmurs
@@ -95,12 +95,12 @@ Q7-11: Theme: Cardiac Murmurs
  	G. Patent ductus arteriosus
 
 ### Q7
-A 74-year-old woman is admitted with a fractured neck of femur. She reports several recent episodes of ‘fainting’ and increasing shortness of breath on exertion. Her apex beat is undisplaced and an ejection systolic murmur is heard from the base radiating to the carotids, loudest at the second intercostal space to the right of the sternum.
-#### Answer: 
+A 74-year-old woman is admitted with a fractured neck of femur. She reports several recent episodes of 'fainting' and increasing *shortness of breath on exertion*. Her *apex beat is undisplaced* and an *ejection systolic murmur* is heard from the base *radiating to the carotids*, loudest at the *second intercostal space to the right of the sternum*.
+#### Answer: C. Aortic stenosis - ?
 
 ### Q8
-A 70-year-old man attending pre-op clinic reports a 1-year history of exertional dyspnoea and palpitations. He has a malar flush, irregular pulse and undisplaced apex beat. A mid-diastolic murmur is heard.
-#### Answer: 
+A 70-year-old man attending pre-op clinic reports a 1-year history of *exertional dyspnoea* and *palpitations*. He has a *malar flush*, irregular pulse and undisplaced apex beat. A *mid-diastolic murmur* is heard.
+#### Answer: B. Mitral regurgitation - ?
 
 ### Q9
 A 50-year-old man admitted with right upper quadrant pain reports increasing shortness of breath. He has an irregular pulse, raised JVP and bilateral pitting oedema. The apex beat is undisplaced and a pulmonary ejection systolic murmur is heard.
