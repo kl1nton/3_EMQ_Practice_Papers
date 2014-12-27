@@ -518,20 +518,20 @@ Q70-73: Theme: Management of Thyroid Cancer
 	E. Total thyroidectomy and thyroxine replacement
 
 ### Q70
-A 27-year-old man with history of previous neck irradiation for lymphoma presents with thyroid mass. Fine-needle aspiration reveals cells with ‘orphan Annie’ nuclei. CT shows localised disease.
-#### Answer: 
+A 27-year-old man with history of previous neck irradiation for lymphoma presents with thyroid mass. Fine-needle aspiration reveals cells with 'orphan Annie' nuclei. CT shows localised disease.
+#### Answer: C. Subtotal thyroidectomy - ?
 
 ### Q71
 A 90-year-old woman presents with a hard thyroid mass and a progressively hoarse voice. Cervical lymph nodes are hard and enlarged.
-#### Answer: 
+#### Answer: D. Surgery and external beam radiotherapy - ?
 
 ### Q72
 A 48-year-old patient with a family history of multiple endocrine neoplasia (MEN) syndrome presents with a thyroid mass that appears malignant but shows no evidence of spread.
-#### Answer: 
+#### Answer: E. Total thyroidectomy and thyroxine replacement - ?
 
 ### Q73
 A 57-year-old woman presents with painless thyroid swelling and weight loss. Fine-needle aspiration of the swelling indicates that it is a lymphoma.
-#### Answer: 
+#### Answer: E. Total thyroidectomy and thyroxine replacement - ?
 
 
 Q74-77: Theme: Pruritus Ani
@@ -548,19 +548,19 @@ Q74-77: Theme: Pruritus Ani
 
 ### Q74
 A 35-year-old woman who regularly takes codeine-based analgesics for tension headaches presents with pruritus ani, rectal bleeding and severe pain following defecation.
-#### Answer: 
+#### Answer: F. Haemorrhoids - ? 
 
 ### Q75
 A 57-year-old HIV-positive man has a history of long-standing anal intra-epithelial neoplasia (AIN) but was lost to follow-up for the past 5 years. He now presents with pruritus ani and a firm ulcerated mass at the anal margin with palpable lymph nodes.
-#### Answer: 
+#### Answer: A. Anal carcinoma - ?
 
 ### Q76
 A 25-year-old woman with a history of ulcerative colitis on maximum medical therapy to help control disease presents with pruritus ani. On examination the peri-anal area is red, inflamed and excoriated with a well-demarcated edge.
-#### Answer: 
+#### Answer: B. Anal fissure - ? 
 
 ### Q77
 A 48-year-old man presents with a 3-month history of weight loss and intermittent fever. He also complains of itching around the anus, associated with soreness and purulent discharge.
-#### Answer: 
+#### Answer: D. Fistula in ano - ?
 
 
 Q78-81: Theme: Management of Venous Disease of the Lower Limb
