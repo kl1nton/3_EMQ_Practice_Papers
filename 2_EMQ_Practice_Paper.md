@@ -327,27 +327,27 @@ Q41-46: Theme: Scrotal Swellings
  
 ### Q41
 A 42-year-old man presents with a non-tender right scrotal swelling which has been gradually increasing in size over several months. On examination it is fluctuant and transilluminates. It is not possible to feel the right testicle separately from the swelling, but it is possible to get above it and feel the cord as a separate structure.
-#### Answer: 
+#### Answer: B. Encysted hydrocoele of the cord - ?
 
 ### Q42
 A 65-year-old man presents with a slowly enlarging painless scrotal swelling. On examination it is fluctuant and transilluminates. It is possible to get above it on examination and feel the testis as a separate structure. The swelling is found to lie above and slightly behind the testis.
-#### Answer: 
+#### Answer: C. Epididymal cyst - ?
 
 ### Q43
 A 70-year-old man has a history of a long-standing ‘aching’ sensation in the right testis. On examination he has a firm craggy mass and a few discharging sinuses on the scrotal skin. Urine microscopy shows sterile pyuria.
-#### Answer: 
+#### Answer: D. Chronic epididymo-orchitis - ?
 
 ### Q44
 A 38-year-old man presents with a left-sided scrotal swelling. On examination it is a soft, compressible swelling which does not have a cough impulse. It is not possible to get above it and it disappears on lying down.
-#### Answer: 
+#### Answer: G. Inguino-scrotal hernia - ?
 
 ### Q45
 A 45-year-old man presents with a right-sided scrotal swelling which increases in size on standing up. On examination it is not transilluminable and it is not possible to get above it. There is a positive cough impulse.
-#### Answer: 
+#### Answer: G. Inguino-scrotal hernia - ?
 
 ### Q46
 A 25-year-old man presents with a smooth, left-sided, painless scrotal swelling which is transilluminable and fluctuant. It is possible to feel the testis as a separate structure below the swelling.
-#### Answer: 
+#### Answer: F. Hydrocoele - ?
 
 
 Q47-50: Theme: Upper Limb Fractures
@@ -362,19 +362,19 @@ Q47-50: Theme: Upper Limb Fractures
 
 ### Q47
 A 24-year-old woman presents with a painful left arm following an RTA. The X-ray shows a fracture of the upper third of the ulna together with an associated dislocated radial head.
-#### Answer: 
+#### Answer: E. Monteggia's fracture - ?
 
 ### Q48
 An 84-year-old woman has a fall in the street, landing on her right hand, which appears swollen and deformed. An X-ray shows a fracture of the distal radius, which is angulated dorsally. The fracture extends intra-articularly and there is subluxation of the carpus.
-#### Answer: 
+#### Answer: C. Colles’ fracture - ?
 
 ### Q49
 A 76-year-old woman stumbles down the stairs at home, landing heavily on her left arm. On examination she has a deformed, bruised left wrist. An X-ray shows an extra-articular fracture of the distal radius, which is displaced volarly.
-#### Answer: 
+#### Answer: F. Smith's fracture - ?
 
 ### Q50
 A 15-year-old boy is knocked off his bicycle and lands on his right arm. He presents to A&E with a swollen tender wrist. An X-ray shows a fracture of the mid-shaft of the radius and dislocation of the inferior radio-ulnar joint.
-#### Answer: 
+#### Answer: D. Galeazzi's fracture - ?
 
 
 Q51-53: Theme: Staging of Colon Cancer
@@ -387,15 +387,15 @@ Q51-53: Theme: Staging of Colon Cancer
 
 ### Q51
 A 68-year-old man presents with weight loss and iron-deficiency anaemia. Colonoscopy confirms a caecal mass. The specimen obtained at laparotomy shows adenocarcinoma extending through the bowel wall. All of the nine lymph nodes removed are involved.
-#### Answer: 
+#### Answer: D. Duke's D stage - ?
 
 ### Q52
 A 52-year-old man presents with a history of increasingly severe constipation and rectal bleeding. He is found to have a stenosing lesion of the distal sigmoid colon. Biopsy confirms adenocarcinoma. He undergoes anterior resection and the specimen shows three out of the total seven nodes removed are involved.
-#### Answer: 
+#### Answer: C. Duke's C stage - ?
 
 ### Q53
 A 25-year-old man from a family known to carry the HNPCC gene is found to have a lesion in the transverse colon at colonoscopy. Resection and histological examination of the specimen shows this to be invading the muscle layer of the bowel wall.
-#### Answer: 
+#### Answer: B. Duke's B stage - ?
 
 
 Q54-56: Theme: Urinary System Trauma
@@ -410,15 +410,15 @@ Q54-56: Theme: Urinary System Trauma
  
 ### Q54
 A 25-year-old man slips while walking along the top of a metal gate and falls, straddling the gate. On examination he is in significant pain and has butterfly pattern bruising to the perineum. There is fresh blood at the urethral meatus.
-#### Answer: 
+#### Answer: F. Urethrogram - ?
 
 ### Q55
 A 30-year-old man involved in a fight sustains a blow to the groin with a blunt instrument. On examination there is gross swelling and bruising with an area of tense swelling around the left testicle, which is becoming increasingly large and painful.
-#### Answer: 
+#### Answer: E. Surgical exploration - ?
 
 ### Q56
 A 52-year-old man is mugged and stabbed with a knife in the area of the left renal angle. He complains of loin pain. Dipstick shows microscopic haematuria.
-#### Answer: 
+#### Answer: D. Retrograde uteropyelography - ?
 
 
 Q57-59: Theme: Preparation of Patients for Endocrine Surgery
