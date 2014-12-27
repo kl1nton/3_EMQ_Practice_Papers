@@ -196,20 +196,20 @@ Q22-25: Theme: Bone Tumours
 	H. Osteosarcoma
 
 ### Q22
-A 15-year-old boy presents with a painful enlarging mass of the lower left femur. An X-ray shows a sclerotic lesion with periosteal elevation. The knee joint is not involved. Chest X-ray shows lesions suspicious of pulmonary metastases. He has a past medical history of retinoblastoma as a child.
-#### Answer: 
+A 15-year-old boy presents with a painful enlarging mass of the lower left femur. An X-ray shows a *sclerotic lesion with periosteal elevation*. The knee joint is not involved. Chest X-ray shows lesions suspicious of pulmonary metastases. He has a past medical history of retinoblastoma as a child.
+#### Answer: G. Osteoblastoma - ?
 
 ### Q23
-A 60-year-old gentleman with a past history of multiple osteochondromas affecting the right proximal humerus and ribs presents with a slowly enlarging mass of the right humerus. The X-ray shows endosteal scalloping and cortical thickening. There is evidence of pulmonary spread on chest X-ray.
-#### Answer: 
+A 60-year-old gentleman with a past history of multiple osteochondromas affecting the right proximal humerus and ribs presents with a slowly enlarging mass of the right humerus. The X-ray shows *endosteal scalloping* and *cortical thickening*. There is evidence of pulmonary spread on chest X-ray.
+#### Answer: B. Chondrosarcoma - ?
 
 ### Q24
 A 10-year-old girl presents with a tender enlarging mass affecting the diaphysis of the left femur. An X-ray shows this to be a lytic lesion. Biopsy identifies it as being a tumour of vascular endothelium.
-#### Answer: 
+#### Answer: A. Angiosarcoma - ?
 
 ### Q25
 An 80-year-old man with known Paget's disease affecting both legs presents with a painful mass affecting the right tibia. An X-ray shows a lytic lesion arising from the medullary cavity. Pulmonary metastases are present on chest X-ray.
-#### Answer: 
+#### Answer: H. Osteosarcoma - ?
 
 
 Q26-29: Theme: Management of Acute Ischaemia
@@ -225,19 +225,19 @@ Q26-29: Theme: Management of Acute Ischaemia
 
 ### Q26
 A 72-year-old man has history of atrial fibrillation but not of peripheral vascular disease or claudication pain. He presents to A&E with a 2-hour history of an acutely ischaemic left leg. Angiography shows a blockage at the origin of the left femoral artery.
-#### Answer: 
+#### Answer: B. Angioplasty - ?
 
 ### Q27
 An 84-year-old woman, who lives alone, presents with a 36-hour history of acute ischaemia of right foot. Angiography shows occlusion of the right superficial femoral artery.
-#### Answer: 
+#### Answer: C. Embolectomy - ?
 
 ### Q28
 A 64-year-old man, a heavy smoker, has a history of intermittent claudication affecting the right calf. He presents with an acutely ischaemic right leg. On examination the limb is found to be insensate. Angiography shows occlusion of the right femoral artery with good distal run-off.
-#### Answer: 
+#### Answer: F. Thrombolysis - ?
 
 ### Q29
 A 70-year-old woman has a history of acute on chronic ischaemic right leg. This was treated initially with thrombolysis, which failed. An angiogram shows occlusion of the superficial femoral artery with poor distal run-off.
-#### Answer: 
+#### Answer: E. Reconstruction - ?
 
 
 Q30-35: Theme: Neck Lumps
@@ -256,27 +256,27 @@ Q30-35: Theme: Neck Lumps
 
 ### Q30
 A 12-year-old child presents with a painless midline neck swelling which is fluctuant on palpation. It moves both on swallowing and on protrusion of the tongue.
-#### Answer: 
+#### Answer: E. Thyroglossal cyst - ?
 
 ### Q31
-A 2-year-old boy presents with unilateral painless swelling at the base of the neck. It brilliantly transilluminates.
-#### Answer: 
+A 2-year-old boy presents with unilateral painless swelling at the base of the neck. It *brilliantly transilluminates*.
+#### Answer: A. Branchial cyst - ?
 
 ### Q32
 A 25-year-old woman presents with an irregular, painless, midline neck swelling which moves on swallowing but not on protrusion of the tongue. She also complains of feeling anxious and sweaty, and has lost some weight in recent weeks.
-#### Answer: 
+#### Answer: G. Toxic multinodular goitre - ?
 
 ### Q33
-A 35-year-old man presents with an enlarging neck lump between the junction of the upper and middle thirds of the anterior border of the left sternocleidomastoid muscle. The mass is non-tender.
-#### Answer: 
+A 35-year-old man presents with an enlarging neck lump between the junction of the *upper and middle thirds* of the anterior border of the left sternocleidomastoid muscle. The mass is non-tender.
+#### Answer: B. Cystic hygroma - ?
 
 ### Q34
 A 69-year-old gentleman presents with weight loss, epigastric pain and a hard lump in the supraclavicular fossa.
-#### Answer: 
+#### Answer: D. Lymphoma - ?
 
 ### Q35
 A 50-year-old man attends complaining of a painless lump in the neck. On examination a 4-cm, smooth, firm lump is found in the upper part of the anterior triangle of the neck. It is pulsatile and, on further questioning, the patient admits to a number of recent blackouts.
-#### Answer: 
+#### Answer: J. Chemodectoma - ?
 
 
 Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
