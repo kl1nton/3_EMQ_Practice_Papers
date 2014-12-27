@@ -434,15 +434,15 @@ Q57-59: Theme: Preparation of Patients for Endocrine Surgery
 
 ### Q57
 A 28-year-old woman with Graves’ disease resistant to medical treatment is due to have a subtotal thyroidectomy for symptoms of compression.
-#### Answer: 
+#### Answer: E. Thallium technetium scan - ?
 
 ### Q58
-A 42-year-old patient is planned to have a parathyroidectomy after presenting with raised calcium and parathyroid hormone levels with no history of renal disease.
-#### Answer: 
+A 42-year-old patient is planned to have a *parathyroidectomy* after presenting with raised calcium and parathyroid hormone levels with no history of renal disease.
+#### Answer: B. Calcitonin infusion - ?
 
 ### Q59
 A 34-year-old patient is found to have bilateral adrenal masses on CT, and suspected to have phaeochromocytoma. An adrenalectomy is planned.
-#### Answer: 
+#### Answer: C. Corticosteroids - ?
 
 
 Q60-62: Theme: Management of Paediatric Disorders
@@ -457,15 +457,15 @@ Q60-62: Theme: Management of Paediatric Disorders
 
 ### Q60
 A 40-day-old baby develops projectile vomiting approximately 20 minutes after each feed together with failure to thrive. On examination an olive-shaped mass is noted in the RUQ following feeding. Bloods show a metabolic alkalosis.
-#### Answer: 
+#### Answer: F. Ramstedt's pyloromyotomy - ?
 
 ### Q61
 A 2-day-old baby known to have cystic fibrosis presents with a distended abdomen and bilious vomiting. His rectum is empty.
-#### Answer: 
+#### Answer: B. Gastrografin enema - ?
 
 ### Q62
 A 1-year-old infant presents with intermittent spasms of abdominal pain associated with drawing up of the legs and a small amount of rectal bleeding. A sausage-shaped mass is noted in the epigastrium. Two similar episodes in the past were treated with hydrostatic reduction.
-#### Answer: 
+#### Answer: D. Laparotomy and proceed - ?
 
 
 Q63-69: Theme: Renal Stones
@@ -481,31 +481,31 @@ Q63-69: Theme: Renal Stones
 
 ### Q63
 A 54-year-old woman with a history of renal stone disease presents with a 2-month history of intermittent left loin pain. An intravenous urogram (IVU) shows a 1.5-cm stone in the left renal pelvis but no evidence of obstruction. She has a past history of ischaemic heart disease and has a 4-cm aortic aneurysm lying close to the origin of the left renal artery; this is under surveillance.
-#### Answer: 
+#### Answer: B. Extracorporeal shock-wave lithotripsy (ESWL) - ?
 
 ### Q64
 A 27-year-old man presents to A&E with severe right loin and groin pain and microscopic haematuria on dipstick. Pain is well controlled with NSAIDs and pethidine. An IVU confirms the presence of a 4-mm stone in the right mid-ureter region.
-#### Answer: 
+#### Answer: A. Watch and wait - ?
 
 ### Q65
 A 42-year-old man presents to A&E with severe right loin pain radiating to the groin. He is sweating profusely and vomiting, with a temperature of 38.9°C. Dipstick shows 3+ blood and 3+ leucocytes. An IVU shows a 5-mm stone in the upper right ureter and dilated calyces.
-#### Answer: 
+#### Answer: E. Laparoscopic ureterolithotomy - ?
 
 ### Q66
 A 24-year-old woman develops severe loin pain with one episode of frank haematuria. She is apyrexial. An IVU shows a 1-cm calculus lying in the lower pole of the right kidney.
-#### Answer: 
+#### Answer: F. Percutaneous nephrolithotomy (PCNL) - ?
 
 ### Q67
 An asymptomatic 29-year-old woman undergoes an ultrasound scan which reveals a 1-cm renal calculus within a cyst.
-#### Answer: 
+#### Answer: A. Watch and wait - ?
 
 ### Q68
 A 35-year-old man with right loin to groin pain, who is apyrexial, has a 5-mm calculus in the proximal ureter on IVU.
-#### Answer: 
+#### Answer: C. Flexible ureteroscopy - ?
 
 ### Q69
 A 53-year-old man presents with left loin to groin pain and haematuria. IVU reveals a 1-cm calculus in the lower pole of the right kidney.
-#### Answer: 
+#### Answer: F. Percutaneous nephrolithotomy (PCNL) - ?
 
 
 Q70-73: Theme: Management of Thyroid Cancer
