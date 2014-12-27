@@ -292,23 +292,23 @@ Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
 
 ### Q36
 A 15-year-old boy with a history of ulcerative colitis for 5 years has a 2-year history of severe disease, resulting in weight loss and growth failure. He is commenced on increasing doses of steroids without success. Disease is present from transverse colon to rectum.
-#### Answer: 
+#### Answer: G. Subtotal colectomy + ileostomy + mucous fistula - ?
 
 ### Q37
 A 39-year-old gentleman with ulcerative colitis presents with a severe acute exacerbation. Three days after admission he develops severe abdominal pain, becomes septic, and on examination has a rigid abdomen with peritonism. Erect chest X-ray shows air under the diaphragm.
-#### Answer: 
+#### Answer: E. Proctocolectomy and ileostomy - ?
 
 ### Q38
 A 27-year-old woman with Crohn's disease is admitted for the fourth occasion in 6 months with small-bowel obstruction. Barium follow-through shows a 4-cm stricture of the proximal ileum.
-#### Answer: 
+#### Answer: F. Stricturoplasty - ?
 
 ### Q39
 A 22-year-old woman with diagnosis of Crohn's disease has a history over the past year of recurrent anaemia and weight loss. Colonoscopy shows severe inflammation and active disease affecting the caecum and terminal ileum. Maximum medical therapy has been unsuccessful.
-#### Answer: 
+#### Answer: C. Ileo-caecal resection - ?
 
 ### Q40
 A 21-year-old patient with a history of severe ulcerative colitis has failed on medical treatment alone. Investigations show rectal sparing.
-#### Answer: 
+#### Answer: A. Colectomy and ileorectal anastomosis - ?
 
 
 Q41-46: Theme: Scrotal Swellings
