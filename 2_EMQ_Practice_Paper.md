@@ -577,19 +577,19 @@ Q78-81: Theme: Management of Venous Disease of the Lower Limb
 
 ### Q78
 A 46-year-old woman has long-standing varicose veins affecting both legs which have recently started to ache. Doppler examination shows no problem with the deep venous system. Varicosities are in the distribution of the long saphenous vein.
-#### Answer: 
+#### Answer: D. Sapheno-femoral ligation - ?
 
 ### Q79
 A 69-year-old woman has a history of deep vein thrombosis affecting the right leg 20 years ago. She now presents with longstanding ulcers over the right gaiter region. ABPI of both legs = 0.8. She is treated with debridement and compression dressing, but review at 12 weeks shows no improvement.
-#### Answer: 
+#### Answer: B. Elevation and NSAIDs - ?
 
 ### Q80
 An 84-year-old woman with a long-standing venous ulcer of the left shin, treated with regular debridement and dressings, notices it is becoming increasingly tender. On examination the ulcer has a small amount of purulent, offensive discharge and there is surrounding cellulitis.
-#### Answer: 
+#### Answer: G. Systemic antibiotics - ?
 
 ### Q81
 A 60-year-old woman with a 10-year history of varicose veins affecting both legs presents with an acute episode of painful thrombophlebitis.
-#### Answer: 
+#### Answer: H. Topical antibiotics - ?
 
 
 Q82-85: Theme: Abdominal Signs
