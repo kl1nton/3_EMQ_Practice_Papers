@@ -99,20 +99,20 @@ A 74-year-old woman is admitted with a fractured neck of femur. She reports seve
 #### Answer: C. Aortic stenosis - ?
 
 ### Q8
-A 70-year-old man attending pre-op clinic reports a 1-year history of *exertional dyspnoea* and *palpitations*. He has a *malar flush*, irregular pulse and undisplaced apex beat. A *mid-diastolic murmur* is heard.
+A 70-year-old man attending pre-op clinic reports a 1-year history of *exertional dyspnoea* and *palpitations*. He has a *malar flush*, *irregular pulse* and *undisplaced apex beat*. A *mid-diastolic murmur* is heard.
 #### Answer: B. Mitral regurgitation - ?
 
 ### Q9
-A 50-year-old man admitted with right upper quadrant pain reports increasing shortness of breath. He has an irregular pulse, raised JVP and bilateral pitting oedema. The apex beat is undisplaced and a pulmonary ejection systolic murmur is heard.
-#### Answer: 
+A 50-year-old man admitted with *right upper quadrant pain* reports increasing shortness of breath. He has an *irregular pulse*, *raised JVP* and *bilateral pitting oedema*. The apex beat is undisplaced and a *pulmonary ejection systolic murmur* is heard.
+#### Answer: E. Atrial septal defect - ?
 
 ### Q10
-A 4-month-old baby presents with abdominal pain, pneumonia and failure to thrive. He has had several previous chest infections. He has a systolic murmur, loudest in the second intercostal space at the left sternal edge.
-#### Answer: 
+A 4-month-old baby presents with *abdominal pain*, pneumonia and *failure to thrive*. He has had several previous chest infections. He has a systolic murmur, loudest in the second intercostal space at the left sternal edge.
+#### Answer: F. Ventricular septal defect - ?
 
 ### Q11
-A 60-year-old woman in the pre-op clinic reports a 6-month history of dyspnoea, associated with palpitations. A water-hammer pulse is felt, and Corrigan's and Quincke's signs are noted. Her apex beat is displaced and a high-pitched early systolic murmur is heard.
-#### Answer: 
+A 60-year-old woman in the pre-op clinic reports a 6-month history of dyspnoea, associated with palpitations. A *water-hammer pulse* is felt, and *Corrigan's and Quincke's signs* are noted. Her *apex beat is displaced* and a *high-pitched early systolic murmur* is heard.
+#### Answer: G. Patent ductus arteriosus - ?
 
 
 Q12-14: Theme: Treatment of Testicular Tumours
@@ -127,16 +127,16 @@ Q12-14: Theme: Treatment of Testicular Tumours
 	G. Testicular biopsy
 
 ### Q12
-A 22-year-old man presents with hard swelling of the left testis and undergoes orchidectomy. Histological examination shows non-seminomatous germ cell tumour. Staging CT scan shows retroperitoneal lymphadenopathy but no nodes above the diaphragm.
-#### Answer: 
+A 22-year-old man presents with hard swelling of the left testis and undergoes orchidectomy. Histological examination shows non-seminomatous germ cell tumour. Staging CT scan shows *retroperitoneal lymphadenopathy* but no nodes above the diaphragm.
+#### Answer: E. Radiotherapy - ?
 
 ### Q13
-A 30-year-old man with right-sided undescended testis develops a mass in the left testicle. Left orchidectomy shows seminoma. CT scan shows no evidence of spread.
-#### Answer: 
+A 30-year-old man with *right-sided undescended testis* develops a mass in the left testicle. *Left orchidectomy shows seminoma*. CT scan shows no evidence of spread.
+#### Answer: D. Orchidectomy and surveillance - ?
 
 ### Q14
 A 35-year-old man develops a hard right testicular mass. He undergoes orchidectomy, which shows it to be a seminoma. A staging CT scan shows lymph node spread above and below the diaphragm.
-#### Answer: 
+#### Answer: B. Chemotherapy and radiotherapy - ?
 
 
 Q15-21: Theme: Types of Hernia
@@ -155,32 +155,32 @@ Q15-21: Theme: Types of Hernia
 	K. Umbilical hernia
 
 ### Q15
-A 58-year-old man with previous laparotomy for diverticular disease develops a hernia at the lower end of his midline scar. The hernia becomes irreducible and he presents to A&E with severe pain. At operation the contents of the hernia show a strangulated Meckel's diverticulum.
-#### Answer: 
+A 58-year-old man with previous laparotomy for diverticular disease develops a hernia at the lower end of his midline scar. The hernia becomes irreducible and he presents to A&E with severe pain. At operation the contents of the hernia show a strangulated *Meckel's diverticulum*.
+#### Answer: D. Littre's hernia - ?
 
 ### Q16
-A 52-year-old woman presents with a tender swelling in the left groin. Examination reveals that this is irreducible with a cough impulse, and lies below and lateral to the pubic tubercle.
-#### Answer: 
+A 52-year-old woman presents with a tender swelling in the left groin. Examination reveals that this is irreducible with a cough impulse, and lies *below and lateral* to the pubic tubercle.
+#### Answer: B. Femoral hernia - ?
 
 ### Q17
-A 28-year-old man presents with a groin swelling, which is easily reducible and has a cough impulse. On standing, the hernia descends into the scrotum. Reducing the hernia and placing pressure 1 cm above the midpoint of the inguinal ligament prevents the hernia from reappearing.
-#### Answer: 
+A 28-year-old man presents with a groin swelling, which is easily reducible and has a cough impulse. On standing, the *hernia descends into the scrotum*. Reducing the hernia and placing pressure 1 cm above the *midpoint of the inguinal ligament* prevents the hernia from reappearing.
+#### Answer: C. Indirect inguinal hernia - ?
 
 ### Q18
-A 78-year-old man presents with a reducible mass just superior to the right iliac crest.
-#### Answer: 
+A 78-year-old man presents with a reducible mass just superior to the *right iliac crest*.
+#### Answer: H. Maydl's hernia - ?
 
 ### Q19
 A 78-year-old man with a past history of chronic obstructive pulmonary disease (COPD) presents with a swelling that is protruding through the linea alba, adjacent to the umbilical cicatrix.
-#### Answer: 
+#### Answer: K. Umbilical hernia - ?
 
 ### Q20
 A 44-year-old woman with a 3-month history of an aching lump is seen in clinic. There is a swelling protruding through the bands of the internal oblique at the level of the line of Douglas.
-#### Answer: 
+#### Answer: G. Spigelian hernia - ?
 
 ### Q21
 A 52-year-old man presents with a painful, irreducible lump, which contains the antimesenteric border of the bowel.
-#### Answer: 
+#### Answer: J. Richter's hernia - ?
 
 
 Q22-25: Theme: Bone Tumours
