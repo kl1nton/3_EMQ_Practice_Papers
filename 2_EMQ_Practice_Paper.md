@@ -56,31 +56,31 @@ Q1-6: Theme: Wound Closure
  	C. Split-thickness skin graft
  	D. Full-thickness skin graft
 	E. Local flap
-	F.Free flap
+	F. Free flap
 
 ### Q1
 A 45-year-old man with a grade IIIA open fracture of the tibia with loss of skin, fascia and muscle, and bone exposed over a 4-cm-diameter area mid-shin. No infection present.
-#### Answer: 
+#### Answer: D. Full-thickness skin graft - ?
 
 ### Q2
 A 25-year-old woman with an injury to the pulp of the right middle finger, with a loss of approximately 1 cm of tissue. Bone not exposed, no infection present.
-#### Answer: 
+#### Answer: E. Local flap - ? 
 
 ### Q3
 A 29-year-old woman undergoing mastectomy for breast cancer, wishing to have a primary reconstruction.
-#### Answer: 
+#### Answer: F. Free flap - ? 
 
 ### Q4
 A 50-year-old man with a scalp laceration with an area of skin loss and fascia, down to bone, approximately 2 cm in diameter. No infection.
-#### Answer: 
+#### Answer: E. Local flap - ?
 
 ### Q5
 Coverage of a 10-cm-diameter area of burns.
-#### Answer: 
+#### Answer: C. Split-thickness skin graft - ?
 
 ### Q6
 A 35-year-old man with a degloving injury to the right arm, approximately 6 cm in extent, with the deep fascia still intact. No infection.
-#### Answer: 
+#### Answer: B. Primary closure - ? 
 
 
 Q7-11: Theme: Cardiac Murmurs
@@ -95,24 +95,24 @@ Q7-11: Theme: Cardiac Murmurs
  	G. Patent ductus arteriosus
 
 ### Q7
-A 74-year-old woman is admitted with a fractured neck of femur. She reports several recent episodes of ‘fainting’ and increasing shortness of breath on exertion. Her apex beat is undisplaced and an ejection systolic murmur is heard from the base radiating to the carotids, loudest at the second intercostal space to the right of the sternum.
-#### Answer: 
+A 74-year-old woman is admitted with a fractured neck of femur. She reports several recent episodes of 'fainting' and increasing *shortness of breath on exertion*. Her *apex beat is undisplaced* and an *ejection systolic murmur* is heard from the base *radiating to the carotids*, loudest at the *second intercostal space to the right of the sternum*.
+#### Answer: C. Aortic stenosis - ?
 
 ### Q8
-A 70-year-old man attending pre-op clinic reports a 1-year history of exertional dyspnoea and palpitations. He has a malar flush, irregular pulse and undisplaced apex beat. A mid-diastolic murmur is heard.
-#### Answer: 
+A 70-year-old man attending pre-op clinic reports a 1-year history of *exertional dyspnoea* and *palpitations*. He has a *malar flush*, *irregular pulse* and *undisplaced apex beat*. A *mid-diastolic murmur* is heard.
+#### Answer: B. Mitral regurgitation - ?
 
 ### Q9
-A 50-year-old man admitted with right upper quadrant pain reports increasing shortness of breath. He has an irregular pulse, raised JVP and bilateral pitting oedema. The apex beat is undisplaced and a pulmonary ejection systolic murmur is heard.
-#### Answer: 
+A 50-year-old man admitted with *right upper quadrant pain* reports increasing shortness of breath. He has an *irregular pulse*, *raised JVP* and *bilateral pitting oedema*. The apex beat is undisplaced and a *pulmonary ejection systolic murmur* is heard.
+#### Answer: E. Atrial septal defect - ?
 
 ### Q10
-A 4-month-old baby presents with abdominal pain, pneumonia and failure to thrive. He has had several previous chest infections. He has a systolic murmur, loudest in the second intercostal space at the left sternal edge.
-#### Answer: 
+A 4-month-old baby presents with *abdominal pain*, pneumonia and *failure to thrive*. He has had several previous chest infections. He has a systolic murmur, loudest in the second intercostal space at the left sternal edge.
+#### Answer: F. Ventricular septal defect - ?
 
 ### Q11
-A 60-year-old woman in the pre-op clinic reports a 6-month history of dyspnoea, associated with palpitations. A water-hammer pulse is felt, and Corrigan's and Quincke's signs are noted. Her apex beat is displaced and a high-pitched early systolic murmur is heard.
-#### Answer: 
+A 60-year-old woman in the pre-op clinic reports a 6-month history of dyspnoea, associated with palpitations. A *water-hammer pulse* is felt, and *Corrigan's and Quincke's signs* are noted. Her *apex beat is displaced* and a *high-pitched early systolic murmur* is heard.
+#### Answer: G. Patent ductus arteriosus - ?
 
 
 Q12-14: Theme: Treatment of Testicular Tumours
@@ -127,16 +127,16 @@ Q12-14: Theme: Treatment of Testicular Tumours
 	G. Testicular biopsy
 
 ### Q12
-A 22-year-old man presents with hard swelling of the left testis and undergoes orchidectomy. Histological examination shows non-seminomatous germ cell tumour. Staging CT scan shows retroperitoneal lymphadenopathy but no nodes above the diaphragm.
-#### Answer: 
+A 22-year-old man presents with hard swelling of the left testis and undergoes orchidectomy. Histological examination shows non-seminomatous germ cell tumour. Staging CT scan shows *retroperitoneal lymphadenopathy* but no nodes above the diaphragm.
+#### Answer: E. Radiotherapy - ?
 
 ### Q13
-A 30-year-old man with right-sided undescended testis develops a mass in the left testicle. Left orchidectomy shows seminoma. CT scan shows no evidence of spread.
-#### Answer: 
+A 30-year-old man with *right-sided undescended testis* develops a mass in the left testicle. *Left orchidectomy shows seminoma*. CT scan shows no evidence of spread.
+#### Answer: D. Orchidectomy and surveillance - ?
 
 ### Q14
 A 35-year-old man develops a hard right testicular mass. He undergoes orchidectomy, which shows it to be a seminoma. A staging CT scan shows lymph node spread above and below the diaphragm.
-#### Answer: 
+#### Answer: B. Chemotherapy and radiotherapy - ?
 
 
 Q15-21: Theme: Types of Hernia
@@ -155,32 +155,32 @@ Q15-21: Theme: Types of Hernia
 	K. Umbilical hernia
 
 ### Q15
-A 58-year-old man with previous laparotomy for diverticular disease develops a hernia at the lower end of his midline scar. The hernia becomes irreducible and he presents to A&E with severe pain. At operation the contents of the hernia show a strangulated Meckel's diverticulum.
-#### Answer: 
+A 58-year-old man with previous laparotomy for diverticular disease develops a hernia at the lower end of his midline scar. The hernia becomes irreducible and he presents to A&E with severe pain. At operation the contents of the hernia show a strangulated *Meckel's diverticulum*.
+#### Answer: D. Littre's hernia - ?
 
 ### Q16
-A 52-year-old woman presents with a tender swelling in the left groin. Examination reveals that this is irreducible with a cough impulse, and lies below and lateral to the pubic tubercle.
-#### Answer: 
+A 52-year-old woman presents with a tender swelling in the left groin. Examination reveals that this is irreducible with a cough impulse, and lies *below and lateral* to the pubic tubercle.
+#### Answer: B. Femoral hernia - ?
 
 ### Q17
-A 28-year-old man presents with a groin swelling, which is easily reducible and has a cough impulse. On standing, the hernia descends into the scrotum. Reducing the hernia and placing pressure 1 cm above the midpoint of the inguinal ligament prevents the hernia from reappearing.
-#### Answer: 
+A 28-year-old man presents with a groin swelling, which is easily reducible and has a cough impulse. On standing, the *hernia descends into the scrotum*. Reducing the hernia and placing pressure 1 cm above the *midpoint of the inguinal ligament* prevents the hernia from reappearing.
+#### Answer: C. Indirect inguinal hernia - ?
 
 ### Q18
-A 78-year-old man presents with a reducible mass just superior to the right iliac crest.
-#### Answer: 
+A 78-year-old man presents with a reducible mass just superior to the *right iliac crest*.
+#### Answer: H. Maydl's hernia - ?
 
 ### Q19
 A 78-year-old man with a past history of chronic obstructive pulmonary disease (COPD) presents with a swelling that is protruding through the linea alba, adjacent to the umbilical cicatrix.
-#### Answer: 
+#### Answer: K. Umbilical hernia - ?
 
 ### Q20
 A 44-year-old woman with a 3-month history of an aching lump is seen in clinic. There is a swelling protruding through the bands of the internal oblique at the level of the line of Douglas.
-#### Answer: 
+#### Answer: G. Spigelian hernia - ?
 
 ### Q21
 A 52-year-old man presents with a painful, irreducible lump, which contains the antimesenteric border of the bowel.
-#### Answer: 
+#### Answer: J. Richter's hernia - ?
 
 
 Q22-25: Theme: Bone Tumours
@@ -196,20 +196,20 @@ Q22-25: Theme: Bone Tumours
 	H. Osteosarcoma
 
 ### Q22
-A 15-year-old boy presents with a painful enlarging mass of the lower left femur. An X-ray shows a sclerotic lesion with periosteal elevation. The knee joint is not involved. Chest X-ray shows lesions suspicious of pulmonary metastases. He has a past medical history of retinoblastoma as a child.
-#### Answer: 
+A 15-year-old boy presents with a painful enlarging mass of the lower left femur. An X-ray shows a *sclerotic lesion with periosteal elevation*. The knee joint is not involved. Chest X-ray shows lesions suspicious of pulmonary metastases. He has a past medical history of retinoblastoma as a child.
+#### Answer: G. Osteoblastoma - ?
 
 ### Q23
-A 60-year-old gentleman with a past history of multiple osteochondromas affecting the right proximal humerus and ribs presents with a slowly enlarging mass of the right humerus. The X-ray shows endosteal scalloping and cortical thickening. There is evidence of pulmonary spread on chest X-ray.
-#### Answer: 
+A 60-year-old gentleman with a past history of multiple osteochondromas affecting the right proximal humerus and ribs presents with a slowly enlarging mass of the right humerus. The X-ray shows *endosteal scalloping* and *cortical thickening*. There is evidence of pulmonary spread on chest X-ray.
+#### Answer: B. Chondrosarcoma - ?
 
 ### Q24
 A 10-year-old girl presents with a tender enlarging mass affecting the diaphysis of the left femur. An X-ray shows this to be a lytic lesion. Biopsy identifies it as being a tumour of vascular endothelium.
-#### Answer: 
+#### Answer: A. Angiosarcoma - ?
 
 ### Q25
 An 80-year-old man with known Paget's disease affecting both legs presents with a painful mass affecting the right tibia. An X-ray shows a lytic lesion arising from the medullary cavity. Pulmonary metastases are present on chest X-ray.
-#### Answer: 
+#### Answer: H. Osteosarcoma - ?
 
 
 Q26-29: Theme: Management of Acute Ischaemia
@@ -225,19 +225,19 @@ Q26-29: Theme: Management of Acute Ischaemia
 
 ### Q26
 A 72-year-old man has history of atrial fibrillation but not of peripheral vascular disease or claudication pain. He presents to A&E with a 2-hour history of an acutely ischaemic left leg. Angiography shows a blockage at the origin of the left femoral artery.
-#### Answer: 
+#### Answer: B. Angioplasty - ?
 
 ### Q27
 An 84-year-old woman, who lives alone, presents with a 36-hour history of acute ischaemia of right foot. Angiography shows occlusion of the right superficial femoral artery.
-#### Answer: 
+#### Answer: C. Embolectomy - ?
 
 ### Q28
 A 64-year-old man, a heavy smoker, has a history of intermittent claudication affecting the right calf. He presents with an acutely ischaemic right leg. On examination the limb is found to be insensate. Angiography shows occlusion of the right femoral artery with good distal run-off.
-#### Answer: 
+#### Answer: F. Thrombolysis - ?
 
 ### Q29
 A 70-year-old woman has a history of acute on chronic ischaemic right leg. This was treated initially with thrombolysis, which failed. An angiogram shows occlusion of the superficial femoral artery with poor distal run-off.
-#### Answer: 
+#### Answer: E. Reconstruction - ?
 
 
 Q30-35: Theme: Neck Lumps
@@ -256,27 +256,27 @@ Q30-35: Theme: Neck Lumps
 
 ### Q30
 A 12-year-old child presents with a painless midline neck swelling which is fluctuant on palpation. It moves both on swallowing and on protrusion of the tongue.
-#### Answer: 
+#### Answer: E. Thyroglossal cyst - ?
 
 ### Q31
-A 2-year-old boy presents with unilateral painless swelling at the base of the neck. It brilliantly transilluminates.
-#### Answer: 
+A 2-year-old boy presents with unilateral painless swelling at the base of the neck. It *brilliantly transilluminates*.
+#### Answer: A. Branchial cyst - ?
 
 ### Q32
 A 25-year-old woman presents with an irregular, painless, midline neck swelling which moves on swallowing but not on protrusion of the tongue. She also complains of feeling anxious and sweaty, and has lost some weight in recent weeks.
-#### Answer: 
+#### Answer: G. Toxic multinodular goitre - ?
 
 ### Q33
-A 35-year-old man presents with an enlarging neck lump between the junction of the upper and middle thirds of the anterior border of the left sternocleidomastoid muscle. The mass is non-tender.
-#### Answer: 
+A 35-year-old man presents with an enlarging neck lump between the junction of the *upper and middle thirds* of the anterior border of the left sternocleidomastoid muscle. The mass is non-tender.
+#### Answer: B. Cystic hygroma - ?
 
 ### Q34
 A 69-year-old gentleman presents with weight loss, epigastric pain and a hard lump in the supraclavicular fossa.
-#### Answer: 
+#### Answer: D. Lymphoma - ?
 
 ### Q35
 A 50-year-old man attends complaining of a painless lump in the neck. On examination a 4-cm, smooth, firm lump is found in the upper part of the anterior triangle of the neck. It is pulsatile and, on further questioning, the patient admits to a number of recent blackouts.
-#### Answer: 
+#### Answer: J. Chemodectoma - ?
 
 
 Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
@@ -292,23 +292,23 @@ Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
 
 ### Q36
 A 15-year-old boy with a history of ulcerative colitis for 5 years has a 2-year history of severe disease, resulting in weight loss and growth failure. He is commenced on increasing doses of steroids without success. Disease is present from transverse colon to rectum.
-#### Answer: 
+#### Answer: G. Subtotal colectomy + ileostomy + mucous fistula - ?
 
 ### Q37
 A 39-year-old gentleman with ulcerative colitis presents with a severe acute exacerbation. Three days after admission he develops severe abdominal pain, becomes septic, and on examination has a rigid abdomen with peritonism. Erect chest X-ray shows air under the diaphragm.
-#### Answer: 
+#### Answer: E. Proctocolectomy and ileostomy - ?
 
 ### Q38
 A 27-year-old woman with Crohn's disease is admitted for the fourth occasion in 6 months with small-bowel obstruction. Barium follow-through shows a 4-cm stricture of the proximal ileum.
-#### Answer: 
+#### Answer: F. Stricturoplasty - ?
 
 ### Q39
 A 22-year-old woman with diagnosis of Crohn's disease has a history over the past year of recurrent anaemia and weight loss. Colonoscopy shows severe inflammation and active disease affecting the caecum and terminal ileum. Maximum medical therapy has been unsuccessful.
-#### Answer: 
+#### Answer: C. Ileo-caecal resection - ?
 
 ### Q40
 A 21-year-old patient with a history of severe ulcerative colitis has failed on medical treatment alone. Investigations show rectal sparing.
-#### Answer: 
+#### Answer: A. Colectomy and ileorectal anastomosis - ?
 
 
 Q41-46: Theme: Scrotal Swellings
@@ -327,27 +327,27 @@ Q41-46: Theme: Scrotal Swellings
  
 ### Q41
 A 42-year-old man presents with a non-tender right scrotal swelling which has been gradually increasing in size over several months. On examination it is fluctuant and transilluminates. It is not possible to feel the right testicle separately from the swelling, but it is possible to get above it and feel the cord as a separate structure.
-#### Answer: 
+#### Answer: B. Encysted hydrocoele of the cord - ?
 
 ### Q42
 A 65-year-old man presents with a slowly enlarging painless scrotal swelling. On examination it is fluctuant and transilluminates. It is possible to get above it on examination and feel the testis as a separate structure. The swelling is found to lie above and slightly behind the testis.
-#### Answer: 
+#### Answer: C. Epididymal cyst - ?
 
 ### Q43
 A 70-year-old man has a history of a long-standing ‘aching’ sensation in the right testis. On examination he has a firm craggy mass and a few discharging sinuses on the scrotal skin. Urine microscopy shows sterile pyuria.
-#### Answer: 
+#### Answer: D. Chronic epididymo-orchitis - ?
 
 ### Q44
 A 38-year-old man presents with a left-sided scrotal swelling. On examination it is a soft, compressible swelling which does not have a cough impulse. It is not possible to get above it and it disappears on lying down.
-#### Answer: 
+#### Answer: G. Inguino-scrotal hernia - ?
 
 ### Q45
 A 45-year-old man presents with a right-sided scrotal swelling which increases in size on standing up. On examination it is not transilluminable and it is not possible to get above it. There is a positive cough impulse.
-#### Answer: 
+#### Answer: G. Inguino-scrotal hernia - ?
 
 ### Q46
 A 25-year-old man presents with a smooth, left-sided, painless scrotal swelling which is transilluminable and fluctuant. It is possible to feel the testis as a separate structure below the swelling.
-#### Answer: 
+#### Answer: F. Hydrocoele - ?
 
 
 Q47-50: Theme: Upper Limb Fractures
@@ -362,19 +362,19 @@ Q47-50: Theme: Upper Limb Fractures
 
 ### Q47
 A 24-year-old woman presents with a painful left arm following an RTA. The X-ray shows a fracture of the upper third of the ulna together with an associated dislocated radial head.
-#### Answer: 
+#### Answer: E. Monteggia's fracture - ?
 
 ### Q48
 An 84-year-old woman has a fall in the street, landing on her right hand, which appears swollen and deformed. An X-ray shows a fracture of the distal radius, which is angulated dorsally. The fracture extends intra-articularly and there is subluxation of the carpus.
-#### Answer: 
+#### Answer: C. Colles’ fracture - ?
 
 ### Q49
 A 76-year-old woman stumbles down the stairs at home, landing heavily on her left arm. On examination she has a deformed, bruised left wrist. An X-ray shows an extra-articular fracture of the distal radius, which is displaced volarly.
-#### Answer: 
+#### Answer: F. Smith's fracture - ?
 
 ### Q50
 A 15-year-old boy is knocked off his bicycle and lands on his right arm. He presents to A&E with a swollen tender wrist. An X-ray shows a fracture of the mid-shaft of the radius and dislocation of the inferior radio-ulnar joint.
-#### Answer: 
+#### Answer: D. Galeazzi's fracture - ?
 
 
 Q51-53: Theme: Staging of Colon Cancer
@@ -387,15 +387,15 @@ Q51-53: Theme: Staging of Colon Cancer
 
 ### Q51
 A 68-year-old man presents with weight loss and iron-deficiency anaemia. Colonoscopy confirms a caecal mass. The specimen obtained at laparotomy shows adenocarcinoma extending through the bowel wall. All of the nine lymph nodes removed are involved.
-#### Answer: 
+#### Answer: D. Duke's D stage - ?
 
 ### Q52
 A 52-year-old man presents with a history of increasingly severe constipation and rectal bleeding. He is found to have a stenosing lesion of the distal sigmoid colon. Biopsy confirms adenocarcinoma. He undergoes anterior resection and the specimen shows three out of the total seven nodes removed are involved.
-#### Answer: 
+#### Answer: C. Duke's C stage - ?
 
 ### Q53
 A 25-year-old man from a family known to carry the HNPCC gene is found to have a lesion in the transverse colon at colonoscopy. Resection and histological examination of the specimen shows this to be invading the muscle layer of the bowel wall.
-#### Answer: 
+#### Answer: B. Duke's B stage - ?
 
 
 Q54-56: Theme: Urinary System Trauma
@@ -410,15 +410,15 @@ Q54-56: Theme: Urinary System Trauma
  
 ### Q54
 A 25-year-old man slips while walking along the top of a metal gate and falls, straddling the gate. On examination he is in significant pain and has butterfly pattern bruising to the perineum. There is fresh blood at the urethral meatus.
-#### Answer: 
+#### Answer: F. Urethrogram - ?
 
 ### Q55
 A 30-year-old man involved in a fight sustains a blow to the groin with a blunt instrument. On examination there is gross swelling and bruising with an area of tense swelling around the left testicle, which is becoming increasingly large and painful.
-#### Answer: 
+#### Answer: E. Surgical exploration - ?
 
 ### Q56
 A 52-year-old man is mugged and stabbed with a knife in the area of the left renal angle. He complains of loin pain. Dipstick shows microscopic haematuria.
-#### Answer: 
+#### Answer: D. Retrograde uteropyelography - ?
 
 
 Q57-59: Theme: Preparation of Patients for Endocrine Surgery
@@ -434,15 +434,15 @@ Q57-59: Theme: Preparation of Patients for Endocrine Surgery
 
 ### Q57
 A 28-year-old woman with Graves’ disease resistant to medical treatment is due to have a subtotal thyroidectomy for symptoms of compression.
-#### Answer: 
+#### Answer: E. Thallium technetium scan - ?
 
 ### Q58
-A 42-year-old patient is planned to have a parathyroidectomy after presenting with raised calcium and parathyroid hormone levels with no history of renal disease.
-#### Answer: 
+A 42-year-old patient is planned to have a *parathyroidectomy* after presenting with raised calcium and parathyroid hormone levels with no history of renal disease.
+#### Answer: B. Calcitonin infusion - ?
 
 ### Q59
 A 34-year-old patient is found to have bilateral adrenal masses on CT, and suspected to have phaeochromocytoma. An adrenalectomy is planned.
-#### Answer: 
+#### Answer: C. Corticosteroids - ?
 
 
 Q60-62: Theme: Management of Paediatric Disorders
@@ -457,15 +457,15 @@ Q60-62: Theme: Management of Paediatric Disorders
 
 ### Q60
 A 40-day-old baby develops projectile vomiting approximately 20 minutes after each feed together with failure to thrive. On examination an olive-shaped mass is noted in the RUQ following feeding. Bloods show a metabolic alkalosis.
-#### Answer: 
+#### Answer: F. Ramstedt's pyloromyotomy - ?
 
 ### Q61
 A 2-day-old baby known to have cystic fibrosis presents with a distended abdomen and bilious vomiting. His rectum is empty.
-#### Answer: 
+#### Answer: B. Gastrografin enema - ?
 
 ### Q62
 A 1-year-old infant presents with intermittent spasms of abdominal pain associated with drawing up of the legs and a small amount of rectal bleeding. A sausage-shaped mass is noted in the epigastrium. Two similar episodes in the past were treated with hydrostatic reduction.
-#### Answer: 
+#### Answer: D. Laparotomy and proceed - ?
 
 
 Q63-69: Theme: Renal Stones
@@ -481,31 +481,31 @@ Q63-69: Theme: Renal Stones
 
 ### Q63
 A 54-year-old woman with a history of renal stone disease presents with a 2-month history of intermittent left loin pain. An intravenous urogram (IVU) shows a 1.5-cm stone in the left renal pelvis but no evidence of obstruction. She has a past history of ischaemic heart disease and has a 4-cm aortic aneurysm lying close to the origin of the left renal artery; this is under surveillance.
-#### Answer: 
+#### Answer: B. Extracorporeal shock-wave lithotripsy (ESWL) - ?
 
 ### Q64
 A 27-year-old man presents to A&E with severe right loin and groin pain and microscopic haematuria on dipstick. Pain is well controlled with NSAIDs and pethidine. An IVU confirms the presence of a 4-mm stone in the right mid-ureter region.
-#### Answer: 
+#### Answer: A. Watch and wait - ?
 
 ### Q65
 A 42-year-old man presents to A&E with severe right loin pain radiating to the groin. He is sweating profusely and vomiting, with a temperature of 38.9°C. Dipstick shows 3+ blood and 3+ leucocytes. An IVU shows a 5-mm stone in the upper right ureter and dilated calyces.
-#### Answer: 
+#### Answer: E. Laparoscopic ureterolithotomy - ?
 
 ### Q66
 A 24-year-old woman develops severe loin pain with one episode of frank haematuria. She is apyrexial. An IVU shows a 1-cm calculus lying in the lower pole of the right kidney.
-#### Answer: 
+#### Answer: F. Percutaneous nephrolithotomy (PCNL) - ?
 
 ### Q67
 An asymptomatic 29-year-old woman undergoes an ultrasound scan which reveals a 1-cm renal calculus within a cyst.
-#### Answer: 
+#### Answer: A. Watch and wait - ?
 
 ### Q68
 A 35-year-old man with right loin to groin pain, who is apyrexial, has a 5-mm calculus in the proximal ureter on IVU.
-#### Answer: 
+#### Answer: C. Flexible ureteroscopy - ?
 
 ### Q69
 A 53-year-old man presents with left loin to groin pain and haematuria. IVU reveals a 1-cm calculus in the lower pole of the right kidney.
-#### Answer: 
+#### Answer: F. Percutaneous nephrolithotomy (PCNL) - ?
 
 
 Q70-73: Theme: Management of Thyroid Cancer
@@ -518,20 +518,20 @@ Q70-73: Theme: Management of Thyroid Cancer
 	E. Total thyroidectomy and thyroxine replacement
 
 ### Q70
-A 27-year-old man with history of previous neck irradiation for lymphoma presents with thyroid mass. Fine-needle aspiration reveals cells with ‘orphan Annie’ nuclei. CT shows localised disease.
-#### Answer: 
+A 27-year-old man with history of previous neck irradiation for lymphoma presents with thyroid mass. Fine-needle aspiration reveals cells with 'orphan Annie' nuclei. CT shows localised disease.
+#### Answer: C. Subtotal thyroidectomy - ?
 
 ### Q71
 A 90-year-old woman presents with a hard thyroid mass and a progressively hoarse voice. Cervical lymph nodes are hard and enlarged.
-#### Answer: 
+#### Answer: D. Surgery and external beam radiotherapy - ?
 
 ### Q72
 A 48-year-old patient with a family history of multiple endocrine neoplasia (MEN) syndrome presents with a thyroid mass that appears malignant but shows no evidence of spread.
-#### Answer: 
+#### Answer: E. Total thyroidectomy and thyroxine replacement - ?
 
 ### Q73
 A 57-year-old woman presents with painless thyroid swelling and weight loss. Fine-needle aspiration of the swelling indicates that it is a lymphoma.
-#### Answer: 
+#### Answer: E. Total thyroidectomy and thyroxine replacement - ?
 
 
 Q74-77: Theme: Pruritus Ani
@@ -548,19 +548,19 @@ Q74-77: Theme: Pruritus Ani
 
 ### Q74
 A 35-year-old woman who regularly takes codeine-based analgesics for tension headaches presents with pruritus ani, rectal bleeding and severe pain following defecation.
-#### Answer: 
+#### Answer: F. Haemorrhoids - ? 
 
 ### Q75
 A 57-year-old HIV-positive man has a history of long-standing anal intra-epithelial neoplasia (AIN) but was lost to follow-up for the past 5 years. He now presents with pruritus ani and a firm ulcerated mass at the anal margin with palpable lymph nodes.
-#### Answer: 
+#### Answer: A. Anal carcinoma - ?
 
 ### Q76
 A 25-year-old woman with a history of ulcerative colitis on maximum medical therapy to help control disease presents with pruritus ani. On examination the peri-anal area is red, inflamed and excoriated with a well-demarcated edge.
-#### Answer: 
+#### Answer: B. Anal fissure - ? 
 
 ### Q77
 A 48-year-old man presents with a 3-month history of weight loss and intermittent fever. He also complains of itching around the anus, associated with soreness and purulent discharge.
-#### Answer: 
+#### Answer: D. Fistula in ano - ?
 
 
 Q78-81: Theme: Management of Venous Disease of the Lower Limb
@@ -577,19 +577,19 @@ Q78-81: Theme: Management of Venous Disease of the Lower Limb
 
 ### Q78
 A 46-year-old woman has long-standing varicose veins affecting both legs which have recently started to ache. Doppler examination shows no problem with the deep venous system. Varicosities are in the distribution of the long saphenous vein.
-#### Answer: 
+#### Answer: D. Sapheno-femoral ligation - ?
 
 ### Q79
 A 69-year-old woman has a history of deep vein thrombosis affecting the right leg 20 years ago. She now presents with longstanding ulcers over the right gaiter region. ABPI of both legs = 0.8. She is treated with debridement and compression dressing, but review at 12 weeks shows no improvement.
-#### Answer: 
+#### Answer: B. Elevation and NSAIDs - ?
 
 ### Q80
 An 84-year-old woman with a long-standing venous ulcer of the left shin, treated with regular debridement and dressings, notices it is becoming increasingly tender. On examination the ulcer has a small amount of purulent, offensive discharge and there is surrounding cellulitis.
-#### Answer: 
+#### Answer: G. Systemic antibiotics - ?
 
 ### Q81
 A 60-year-old woman with a 10-year history of varicose veins affecting both legs presents with an acute episode of painful thrombophlebitis.
-#### Answer: 
+#### Answer: H. Topical antibiotics - ?
 
 
 Q82-85: Theme: Abdominal Signs
