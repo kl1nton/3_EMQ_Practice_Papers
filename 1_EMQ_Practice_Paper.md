@@ -555,15 +555,15 @@ Q48-50: Theme: Urinary Tract Infections
 
 ### Q48
 A 26-year-old woman presents with ureteric colic. A KUB study reveals a staghorn calculus in the right kidney.
-#### Answer: 
+#### Answer: E. Proteus spp. - ?
 
 ### Q49
-A 32-year-old HIV-positive woman attends clinic with symptoms of recurrent UTIs. Multiple mid-stream urine specimens have been sent by her general practitioner and have only revealed sterile pyuria.
-#### Answer: 
+A 32-year-old HIV-positive woman attends clinic with symptoms of recurrent UTIs. Multiple mid-stream urine specimens have been sent by her general practitioner and have only revealed *sterile pyuria*.
+#### Answer: G. Streptococcus pneumoniae - ?
 
 ### Q50
 A 35-year-old businessman presents with a first episode of frank haematuria. He has just returned from a business trip to Egypt.
-#### Answer: 
+#### Answer: F. Schistosoma haematobium - ?
 
 
 Q51-53: Theme: Dysphagia
@@ -582,15 +582,15 @@ Q51-53: Theme: Dysphagia
 
 ### Q51
 A 72-year-old heavy smoker presents with dysphagia, retrosternal discomfort and new-onset hoarseness of voice.
-#### Answer: 
+#### Answer: F. Oesophageal carcinoma - ?
 
 ### Q52
 A 43-year-old man presents with a recurrent sore throat and halitosis and complains of regurgitating undigested food.
-#### Answer: 
+#### Answer: G. Pharyngeal pouch - ?
 
 ### Q53
 A 45-year-old woman presents with dysphagia. Barium swallow shows a ‘bird's beak’ appearance of the lower oesophagus.
-#### Answer: 
+#### Answer: A. Achalasia - ?
 
 
 Q54-58: Theme: Incontinence
@@ -607,23 +607,23 @@ Q54-58: Theme: Incontinence
 
 ### Q54
 A 78-year-old man presents with urinary leakage. This occurs on coughing or sneezing. On further questioning, he admits to decreasing urinary flow and increased frequency of micturition, with small volumes passed. In addition he reports symptoms of incomplete emptying.
-#### Answer: 
+#### Answer: B. Bladder outlet obstruction - ?
 
 ### Q55
 A 43-year-old woman with known multiple sclerosis presents to clinic with urinary incontinence. She has had two children. She passes water every hour, but often does not have the urge to void. She currently wears 8–10 incontinence pads per day.
-#### Answer: 
+#### Answer: D. Neurogenic incontinence - ?
 
 ### Q56
 A 21-year-old woman presents with recurrent urinary tract infection. She passes urine every hour, but sometimes has such urgency that she cannot reach the toilet in time to prevent leakage. Flexible cystoscopy reveals interstitial cystitis.
-#### Answer: 
+#### Answer: F. Small bladder capacity - ?
 
 ### Q57
 A 38-year-old woman presents with urinary incontinence. This occurs on exercising, coughing or sneezing. She has had four children, all vaginal deliveries.
-#### Answer: 
+#### Answer: C. Genuine stress incontinence - ?
 
 ### Q58
 A 36-year-old man presents with occasional urinary incontinence. He gives a history of gonorrhoea, which was successfully treated 1 year ago. He has a reduced urinary flow rate, and a post-micturition bladder scan reveals a volume of 560 ml.
-#### Answer: 
+#### Answer: B. Bladder outlet obstruction - ?
 
 
 Q59-64: Theme: Pre-Operative Investigations
@@ -638,29 +638,31 @@ Q59-64: Theme: Pre-Operative Investigations
 
 - Bk1: ?
 
+For each of the following scenarios, choose the most appropriate minimum acceptable pre-operative investigations needed from the list above.
+
 ### Q59
 A 55-year-old man presents with a distal radius fracture requiring open reduction and internal fixation. He is otherwise fit and well and is not taking any medication. His body mass index (BMI) is 26 kg/m2 and he is a non-smoker.
-#### Answer: 
+#### Answer: B. ECG + Full Blood Count (FBC) - ?
 
 ### Q60
 A 31-year-old man attends the pre-admission clinic. He is to undergo elective inguinal hernia repair. He has had a recent chest infection but is otherwise fit and well. He is not taking any medication.
-#### Answer: 
+#### Answer: D. ECG + FBC + U&E + CXR - ?
 
 ### Q61
 A 61-year-old man is to undergo total hip replacement. He is otherwise healthy and is a non-smoker.
-#### Answer: 
+#### Answer: C. ECG + FBC + Urea & Electrolytes (U&E) - ?
 
 ### Q62
 A 66-year-old man is admitted for elective repair of a left inguinal hernia. His past medical history includes hypercholesterolaemia and hypertension. He is on diuretics.
-#### Answer: 
+#### Answer: C. ECG + FBC + Urea & Electrolytes (U&E) - ?
 
 ### Q63
 A 53-year-old woman is admitted for elective laparoscopy. Her past medical history is of asthma.
-#### Answer: 
+#### Answer: E. ECG + FBC + U&E + CXR + Pulmonary Function Tests (PFTs) - ?
 
 ### Q64
 A 49-year-old woman with hypertension, a non-smoker, is admitted for elective varicose vein surgery.
-#### Answer: 
+#### Answer: F. ECG + U&E - ?
 
 
 Q65-69: Theme: Treatment of Ulcers
@@ -674,25 +676,27 @@ Q65-69: Theme: Treatment of Ulcers
 	
 - Bk1: ?
 	
+For each of the following scenarios, choose the most appropriate treatment option from the list above.	
+	
 ### Q65
 A 38-year-old type 1 diabetic patient presents with a deep ulcer over the head of the first metatarsal. It is painless and on further examination he has decreased sensation in the whole of the foot.
-#### Answer: 
+#### Answer: A. Compression bandaging - ?
 
 ### Q66
 A 65-year-old presents with a large circumferential ulcer just above the medial malleolus. She has marked lipodermatosclerosis around the ulcer. Her ankle–brachial pressure index (ABPI) is 0.56.
-#### Answer: 
+#### Answer: D. Revascularisation - ?
 
 ### Q67
-A 71-year-old presents with a large circumferential ulcer over the shin. There is a smaller ulcer over the medial malleolus. The leg has an inverted champagne bottle appearance. A duplex scan shows patent deep veins and good flow in the posterior tibial and dorsalis pedis arteries.
-#### Answer: 
+A 71-year-old presents with a large circumferential ulcer over the shin. There is a smaller ulcer over the medial malleolus. The leg has an *inverted champagne bottle appearance*. A duplex scan shows patent deep veins and good flow in the posterior tibial and dorsalis pedis arteries.
+#### Answer: A. Compression bandaging - ?
 
 ### Q68
 A 69-year-old smoker has had a long-standing ulcer on the medial aspect of his right leg. It measures 4 cm in diameter. Recently it has become increasingly friable. The edges are thickened and raised and on further examination he has palpable right inguinal lymph nodes.
-#### Answer: 
+#### Answer: B. Debridement - ?
 
 ### Q69
 A 71-year-old heavy smoker attends clinic with a painful, deep, punched-out ulcer on the dorsum of his right foot. On inspection he has some hair loss on the right shin compared with the left, and the right leg is cool to touch.
-#### Answer: 
+#### Answer: C. Excision - ?
 
 
 Q70-74: Theme: Surgically Important Organisms
@@ -711,23 +715,23 @@ Q70-74: Theme: Surgically Important Organisms
 
 ### Q70
 A 34-year-old man has been on the intensive care unit (ICU) for 4 weeks. He has had multiple infections and is being treated with different antibiotics. He begins to show signs of multi-system infection, including meningitis.
-#### Answer: 
+#### Answer: G. Staphylococcus aureus - ?
 
 ### Q71
 A 64-year-old man had a knee replacement 2 months ago. He complains of persistent pain, and X-rays appear to show some loosening of the prosthesis. An aspiration of the joint yields a coagulase-negative staphylococcus.
-#### Answer: 
+#### Answer: H. Staphylococcus epidermidis - ?
 
 ### Q72
 A 34-year-old develops severe sepsis 5 days after panproctocolectomy for severe ulcerative colitis. Blood cultures reveal an anaerobe which is penicillin-resistant.
-#### Answer: 
+#### Answer: C. Echerichia coli - ?
 
 ### Q73
-A 19-year-old man attends with a large tonsillar abscess. Bacteriological examination reveals a Gram-negative rod-shaped organism.
-#### Answer: 
+A 19-year-old man attends with a large tonsillar abscess. Bacteriological examination reveals a *Gram-negative rod-shaped organism*.
+#### Answer: B. Bacteroides fragilis - ?
 
 ### Q74
-A 74-year-old with a chronic venous leg ulcer develops an infection within the ulcer. Bacteriological examination reveals a Gram-negative bacillus.
-#### Answer: 
+A 74-year-old with a chronic venous leg ulcer develops an infection within the ulcer. Bacteriological examination reveals a *Gram-negative bacillus*.
+#### Answer: F. Psuedomonas aeruginosa - ?
 
 
 Q75-78: Theme: Cord Lesions
@@ -743,19 +747,19 @@ Q75-78: Theme: Cord Lesions
 	
 ### Q75
 A 34-year-old man suffers a knife injury to the back. He is unable to move his left lower limb, and is complaining of severe pain from a further stab injury to the left leg. He is insensate to temperature on the right leg.
-#### Answer: 
+#### Answer: Posterior cord syndrome - ?
 
 ### Q76
 A 37-year-old woman falls from a horse. She describes a hyperextension-type injury and is ataxic.
-#### Answer: 
+#### Answer: A. Anterior cord syndrome - ?
 
 ### Q77
 A 64-year-old man falls down a flight of stairs. He is unable to move his right lower leg and cannot feel sharp instruments on the right leg. He still is able to feel coarse touch. X-rays reveal a compression fracture of T12.
-#### Answer: 
+#### Answer: C. Cauda equina - ?
 
 ### Q78
 A 76-year-old man walks into the A&E department. He complains of bilateral upper limb weakness after a fall in the morning. Initial cervical spine X-rays show marked degenerative changes.
-#### Answer: 
+#### Answer: B. Brown-Sequard syndrome - ?
 
 
 Q79-82: Theme: Benign Ano-Rectal Conditions
@@ -772,21 +776,23 @@ Q79-82: Theme: Benign Ano-Rectal Conditions
 
 - Bk1: ?
 
+For each of the following scenarios, choose the most appropriate treatment from the list above.
+
 ### Q79
-A 79-year-old woman presents with a prolapsed rectum.
-#### Answer: 
+A 79-year-old woman presents with a *prolapsed rectum*.
+#### Answer: A. Delorme's procedure - ?
 
 ### Q80
 A 29-year-old man presents with pain on defecation and some fresh bleeding. He gives a history of recurrent constipation. There is a skin tag present at the 12-o'clock position. Digital rectal examination is normal but painful, and proctoscopy cannot be performed due to patient discomfort.
-#### Answer: 
+#### Answer: C. Surgical haemorrhoidectomy - ?
 
 ### Q81
 A 27-year-old woman presents to clinic 2 months after childbirth. She complains of faeces streaked with fresh blood.
-#### Answer: 
+#### Answer: F. Rubber-band ligation - ?
 
 ### Q82
 A 43-year-old man complains of itching around the anus. He also admits to anal pain and occasional purulent discharge from the anus. Proctoscopy reveals a fistula beginning at the dentate line, travelling an intersphincteric route.
-#### Answer: 
+#### Answer: G. Seton drainage - ?
 
 
 Q83-87: Theme: Pain in the Right Upper Quadrant (RUQ)
@@ -807,23 +813,23 @@ Q83-87: Theme: Pain in the Right Upper Quadrant (RUQ)
 
 ### Q83
 A 40-year-old presents with intermittent right upper quadrant (RUQ) pain radiating to the back. It is associated with nausea and vomiting. The patient is not obviously jaundiced, but has dark urine. The patient is apyrexial.
-#### Answer: 
+#### Answer: C. Biliary colic - ?
 
 ### Q84
 A 43-year-old man presents with severe RUQ pain radiating to the back. He is visibly jaundiced and complains of chills and rigors. There are calculi in the gallbladder on ultrasound, but none in the common bile duct.
-#### Answer: 
+#### Answer: D. Cholecystitis - ?
 
 ### Q85
 A 60-year-old woman with known diverticular disease, who was previously admitted 1 month ago, presents with nausea, weight loss, anaemia, rigors and a raised WCC.
-#### Answer: 
+#### Answer: H. Perforated peptic ulcer - ?
 
 ### Q86
 A 30-year-old man presents with severe RUQ pain radiating to the back, associated with vomiting. His amylase is 1520 Somogyi U/dl.
-#### Answer: 
+#### Answer: A. Acute pancreatitis - ?
 
 ### Q87
 A 25-year-old man presents with RUQ pain and pyrexia, but no rigors. He has a raised WCC, normal findings on liver function tests and normal amylase. Ultrasound scan is normal.
-#### Answer: 
+#### Answer: G. Lower lobe pneumonia - ?
 
 
 Q88-91: Theme: Ventilators
@@ -841,19 +847,19 @@ Q88-91: Theme: Ventilators
 
 ### Q88
 The form of ventilation used to assist a patient's inspiratory effort. It is used to effectively ‘top-up’ a patient's own volume of inspired air.
-#### Answer: 
+#### Answer: G. Synchronous intermittent mandatory ventilation (SIMV) - ?
 
 ### Q89
 The most frequently used form of ventilation in theatre. It can be set to pressure- or volume-controlled mode.
-#### Answer: 
+#### Answer: C. Continuous mandatory ventilation (CMV) - ?
 
 ### Q90
 The form of ventilation used in spontaneously breathing patients to splint the alveoli and improve respiratory mechanics.
-#### Answer: 
+#### Answer: D. Continuous positive airways pressure (CPAP) - ?
 
 ### Q91
 The form of ventilation used to help wean patients from ventilators. Breaths are synchronised with the patient's respiratory efforts.
-#### Answer: 
+#### Answer: A. Assisted spontaneous breathing (ASB) - ?
 
 
 Q92-94: Theme: Management of Chest Trauma
@@ -871,17 +877,21 @@ Q92-94: Theme: Management of Chest Trauma
 	
 - Bk1: ?
 
+For each of the following scenarios, choose the best therapeutic option from the list above.
+
 ### Q92
 A 31-year-old is brought to A&E unconscious. He has been involved in a road traffic accident (RTA). He had a right tension pneumothorax which was treated at the scene by needle thoracocentesis. On arrival he has a heart rate of 134 beats/min, a BP of 82/45 mmHg and an RR of 38 breaths/min. On examination he has absent breath sounds and hyper-resonance on the right side of the chest, with tracheal deviation to the left.
-#### Answer: 
+#### Answer: G. Needle thoracocentesis
+- Pneumothorax
 
 ### Q93
 A 29-year-old man was involved in an RTA. He was the front seat passenger. He is complaining of severe chest pain. On examination he is tachycardic, with a heart rate of 104 beats/min, an RR of 20 breaths/min and a BP of 140/68 mmHg. On examination he has slightly reduced air entry on the left base, which is also dull to percussion. The trachea is slightly deviated to the right. Chest X-ray shows a small left haemothorax and a widened mediastinum.
-#### Answer: 
+#### Answer: H. Pericardiocentesis
+- Pericardial effusion
 
 ### Q94
 A 34-year-old is brought in with a stab wound to the right side of his mediastinum. On arrival in the department he is in cardiac arrest. The ECG trace shows pulseless electrical activity.
-#### Answer: 
+#### Answer: B. Cardiopulmonary resuscitation - ?
 
 
 Q95-100: Theme: Carcinogens
@@ -898,29 +908,31 @@ Q95-100: Theme: Carcinogens
 	
 - Bk1: 13016
 
+For the list above, choose the malignancy associated with exposure to the substances/organisms listed below.
+
 ### Q95
 _Schistosoma_
-#### Answer: 
+#### Answer: C. Carcinoma of the bladder - ?
 
 ### Q96
 B-Naphthylamine
-#### Answer: 
+#### Answer: C. Carcinoma of the bladder - ?
 
 ### Q97
-Epstein–Barr virus
-#### Answer: 
+Epstein–Barr virus (EBV)
+#### Answer: H. Oropharyngeal carcinoma - ?
 
 ### Q98
 _Helicobacter pylori_
-#### Answer: 
+#### Answer: E. Mucosa-associated lymphoid tissue lymphoma (MALT tumour) - ?
 
 ### Q99
 _Aspergillus_ infection
-#### Answer: 
+#### Answer: F. Hepatocellular carcinoma - ?
 
 ### Q100
 Betel nuts
-#### Answer: 
+#### Answer: A. Bronchial carcinoma - ?
 
 
 Q101-104: Theme: Inotropes
@@ -936,19 +948,19 @@ Q101-104: Theme: Inotropes
 
 ### Q101
 The inotrope which has the greatest bronchodilator effect.
-#### Answer: 
+#### Answer: A. Adrenaline (*epinephrine*) - ?
 
 ### Q102
 The inotrope used in cardiac arrest situations to provoke ventricular fibrillation.
-#### Answer: 
+#### Answer: B. Dobutamine - ?
 
 ### Q103
 The inotrope that in a low dose (less than 4 μg/kg per min) can be used to increase glomerular filtration rate and sodium excretion.
-#### Answer: 
+#### Answer: D. Isoprenaline - ?
 
 ### Q104
 The inotrope that is used in the treatment of shock to increase total peripheral resistance, causing increase in both systolic and diastolic blood pressure.
-#### Answer: 
+#### Answer: E. Noradrenaline (*norepinephrine*) - ?
 
 
 Q105-107: Theme: Scrotal Swellings
@@ -966,17 +978,19 @@ Q105-107: Theme: Scrotal Swellings
 - Bk1: Ø
 - Bk2: Ch8
 	
+For each of the following scenarios, choose the most likely diagnosis from the list above.	
+	
 ### Q105
 A 23-year-old man presents with acute scrotal pain. The right testicle is exquisitely tender and is higher than the left. There is some superficial erythema.
-#### Answer: 
+#### Answer: E. Testicular torsion - ?
 
 ### Q106
 A 65-year-old man presents with a scrotal swelling. It has recently enlarged, but is painless. Examination reveals a large soft swelling which transilluminates.
-#### Answer: 
+#### Answer: C. Hydrocoele - ?
 
 ### Q107
 A 70-year-old diabetic man presents in septic shock. The scrotum is swollen and dusky purple.
-#### Answer: 
+#### Answer: B. Fournier's gangrene - ?
 
 
 Q108-110: Theme: Trauma
@@ -992,17 +1006,19 @@ Q108-110: Theme: Trauma
 - Bk1: 14628, 8068
 - Bk2: ?
 
+For each of the following scenarios, choose the most appropriate next step from the list above.
+
 ### Q108
 A 38-year-old man in a hard collar and with head restraints is brought to A&E by the paramedics on a spinal board. He has fallen from a horse. On arrival, he is unconscious and makes no response to painful stimuli. He has a large boggy swelling around his left occiput.
-#### Answer: 
+#### Answer: F. Plain X-rays of the skull - ?
 
 ### Q109
 A 26-year-old man falls approximately 6 m down from a ladder. He has been unable to walk since, complaining of pain in his feet. X-rays requested from triage confirm bilateral calcaneal fractures.
-#### Answer: 
+#### Answer: D. Immobilisation - ?
 
 ### Q110
 A 48-year-old man is brought to A&E following an RTA. He was unconscious at the scene, but on arrival at the department he was fully conscious. He is now talking in a confused manner, opening his eyes in response to pain, and localising to pain.
-#### Answer: 
+#### Answer: B. Computed tomography (CT) scan of the head - ?
 
 
 Q111-114: Theme: Local Anaesthetics
@@ -1020,23 +1036,31 @@ Q111-114: Theme: Local Anaesthetics
 - Bk1: 1770
 - Bk2: ?
 
-What is the maximum volume of each of the local anaesthetic agents given below that can safely be used in an 80-kg man who is otherwise healthy. Each option may be used once, more than once or not at all.
+What is the maximum volume of each of the local anaesthetic agents given below that can safely be used in an 80-kg man who is otherwise healthy. 
 
 ### Q111
 Lidocaine 2%.
-#### Answer: 
+#### Answer: B. 10 mL - ?
+- 1L (1kg = 1000g = 1000mL) => 2%: 1000mL = 20g = 20000mg => 1mL = 20 mg
+- 3mg per kg = 3 * 80 = 240 mg = 12mL of 2%
 
 ### Q112
 Bupivacaine 0.5%.
-#### Answer: 
+#### Answer: D. 30 mL - ?
+- 1L (1kg = 1000g = 1000mL) => 0.5%: 1000mL = 5g = 5000mg => 1mL = 5 mg
+- 2mg per kg = 2 * 80 = 160 mg = 32 mL of 0.5%
 
 ### Q113
 Bupivacaine 0.25% with 1 in 200,000 adrenaline.
-#### Answer: 
+#### Answer: H. 80 mL - ?
+- 1L (1kg = 1000g = 1000mL) => 0.25%: 1000mL = 2.5g = 2500mg => 1mL = 2.5 mg
+- 2.5 mg per kg = 2.5 * 80 = 200 mg = 80mL of 0.25%
 
 ### Q114
 Lidocaine 1% with 1 in 200,000 adrenaline.
-#### Answer: 
+#### Answer: F. 50 mL - ?
+- 1L (1kg = 1000g = 1000mL) => 1%: 1000mL = 10g = 10000mg => 1mL = 10 mg
+- 7mg per kg = 7 * 80 = 560 mg = 56 mL of 1%
 
 
 Q115-117: Theme: Chemotherapy
@@ -1048,17 +1072,19 @@ Q115-117: Theme: Chemotherapy
 
 - Bk1: 13732
 
+For each of the following scenarios, choose the most appropriate option from the list above.
+
 ### Q115
 A 46-year-old woman presents with a breast lump. After wide local excision and axillary node clearance she is found to have ductal carcinoma in situ with the excision margins clear and no lymph node involvement.
-#### Answer: 
+#### Answer: C. No chemotherapy - ?
 
 ### Q116
 A 54-year-old man has a right hemicolectomy. The histopathological report is well differentiated Duke's B carcinoma with vascular invasion.
-#### Answer: 
+#### Answer: B. Neo-adjuvant chemotherapy - ?
 
 ### Q117
 A 42-year-old woman has a cystectomy for squamous cell carcinoma of the bladder. The histopathological report is a poorly differentiated tumour with micrometastases in adjacent lymph nodes. A pre-operative staging CT did not show any evidence of metastasis.
-#### Answer: 
+#### Answer: A. Adjuvant chemotherapy - ?
 
 
 Q118-122: Theme: Diagnosis of Endocrine Disorders
@@ -1074,25 +1100,27 @@ Q118-122: Theme: Diagnosis of Endocrine Disorders
 	
 - Bk1: 10414
 
+For each of the following scenarios, choose the most appropriate investigation from the list above.
+
 ### Q118
 A 36-year-old man presents with a history of intermittent hypertension, anxiety, palpitations, tachycardia and excess sweating. Phaeochromocytoma is suspected.
-#### Answer: 
+#### Answer: A. 24-hour urinary vanillylmandelic acid (VMA) - ?
 
 ### Q119
 A 46-year-old woman with history of vitiligo and rheumatoid arthritis presents with pigmentation of the buccal mucosa and skin, loss of body hair and postural hypotension, suggestive of Addison's disease.
-#### Answer: 
+#### Answer: B. Dexamethasone suppression test - ?
 
 ### Q120
 A 54-year-old woman presents with hypertension, polyuria and polydipsia. Renal function, blood sugar and calcium levels are all normal. Conn syndrome is suspected.
-#### Answer: 
+#### Answer: C. Plasma aldosterone levels - ?
 
 ### Q121
 A 6-year-old child with short stature, penile enlargement and history of failure to thrive as an infant is suspected of having congenital adrenal hyperplasia.
-#### Answer: 
+#### Answer: C. Plasma aldosterone levels - ?
 
 ### Q122
 A 24-year-old woman is referred for investigation after developing excessive hair growth and acne, purple striae over the abdomen and central obesity.
-#### Answer: 
+#### Answer: D. Radio-immunoassay of 17-hydroxyprogesterone - ?
 
 
 Q123-126: Theme: Terms Used for Disorders of Growth and Differentiation
@@ -1111,19 +1139,19 @@ Q123-126: Theme: Terms Used for Disorders of Growth and Differentiation
 
 ### Q123
 Increased numbers of red blood cells in individuals living at altitude.
-#### Answer: 
+#### Answer: D. Hyperplasia - ?
 
 ### Q124
 Weakness, reduced size and function of an arm immobilised for a long period of time.
-#### Answer: 
+#### Answer: B. Atrophy - ?
 
 ### Q125
 Change of bladder transitional cell epithelium to squamous epithelium following Schistosoma haematobium infection.
-#### Answer: 
+#### Answer: G. Metaplasia - ?
 
 ### Q126
 Anencephaly (failure of neural tube development).
-#### Answer: 
+#### Answer: A. Agenesis - ?
 
 
 Q127-132: Theme: Conditions Caused by Microbes
@@ -1142,27 +1170,27 @@ Q127-132: Theme: Conditions Caused by Microbes
 
 ### Q127
 A 42-year-old HIV-positive man with white fluffy patches in the mouth surrounded by painful areas of erythema.
-#### Answer: 
+#### Answer: A. Candida albicans - ?
 
 ### Q128
 A 12-year-old girl with an enlarging, hot, tender, erythematous area on her right leg which began as an insect bite.
-#### Answer: 
+#### Answer: F. Staphylococcus aureus - ?
 
 ### Q129
 A 42-year-old diabetic woman with dysuria, frequency and offensive-smelling urine.
-#### Answer: 
+#### Answer: H. Streptococcus pyogenes - ?
 
 ### Q130
 A 66-year-old gentleman who had a recent operation for evacuation of traumatic haematoma of the thigh develops discoloration and swelling at the operation site, with crepitus on examination and a subcutaneous gas collection visible on X-ray.
-#### Answer: 
+#### Answer: C. Clostridium perfringens - ?
 
 ### Q131
 An 84-year-old woman, treated for 4 weeks with co-amoxiclav (_Augmentin_) for a respiratory tract infection, develops profuse, offensive-smelling diarrhoea.
-#### Answer: 
+#### Answer: B. Clostridium difficile - ?
 
 ### Q132
 A 33-year-old man presents to A&E with severe epigastric pain and signs of peritonism. Erect chest X-ray shows air under the diaphragm.
-#### Answer: 
+#### Answer: D. Escherichia coli - ?
 
 
 Q133-138: Theme: Hypersensitivity Reactions
@@ -1177,27 +1205,27 @@ Q133-138: Theme: Hypersensitivity Reactions
 
 ### Q133
 A 42-year-old woman develops itching, swelling and erythema at the site of the nickel buckle of a new watch.
-#### Answer: 
+#### Answer: C. Type III hypersensitivity reaction - ?
 
 ### Q134
 A 15-year-old girl has a streptococcal throat infection, then goes on to develop post-streptococcal glomerulonephritis.
-#### Answer: 
+#### Answer: B. Type II hypersensitivity reaction - ?
 
 ### Q135
 A 14-year-old boy develops sneezing and watering of the eyes in the summer months when the pollen count is high.
-#### Answer: 
+#### Answer: A. Type I hypersensitivity reaction - ?
 
 ### Q136
 A 44-year-old renal transplant patient develops graft-versus-host disease.
-#### Answer: 
+#### Answer: D. Type IV hypersensitivity reaction - ?
 
 ### Q137
 A 22-year-old man develops wheezing, rash and swelling of the mouth and tongue after eating a peanut.
-#### Answer: 
+#### Answer: A. Type I hypersensitivity reaction - ?
 
 ### Q138
 A baby develops haemolytic disease of the newborn. The mother is rhesus-negative.
-#### Answer: 
+#### Answer: B. Type II hypersensitivity reaction - ?
 
 
 Q139-142: Theme: Glasgow Coma Scale Scores
@@ -1215,19 +1243,31 @@ Q139-142: Theme: Glasgow Coma Scale Scores
 
 ### Q139
 A 25-year-old motorcyclist is involved in a head-on collision with a lorry. On arrival in A&E he is unable to obey commands, but localises to pain and is able to speak but appears confused. He only opens his eyes in response to pain.
-#### Answer: 
+#### Answer: E. 10 - ?
+- E: 2
+- V: 3
+- M: 5
 
 ### Q140
 A 66-year-old man has a fall in the street, hitting his head. On initial assessment GCS is 15. However, on arrival in A&E he is unable to obey commands and withdraws only from painful stimuli, making incomprehensible sounds and not opening his eyes at all.
-#### Answer: 
+#### Answer: D. 8 - ?
+- E: 1
+- V: 2
+- M: 5
 
 ### Q141
 A 44-year-old known intravenous drug user (IVDU) is brought to A&E after being found collapsed after a suspected overdose. He will not open his eyes in response to commands but does so in response to painful stimuli. His pupils are pinpoint. His only movement is withdrawal from pain and he doesn't speak.
-#### Answer: 
+#### Answer: D. 8 - ?
+- E: 2
+- V: 1
+- M: 5
 
 ### Q142
 A 29-year-old man involved in a pub brawl is hit over the head with a glass bottle. He is able to give a partial history but appears quite confused. He opens his eyes when spoken to and moves on command.
-#### Answer: 
+#### Answer: G. 14 - ?
+- E: 4
+- V: 4
+- M: 6
 
 
 Q143-144: Theme: Management of Transitional Cell Carcinoma of the Bladder
@@ -1246,11 +1286,11 @@ Q143-144: Theme: Management of Transitional Cell Carcinoma of the Bladder
 
 ### Q143
 A 45-year-old woman presents with a 3-week history of haematuria. An IVU reveals a filling defect in the renal pelvis. This is confirmed as a soft-tissue mass on CT scan.
-#### Answer: 
+#### Answer: G. Nephro-uretectomy - ?
 
 ### Q144
 A 55-year-old woman is found to have widespread carcinoma in situ (CIS) on cystoscopy and biopsy. She is treated initially with several instillations of intravesical BCG. Repeat cystoscopy shows no change in the CIS and urethral biopsy confirms CIS. She is keen to have aggressive treatment.
-#### Answer: 
+#### Answer: C. Cystectomy + urethrectomy + ileal conduit - ?
 
 
 Q145-147: Theme: Haemorrhagic Shock
@@ -1265,15 +1305,15 @@ Q145-147: Theme: Haemorrhagic Shock
 
 ### Q145
 A 20-year-old man involved in an RTA sustains bilateral fractured femurs. He is brought to A&E, where on assessment he is found to be anxious and confused, with a pulse of 130/min and BP of 70/50 mmHg. Urine output over 1 hour is 10 ml.
-#### Answer: 
+#### Answer: D. Class IV haemorrhagic shock - ?
 
 ### Q146
 A 70-year-old patient with a known 5-cm abdominal aortic aneurysm is admitted to A&E with severe central abdominal pain that radiates to the back. Prior to resuscitation, his pulse is 110/min, BP 120/100 mmHg and RR 24 breaths/min. He is slightly anxious but fully lucid.
-#### Answer: 
+#### Answer: B. Class II haemorrhagic shock - ?
 
 ### Q147
 A 60-year-old alcoholic has three episodes of haematemesis (total 500 ml) and melaena. On examination, he is anxious, sweaty and uncooperative with a pulse of 126/min, BP 80/60 mmHg and RR 24 breaths/min.
-#### Answer: 
+#### Answer: C. Class III haemorrhagic shock - ?
 
 
 Q148-151: Theme: Management of Thyroid Disease
@@ -1292,19 +1332,19 @@ Q148-151: Theme: Management of Thyroid Disease
 
 ### Q148
 A 20-year-old woman presents with a smooth goitre, weight loss, palpitations and diarrhoea. She is diagnosed as having Graves’ disease but is unable to tolerate carbimazole due to development of agranulocytosis.
-#### Answer: 
+#### Answer:  F. Subtotal thyroidectomy - ?
 
 ### Q149
 A 36-year-old woman is in her second trimester of pregnancy. She was mildly thyrotoxic at first but is increasingly symptomatic and requires treatment.
-#### Answer: 
+#### Answer: D. Propylthiouracil - ?
 
 ### Q150
 A 56-year-old woman diagnosed with toxic multinodular goitre which is unresponsive to medical treatment.
-#### Answer: 
+#### Answer: E. Radio-iodine ablation - ?
 
 ### Q151
 A 54-year-old woman presents with a goitre which has been there for a long time but was not bothering her. She is now having some difficulty breathing when lying down and feels 'pressure' in her throat.
-#### Answer: 
+#### Answer: H. Total thyroidectomy - ?
 
 
 Q152-154: Theme: Causes of Jaundice
@@ -1321,15 +1361,15 @@ Q152-154: Theme: Causes of Jaundice
 
 ### Q152
 A 20-year-old woman presents with complaints of dark-coloured urine, pale stools and weight loss for a few weeks. On examination she has painless jaundice.
-#### Answer: 
+#### Answer: A. Carcinoma of the head of the pancreas - ?
 
 ### Q153
 A 10-year-old boy with known sickle cell disease presents with pain in the epigastric region. On examination he has jaundice.
-#### Answer: 
+#### Answer: D. Haemolytic anaemia - ?
 
 ### Q154
 A known intravenous drug misuser with a history of hepatitis B presents with jaundice and loss of weight. Blood tests reveal raised α-fetoprotein. He admits sharing needles with other drug misusers.
-#### Answer: 
+#### Answer: F. Primary liver carcinoma - ?
 
 ## Q155-156: Theme: Knee Injuries
 
@@ -1344,11 +1384,11 @@ A known intravenous drug misuser with a history of hepatitis B presents with jau
 
 ### Q155
 A 35-year-old rugby player twists his knee during a match. It gradually swells and becomes tender, and he finds himself unable to fully extend it. It is tender over the medial joint line. An X-ray shows evidence of an effusion. Despite aspiration of the traumatic effusion, he is still unable to fully extend the knee.
-#### Answer: 
+#### Answer: D. Medial meniscus tear - ?
 
 ### Q156
 A 25-year-old footballer hyperextends his knee while attempting to kick the ball. He hears a loud ‘popping’ sound. The knee swells up immediately. In the following weeks his knee is painful on weight-bearing and gives way without warning.
-#### Answer: 
+#### Answer: F. Posterior cruciate ligament (PCL) tear - ?
 
 
 Q157-159: Theme: Treatment of Prostate Cancer
@@ -1364,15 +1404,15 @@ Q157-159: Theme: Treatment of Prostate Cancer
 
 ### Q157
 An 80-year-old man diagnosed with a pT1 prostate cancer, an incidental finding when the chips obtained from TURP were examined.
-#### Answer: 
+#### Answer: B. Brachytherapy - ?
 
 ### Q158
 A 50-year-old man with pT2 prostate cancer diagnosed on rectal biopsy wants curative treatment. He is sexually active and wants to have a minimal chance of developing incontinence and impotence, and wants to reduce the amount of time spent in hospital. He has a small-volume prostate.
-#### Answer: 
+#### Answer: A. Androgen ablation - ?
 
 ### Q159
 A 65-year-old man was diagnosed as having prostate cancer with lung and bony metastases and local invasion. He was treated with androgen ablation for 6 months but is now complaining of increasing bony and pelvic pain.
-#### Answer: 
+#### Answer: D. Radical prostatectomy - ?
 
 
 Q160-162: Theme: Management of Ankle Injuries
@@ -1388,15 +1428,15 @@ Q160-162: Theme: Management of Ankle Injuries
 
 ### Q160
 A 46-year-old woman stumbles on a pavement kerb, landing awkwardly on her left ankle. She is unable to weight bear. An X-ray shows a fracture of the lateral malleolus only.
-#### Answer: 
+#### Answer: B. Closed reduction and plaster of Paris - ?
 
 ### Q161
 A 34-year-old footballer has an eversion injury to the right ankle, resulting in an avulsion fracture of the medial malleolus. An X-ray also shows an undisplaced fracture of the fibula at the junction between the middle and lower thirds of the shaft.
-#### Answer: 
+#### Answer: C. Open reduction and internal fixation - ?
 
 ### Q162
 A 29-year-old woman stumbles while running for the bus, landing heavily on her left ankle. The ankle becomes swollen over the lateral aspect and she has difficulty weight-bearing. An X-ray shows no fracture.
-#### Answer: 
+#### Answer: D. Strict non-weight-bearing and physiotherapy only - ?
 
 
 Q163-165: Theme: Complications of Colorectal Cancer
@@ -1413,15 +1453,15 @@ Q163-165: Theme: Complications of Colorectal Cancer
 
 ### Q163
 A 69-year-old man presents with a caecal mass presumed to be adenocarcinoma. While undergoing staging investigations, he develops right-sided abdominal pain, guarding and rebound in the right iliac fossa (RIF) associated with fever. There is a mild pyrexia and raised white blood cell count.
-#### Answer: 
+#### Answer: A. Appendicitis - ?
 
 ### Q164
 A 70-year-old man with a known tumour of the transverse colon presents with spasms of abdominal pain, abdominal distension and dehydration. A new sausage-shaped mass is palpable in the epigastrium.
-#### Answer: 
+#### Answer: B. Colocolic intussusception - ?
 
 ### Q165
 A 52-year-old man with metastatic adenocarcinoma of the transverse colon presents with faecal vomiting.
-#### Answer: 
+#### Answer: F. Obstruction - ?
 
 
 Q166-168: Theme: Abnormalities of Calcium Balance
@@ -1438,19 +1478,19 @@ Q166-168: Theme: Abnormalities of Calcium Balance
 	
 ### Q166
 A 69-year-old woman presents with paraesthesia, muscle cramps and a tingling sensation around the mouth. She has a past history of thyroidectomy for benign goitre.
-#### Answer: 
+#### Answer: C. Hypoparathyroidism - ?
 
 ### Q167
 A 54-year-old renal dialysis patient is found to have raised serum calcium and parathyroid hormone (PTH) levels.
-#### Answer: 
+#### Answer: E. Secondary hyperparathyroidism - ?
 
 ### Q168
 A 47-year-old woman with a history of postural hypotension and pigmentation of the buccal mucosa and skin is admitted as an emergency with abdominal pain and constipation. She had an episode of renal colic 2 weeks ago.
-#### Answer: 
+#### Answer: A. Addison's disease - ?
 
 
-Q169-171: Theme: Management of Benign Prostatic Hyperplasia
------------------------------------------------------------
+Q169-171: Theme: Management of Benign Prostatic Hyperplasia (BPH)
+-----------------------------------------------------------------
 
 	A. Doxazosin
 	B. Finasteride
@@ -1466,15 +1506,15 @@ Q169-171: Theme: Management of Benign Prostatic Hyperplasia
 	
 ### Q169
 A 60-year-old man, day 1 post-op right shoulder hemiarthroplasty for severe arthritis develops acute urinary retention. He is catheterised and found to have a residual volume of 800 ml. Digital rectal examination (DRE) shows a smooth, benign, moderately sized prostate.
-#### Answer: 
+#### Answer: H. Trial without catheter (TWOC) and α-blocker - ?
 
 ### Q170
 A 65-year-old man has bladder outflow obstruction secondary to benign prostatic hyperplasia (BPH) confirmed by urodynamic studies. Initial success with medical management has been followed by worsening of symptoms, severely affecting his quality of life. DRE reveals a benign-feeling prostate, 50 g in size. Transrectal ultrasound shows no hypoechogenic areas. The patient is very fit, well and active and will not accept long-term catheterisation.
-#### Answer: 
+#### Answer: F. Transurethral incision of prostate - ?
 
 ### Q171
 A 56-year-old man recently remarried and wants to start a family. He has long-standing symptoms of hesitancy, frequency and terminal dribbling. He recently developed occasional haematuria – fully investigated and not found to be due to any other cause than BPH. DRE and ultrasound scan reveal a benign 40-g prostate.
-#### Answer: 
+#### Answer: B. Finasteride - ?
 
 
 Q172-174: Theme: Wound Complications
@@ -1491,15 +1531,15 @@ Q172-174: Theme: Wound Complications
 
 ### Q172
 A patient who has undergone appendicectomy has the sutures removed and the medial 2 cm of the wound opens up, with only a small serous discharge.
-#### Answer: 
+#### Answer: F. Wound dehiscence - ?
 
 ### Q173
 A patient who has undergone laparotomy has pink fluid oozing from the wound a day before having the sutures removed. The wound opens and the bowel extrudes.
-#### Answer: 
+#### Answer: D. Incisional hernia - ?
 
 ### Q174
 A patient who is 5 days post-op following appendicectomy develops low-grade pyrexia. The wound is full and very tender, and pressure on the medial aspect causes pus to extrude.
-#### Answer: 
+#### Answer: A. Abscess - ?
 
 
 Q175-177: Theme: Management of Hernias
@@ -1507,7 +1547,7 @@ Q175-177: Theme: Management of Hernias
 
 	A. Conservative management
 	B. Laparoscopic repair
-	C. Mayo's operation ‘vest over pants’
+	C. Mayo's operation 'vest over pants'
 	D. Mesh repair
 	E. Repair via crural (Lockwood) approach
 	F. Repair via high inguinal (Lotheissen) approach
@@ -1518,15 +1558,15 @@ Q175-177: Theme: Management of Hernias
 
 ### Q175
 A 1-year-old infant of African origin has had an umbilical hernia since birth. He is asymptomatic.
-#### Answer: 
+#### Answer: A. Conservative management - ?
 
 ### Q176
 A 38-year-old man presents to the outpatients department with a femoral hernia which is non-tender and with no evidence of strangulation or obstruction. He wants to have it repaired.
-#### Answer: 
+#### Answer: C. Mayo's operation 'vest over pants' - ?
 
 ### Q177
 A fit and well 32-year-old man develops bilateral inguinal hernias which are increasing in size and becoming unsightly. He has not had any abdominal surgery previously.
-#### Answer: 
+#### Answer: B. Laparoscopic repair - ?
 
 
 Q178-180: Theme: Treatment of Urinary Tract Infections
@@ -1544,15 +1584,15 @@ Q178-180: Theme: Treatment of Urinary Tract Infections
 
 ### Q178
 A 24-year-old woman presents with a several-month history of recurrent urinary tract infections (UTIs), recent night sweats and weight loss. Mid-stream urine shows many white blood cells but fails to grow any bacteria. She spent her childhood in Bangladesh.
-#### Answer: 
+#### Answer: E. Mitomycin - ?
 
 ### Q179
 A 47-year-old diabetic woman presents with dysuria, frequency and urgency. The urine is cloudy and smells offensive and is positive for nitrites and leucocytes on urine dipstick. She is systemically well.
-#### Answer: 
+#### Answer: D. Metronidazole - ?
 
 ### Q180
 A 52-year-old man presents to A&E with a 2-day history of feeling generally unwell. Over the last 12 hours he has developed right loin pain and rigors and has a temperature of 39°C. Urine dipstick is positive for nitrites.
-#### Answer: 
+#### Answer: C. Intravenous co-amoxiclav (Augmentin) - ?
 
 
 Q181-183: Theme: Post-Operative Critical Care
@@ -1566,15 +1606,15 @@ Q181-183: Theme: Post-Operative Critical Care
 
 ### Q181
 A post-operative patient in ICU has a pulse of 112/min, central venous pressure (CVP) 1 mmHg, cardiac output 4 l/min, and stroke volume 50 ml.
-#### Answer: 
+#### Answer: C. Hypovolaemic shock - ?
 
 ### Q182
 A post-operative patient in ICU has: pulse 40/min, CVP 4 mmHg, cardiac output 3 l/min, and stroke volume 80 ml.
-#### Answer: 
+#### Answer: B. Cardiogenic shock - ?
 
 ### Q183
 A post-operative patient in ICU has: pulse 109/min, CVP 5 mmHg, cardiac output 6 l/min, and stroke volume 40 ml.
-#### Answer: 
+#### Answer: E. Septic shock - ?
 
 
 Q184-187: Theme: Skin Lesions
@@ -1593,18 +1633,18 @@ Q184-187: Theme: Skin Lesions
 
 ### Q184
 A 64-year-old man presents with a circumscribed scaly plaque approximately 4 cm in diameter on the right calf. Histological examination shows full-thickness epidermal dysplasia.
-#### Answer: 
+#### Answer: D. Keratoacanthoma - ?
 
 ### Q185
 A 52-year-old man presents with an irregularly pigmented plaque on the left cheek, which has been increasing in size and was initially uniformly pigmented.
-#### Answer: 
+#### Answer: F. Malignant melanoma - ?
 
 ### Q186
 An 84-year-old man presents with an enlarging painless ulcer with everted edges on the back of his neck. It has been bleeding intermittently.
-#### Answer: 
+#### Answer: J. Squamous cell carcinoma - ?
 
 ### Q187
 A 65-year-old woman presents with a 1-month history of an ulcer over the angle of the mandible with a rolled pearly edge.
-#### Answer: 
+#### Answer: A. Basal cell carcinoma - ?
 
 ===
