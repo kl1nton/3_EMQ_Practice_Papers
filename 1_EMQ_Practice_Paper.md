@@ -16,19 +16,19 @@ Group	| Score			| Errors 					|
 32-35	| 3/4 =  75%	| 34
 36-39	| 2/4 =  50%	| 36, 38
 40-43	| 3/4 =  75%	| 40
-44-47	| ?/4 =  ?%		| 
-48-50	| ?/3 =  ?%		| 
-51-53	| ?/3 =  ?%		| 
-54-58	| ?/5 =  ?%		| 
-59-64	| ?/6 =  ?%		| 
-65-69	| ?/5 =  ?%		| 
-70-74	| ?/5 =  ?%		| 
-75-79	| ?/5 =  ?%		| 
-80-82	| ?/3 =  ?%		| 
-83-87	| ?/5 =  ?%		| 
-88-91	| ?/3 =  ?%		| 
-92-94	| ?/2 =  ?%		| 
-95-100	| ?/6 =  ?%		| 
+44-47	| 1/4 =  25%	| 44, 45, 46
+48-50	| 2/3 =  67%	| 49
+51-53	| 3/3 = 100%	| Ø 
+54-58	| 5/5 = 100%	| Ø 
+59-64	| 1/6 =  17%	| 59, 60, 62, 63, 64
+65-69	| 2/5 =  40%	| 65, 68, 69
+70-74	| 2/5 =  40%	| 70, 72, 73
+75-78	| 0/4 =   0%	| 75, 76, 77, 78
+79-82	| 3/4 =  75%	| 80
+83-87	| 3/5 =  60%	| 84, 85
+88-91	| 2/4 =  50%	| 88, 91
+92-94	| 1/3 =  33%	| 93, 94
+95-100	| 4/6 =  67%	| 97, 100
 101-104	| ?/4 =  ?%		| 
 105-107	| ?/3 =  ?%		| 
 108-110	| ?/3 =  ?%		| 
@@ -525,23 +525,42 @@ Q44-47: Theme: Anatomical Relations
 	
 ### Q44
 In the popliteal fossa, which structure lies the deepest?
-#### Answer: C. Vein - ?
+#### Answer: C. Vein - *FALSE*
+- Popliteal Fossa (*deep to superficial*): "AVN2"
+	1. A - Popliteal Artery
+	2. V - Popliteal Vein
+	3. N - Tibial Nerve
+	4. N - Common Peroneal Nerve
 
 ### Q45
 In the cubital fossa, what is the most medial structure?
-#### Answer: C. Vein - ?
+#### Answer: C. Vein - *FALSE*
+- Cubital Fossa (*lateral to medial*): "TAN"
+	1. T - Biceps Tendon
+	2. A - Brachial Artery
+	3. N - Median Nerve
 
 ### Q46
 At the hilum of the kidney, what is the most anterior structure?
-#### Answer: A. Artery - ?
+#### Answer: A. Artery - *FALSE*
+- Renal Hilum (*anterior to posterior*): "VAPU"
+	1. V - renal Vein
+	2. A - Renal Artery
+	3. P - Renal Pelvis
+	4. U - Ureter
 
 ### Q47
 Of the femoral structures immediately inferior to the inguinal ligament, which structure lies most lateral?
-#### Answer: B. Nerve - ?
+#### Answer: B. Nerve - TRUE
+- Femoral Canal (*lateral to medial*): "NAVY"
+	1. N - Femoral Nerve
+	2. A - Femoral Artery
+	3. V - Femoral Vein
+	4. Y - LYmphatics (Y-fronts)
 
 
-Q48-50: Theme: Urinary Tract Infections
----------------------------------------
+Q48-50: Theme: Urinary Tract Infections (UTI)
+---------------------------------------------
 
 	A. Chlamydia
 	B. Escherichia coli
@@ -555,15 +574,28 @@ Q48-50: Theme: Urinary Tract Infections
 
 ### Q48
 A 26-year-old woman presents with ureteric colic. A KUB study reveals a staghorn calculus in the right kidney.
-#### Answer: E. Proteus spp. - ?
+#### Answer: E. Proteus spp. - TRUE
+- Staghorn calculi occur in *strongly alkaline* urine
+- They are usually associated with bacteria that produce urease
+	- which breaks down urea to form ammonia
+- **NOTE** Proteus is the most common of these
 
 ### Q49
 A 32-year-old HIV-positive woman attends clinic with symptoms of recurrent UTIs. Multiple mid-stream urine specimens have been sent by her general practitioner and have only revealed *sterile pyuria*.
-#### Answer: G. Streptococcus pneumoniae - ?
+#### Answer: G. Streptococcus pneumoniae - *FALSE* = D. Mycobacterium tuberculosis
+- HIV patients and other immunocompromised patients are particularly susceptible to tuberculosis
+- **NOTE** Tuberculosis should always be suspected in patients with sterile pyuria 
+	- in the absence of any other demonstrable abnormality
 
 ### Q50
 A 35-year-old businessman presents with a first episode of frank haematuria. He has just returned from a business trip to Egypt.
-#### Answer: F. Schistosoma haematobium - ?
+#### Answer: F. Schistosoma haematobium - TRUE
+- Schistosomiasis is endemic to the Middle East, Egypt in particular
+- The parasite lays eggs in the urinary tract, causing irritation
+- It can lead to 
+	- Squamous metaplasia
+	- Stone disease, or
+	- If left untreated, squamous cell carcinoma (SSC)
 
 
 Q51-53: Theme: Dysphagia
@@ -581,17 +613,46 @@ Q51-53: Theme: Dysphagia
 - Bk1: ?
 
 ### Q51
-A 72-year-old heavy smoker presents with dysphagia, retrosternal discomfort and new-onset hoarseness of voice.
-#### Answer: F. Oesophageal carcinoma - ?
+A 72-year-old *heavy smoker* presents with dysphagia, retrosternal discomfort and *new-onset hoarseness* of voice.
+#### Answer: F. Oesophageal carcinoma - TRUE
+- Oesophageal carcinoma is commoner 
+	- in smokers
+	- in people with increased alcohol intake
+	- oesophageal strictures
+	- certain dietary deficiencies
+- Symptoms include 
+	- dysphagia
+	- retrosternal discomfort
+	- chest pain
+	- aspiration pneumonia
+	- recurrent laryngeal nerve palsy
+- **NOTE** Prognosis is poor as the tumour readily metastasises
 
 ### Q52
-A 43-year-old man presents with a recurrent sore throat and halitosis and complains of regurgitating undigested food.
-#### Answer: G. Pharyngeal pouch - ?
+A 43-year-old man presents with a recurrent sore throat and halitosis and complains of *regurgitating undigested food*.
+#### Answer: G. Pharyngeal pouch - TRUE
+- A pharyngeal pouch occurs in a weakness in the inferior constrictor muscle
+	- It is also known as 'Killian's dehiscence'
+- It is commoner in males and usual features are 
+	- halitosis (secondary to the retention of undigested food in the oesophagus)
+	- recurrent sore throats
+	- regurgitation of undigested food (sometimes eaten days before)
+	- aspiration pneumonia
+	- neck swelling
+- Treatment is by excision of the pouch
 
 ### Q53
-A 45-year-old woman presents with dysphagia. Barium swallow shows a ‘bird's beak’ appearance of the lower oesophagus.
-#### Answer: A. Achalasia - ?
-
+A 45-year-old woman presents with dysphagia. Barium swallow shows a *'bird's beak'* appearance of the lower oesophagus.
+#### Answer: A. Achalasia - TRUE
+- Achalasia is a *dysmotility disorder* of the lower oesophagus
+	- It is of unknown pathogenesis but predisposes to carcinomatous change
+- Barium swallow shows the typical bird's beak appearance while 
+	- Manometry shows abnormally high intra-oesophageal resting pressure
+- Treatment is by 
+	- Balloon dilation
+	- Heller's cardiomyotomy or
+	- More recently, injection of botulinum toxin
+	
 
 Q54-58: Theme: Incontinence
 ---------------------------
@@ -607,23 +668,39 @@ Q54-58: Theme: Incontinence
 
 ### Q54
 A 78-year-old man presents with urinary leakage. This occurs on coughing or sneezing. On further questioning, he admits to decreasing urinary flow and increased frequency of micturition, with small volumes passed. In addition he reports symptoms of incomplete emptying.
-#### Answer: B. Bladder outlet obstruction - ?
+#### Answer: B. Bladder outlet obstruction - TRUE
+- Man has typical symptoms of an enlarged prostate
+	- reduced flow
+	- increased frequency
+	- incomplete emptying
+- The most likely explanation is bladder outlet obstruction 
+	- caused by the enlarged prostate with overflow incontinence
 
 ### Q55
 A 43-year-old woman with known multiple sclerosis presents to clinic with urinary incontinence. She has had two children. She passes water every hour, but often does not have the urge to void. She currently wears 8–10 incontinence pads per day.
-#### Answer: D. Neurogenic incontinence - ?
+#### Answer: D. Neurogenic incontinence - TRUE
+- Multiple sclerosis is a common cause of a neuropathic bladder
+	- Absence of voiding urge supports this diagnosis
 
 ### Q56
-A 21-year-old woman presents with recurrent urinary tract infection. She passes urine every hour, but sometimes has such urgency that she cannot reach the toilet in time to prevent leakage. Flexible cystoscopy reveals interstitial cystitis.
-#### Answer: F. Small bladder capacity - ?
+A 21-year-old woman presents with recurrent urinary tract infection. She passes urine every hour, but sometimes has such urgency that she cannot reach the toilet in time to prevent leakage. Flexible cystoscopy reveals *interstitial cystitis*.
+#### Answer: F. Small bladder capacity - TRUE
+- Interstitial cystitis reduces the compliance of the bladder
+	- leading to a smaller bladder capacity
+- Leads to high filling pressures for the same volume of urine
 
 ### Q57
 A 38-year-old woman presents with urinary incontinence. This occurs on exercising, coughing or sneezing. She has had four children, all vaginal deliveries.
-#### Answer: C. Genuine stress incontinence - ?
+#### Answer: C. Genuine stress incontinence - TRUE
+- Genuine stress incontinence is usually due to lax pelvic floor muscles
+- Especially common in multiparous women with multiple vaginal deliveries
 
 ### Q58
-A 36-year-old man presents with occasional urinary incontinence. He gives a history of gonorrhoea, which was successfully treated 1 year ago. He has a reduced urinary flow rate, and a post-micturition bladder scan reveals a volume of 560 ml.
-#### Answer: B. Bladder outlet obstruction - ?
+A 36-year-old man presents with occasional urinary incontinence. He gives a history of *gonorrhoea*, which was successfully treated 1 year ago. He has a reduced urinary flow rate, and a post-micturition bladder scan reveals a volume of 560 ml.
+#### Answer: B. Bladder outlet obstruction - TRUE
+- Poor flow and high residual volume of urine indicate bladder outlet obstruction 
+- Gonorrhoea can cause urethral strictures
+	- leading to bladder outlet obstruction in severe cases
 
 
 Q59-64: Theme: Pre-Operative Investigations
@@ -635,34 +712,53 @@ Q59-64: Theme: Pre-Operative Investigations
 	D. ECG + FBC + U&E + CXR
 	E. ECG + FBC + U&E + CXR + Pulmonary Function Tests (PFTs)
 	F. ECG + U&E
+	G. No investigation required - missed this option!
 
 - Bk1: ?
 
 For each of the following scenarios, choose the most appropriate minimum acceptable pre-operative investigations needed from the list above.
 
 ### Q59
-A 55-year-old man presents with a distal radius fracture requiring open reduction and internal fixation. He is otherwise fit and well and is not taking any medication. His body mass index (BMI) is 26 kg/m2 and he is a non-smoker.
-#### Answer: B. ECG + Full Blood Count (FBC) - ?
+A 55-year-old man presents with a distal radius fracture requiring open reduction and internal fixation. He is *otherwise fit* and well and is not taking any medication. His body mass index (BMI) is 26 kg/m2 and he is a *non-smoker*.
+#### Answer: B. ECG + Full Blood Count (FBC) - *FALSE* = A. Electrocardiogram (ECG)
+- An ECG is required for anyone over the age of 50 likely to have a general anaesthetic 
+- Procedure itself is relatively minor: not likely to involve major body fluid losses
+- As the man is otherwise healthy, no other investigations are necessary
 
 ### Q60
 A 31-year-old man attends the pre-admission clinic. He is to undergo elective inguinal hernia repair. He has had a recent chest infection but is otherwise fit and well. He is not taking any medication.
-#### Answer: D. ECG + FBC + U&E + CXR - ?
+#### Answer: D. ECG + FBC + U&E + CXR - *FALSE* = G. No investigation required
+- This patient is a fit and healthy individual under the age of 40
+	- No investigations are required
+- Chest infection is transient and does not require further investigation
+	- Although it would be appropriate to delay surgery until he has fully recovered
 
 ### Q61
-A 61-year-old man is to undergo total hip replacement. He is otherwise healthy and is a non-smoker.
-#### Answer: C. ECG + FBC + Urea & Electrolytes (U&E) - ?
+A 61-year-old man is to undergo *total hip replacement*. He is otherwise healthy and is a non-smoker.
+#### Answer: C. ECG + FBC + Urea & Electrolytes (U&E) - TRUE
+- ECG + FBC + U&E: minimum required Ix for anyone undergoing *major surgery*
+- Other Ix such as CXR, spirometry and urinalysis should also be considered
 
 ### Q62
 A 66-year-old man is admitted for elective repair of a left inguinal hernia. His past medical history includes hypercholesterolaemia and hypertension. He is on diuretics.
-#### Answer: C. ECG + FBC + Urea & Electrolytes (U&E) - ?
+#### Answer: C. ECG + FBC + Urea & Electrolytes (U&E) - *FALSE* = D. ECG + FBC + U&E + CXR
+- The patient is over 65 and on diuretics, both of which are indications for U&E
+- An FBC is indicated in those over 60, as is a chest X-ray and ECG
 
 ### Q63
 A 53-year-old woman is admitted for elective laparoscopy. Her past medical history is of asthma.
-#### Answer: E. ECG + FBC + U&E + CXR + Pulmonary Function Tests (PFTs) - ?
+#### Answer: E. ECG + FBC + U&E + CXR + Pulmonary Function Tests (PFTs) - *FALSE* = B. ECG + Full Blood Count (FBC)
+- An FBC is indicated in all women
+- No other blood tests are indicated in adults aged under 60 
+	- in the absence of significant past medical history
+- ECG is indicated in those over 50
 
 ### Q64
 A 49-year-old woman with hypertension, a non-smoker, is admitted for elective varicose vein surgery.
-#### Answer: F. ECG + U&E - ?
+#### Answer: F. ECG + U&E - *FALSE* = C. ECG + FBC + Urea & Electrolytes (U&E)
+- Past medical history of hypertension is an indication for ECG
+- FBC is indicated as the patient is female
+- Patient may be on diuretics for hypertension: U&E is therefore indicated
 
 
 Q65-69: Theme: Treatment of Ulcers
@@ -680,23 +776,41 @@ For each of the following scenarios, choose the most appropriate treatment optio
 	
 ### Q65
 A 38-year-old type 1 diabetic patient presents with a deep ulcer over the head of the first metatarsal. It is painless and on further examination he has decreased sensation in the whole of the foot.
-#### Answer: A. Compression bandaging - ?
+#### Answer: A. Compression bandaging - *FALSE* = E. Total contact casting
+- Foot ulcer in a diabetic patient with peripheral neuropathy
+	- Likely due to a combination of microvascular disease and neuropathy
+- Treatment of this type of ulcer is usually based on off-loading the affected area
+	- hence the use of a total contact cast
+- In addition, tight diabetic control would be helpful
 
 ### Q66
 A 65-year-old presents with a large circumferential ulcer just above the medial malleolus. She has marked lipodermatosclerosis around the ulcer. Her ankle–brachial pressure index (ABPI) is 0.56.
-#### Answer: D. Revascularisation - ?
+#### Answer: D. Revascularisation - TRUE
+- Although this ulcer has many characteristics of a venous ulcer, the ABPI is low
+	- Which indicates an arterial element to the ulcer
+	- Compression bandaging would further *compromise circulation*
+- Revascularisation is needed and, if successful
+	- Compression bandaging can be undertaken afterwards
 
 ### Q67
 A 71-year-old presents with a large circumferential ulcer over the shin. There is a smaller ulcer over the medial malleolus. The leg has an *inverted champagne bottle appearance*. A duplex scan shows patent deep veins and good flow in the posterior tibial and dorsalis pedis arteries.
-#### Answer: A. Compression bandaging - ?
+#### Answer: A. Compression bandaging - TRUE
+- This is a venous type ulcer
+- Duplex shows good arterial flow
+	- Compression bandaging would be suitable treatment
 
 ### Q68
 A 69-year-old smoker has had a long-standing ulcer on the medial aspect of his right leg. It measures 4 cm in diameter. Recently it has become increasingly friable. The edges are thickened and raised and on further examination he has palpable right inguinal lymph nodes.
-#### Answer: B. Debridement - ?
+#### Answer: B. Debridement - *FALSE* = C. Excision
+- Hx is compatible with malignant change in a chronic ulcer
+- Surgical excision would be the most appropriate option
+	- Skin grafting might be required afterwards
 
 ### Q69
 A 71-year-old heavy smoker attends clinic with a painful, deep, punched-out ulcer on the dorsum of his right foot. On inspection he has some hair loss on the right shin compared with the left, and the right leg is cool to touch.
-#### Answer: C. Excision - ?
+#### Answer: C. Excision - *FALSE* = D. Revascularisation
+- This is an arterial ulcer with stigmata of chronic arterial insufficiency 
+- Revascularisation should be attempted, either endovascularly or surgically
 
 
 Q70-74: Theme: Surgically Important Organisms
@@ -715,23 +829,41 @@ Q70-74: Theme: Surgically Important Organisms
 
 ### Q70
 A 34-year-old man has been on the intensive care unit (ICU) for 4 weeks. He has had multiple infections and is being treated with different antibiotics. He begins to show signs of multi-system infection, including meningitis.
-#### Answer: G. Staphylococcus aureus - ?
+#### Answer: G. Staphylococcus aureus - *FALSE* = A. Acinetobacter
+- *Acinetobacter* is an environmental micro-organism resistant to many antibiotics
+- Often is cause of outbreaks of multidrug-resistant infection in ICUs
+	- Systemic invasion is common
 
 ### Q71
 A 64-year-old man had a knee replacement 2 months ago. He complains of persistent pain, and X-rays appear to show some loosening of the prosthesis. An aspiration of the joint yields a coagulase-negative staphylococcus.
-#### Answer: H. Staphylococcus epidermidis - ?
+#### Answer: H. Staphylococcus epidermidis - TRUE
+- *Staphylococcus epidermidis* is commensal of skin and normally non-virulent
+- It is often responsible for infections involving prostheses (*joints or grafts*)
+- **NOTE** *Staphylococcus aureus* is coagulase-positive
 
 ### Q72
 A 34-year-old develops severe sepsis 5 days after panproctocolectomy for severe ulcerative colitis. Blood cultures reveal an anaerobe which is penicillin-resistant.
-#### Answer: C. Echerichia coli - ?
+#### Answer: C. Echerichia coli - *FALSE* = B. Bacteroides fragilis
+- *Bacteroides fragilis* is commonest organism causing serious anaerobic infection
+	- It is particularly common after abdominal or gynaecological procedures
+- **NOTE** *Bacteroides fragilis* produces β-lactamase and is penicillin-resistant
 
 ### Q73
-A 19-year-old man attends with a large tonsillar abscess. Bacteriological examination reveals a *Gram-negative rod-shaped organism*.
-#### Answer: B. Bacteroides fragilis - ?
+A 19-year-old man attends with a *large tonsillar abscess*. Bacteriological examination reveals a *Gram-negative rod-shaped organism*.
+#### Answer: B. Bacteroides fragilis - *FALSE* = D. Fusobacteria
+- Tonsillar infection is called 'Vincent's angina', usually caused by 
+	1. *Fusobacterium fusiformis*
+	2. *Borrelia vincentii*
+- **NOTE** *Fusobacterium fusiformis* is Gram-negative rod-shaped
 
 ### Q74
 A 74-year-old with a chronic venous leg ulcer develops an infection within the ulcer. Bacteriological examination reveals a *Gram-negative bacillus*.
-#### Answer: F. Psuedomonas aeruginosa - ?
+#### Answer: F. Psuedomonas aeruginosa - TRUE
+- *Pseudomonas aeruginosa* is a Gram-negative bacillus, and is a commensal in 
+	1. Human and animal gastrointestinal tracts
+	2. Water and soil
+- Common pathogen in immunocompromised patients and those with underlying pathology
+- **NOTE** *Pseudomonas aeruginosa* is resistant to most antibiotics
 
 
 Q75-78: Theme: Cord Lesions
@@ -747,19 +879,37 @@ Q75-78: Theme: Cord Lesions
 	
 ### Q75
 A 34-year-old man suffers a knife injury to the back. He is unable to move his left lower limb, and is complaining of severe pain from a further stab injury to the left leg. He is insensate to temperature on the right leg.
-#### Answer: Posterior cord syndrome - ?
+#### Answer: Posterior cord syndrome - *FALSE* = B. Brown-Sequard syndrome
+- In this scenario there is hemisection of the cord, resulting in paralysis on the affected side below the lesion, along with loss of proprioception and fine discrimination. Pain and temperature sensation are lost on the opposite side as the spinothalamic tract carries fibres which have decussated at a lower level.
 
 ### Q76
 A 37-year-old woman falls from a horse. She describes a hyperextension-type injury and is ataxic.
-#### Answer: A. Anterior cord syndrome - ?
+#### Answer: A. Anterior cord syndrome - *FALSE* = E. Posterior cord syndrome
+- Hyperextension injuries with fractures of posterior vertebral elements
+	- commonly cause posterior cord syndrome
+- Posterior columns are affected
+	- so proprioception is affected, causing the profound ataxia
 
 ### Q77
 A 64-year-old man falls down a flight of stairs. He is unable to move his right lower leg and cannot feel sharp instruments on the right leg. He still is able to feel coarse touch. X-rays reveal a compression fracture of T12.
-#### Answer: C. Cauda equina - ?
+#### Answer: C. Cauda equina - *FALSE* = A. Anterior cord syndrome
+- Anterior cord syndrome is common after compression fractures of the vertebral bodies 
+- Often damage to the anterior spinal artery
+	- Neurological damage is a combination of direct trauma and ischaemic damage 
+- Corticospinal and spinothalamic tracts are involved causing (below affected level)
+	- Loss of power
+	- Reduction in pain and temperature sensation 
 
 ### Q78
 A 76-year-old man walks into the A&E department. He complains of bilateral upper limb weakness after a fall in the morning. Initial cervical spine X-rays show marked degenerative changes.
-#### Answer: B. Brown-Sequard syndrome - ?
+#### Answer: B. Brown-Sequard syndrome - *FALSE* = D. Central cord syndrome
+- Central cord syndrome is usually seen in older patients with cervical spondylosis
+- Cord can be compressed by 
+	1. An osteophyte and intervertebral disc anteriorly and
+	2. Ligamentum flavum posteriorly
+- This results in flaccid weakness of the arms 
+	- but preservation of motor and sensory fibres to the lower limb
+		- as these are located more peripherally in the cord
 
 
 Q79-82: Theme: Benign Ano-Rectal Conditions
@@ -780,19 +930,39 @@ For each of the following scenarios, choose the most appropriate treatment from 
 
 ### Q79
 A 79-year-old woman presents with a *prolapsed rectum*.
-#### Answer: A. Delorme's procedure - ?
+#### Answer: A. Delorme's procedure - TRUE
+- Delorme's procedure involves excising the excess prolapsed rectal mucosa
+	- with the underlying muscle being sutured up in a concertina fashion
 
 ### Q80
 A 29-year-old man presents with pain on defecation and some fresh bleeding. He gives a history of recurrent constipation. There is a skin tag present at the 12-o'clock position. Digital rectal examination is normal but painful, and proctoscopy cannot be performed due to patient discomfort.
-#### Answer: C. Surgical haemorrhoidectomy - ?
+#### Answer: C. Surgical haemorrhoidectomy - *FALSE* = B. Diltiazem ointment
+- Fissure-in-ano is a common condition: Pain on defecation is the most common symptom
+- Others symptoms include
+	1. Pruritus ani
+	2. Minor bleeding
+	3. Constipation secondary to pain
+- **NOTE** It is the most common lesion in Crohn's disease
+- Treatment is usually medical: either
+	1. diltiazem cream
+	2. glycerol trinitrate ointment
+- Stool-bulking agents can be used to ease the constipation
 
 ### Q81
 A 27-year-old woman presents to clinic 2 months after childbirth. She complains of faeces streaked with fresh blood.
-#### Answer: F. Rubber-band ligation - ?
+#### Answer: F. Rubber-band ligation - TRUE
+- This is a classic history of haemorrhoids
+- They are normally found at the 3-, 7- and 11-o'clock positions in the anal canal 
+	- First-line Tx consists of rubber-band ligation or injection with sclerosants
+- Persistent, troublesome haemorrhoids can be treated with haemorrhoidectomy
 
 ### Q82
 A 43-year-old man complains of itching around the anus. He also admits to anal pain and occasional purulent discharge from the anus. Proctoscopy reveals a fistula beginning at the dentate line, travelling an intersphincteric route.
-#### Answer: G. Seton drainage - ?
+#### Answer: G. Seton drainage - TRUE
+- Inter-sphincteric abscesses can be incised, drained and laid open
+- Transsphincteric abscesses are usually laid open to reduce risk of incontinence 
+	- following damage to both internal and external sphincter mechanisms
+- Seton drainage is used: suture is tied along the line of fistula
 
 
 Q83-87: Theme: Pain in the Right Upper Quadrant (RUQ)
@@ -813,23 +983,32 @@ Q83-87: Theme: Pain in the Right Upper Quadrant (RUQ)
 
 ### Q83
 A 40-year-old presents with intermittent right upper quadrant (RUQ) pain radiating to the back. It is associated with nausea and vomiting. The patient is not obviously jaundiced, but has dark urine. The patient is apyrexial.
-#### Answer: C. Biliary colic - ?
+#### Answer: C. Biliary colic - TRUE
+- Biliary colic causes RUQ pain without pyrexia
+	- Jaundice is not uncommon if calculus obstructs common bile duct (CBD)
 
 ### Q84
 A 43-year-old man presents with severe RUQ pain radiating to the back. He is visibly jaundiced and complains of chills and rigors. There are calculi in the gallbladder on ultrasound, but none in the common bile duct.
-#### Answer: D. Cholecystitis - ?
+#### Answer: D. Cholecystitis - *FALSE* = B. Ascending cholangitis
+- RUQ pain associated with jaundice points to a biliary cause
+	- Lack of a calculus in common bile duct rules out cholecystitis
 
 ### Q85
 A 60-year-old woman with known diverticular disease, who was previously admitted 1 month ago, presents with nausea, weight loss, anaemia, rigors and a raised WCC.
-#### Answer: H. Perforated peptic ulcer - ?
+#### Answer: H. Perforated peptic ulcer - *FALSE* = J. Subphrenic abscess
+- Subphrenic abscess is a *known complication* of diverticular disease
+	- usually occurring approximately 1–3 weeks following initial episode
 
 ### Q86
 A 30-year-old man presents with severe RUQ pain radiating to the back, associated with vomiting. His amylase is 1520 Somogyi U/dl.
-#### Answer: A. Acute pancreatitis - ?
+#### Answer: A. Acute pancreatitis - TRUE
+- Amylase of >1000 Somorgyi U/dl is *characteristic* of acute pancreatitis 
 
 ### Q87
 A 25-year-old man presents with RUQ pain and pyrexia, but no rigors. He has a raised WCC, normal findings on liver function tests and normal amylase. Ultrasound scan is normal.
-#### Answer: G. Lower lobe pneumonia - ?
+#### Answer: G. Lower lobe pneumonia - TRUE
+- Patient has no rigors and no other signs of disease in the RUQ 
+	- suggests an infective cause, which can refer pain to the RUQ
 
 
 Q88-91: Theme: Ventilators
@@ -847,19 +1026,36 @@ Q88-91: Theme: Ventilators
 
 ### Q88
 The form of ventilation used to assist a patient's inspiratory effort. It is used to effectively ‘top-up’ a patient's own volume of inspired air.
-#### Answer: G. Synchronous intermittent mandatory ventilation (SIMV) - ?
+#### Answer: G. Synchronous intermittent mandatory ventilation (SIMV) - *FALSE* = A. Assisted spontaneous breathing (ASB)
+- ASB is a pressure-controlled, flow-cycled mode of ventilation
+	- The patient is required to breathe for themselves in this method
+- It can be combined with either BIPAP or SIMV 
+	- To support spontaneous breaths that occur during these modes of ventilation
 
 ### Q89
 The most frequently used form of ventilation in theatre. It can be set to pressure- or volume-controlled mode.
-#### Answer: C. Continuous mandatory ventilation (CMV) - ?
+#### Answer: C. Continuous mandatory ventilation (CMV) - TRUE
+- This is generally reserved for use in operating theatres alone
+	- as it is difficult to wean patients using this method of ventilation only
+- It operates on either a set volume or a set inspiratory pressure
+- **NOTE** There is no active patient interaction
 
 ### Q90
 The form of ventilation used in spontaneously breathing patients to splint the alveoli and improve respiratory mechanics.
-#### Answer: D. Continuous positive airways pressure (CPAP) - ?
+#### Answer: D. Continuous positive airways pressure (CPAP) - TRUE
+- CPAP is one of the simplest forms of ventilation
+	- It uses a face mask and provides a continuous positive pressure
+- It improves the compliance of the lungs, thereby reducing work of breathing
+- It can also help with opening up collapsed alveoli in cases of atelectasis
 
 ### Q91
 The form of ventilation used to help wean patients from ventilators. Breaths are synchronised with the patient's respiratory efforts.
-#### Answer: A. Assisted spontaneous breathing (ASB) - ?
+#### Answer: A. Assisted spontaneous breathing (ASB) - *FALSE* = G. Synchronous intermittent mandatory ventilation (SIMV)
+- SIMV requires the tidal volume and rate to be set
+	- There is also a time set between each breath during which
+		- if the patient initiates a spontaneous breath
+		- the mandatory breath is synchronised with this
+- Allows for patient–machine interactivity and the patient can be effectively weaned by increasing the time between each mandatory breath
 
 
 Q92-94: Theme: Management of Chest Trauma
@@ -881,17 +1077,28 @@ For each of the following scenarios, choose the best therapeutic option from the
 
 ### Q92
 A 31-year-old is brought to A&E unconscious. He has been involved in a road traffic accident (RTA). He had a right tension pneumothorax which was treated at the scene by needle thoracocentesis. On arrival he has a heart rate of 134 beats/min, a BP of 82/45 mmHg and an RR of 38 breaths/min. On examination he has absent breath sounds and hyper-resonance on the right side of the chest, with tracheal deviation to the left.
-#### Answer: G. Needle thoracocentesis
-- Pneumothorax
+#### Answer: G. Needle thoracocentesis - TRUE (*tension pneumothorax*)
+- This man has signs of a tension pneumothorax
+	- Hyper-resonance, absence of breath sounds and tracheal deviation all support Dx 
+- He has already had a needle thoracocentesis, but during transfer the cannula may have displaced or occluded
+- A further attempt at needle thoracocentesis should be made
+- **NOTE** Definitive treatment is with a chest drain
 
 ### Q93
 A 29-year-old man was involved in an RTA. He was the front seat passenger. He is complaining of severe chest pain. On examination he is tachycardic, with a heart rate of 104 beats/min, an RR of 20 breaths/min and a BP of 140/68 mmHg. On examination he has slightly reduced air entry on the left base, which is also dull to percussion. The trachea is slightly deviated to the right. Chest X-ray shows a small left haemothorax and a widened mediastinum.
-#### Answer: H. Pericardiocentesis
-- Pericardial effusion
+#### Answer: H. Pericardiocentesis - *FALSE* = I. Urgent arteriography
+- This man may have traumatic aortic rupture
+- The widened mediastinum, left haemothorax and deviation of the trachea to the right support this diagnosis
+- Although this patient appears stable, it is imperative that further assessment of his aorta is carried out by means of either a CT scan or arteriography
+- Patients with aortic injury who have a chance of survival usually have an incomplete laceration near the ligamentum arteriosum of the aorta
+- Specific signs are frequently absent and further investigation is warranted if aortic injury is suspected
 
 ### Q94
-A 34-year-old is brought in with a stab wound to the right side of his mediastinum. On arrival in the department he is in cardiac arrest. The ECG trace shows pulseless electrical activity.
-#### Answer: B. Cardiopulmonary resuscitation - ?
+A 34-year-old is brought in with a *stab wound* to the right side of his mediastinum. On arrival in the department he is in *cardiac arrest*. The ECG trace shows pulseless electrical activity.
+#### Answer: B. Cardiopulmonary resuscitation - *FALSE* = D. Immediate open thoracotomy
+- Patients with penetrating thoracic injuries who present with cardiac arrest or pulseless electrical activity are candidates for immediate open thoracotomy
+- Closed cardiopulmonary resuscitation would not be effective in this situation
+- A left anterior thoracotomy is the procedure of choice, with ongoing resuscitation procedures
 
 
 Q95-100: Theme: Carcinogens
@@ -912,27 +1119,44 @@ For the list above, choose the malignancy associated with exposure to the substa
 
 ### Q95
 _Schistosoma_
-#### Answer: C. Carcinoma of the bladder - ?
+#### Answer: C. Carcinoma of the bladder - TRUE
+- Schistosomes invade urinary tract, and can lay eggs in bladder
+- *Schistosomiasis* is associated with 
+	1. Chronic inflammation of the bladder
+	2. Squamous cell carcinoma of the bladder
 
 ### Q96
 B-Naphthylamine
-#### Answer: C. Carcinoma of the bladder - ?
+#### Answer: C. Carcinoma of the bladder - TRUE
+- Liver converts B-Naphthylamine to active carcinogen 1-hydroxy–2-Naphthylamine
+	- **NOTE** glucuronidation of the compound in liver offers some protection
+- In the bladder
+	- Glucuronidase *unconjugates* molecule and concentrates active carcinogen
+	- Exposing bladder urothelium to carcinogenic effects
 
 ### Q97
 Epstein–Barr virus (EBV)
-#### Answer: H. Oropharyngeal carcinoma - ?
+#### Answer: H. Oropharyngeal carcinoma - *FALSE* = B. Burkitt's lymphoma
+- E**B**V is associated with **B**urkitt's lymphoma in presence of malarial infection
 
 ### Q98
 _Helicobacter pylori_
-#### Answer: E. Mucosa-associated lymphoid tissue lymphoma (MALT tumour) - ?
+#### Answer: E. Mucosa-associated lymphoid tissue lymphoma (MALT tumour) - TRUE
+- There is a link between *Helicobacter pylori* infection and gastric carcinoma
+	- but it has a *stronger association* with MALT lymphoma
+- **NOTE** MALT lymphomas sometimes regress with *H. pylori* infection treatment
 
 ### Q99
 _Aspergillus_ infection
-#### Answer: F. Hepatocellular carcinoma - ?
+#### Answer: F. Hepatocellular carcinoma - TRUE
+- *Aspergillus flavus* releases aflatoxins, which occur as dietary contaminants
+	- Associated with hepatocellular carcinoma
 
 ### Q100
 Betel nuts
-#### Answer: A. Bronchial carcinoma - ?
+#### Answer: A. Bronchial carcinoma - *FALSE* = H. Oropharyngeal carcinoma
+- Betel nuts are chewed in parts of Asia as an alternative to tobacco
+- This is associated with a higher incidence of oropharyngeal carcinoma
 
 
 Q101-104: Theme: Inotropes
