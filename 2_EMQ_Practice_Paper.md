@@ -1,7 +1,7 @@
 EMQ Practice Paper: 2
 =====================
 
-Overall: ??/??? = ??.0% (TODO errors)
+Overall: 98/180 = 54.0% (48+33 = 81 errors)
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
@@ -27,25 +27,25 @@ Group	| Score			| Errors 					|
 86-90	| 2/5 =  40%	| 86, 87, 90
 91-96	| 6/6 = 100%	| Ø
 97-99	| 1/3 =  33%	| 98, 99
-100-105	| ?/6 =  ?%		| 
-106-109	| ?/4 =  ?%		| 
-110-114	| ?/5 =  ?%		| 
-115-116	| ?/2 =  ?%		| 
-117-121	| ?/5 =  ?%		| 
-122-124	| ?/3 =  ?%		| 
-125-127	| ?/3 =  ?%		| 
-128-131	| ?/4 =  ?%		| 
-132-137	| ?/6 =  ?%		| 
-138-142	| ?/5 =  ?%		| 
-143-151	| ?/9 =  ?%		| 
-152-155	| ?/4 =  ?%		| 
-156-158	| ?/3 =  ?%		| 
-159-162	| ?/4 =  ?%		| 
-163-166	| ?/4 =  ?%		| 
-167-169	| ?/3 =  ?%		| 
-170-173	| ?/4 =  ?%		| 
-174-176	| ?/3 =  ?%		| 
-177-180	| ?/4 =  ?%		| 
+100-105	| 3/6 =  50%	| 101, 102, 104
+106-109	| 4/4 = 100%	| Ø
+110-114	| 0/5 =   0%	| 110, 111, 112, 113, 114
+115-116	| 1/2 =  50%	| 115
+117-121	| 5/5 = 100%	| Ø
+122-124	| 1/3 =  33%	| 123, 124
+125-127	| 1/3 =  33%	| 125, 127
+128-131	| 0/4 =   0%	| 128, 129, 130, 131
+132-137	| 5/6 =  83%	| 136
+138-142	| 2/5 =  40%	| 138, 141, 142
+143-151	| 7/9 =  78%	| 147, 148
+152-155	| 4/4 = 100%	| Ø
+156-158	| 3/3 = 100%	| Ø
+159-162	| 1/4 =  25%	| 159, 160, 161
+163-166	| 2/4 =  50%	| 164, 166
+167-169	| 2/3 =  67%	| 168
+170-173	| 3/4 =  75%	| 170
+174-176	| 1/3 =  33%	| 174, 175
+177-180	| 3/4 =  75%	| 179
 
 
 Q1-6: Theme: Wound Closure
@@ -1045,31 +1045,49 @@ Q100-105: Theme: Management of Hernias
 	D. Urgent hernia repairs, i.e. on an elective list but prioritised over benign conditions
 
 ### Q100
-A 79-year-old woman presents to clinic with a small (3 cm) non-tender lump in her groin. It has been present for the past 2 months. It lies below and lateral to the pubic tubercle. It is irreducible and there is no cough impulse.
-#### Answer: D. Urgent hernia repairs, i.e. on an elective list but prioritised over benign conditions - ?
+A 79-year-old woman presents to clinic with a small (3 cm) non-tender lump in her groin. It has been present for the past 2 months. It lies *below and lateral* to the pubic tubercle. It is irreducible and there is no cough impulse.
+#### Answer: D. Urgent hernia repairs, i.e. on an elective list but prioritised over benign conditions - TRUE
+- This is a femoral hernia, and as such is likely to strangulate
+- As there is no evidence of strangulation at present, it does not have to be treated as an emergency, but should be treated as a priority
 
 ### Q101
-A 1-year-old boy presents with a small indirect inguinal hernia.
-#### Answer: C. Emergency hernia repair - ?
+A *1-year-old boy* presents with a small *indirect inguinal* hernia.
+#### Answer: C. Emergency hernia repair - *FALSE* = D. Urgent hernia repairs, i.e. on an elective list but prioritised over benign conditions
+- Inguinal hernias in children do not necessarily cause strangulated bowel
+	- but an incarcerated inguinal hernia is likely to produce testicular ischaemia
+- Hence it does not have to be repaired as an emergency, as there are no acute problems, but it should be done urgently
 
 ### Q102
 A 65-year-old man presents with an indirect inguinal hernia. It is non-tender and has been present for 3 weeks. It initially reduced spontaneously, but over the past 2 days it has not been reducible.
-#### Answer: B. Elective hernia repair - ?
+#### Answer: B. Elective hernia repair - *FALSE* = D. Urgent hernia repairs, i.e. on an elective list but prioritised over benign conditions
+- The short duration of this hernia and the fact that it has become irreducible in such a short time-span mean that repairing this hernia should be a priority
+- Again there are no signs suggestive of strangulation and so an emergency operation is not necessary
 
 ### Q103
 An 84-year-old man with chronic bronchitis, diabetes mellitus and a past medical history of two episodes of myocardial infarction presents with an inguinal hernia. It has been present for 7 years, but for the past day it has been very painful and irreducible. On examination it is tender and erythematous and there is no cough impulse.
-#### Answer: C. Emergency hernia repair - ?
+#### Answer: C. Emergency hernia repair - TRUE
+- This hernia is showing signs of strangulation – it is *red, hot and irreducible* 
+- Irrespective of the patient's medical condition, this hernia requires emergency repair 
+	- One option might be to attempt to repair it under local anaesthesia
 
 ### Q104
 A healthy 84-year-old man presents to clinic with a small right inguinal hernia. On examination there is a 2-cm-diameter direct hernia which is palpable only on coughing.
-#### Answer: B. Elective hernia repair - ?
+#### Answer: B. Elective hernia repair - *FALSE* = A. Conservative management
+- This is a small, direct, easily reducible hernia
+	It is at very low risk of strangulation
+- It can be treated conservatively as it does not seem to be bothering the patient
+	- This decision can be changed should the hernia enlarge or become symptomatic
 
 ### Q105
 A 20-year-old man presents with a painless, reducible lump in the right groin, above and medial to the pubic tubercle, extending into the scrotum, which can be controlled with occlusion of the deep inguinal ring.
-#### Answer: B. Elective hernia repair - ?
+#### Answer: B. Elective hernia repair - TRUE
+- The site of this hernia and the fact that it can be controlled by occluding the deep inguinal ring reveal it to be an indirect inguinal hernia
+- These extend into the groin more commonly than other hernias
+- Asymptomatic indirect inguinal hernias have a low risk of strangulation
+	- therefore elective surgery can be performed
 
 
-Q106-109: Theme: Statistics
+Q105-109: Theme: Statistics - LEARN
 ---------------------------
 
 	A. 4%
@@ -1089,25 +1107,25 @@ A new test is developed for detecting *Chlamydia*. In a trail 200 people are tes
 
 ### Q106
 Specificity
-#### Answer: K. 95% - ?
+#### Answer: K. 95% - TRUE
 - Specificity = "true negative rate" = TRUE negatives / ALL well
 	- TRUE negatives / (TRUE negatives + FALSE positives) = 76 / (76 + 4) = 95%
 
 ### Q107
 Sensitivity
-#### Answer: I. 80% - ?
+#### Answer: I. 80% - TRUE
 - Sensitivity = "true positive rate" = TRUE positives / ALL sick
 	- TRUE positives / (TRUE positives + FALSE negatives) = 96 / (96 + 24) = 80%
  
 ### Q108
 Negative predictive value (NPV)
-#### Answer: H. 76% = ?
+#### Answer: H. 76% = TRUE
 - Negative predictive value (NPV) = TRUE negatives / ALL negatives
 	- TRUE negatives / (TRUE negatives + FALSE negatives) = 76 / (76 + 24) = 76%
 
 ### Q109
 Positive predictive value (PPV)
-#### Answer: L. 96% = ?
+#### Answer: L. 96% = TRUE
 - Positive predictive value (PPV) = TRUE positives / ALL positives
 	- TRUE positives / (TRUE positives + FALSE positives) = 96 / (96 + 4) = 96%
 
@@ -1127,23 +1145,35 @@ Q110-114: Theme: Pancreatic Tumours
 
 ### Q110
 A 43-year-old man with known parathyroid adenoma presents to A&E with haematemesis.
-#### Answer: H. Cystadenoma - ?
+#### Answer: H. Cystadenoma - *FALSE* = A. Gastrinoma
+- Peptic ulceration is a feature of 90% of gastrinomas and 30% of gastrinomas are associated with other endocrine tumours (MEN type I).
 
 ### Q111
 A 64-year-old woman presents with obstructive jaundice and RUQ pain. A random blood glucose is 15.4 mmol/l and an ultrasound scan of the abdomen reveals gallstones.
-#### Answer: B. Glucagonoma - ?
+#### Answer: B. Glucagonoma - *FALSE* = D. Somatostatinoma (changed correct answer!)
+- Somatostatinomas are rare tumours derived from pancreatic delta cells
+- Somatostatin 
+	- Delays gastric emptying and 
+	- Inhibits production of both insulin and glucagons
+- Clinical features are steatorrhoea, diabetes mellitus and cholelithiasis
 
 ### Q112
 A 50-year-old man with a history of weight loss is found to have a mass on his pancreas on CT. He is discovered to be diabetic. He also has a persistent eczematous rash on his buttocks which has been present for over a year.
-#### Answer: C. Insulinoma - ?
+#### Answer: C. Insulinoma - *FALSE* = B. Glucagonoma
+- Glucagonomas are tumours of the pancreatic alpha cells
+- They are rare and can present with an eczematous rash, glossitis, stomatitis, diabetes and weight loss (due to increased gluconeogenesis).
 
 ### Q113
 A 40-year-old woman presents with a 1-year history of epigastric pain. She is prompted to visit A&E following an episode of melaena. Endoscopy reveals multiple peptic ulcers. A CT scan shows tumours affecting the pancreas and duodenum.
-#### Answer: F. Carcinoma - ?
+#### Answer: F. Carcinoma - *FALSE* = I. Zollinger–Ellison tumour
+- Zollinger–Ellison tumours are rare and affect the non-beta cells of the pancreatic islets of Langerhans
+- In 90% of cases they present with peptic ulceration; 30% are associated with other endocrine tumours (MEN I).
 
 ### Q114
 A 28-year-old man is taken to his GP by his partner, who says he has been behaving strangely and has had episodes of altered consciousness. This occurs particularly if he skips meals. He has a family history of MEN I.
-#### Answer: A. Gastrinoma - ?
+#### Answer: A. Gastrinoma - *FALSE* = C. Insulinoma
+- Insulinomas are tumours of the beta cells of the pancreas and are usually solitary
+	- They present with *hyPOglycaemia*
 
 
 Q115-116: Theme: Breast Investigations
@@ -1159,11 +1189,15 @@ Q115-116: Theme: Breast Investigations
  
 ### Q115
 A 28-year-old woman presents with a right-sided breast lump. It measures 1 cm in diameter, is mobile, smooth, non-tender, and is superficial to the pectoralis major. There are no associated skin changes. Both axillae are clear. An ultrasound scan is reported as showing a benign lump.
-#### Answer: E. No further investigation - ?
+#### Answer: E. No further investigation - *FALSE* = C. Fine-needle aspiration
+- Even though the lump is clinically and radiologically benign
+	- It is good practice to obtain *Cytological Dx* as part of 'triple assessment'
 
 ### Q116
 A 55-year-old woman is sent to your clinic after screening mammography reveals a suspicious area in the left breast. Clinical examination does not reveal any suspicious areas.
-#### Answer: F. Ultrasound-guided fine-needle aspiration - ?
+#### Answer: F. Ultrasound-guided fine-needle aspiration - TRUE
+- This woman has a suspicious area on routine mammography
+- As the area is impalpable it is not possible to do a fine-needle aspiration in clinic, but part of the further investigation of the patient would be an ultrasound scan, and a fine-needle aspiration should be attempted at the same time.
 
 
 Q117-121: Theme: Intravenous Fluids
@@ -1178,23 +1212,38 @@ Q117-121: Theme: Intravenous Fluids
 
 ### Q117
 Which fluid has been shown to reduce the incidence of deep venous thrombosis?
-#### Answer: F. Dextran 70 - ?
+#### Answer: F. Dextran 70 - TRUE
+- Dextran 70 expands the plasma volume, leading to decreased stasis
+- It also alters the structure of thrombus to a less organised thrombus, which is supposed to produce smaller, less harmful emboli
+- However, it is not often used as there is a high risk of anaphylaxis, and it is not as effective as heparin.
 
 ### Q118
 Which fluid is recommended in the Advanced Trauma Life Support (ATLS) guidelines for the initial resuscitation of the trauma patient?
-#### Answer: E. Compound sodium lactate solution - ?
+#### Answer: E. Compound sodium lactate solution - TRUE
+- Compound sodium lactate (also known as Ringer's lactate or Hartmann's solution) 
+	- is the fluid of choice for initial resuscitation according to ATLS guidelines
 
 ### Q119
 Which fluid contains 5 mmol of potassium per litre?
-#### Answer: E. Compound sodium lactate solution - ?
+#### Answer: E. Compound sodium lactate solution - TRUE
+- Compound sodium lactate is the only one of the given fluids to contain potassium
+- It also contains 130 mmol sodium, 111 mmol chloride and 29 mmol lactate.
 
 ### Q120
 Which fluid contains 150 mmol of sodium per litre?
-#### Answer: B. 0.9% Sodium chloride solution - ?
+#### Answer: B. 0.9% Sodium chloride solution - TRUE
+- 0.9% Sodium chloride solution contains 150 mmol sodium
+- 0.45% sodium chloride solution contains 75 mmol sodium
+- and 4% dextrose/0.18% sodium chloride contains 30 mmol sodium
+- Compound sodium lactate contains 131 mmol sodium
 
 ### Q121
-Which fluid given in equal volumes expands the intravascular compartment least?
-#### Answer: 
+Which fluid given in equal volumes expands the *intravascular compartment least*?
+#### Answer: D. 5% Dextrose solution - TRUE
+- Water tends to follow the sodium ions, so any fluid containing sodium is more likely to remain in the intravascular compartment
+- Dextrose in any solution is rapidly metabolised, it is the same as giving water
+- This is spread throughout body fluid, i.e. intracellular and extracellular fluid
+	- So less remains in the intravascular compartment
 
 
 Q122-124: Theme: Specific Tests
@@ -1210,15 +1259,30 @@ Q122-124: Theme: Specific Tests
 
 ### Q122
 A 21-year-old, very anxious footballer presents to the fracture clinic with an acute swelling of the right knee following a twisting injury 2 days ago. There is no bony tenderness around the knee joint. He is able to fully weight-bear, fully extend his knee and flex to 90 degrees. Aspiration confirms a haemarthrosis.
-#### Answer: C. Lachman's test - ?
+#### Answer: C. Lachman's test - TRUE
+- Traumatic haemarthrosis is usually caused by 
+	1. Anterior cruciate ligament (ACL) rupture
+	2. Tibial spine avulsion, or 
+	3. Meniscal tears
+- The mechanism suggests an ACL injury
+- Although the pivot shift test would also identify a torn ACL
+	- it is not recommended in clinic with an anxious patient as it can be very painful
 
 ### Q123
 A 69-year-old woman attends the outpatients clinic. On examination she has guttering in the dorsal aspect of her right hand and apparent wasting of the muscles of the hand.
-#### Answer: F. Tinel's test - ?
+#### Answer: F. Tinel's test - *FALSE* = B. Froment's test
+- Froment's test involves asking the patient to hold a piece of paper between the index finger and an adducted thumb
+- The clinician pulls the paper away
+- If an ulnar nerve palsy is present, the patient will be unable to adduct the thumb due to paralysis of adductor pollicis
+- Instead the thumb will flex at the interphalangeal joint due to the action of flexor pollicis longus, which is supplied by the anterior interosseous branch of the median nerve.
 
 ### Q124
 A 35-year-old man attends A&E with acute, severe pain in the right calf. He finds it difficult to walk, and cannot plantar-flex his right foot.
-#### Answer: B. Froment's test - ?
+#### Answer: B. Froment's test - *FALSE* = E. Simmonds' test
+- The most likely diagnosis in this instance is an Achilles’ tendon rupture
+- Simmonds’ test involves asking the patient to kneel facing away from you
+- Squeezing the calf should produce plantar flexion at the ankle joint
+	- Lack of plantar flexion is indicative of an Achilles’ tendon rupture
 
 
 Q125-127: Theme: Calculi
@@ -1233,15 +1297,23 @@ Q125-127: Theme: Calculi
 
 ### Q125
 A 32-year-old man presents with haematuria. A KUB X-ray reveals a staghorn calculus in the right kidney and a mid-stream urine sample grows proteus.
-#### Answer: B. Calcium oxalate - ?
+#### Answer: B. Calcium oxalate - *FALSE* = C. Calcium phosphate
+- Staghorn calculi form in strongly alkaline urine
+	- Associated with UTI with urease-forming bacteria such as Proteus
+	- Composed of magnesium ammonium *phosphate* with *calcium*
 
 ### Q126
 A 31-year-old woman with known sickle cell anaemia attends A&E with biliary colic. X-rays show the presence of stones in the gallbladder.
-#### Answer: A. Bile pigment stone - ?
+#### Answer: A. Bile pigment stone - TRUE
+- Only 10% of gallstones are radio-opaque
+	- Tend to be composed of *calcium bilirubinate*
+- Associated with chronic haemolytic disease causing excess bilirubin release
 
 ### Q127
 A 28-year-old man presents with ureteric colic. A KUB study shows a stone at the right vesico-ureteric junction.
-#### Answer: F. Urate - ?
+#### Answer: F. Urate - *FALSE* = B. Calcium oxalate
+- Calcium oxalate is the most common substance in urinary tract calculi
+	- Accounting for approximately 75% of cases
 
 
 Q128-131: Theme: Types of Ulcer
@@ -1257,20 +1329,26 @@ Q128-131: Theme: Types of Ulcer
 	H. Venous ulcer
 
 ### Q128
-A 43-year-old man is admitted to the ICU following an RTA. He has been unconscious and intubated since having a subdural haematoma evacuated. On day 4 of his admission he begins to have blood aspirated from his nasogastric tube.
-#### Answer: D. Duodenal ulcer - ?
+A 43-year-old man is admitted to the ICU following an RTA. He has been unconscious and intubated since having a *subdural haematoma* evacuated. On day 4 of his admission he begins to have blood aspirated from his nasogastric tube.
+#### Answer: D. Duodenal ulcer - *FALSE* = C. Cushing's ulcer
+- Cushing's ulcer is a stress ulcer which occurs secondary to head injury
 
 ### Q129
 A 76-year-old woman presents to clinic with a large ulcer over her medial malleolus. She has recently noticed that it has grown and bleeds more easily. On examination it has a friable centre and raised edges.
-#### Answer: H. Venous ulcer - ?
+#### Answer: H. Venous ulcer - *FALSE* = F. Marjolin's ulcer
+- Recent changes, increased vascularity and rolled edges, suggest malignant change
+- Squamous cell carcinoma in a chronic venous ulcer is known as a Marjolin's ulcer
 
 ### Q130
-An 84-year-old man presents with a small ulcer on the bridge of his nose. It has been present for a number of months. On examination it has pearly white, rolled edges.
-#### Answer: F. Marjolin's ulcer - ?
+An 84-year-old man presents with a small ulcer on the bridge of his nose. It has been present for a number of months. On examination it has *pearly white*, rolled edges.
+#### Answer: F. Marjolin's ulcer - *FALSE* = G. Rodent ulcer
+- Rodent ulcers (aka basal cell carcinomas): arise on sun-exposed areas of skin
+- Classically have *raised edges* with a *pearly white* appearance
 
 ### Q131
 A 24-year-old has 24% third-degree burns. Three days after his admission he complains of melaena.
-#### Answer: E. Gastric ulcer - ?
+#### Answer: E. Gastric ulcer - *FALSE* = B. Curling's ulcer
+- Curling's ulcer is a stress ulcer associated with burns.
 
 
 Q132-137: Theme: Skin Lesions
@@ -1287,27 +1365,53 @@ Q132-137: Theme: Skin Lesions
  
 ### Q132
 A 40-year-old woman presents with a lump on the anterior aspect of the leg. It has been slowly growing over the past 3 years and is now causing cosmetic disfigurement. On examination you find a 1-cm smooth, firm disc.
-#### Answer: B. Dermatofibroma - ?
+#### Answer: B. Dermatofibroma - TRUE
+- This has all the characteristics of a benign lesion (slow growing, smooth and small)
+- It is a dermatofibroma (also known as histiocytoma)
+- A dermatofibroma usually occurs on a limb in middle-aged people
+- It starts as a hemispherical lump which flattens into a disc
+- It is usually covered by normal-looking skin and has no associated features
 
 ### Q133
 A 2-year-old child is brought to clinic with a small 1-cm lump in her hairline. The lump has been present since birth, but recently it has begun to bleed. On examination the lump is sessile, dark red and has a small ulcerated area in its centre.
-#### Answer: H. Strawberry naevus - ?
+#### Answer: H. Strawberry naevus - TRUE
+- Strawberry naevi are present from birth
+- They are usually sessile hemispheres, but as they grow they can become pedunculated 
+- They are compressible but not pulsatile and most common on the head and neck
+	- They can bleed and become ulcerated if knocked
 
 ### Q134
-A 76-year-old woman presents with a lesion on her left cheek. There is a small ulcer with a raised pearly edge. She reports that it has been scabbing over, with the scab falling off every now and then.
-#### Answer: A. Basal cell carcinoma - ? 
+A 76-year-old woman presents with a lesion on her left cheek. There is a small ulcer with a *raised pearly edge*. She reports that it has been scabbing over, with the scab falling off every now and then.
+#### Answer: A. Basal cell carcinoma - TRUE 
+- This is a rodent ulcer or basal cell carcinoma (BCC) 
+	- It is locally invasive, but rarely metastasises
+- The incidence increases with age as it is related to ultraviolet light exposure
+- For the same reason it most commonly occurs on the face
+	- Above a line drawn from the angle of the mouth to the Lobe of Ear
+- The raised pearly edge is characteristic
 
 ### Q135
 A 31-year-old man presents with a mole on his right shoulder. It has grown over the past 2 months and is very itchy. It bleeds occasionally. On examination there is a 2-cm, irregular mole on the shoulder with a surrounding brown halo. He is also jaundiced.
-#### Answer: D. Melanoma - ?
+#### Answer: D. Melanoma - TRUE
+- This is a melanoma
+- By definition there is no benign melanoma and the presence of a brown halo and jaundice indicates metastatic spread
+- The majority develop in people between 20 and 30 years of age, and they are more common in whites
+	- They often itch but are rarely painful
 
 ### Q136
 A 28-year-old man presents with a lump on the dorsum of his left hand. The lump has grown rapidly over the past 2 weeks. It bleeds easily and is discharging serous fluid. He gives a history of minor trauma to the same hand 3 weeks before. The lump is not painful. On examination there is a bright-red, soft, 1-cm hemispherical lump present.
-#### Answer: E. Pyoderma gangrenosum - ?
+#### Answer: E. Pyoderma gangrenosum - *FALSE* = F. Pyogenic granuloma
+- Pyogenic granulomas are an overgrowth of granulation tissue and usually form after a minor insult such as a scratch or small cut
+- They are most common on the hands and face
+- They grow rapidly but rarely to more than 1 cm as they outgrow their blood supply
 
 ### Q137
 A 64-year-old woman presents with a non-painful lump on her left arm. It has grown rapidly over the past 2 weeks. On examination it is approximately 2 cm in diameter and has a central brown core. It is firm in consistency, but the central core is hard.
-#### Answer: C. Keratoacanthoma - ?
+#### Answer: C. Keratoacanthoma - TRUE
+- A keratoacanthoma is a self-limiting overgrowth of a hair follicle
+- Central plug is made up of keratin, and it usually presents as a rapidly growing lump that may begin to regress by the time the person attends clinic
+- The lump is generally confined to the skin and is mobile over subcutaneous tissue
+- It can be mistaken for a squamous cell carcinoma due to its rapid growth
 
 
 Q138-142: Theme: Airway Management
@@ -1324,23 +1428,36 @@ Q138-142: Theme: Airway Management
 
 ### Q138
 A 7-year-old child is brought in to A&E having been rescued from a house fire. He is in respiratory distress and there is evidence of soot around his nasal passages.
-#### Answer: C. Nasopharyngeal airway - ?
+#### Answer: C. Nasopharyngeal airway - *FALSE* = H. Single-lumen uncuffed endotracheal tube
+- The soot in the nasal passages and the respiratory distress suggest a smoke inhalation injury
+- Early intubation is recommended
+- **NOTE** uncuffed tubes are used in children to minimise chance of tracheal damage
 
 ### Q139
 A 64-year-old man due to undergo elective repair of a thoracic aortic aneurysm.
-#### Answer: B. Double-lumen cuffed endotracheal tube - ?
+#### Answer: B. Double-lumen cuffed endotracheal tube - TRUE
+- A general anaesthetic will be required, hence a definitive airway with endotracheal intubation
+- A double-lumen tube is used in thoracic surgery so that one lung can be deflated, allowing better access to the chest
 
 ### Q140
 You are the only doctor in the A&E department. A patient with severe facial injuries suffered in an RTA is brought in by paramedics. He goes into respiratory arrest and an initial attempt at endotracheal intubation fails.
-#### Answer: D. Needle cricothyroidotomy - ?
+#### Answer: D. Needle cricothyroidotomy - TRUE
+- It is likely that there is an airway obstruction, and as this man is in respiratory arrest, urgent intervention is required
+- Percutaneous tracheostomy is time-consuming so needle cricothyroidotomy should be attempted
+- This is a temporising measure and will allow sufficient ventilation for approximately 30 minutes.
 
 ### Q141
 A 76-year-old man is on the ICU following emergency laparotomy. He is expected to remain there for another week.
-#### Answer: G. Single-lumen cuffed endotracheal tube - ?
+#### Answer: G. Single-lumen cuffed endotracheal tube - *FALSE* = F. Percutaneous tracheostomy
+- Tracheostomy reduces the work of breathing, which improves the chances of weaning the patient from mechanical ventilation
+- It is also better tolerated and leads to a reduction in inotropes or vasopressors
 
 ### Q142
 A 27-year-old man involved in a house fire is brought to A&E. He has some singeing of his nasal hair. His RR is 28 breaths/min, and pulse oximetry gives a reading of 94% on 4 l/min oxygen.
-#### Answer: H. Single-lumen uncuffed endotracheal tube - ?
+#### Answer: H. Single-lumen uncuffed endotracheal tube - *FALSE* = G. Single-lumen cuffed endotracheal tube
+- This man again has evidence of smoke inhalation with his nasal hair singeing
+- A high respiratory rate and reduced oxygen saturation indicate respiratory distress, and as such he requires endotracheal intubation
+- A single-lumen cuffed tube is most commonly used
 
 
 Q143-151: Theme: Colorectal Carcinoma Procedures
@@ -1356,39 +1473,55 @@ Q143-151: Theme: Colorectal Carcinoma Procedures
 
 ### Q143
 A patient with carcinoma of the sigmoid colon presenting with peritonitis due to a perforation.
-#### Answer: E. Hartmann's procedure - ?
+#### Answer: E. Hartmann's procedure - TRUE
+- In the acute setting with a patient who has the potential to become extremely unwell through peritonitis, a quick and safe operation is required
+- Hartmann's procedure involves forming a colostomy and excising the rectum
+	- Oversewing the distal end
+- There is a possibility of reversal once the patient has sufficiently recovered
 
 ### Q144
 A 68-year-old man presents with rectal bleeding. Colonoscopy reveals a caecal tumour.
-#### Answer: F. Right hemicolectomy - ?
+#### Answer: F. Right hemicolectomy - TRUE
+- A right hemicolectomy is performed to excise the tumour and the colon 
+	- which has the same blood supply from the superior mesenteric artery
 
 ### Q145
 A 76-year-old woman presents with rectal bleeding. Digital rectal examination reveals a tumour 2 cm from the anal margin. This is confirmed by proctoscopy.
-#### Answer: A. Abdomino-perineal resection (APR) - ?
+#### Answer: A. Abdomino-perineal resection (APR) - TRUE
+- This is a low rectal tumour and for complete excision it would be hazardous and difficult to maintain the sphincter mechanism
+- Abdomino-perineal resection is the operation of choice, and in this procedure the colon and rectum are excised from the intraperitoneal and perineal ends
 
 ### Q146
 A 54-year-old woman presents with acute appendicitis. A tumour is found in the appendix at appendicectomy.
-#### Answer: F. Right hemicolectomy - ?
+#### Answer: F. Right hemicolectomy - TRUE
+- Appendiceal carcinoma is an indication for right hemicolectomy
 
 ### Q147
 A 64-year-old man presents with small-bowel obstruction. He gives a 2-month history of a weight loss of 12 kg (2 stone) and intermittent rectal bleeding.
-#### Answer: D. Extended right hemicolectomy - ?
+#### Answer: D. Extended right hemicolectomy - *FALSE* = F. Right hemicolectomy
+- This is a good story of presentation of a caecal tumour
+	- Right hemicolectomy should be performed
 
 ### Q148
-An 88-year-old man is found to have a 2-cm tumour of the sigmoid colon. His past medical history includes diabetes mellitus, two episodes of myocardial infarction and peripheral vascular disease.
-#### Answer: G. Sigmoid colectomy - ?
+An 88-year-old man is found to have a 2-cm tumour of the sigmoid colon. His past medical history includes diabetes mellitus, two episodes of *myocardial infarction* and *peripheral vascular disease*.
+#### Answer: G. Sigmoid colectomy - *FALSE* = E. Hartmann's procedure
+- Although anterior resection is possible, in this instance, with the comorbidities present, a quick operation is essential and it would be better to avoid anastomoses
+	- Hartmann's procedure is therefore the procedure of choice
 
 ### Q149
 A 77-year-old woman presents with a tumour of the transverse colon, 2 cm from the splenic flexure, which is not causing obstruction; there are no metastases.
-#### Answer: D. Extended right hemicolectomy - ?
+#### Answer: D. Extended right hemicolectomy - TRUE
+- Location of tumour requires greater resection than a standard right hemicolectomy 
 
 ### Q150
-A 45-year-old man with a non-obtructing tumour of the sigmoid colon without metastases.
-#### Answer: G. Sigmoid colectomy - ?
+A 45-year-old man with a non-obtructing *tumour of the sigmoid colon* without metastases.
+#### Answer: G. Sigmoid colectomy - TRUE
+- This sigmoid lesion requires sigmoid colectomy
 
 ### Q151
 A 66-year-old man presents with altered bowel habit and he is found to have a tumour approximately 12 cm from the anus. There is no obstruction and there are no metastases.
-#### Answer: B. Anterior resection - ?
+#### Answer: B. Anterior resection - TRUE
+- Non-obstructing, high rectal tumours are suitable for anterior resection
 
 
 Q152-155: Theme: The Limping Child
@@ -1404,19 +1537,30 @@ Q152-155: Theme: The Limping Child
 
 ### Q152
 A 4-year-old boy presents with a sudden-onset limp. There is no history of trauma. On arrival to A&E, he is flushed, dehydrated and pyrexial. All movements of his right hip appear to cause pain. Routine blood tests reveal a WCC of 15.1 × 109/l, CRP 234 mg/l and ESR 65 mm/h.
-#### Answer: E. Septic arthritis - ?
+#### Answer: E. Septic arthritis - TRUE
+- The child is septic, with raised inflammatory markers
+- Dx is septic arthritis of his right hip and he needs a washout of the hip
 
 ### Q153
 A 14-year-old boy presents with a limp to the right-hand side. There is no history of trauma. He complains of pain around his right knee, and painful movements of the right knee and hip. He appears small for his age, and has no pubertal hair. On examination he has a full although painful range of movement in his right knee. Movements of the right hip are painful and internal rotation is restricted by 20 degrees.
-#### Answer: F. Slipped upper femoral epiphysis (SUFE) - ?
+#### Answer: F. Slipped upper femoral epiphysis (SUFE) - TRUE
+- SUFE is associated with hypogonadism and is said to occur in short-statured children
+	- It is more common in males
+- The most common examination finding is restricted internal rotation
 
 ### Q154
 An 18-month-old girl with a limp is referred by her general practitioner. She has just started walking. She is otherwise fit and well, and is up to date with all her vaccinations. Perinatal history includes breech delivery and the parents report a club foot which was treated by physiotherapists when she was a neonate.
-#### Answer: A. Developmental dysplasia of the hip (DDH) - ?
+#### Answer: A. Developmental dysplasia of the hip (DDH) - TRUE
+- Common pathologies at this age include septic arthritis, DDH and irritable hip
+- Although babies are screened for DDH, as well as some still present at a later age
+- It is more common in females, associated with congenital foot abnormalities and breech deliveries as well as with first-born children and multiple deliveries
 
 ### Q155
 A 4-year-old boy presents with vague pain in the left hip and thigh. Examination reveals a reduced range of internal rotation and abduction. X-rays show flattening and deformity of the femoral head.
-#### Answer: D. Perthes’ disease - ?
+#### Answer: D. Perthes’ disease - TRUE
+- Perthes’ disease is avascular necrosis of the femoral head
+	- which is most commonly seen in boys aged 5–7 years
+- The radiological changes are usually well established at presentation
 
 
 Q156-158: Theme: Sterilisation
@@ -1430,15 +1574,24 @@ Q156-158: Theme: Sterilisation
 
 ### Q156
 Sterilisation of a minor instrument set.
-#### Answer: D. Steam sterilisation – 15 minutes at 121°C - ?
+#### Answer: D. Steam sterilisation – 15 minutes at 121°C - TRUE
+- Autoclaving or steam sterilisation is most often used to sterilise surgical instruments 
+- Autoclaves operate at either a cycle of 
+	1. 121°C for 15 minutes, or
+	2. 134°C for 3 minutes
+- This is effective against bacteria, spores and viruses
 
 ### Q157
 Sterilisation of a colonoscope.
-#### Answer: A. Glutaraldehyde 2% - ?
+#### Answer: A. Glutaraldehyde 2% - TRUE
+- Colonoscopes require fast turnaround times and repeated use
+	- 2% glutaraldehyde is used as it is cheap, efficient, fast and easy to use
 
 ### Q158
 Sterilisation of a single-use stapling gun.
-#### Answer: C. Irradiation - ?
+#### Answer: C. Irradiation - TRUE
+- Single-use items, commercially produced are usually irradiated for sterilisation
+- This is effective and efficient for large-scale use
 
 
 Q159-162: Theme: Consent
@@ -1452,20 +1605,33 @@ Q159-162: Theme: Consent
 	F. Requires order from court of law to treat
 
 ### Q159
-A 43-year-old man with chronic depression attends with sudden-onset abdominal pain. He is peritonitic and has air under his diaphragm. Your consultant has asked you to obtain consent for a laparotomy. The patient refuses and states he would rather die.
-#### Answer: C. Proceed to treat without consent of patient - ?
+A 43-year-old man with *chronic depression* attends with sudden-onset abdominal pain. He is peritonitic and has air under his diaphragm. Your consultant has asked you to obtain consent for a laparotomy. The *patient refuses* and states he would rather die.
+#### Answer: C. Proceed to treat without consent of patient - *FALSE* = A. Accept wishes for non-treatment
+- Although this man has a chronic mental health problem, he still retains the capacity to make an informed decision about his treatment
+- He understands that he is likely to die without surgery and his wishes must be respected
+- Although you may be able to section him under the Mental Health Act
+	- this only allows for treatment of his mental health problem
+	- **not** for treating the intra-abdominal perforation
 
 ### Q160
 A 13-year-old has an off-ended distal radial and ulna fracture. On examination she has signs of median nerve compromise. You have spoken with both the girl and her mother and informed them that an operation is necessary. The mother is happy to proceed. The child is adamant that she does not wish to have an operation even though she might not regain full use of her hand.
-#### Answer: B. Obtain consent from next of kin - ?
+#### Answer: B. Obtain consent from next of kin - *FALSE* = C. Proceed to treat without consent of patient
+- A 13-year-old may be ‘Gillick competent’ in that if he or she understands the implications and possible complications of treatment, they may consent to that treatment without the express permission of their parents
+- However, in this instance the child would not be allowed to refuse treatment, as this is *not covered* by Gillick competence
+- Parental consent has been obtained
+	- you can proceed to treat without the consent of the child
 
 ### Q161
-An 84-year-old with known multi-infarct dementia has a fractured neck of femur. He keeps shouting that he wants to be left alone to die.
-#### Answer: D. Section under Mental Health Act to treat - ?
+An 84-year-old with known multi-infarct *dementia* has a fractured neck of femur. He keeps shouting that he wants to be left alone to die.
+#### Answer: D. Section under Mental Health Act to treat - *FALSE* = C. Proceed to treat without consent of patient
+- This patient has known dementia and so does not have the capacity to make an informed decision with regard to treatment options
+- To proceed to operative treatment of the fracture would be to act in the patient's best interests.
 
 ### Q162
 A 64-year-old man is brought into A&E unconscious. He is thought to have a perforated peptic ulcer secondary to NSAID use. He is known to have metastatic carcinoma of the prostate. His wife attends with an advance directive stating that he does not wish any form of surgery or resuscitation.
-#### Answer: A. Accept wishes for non-treatment - ?
+#### Answer: A. Accept wishes for non-treatment - TRUE
+- A signed, witnessed advance directive must be respected
+- As such, even though the current situation does not relate to the probable cause for the advance directive, the patient's wishes must be respected.
 
 
 Q163-166: Theme: Urological Investigations
@@ -1482,19 +1648,36 @@ Q163-166: Theme: Urological Investigations
 
 ### Q163
 A 64-year-old man is referred by his general practitioner with a PSA of 11.0 ng/ml. DRE reveals a 50-g craggy-feeling prostate.
-#### Answer: F. Transrectal ultrasound - ?
+#### Answer: F. Transrectal ultrasound - TRUE
+- A raised PSA (upper limit at this age of around 4.5) and a craggy prostate are suspicious of malignancy
+- Transrectal ultrasound is the imaging of choice, as CT and MRI have not been shown to reliably demonstrate the prostate
+- It is also imperative to obtain tissue to confirm Dx and to stage tumour
+	- this can be attempted at the time of the ultrasound
 
 ### Q164
 A 84-year-old man with known metastatic carcinoma of the prostate attends A&E. He is complaining of abdominal pain and has not passed urine in 18 hours. Clinical examination reveals a tender abdomen, with increased tenderness around the renal angles. DRE reveals a 50-g craggy prostate. He is catheterised and has a residual volume of 35 ml.
-#### Answer: B. CT Scan - ?
+#### Answer: B. CT Scan - *FALSE* = A. Abdominal ultrasound
+- This man is not producing urine
+- He has been catheterised adequately, as some urine was obtained, so he must be either dehydrated or have bilateral ureteric obstruction
+- Pelvic lymphadenopathy from metastatic carcinoma of the prostate does cause this
+	- an urgent ultrasound scan is indicated to see whether there is any hydronephrosis
 
 ### Q165
 A 46-year-old man presents with a single episode of haematuria. Flexible cystoscopy is performed in clinic, revealing normal-looking bladder and urethral mucosa.
-#### Answer: A. Abdominal ultrasound - ?
+#### Answer: A. Abdominal ultrasound - TRUE
+- Transabdominal US is radiological investigation of choice for frank haematuria
+	1. Safe
+	2. Non-invasive
+	3. Good at differentiating solid and cystic masses
 
 ### Q166
 A 17-year-old boy presents with a left-sided scrotal swelling. A scrotal ultrasound reveals a varicocele.
-#### Answer: C. Intravenous urography - ?
+#### Answer: C. Intravenous urography - *FALSE* = A. Abdominal ultrasound
+- Left testicular vein drains into Left renal vein
+	- whereas Right testicular vein drains directly into inferior vena cava
+- Left-sided varicocele raises possibility of left renal vein thrombus
+	- Commonly caused by left-sided renal tumours
+- Abdominal ultrasound scan is first-line investigation
 
 
 Q167-169: Theme: Arterial Blood Gases (ABGs)
@@ -1511,15 +1694,24 @@ Q167-169: Theme: Arterial Blood Gases (ABGs)
 
 ### Q167
 A 28-year-old woman with acute pancreatitis presents with severe epigastric pain and vomiting. Her blood gases are: pH 7.5; Pa(O2)13.9 kPa; Pa(CO2) 5 kPa; and bicarbonate 33 mmol/l.
-#### Answer: F. Metabolic alkalosis - ?
+#### Answer: F. Metabolic alkalosis - TRUE
+- Metabolic alkalosis: there is a raised pH with increased bicarbonate and a normal Pa(CO2)
+- The normal Pa(O2) indicates that the respiratory system has not begun to compensate
+	- This situation has arisen due to fluid loss caused by vomiting
 
 ### Q168
-A 52-year-old diabetic patient attends pre-admission clinic. He appears to be short of breath. His blood gases are: pH 7.31; Pa(O2) 14.8 kPa; Pa(CO2) 3 kPa; and bicarbonate 18 mmol/l.
-#### Answer: E. Metabolic acidosis - ?
+A 52-year-old *diabetic patient* attends pre-admission clinic. He appears to be short of breath. His blood gases are: pH 7.31; Pa(O2) 14.8 kPa; Pa(CO2) 3 kPa; and bicarbonate 18 mmol/l.
+#### Answer: E. Metabolic acidosis - *FALSE* = A. Compensated metabolic acidosis
+- Compensated metabolic acidosis: the pH is reduced with decreased bicarbonate
+- The respiratory compensation lowers the Pa(CO2) and increases the Pa(O2)
+- This patient has diabetic nephropathy, the chronic nature of which has allowed compensation by the respiratory system.
 
 ### Q169
 A 64-year-old patient in the ICU on her first post-op day following an open aortic aneurysm repair. Her blood gases are: pH 7.31; Pa(O2) 6.6 kPa; Pa(CO2) 7.25 kPa; and bicarbonate 24 mmol/l.
-#### Answer: G. Respiratory acidosis - ?
+#### Answer: G. Respiratory acidosis - TRUE
+- Respiratory acidosis: reduced pH with raised Pa(CO2) and normal bicarbonate
+	- In this situation over-sedation is a possible cause
+- Poor respiratory effort has caused a reduction in her Pa(O2)
 
 
 Q170-173: Theme: Obstructive Jaundice
@@ -1534,20 +1726,33 @@ Q170-173: Theme: Obstructive Jaundice
 	G. Sclerosing cholangitis
  
 ### Q170
-A 72-year-old woman presents with jaundice and RUQ pain. On examination she has a palpable mass in the RUQ. Ultrasound scan of the abdomen reveals dilated ducts, but no gallstones are seen.
-#### Answer: E. Cholecystitis - ?
+A 72-year-old woman presents with jaundice and RUQ pain. On examination she has a *palpable mass* in the RUQ. Ultrasound scan of the abdomen reveals dilated ducts, but no gallstones are seen.
+#### Answer: E. Cholecystitis - *FALSE* = C. Carcinoma of the pancreas
+- In the presence of jaundice with a palpable gallbladder, the cause of the obstruction is unlikely to be stone disease and more likely to be a malignancy
+- In addition, the dilatation of the bile ducts with no visible stone disease supports this diagnosis
+- Ultrasound does not pick up all pancreatic tumours; CT scanning is more sensitive
 
 ### Q171
 A 43-year-old presents with a 2-week history of jaundice and steatorrhoea. He has a long-term history of ulcerative colitis, which is treated currently with azathioprine.
-#### Answer: G. Sclerosing cholangitis - ?
+#### Answer: G. Sclerosing cholangitis - TRUE
+- The steatorrhoea and jaundice are consistent with obstructive jaundice
+- Sclerosing cholangitis is associated with inflammatory bowel disease
+	- in particular ulcerative colitis
+	- which co-exists in 70% of patients
 
 ### Q172
 A 56-year-old alcoholic presents with jaundice and recurrent episodes of severe epigastric pain radiating to the back. Liver function tests show: bilirubin 143 μmol/l, alkaline phosphatase 750 IU/l, aspartate aminotransferase 378 IU/l, gamma-glutaryl transferase 1106 IU/l. Her amylase is 121 IU/l.
-#### Answer: F. Chronic pancreatitis - ?
+#### Answer: F. Chronic pancreatitis - TRUE
+- The history is typical of pancreatitis, and the recurrent episodes suggest the chronic nature of the disease
+- In severe cases of chronic pancreatitis
+	- serum amylase does **not** necessarily rise
+	- as cells producing amylase are destroyed by disease process
 
 ### Q173
 A 33-year-old woman presents to A&E with severe RUQ pain. The pain has been coming and going for the past 2 hours. Full blood count, urea and electrolytes and liver function test results are all normal. On the consultant ward round the next morning her pain has gone and she wishes to go home.
-#### Answer: B. Biliary colic - ?
+#### Answer: B. Biliary colic - TRUE
+- Hx is typical of biliary colic
+	- Pain settles as stone is passed and obstruction is relieved
 
 
 Q174-176: Theme: Staging of Tumours
@@ -1562,15 +1767,22 @@ Q174-176: Theme: Staging of Tumours
 
 ### Q174
 An excised melanoma found to have a maximum depth of invasion of 6 mm.
-#### Answer: C. Clark's staging - ?
+#### Answer: C. Clark's staging - *FALSE* = B. Breslow's staging
+- There are two staging systems for melanomas: 
+	- Clark's staging is defined by invasion of anatomical layers of the skin
+	- Breslow's staging is based on the depth of invasion
+- We only know depth of invasion: Breslow's is used
 
 ### Q175
 A 24-year-old presents with a palpable lymph node in the anterior triangle of the neck. Fine-needle aspiration shows the presence of Reed-Sternberg cells.
-#### Answer: F. Manchester staging - ?
+#### Answer: F. Manchester staging - *FALSE* = A. Ann Arbor staging
+- Presence of Reed–Sternberg cells indicates Hodgkin's lymphoma
+- This is staged using the Ann Arbor staging system
 
 ### Q176
 A 73-year-old man presents with PSA of 17.6 ng/ml. A transrectal ultrasound-guided biopsy is performed.
-#### Answer: E. Gleason's score - ?
+#### Answer: E. Gleason's score - TRUE
+- Prostate carcinoma is staged using Gleason's scoring system
 
 
 Q177-180: Theme: Lower Limb Neuropathy
@@ -1586,18 +1798,32 @@ Q177-180: Theme: Lower Limb Neuropathy
 
 ### Q177
 A 24-year-old woman was in a below-knee plaster cast for 6 weeks to immobilise a fracture of the distal fibula. On removal of the cast after 6 weeks, she is unable to dorsiflex or evert has no sensation on the dorsum of her foot up to the second interdigital cleft.
-#### Answer: A. Common peroneal nerve - ?
+#### Answer: A. Common peroneal nerve - TRUE
+- Common peroneal nerve is in danger of compression when applying below-knee casts
+- It is vulnerable around the neck of the fibula
+- Both branches of the peroneal nerve are therefore affected, compromising 
+	1. **D**orsiflexion (**d**eep peroneal nerve)
+	2. Eversion (superficial peroneal nerve)
 
 ### Q178
 A 37-year-old woman reattends clinic following treatment of her short saphenous vein varicosities by multiple stab avulsions. She is complaining of numbness along the lateral border of the foot.
-#### Answer: F. Sural nerve - ?
+#### Answer: F. Sural nerve - TRUE
+- The sural nerve is a cutaneous sensory branch of the tibial nerve
+- It runs just posterior to the short saphenous vein in the leg
+	- so is vulnerable to damage during avulsion of this vein
 
 ### Q179
 A 24-year-old man is involved in an RTA. He has a fracture dislocation of the left hip. Following reduction and internal fixation, he is unable to plantar-flex or dorsiflex his foot. He has no sensation below the knee except for the medial aspect of his leg and the upper medial calf.
-#### Answer: G. Tibial nerve - ?
+#### Answer: G. Tibial nerve - *FALSE* = D. Sciatic nerve
+- The sciatic nerve is particularly vulnerable in fracture dislocations of the hip
+	- Damage to the nerve has been reported in up to 16% of cases
+- The quadriceps is spared as it is supplied by the femoral nerve, and its cutaneous branch, the saphenous nerve, supplies sensation to the upper calf and medial aspect of the leg.
 
 ### Q180
 A 69-year-old diabetic man complains of numbness around the medial aspect of the leg following femoro-popliteal bypass grafting using a reversed vein graft.
-#### Answer: C. Saphenous nerve - ?
+#### Answer: C. Saphenous nerve - TRUE
+- The long saphenous vein is the most commonly used vein for vein grafting procedures
+- The saphenous nerve runs in close proximity to the vein, supplying the upper calf and medial aspect of the leg
+- It is vulnerable to damage when the vein is stripped, particularly if it is stripped below the knee.
 
 ===
