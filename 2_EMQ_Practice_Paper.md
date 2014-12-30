@@ -1,32 +1,32 @@
 EMQ Practice Paper: 2
 =====================
 
-Overall: ??/??? = ??.0% (?? errors)
+Overall: ??/??? = ??.0% (TODO errors)
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1-6		| ?/6 =  ?%		| 
-7-11	| ?/5 =  ?%		|  
-12-14	| ?/3 =  ?%		| 
-15-21	| ?/7 =  ?%		| 
-22-25	| ?/4 =  ?%		| 
-26-29	| ?/4 =  ?%		| 
-30-35	| ?/6 =  ?%		| 
-36-40	| ?/5 =  ?%		| 
-41-46	| ?/6 =  ?%		| 
-47-50	| ?/4 =  ?%		| 
-51-53	| ?/3 =  ?%		| 
-54-56	| ?/3 =  ?%		| 
-57-59	| ?/3 =  ?%		| 
-60-62	| ?/3 =  ?%		| 
-63-69	| ?/7 =  ?%		| 
-70-73	| ?/4 =  ?%		| 
-74-77	| ?/4 =  ?%		| 
-78-81	| ?/4 =  ?%		| 
-82-85	| ?/4 =  ?%		| 
-86-90	| ?/5 =  ?%		| 
-91-96	| ?/6 =  ?%		| 
-97-99	| ?/3 =  ?%		| 
+1-6		| 2/6 =  33%	| 1, 2, 3, 6
+7-11	| 2/5 =  20%	| 8, 10, 11
+12-14	| 1/3 =  33%	| 12, 13
+15-21	| 5/7 =  71%	| 18, 19
+22-25	| 2/4 =  50%	| 22, 24
+26-29	| 0/4 =   0%	| 26, 27, 28, 29
+30-35	| 3/6 =  50%	| 31, 33, 34
+36-40	| 3/5 =  60%	| 36, 37
+41-46	| 3/6 =  50%	| 41, 44, 46
+47-50	| 3/4 =  75%	| 48
+51-53	| 1/3 =  33%	| 51, 53
+54-56	| 2/3 =  67%	| 56
+57-59	| 0/3 =   0%	| 57, 58, 59
+60-62	| 3/3 = 100%	| Ø 
+63-69	| 3/7 =  43%	| 63, 65, 68, 69
+70-73	| 2/4 =  50%	| 70, 73
+74-77	| 2/4 =  50%	| 74, 76
+78-81	| 2/4 =  50%	| 79, 81
+82-85	| 3/4 =  75%	| 82
+86-90	| 2/5 =  40%	| 86, 87, 90
+91-96	| 6/6 = 100%	| Ø
+97-99	| 1/3 =  33%	| 98, 99
 100-105	| ?/6 =  ?%		| 
 106-109	| ?/4 =  ?%		| 
 110-114	| ?/5 =  ?%		| 
@@ -60,27 +60,40 @@ Q1-6: Theme: Wound Closure
 
 ### Q1
 A 45-year-old man with a grade IIIA open fracture of the tibia with loss of skin, fascia and muscle, and bone exposed over a 4-cm-diameter area mid-shin. No infection present.
-#### Answer: D. Full-thickness skin graft - ?
+#### Answer: D. Full-thickness skin graft - *FALSE* = F. Free flap
 
 ### Q2
 A 25-year-old woman with an injury to the pulp of the right middle finger, with a loss of approximately 1 cm of tissue. Bone not exposed, no infection present.
-#### Answer: E. Local flap - ? 
+#### Answer: E. Local flap - *FALSE* = A. Healing by secondary intention with simple dressings
 
 ### Q3
 A 29-year-old woman undergoing mastectomy for breast cancer, wishing to have a primary reconstruction.
-#### Answer: F. Free flap - ? 
+#### Answer: F. Free flap - *FALSE* = E. Local flap
 
 ### Q4
 A 50-year-old man with a scalp laceration with an area of skin loss and fascia, down to bone, approximately 2 cm in diameter. No infection.
-#### Answer: E. Local flap - ?
+#### Answer: E. Local flap - TRUE
 
 ### Q5
 Coverage of a 10-cm-diameter area of burns.
-#### Answer: C. Split-thickness skin graft - ?
+#### Answer: C. Split-thickness skin graft - TRUE
 
 ### Q6
 A 35-year-old man with a degloving injury to the right arm, approximately 6 cm in extent, with the deep fascia still intact. No infection.
-#### Answer: B. Primary closure - ? 
+#### Answer: B. Primary closure - *FALSE* = C. Split-thickness skin graft
+
+#### Notes
+- Healing by secondary intention with simple dressings is very useful in areas where there is an abundant blood supply, eg the pulp of the finger, and when the wound is small enough and not too deep.
+
+- Primary closure is reserved for clean wounds with sufficient margins to be closed without tension; this can be made possible by some undermining of the skin edge.
+
+- Split-skin grafting can be used for more extensive wounds and for deeper wounds, but cannot be used to cover exposed bone, cartilage or tendon. It is very useful in burns to cover the defect and prevent further fluid loss. It can be expanded to cover larger defects using mesh.
+
+- Full-thickness skin grafting can be used on exposed tendon, but is not good for exposed bone or cartilage.
+ 
+- Local flaps provide their own blood supply and can transfer skin, fascia, muscle and bone if required. They are very useful in areas where the skin is specialised for its function, eg fingers, scalp.
+ 
+- Free flaps also provide their own blood supply and can be used when no local flap is available.
 
 
 Q7-11: Theme: Cardiac Murmurs
@@ -96,23 +109,61 @@ Q7-11: Theme: Cardiac Murmurs
 
 ### Q7
 A 74-year-old woman is admitted with a fractured neck of femur. She reports several recent episodes of 'fainting' and increasing *shortness of breath on exertion*. Her *apex beat is undisplaced* and an *ejection systolic murmur* is heard from the base *radiating to the carotids*, loudest at the *second intercostal space to the right of the sternum*.
-#### Answer: C. Aortic stenosis - ?
+#### Answer: C. Aortic stenosis - TRUE
 
 ### Q8
 A 70-year-old man attending pre-op clinic reports a 1-year history of *exertional dyspnoea* and *palpitations*. He has a *malar flush*, *irregular pulse* and *undisplaced apex beat*. A *mid-diastolic murmur* is heard.
-#### Answer: B. Mitral regurgitation - ?
+#### Answer: B. Mitral regurgitation - *FALSE* = A. Mitral stenosis
 
 ### Q9
 A 50-year-old man admitted with *right upper quadrant pain* reports increasing shortness of breath. He has an *irregular pulse*, *raised JVP* and *bilateral pitting oedema*. The apex beat is undisplaced and a *pulmonary ejection systolic murmur* is heard.
-#### Answer: E. Atrial septal defect - ?
+#### Answer: E. Atrial septal defect - TRUE
 
 ### Q10
 A 4-month-old baby presents with *abdominal pain*, pneumonia and *failure to thrive*. He has had several previous chest infections. He has a systolic murmur, loudest in the second intercostal space at the left sternal edge.
-#### Answer: F. Ventricular septal defect - ?
+#### Answer: F. Ventricular septal defect - *FALSE* = G. Patent ductus arteriosus
 
 ### Q11
 A 60-year-old woman in the pre-op clinic reports a 6-month history of dyspnoea, associated with palpitations. A *water-hammer pulse* is felt, and *Corrigan's and Quincke's signs* are noted. Her *apex beat is displaced* and a *high-pitched early systolic murmur* is heard.
-#### Answer: G. Patent ductus arteriosus - ?
+#### Answer: G. Patent ductus arteriosus - *FALSE* = B. Mitral regurgitation
+
+#### Notes
+
+##### Mitral Stenosis (MS)
+- Dyspnoea, fatigue, palpitations, chest pain, emboli and haemoptysis
+	- Atrial fibrillation (AF) and a malar flush
+- Apex beat is undisplaced and a mid-diastolic murmur is present
+ 
+##### Mitral regurgitation
+- Dyspnoea, fatigue, palpitations and AF
+- Apex beat is displaced and a pansystolic murmur radiating to apex is present
+ 
+##### Aortic Stenosis (AS)
+- Angina, dyspnoea, dizziness, fainting, congestive cardiac failure (CCF)
+	- Senile calcification is the commonest cause
+- Apex beat is undisplaced
+	- Ejection systolic murmur radiating to carotids is present
+ 
+##### Aortic regurgitation (AR)
+- Dyspnoea, palpitations and cardiac failure
+- Multiple associated signs including 
+	- Corrigan's
+	- de Musset's
+	- Quincke's
+	- Duroziez's
+	- Traube's
+- A water-hammer (collapsing) pulse is associated
+- Apex beat is displaced and a high-pitched early diastolic murmur is present
+ 
+##### Atrial septal defect (ASD)
+- Dyspnoea, CCF and, in infants, failure to thrive. Can present in infancy or adulthood in association with hypertension, commonly aged 40–60 years. AF and a raised JVP. Pulmonary ejection systolic murmur present.
+ 
+##### Ventricular septal defect (VSD)
+- Can present with severe heart failure in infancy or with dyspnoea and CCF in later life - Harsh pansystolic murmur is present.
+ 
+##### Patent ductus arteriosus
+- Failure to thrive, pneumonia and heart failure
+- Systolic murmur loudest in the pulmonary area is present
 
 
 Q12-14: Theme: Treatment of Testicular Tumours
@@ -128,15 +179,24 @@ Q12-14: Theme: Treatment of Testicular Tumours
 
 ### Q12
 A 22-year-old man presents with hard swelling of the left testis and undergoes orchidectomy. Histological examination shows non-seminomatous germ cell tumour. Staging CT scan shows *retroperitoneal lymphadenopathy* but no nodes above the diaphragm.
-#### Answer: E. Radiotherapy - ?
+#### Answer: E. Radiotherapy - *FALSE* = A. Chemotherapy
+- Teratomas are less radiosensitive
+	- Localised disease requires orchidectomy and surveillance
+- Higher stage disease requires chemotherapy
 
 ### Q13
 A 30-year-old man with *right-sided undescended testis* develops a mass in the left testicle. *Left orchidectomy shows seminoma*. CT scan shows no evidence of spread.
-#### Answer: D. Orchidectomy and surveillance - ?
+#### Answer: D. Orchidectomy and surveillance - *FALSE* = G. Testicular biopsy
+- Undescended testes have a 20–30-fold greater incidence of developing a tumour
+- In those who have a previous diagnosis of testicular cancer
+	- Remaining undescended testis should be biopsied
 
 ### Q14
 A 35-year-old man develops a hard right testicular mass. He undergoes orchidectomy, which shows it to be a seminoma. A staging CT scan shows lymph node spread above and below the diaphragm.
-#### Answer: B. Chemotherapy and radiotherapy - ?
+#### Answer: B. Chemotherapy and radiotherapy - TRUE
+- Seminomas are very radiosensitive
+- Stage I and II tumours can be treated by orchidectomy and radiotherapy alone
+	- Further spread requires chemotherapy in addition to radiotherapy
 
 
 Q15-21: Theme: Types of Hernia
@@ -156,31 +216,54 @@ Q15-21: Theme: Types of Hernia
 
 ### Q15
 A 58-year-old man with previous laparotomy for diverticular disease develops a hernia at the lower end of his midline scar. The hernia becomes irreducible and he presents to A&E with severe pain. At operation the contents of the hernia show a strangulated *Meckel's diverticulum*.
-#### Answer: D. Littre's hernia - ?
+#### Answer: D. Littre's hernia - TRUE
+- Littre's hernia = hernia containing strangulated Meckel's diverticulum
+	- Can progress to gangrene, suppuration and formation of local fistula
 
 ### Q16
 A 52-year-old woman presents with a tender swelling in the left groin. Examination reveals that this is irreducible with a cough impulse, and lies *below and lateral* to the pubic tubercle.
-#### Answer: B. Femoral hernia - ?
+#### Answer: B. Femoral hernia - TRUE
+- Femoral Hernias: present *below and lateral* to pubic tubercle
+- Inguinal Hernias: present *above and medial* to pubic tubercle
 
 ### Q17
 A 28-year-old man presents with a groin swelling, which is easily reducible and has a cough impulse. On standing, the *hernia descends into the scrotum*. Reducing the hernia and placing pressure 1 cm above the *midpoint of the inguinal ligament* prevents the hernia from reappearing.
-#### Answer: C. Indirect inguinal hernia - ?
+#### Answer: C. Indirect inguinal hernia - TRUE
+- Indirect inguinal hernias can be controlled by pressure over deep inguinal ring
 
 ### Q18
 A 78-year-old man presents with a reducible mass just superior to the *right iliac crest*.
-#### Answer: H. Maydl's hernia - ?
+#### Answer: H. Maydl's hernia - *FALSE* = E. Lumbar hernia
+- Hernias which appear spontaneously just superior to the iliac crest
+	- Most likely to be lumbar hernias
+- Occur through the lumbar triangle of Petit formed by
+	1. Iliac Crest
+	2. Posterior External Oblique
+	3. Anterior Latissimus Dorsi
 
 ### Q19
 A 78-year-old man with a past history of chronic obstructive pulmonary disease (COPD) presents with a swelling that is protruding through the linea alba, adjacent to the umbilical cicatrix.
-#### Answer: K. Umbilical hernia - ?
+#### Answer: K. Umbilical hernia - *FALSE* = F. Paraumbilical hernia
+- Paraumbilical hernias are more common in men than in women
+	- Mmore common in people with COPD, ascites, multiple pregnancies and malignancy
+- They pass through the linea alba *adjacent* to umbilical cicatrix
+	- as opposed to umbilical hernias, which pass through the umbilical cicatrix
 
 ### Q20
 A 44-year-old woman with a 3-month history of an aching lump is seen in clinic. There is a swelling protruding through the bands of the internal oblique at the level of the line of Douglas.
-#### Answer: G. Spigelian hernia - ?
+#### Answer: G. Spigelian hernia - TRUE
+- Spigelian hernias pass through the internal oblique fibres at this level
+	- Also known as ‘semilunar line’ hernias
+- They are often defected laterally by the external oblique and felt at the iliac crest 
+	- More common in women and often cause aching
 
 ### Q21
 A 52-year-old man presents with a painful, irreducible lump, which contains the antimesenteric border of the bowel.
-#### Answer: J. Richter's hernia - ?
+#### Answer: J. Richter's hernia - TRUE
+- Richter's hernia is a complication of hernias 
+	- the antimesenteric border of the bowel is entrapped
+- Madyl's hernia is another complication of hernias
+	- a W-shaped loop of bowel is trapped and the intervening loop strangulated
 
 
 Q22-25: Theme: Bone Tumours
@@ -196,20 +279,34 @@ Q22-25: Theme: Bone Tumours
 	H. Osteosarcoma
 
 ### Q22
-A 15-year-old boy presents with a painful enlarging mass of the lower left femur. An X-ray shows a *sclerotic lesion with periosteal elevation*. The knee joint is not involved. Chest X-ray shows lesions suspicious of pulmonary metastases. He has a past medical history of retinoblastoma as a child.
-#### Answer: G. Osteoblastoma - ?
+A 15-year-old boy presents with a painful enlarging mass of the lower left femur. An X-ray shows a *sclerotic lesion with periosteal elevation*. The knee joint is not involved. Chest X-ray shows lesions suspicious of pulmonary metastases. He has a past medical history of *retinoblastoma* as a child.
+#### Answer: G. Osteoblastoma - *FALSE* = H. Osteosarcoma
+- Osteosarcoma has a bimodal distribution
+	- 75% of those affected being aged between 10 and 25 years
+	- Remainder are elderly people with a history of Paget's diseas
+- Osteosarcoma typically presents as a painful mass, most commonly 
+	- affecting the lower femur and arising from the medullary cavity
+	- It can be a lytic or sclerotic lesion
+- Hx of retinoblastoma = 5000-fold increased risk of developing osteosarcoma
 
 ### Q23
 A 60-year-old gentleman with a past history of multiple osteochondromas affecting the right proximal humerus and ribs presents with a slowly enlarging mass of the right humerus. The X-ray shows *endosteal scalloping* and *cortical thickening*. There is evidence of pulmonary spread on chest X-ray.
-#### Answer: B. Chondrosarcoma - ?
+#### Answer: B. Chondrosarcoma - TRUE
+- Chondrosarcomas can present *de novo* or as 
+	- malignant transformation of a benign cartilage tumour such an osteochondroma
+	- They usually affect middle-aged or elderly people
 
 ### Q24
 A 10-year-old girl presents with a tender enlarging mass affecting the diaphysis of the left femur. An X-ray shows this to be a lytic lesion. Biopsy identifies it as being a tumour of vascular endothelium.
-#### Answer: A. Angiosarcoma - ?
+#### Answer: A. Angiosarcoma - *FALSE* = C. Ewing's sarcoma
+- Ewing's sarcoma usually affects young people aged between 5 and 15 years
+- It presents as a lytic lesion which causes a periosteal reaction
+	- giving it a characteristic 'onion skin' appearance
 
 ### Q25
 An 80-year-old man with known Paget's disease affecting both legs presents with a painful mass affecting the right tibia. An X-ray shows a lytic lesion arising from the medullary cavity. Pulmonary metastases are present on chest X-ray.
-#### Answer: H. Osteosarcoma - ?
+#### Answer: H. Osteosarcoma - TRUE
+- see A22
 
 
 Q26-29: Theme: Management of Acute Ischaemia
@@ -225,19 +322,36 @@ Q26-29: Theme: Management of Acute Ischaemia
 
 ### Q26
 A 72-year-old man has history of atrial fibrillation but not of peripheral vascular disease or claudication pain. He presents to A&E with a 2-hour history of an acutely ischaemic left leg. Angiography shows a blockage at the origin of the left femoral artery.
-#### Answer: B. Angioplasty - ?
+#### Answer: B. Angioplasty - *FALSE* = C. Embolectomy
+- Hx of limb ischaemia with no previous chronic symptoms, together with a history of atrial fibrillation, is suggestive of an embolus being the cause of the occlusion
+- As the Hx is quite short, embolectomy should be carried out
 
 ### Q27
 An 84-year-old woman, who lives alone, presents with a 36-hour history of acute ischaemia of right foot. Angiography shows occlusion of the right superficial femoral artery.
-#### Answer: C. Embolectomy - ?
+#### Answer: C. Embolectomy - *FALSE* = A. Amputation
+- Prolonged Hx of ischaemia means that reperfusion of the limb is hazardous
+	- Can lead to reperfusion injury, which can result in 
+		- pulmonary oedema
+		- acute respiratory distress syndrome
+		- renal failure
+		- myocardial dysfunction
+- In such cases amputation is often the safest option
 
 ### Q28
 A 64-year-old man, a heavy smoker, has a history of intermittent claudication affecting the right calf. He presents with an acutely ischaemic right leg. On examination the limb is found to be insensate. Angiography shows occlusion of the right femoral artery with good distal run-off.
-#### Answer: F. Thrombolysis - ?
+#### Answer: F. Thrombolysis - *FALSE* = E. Reconstruction
+- Acute on chronic ischaemia is usually secondary to
+	- Thrombus formation on the surface of an atheromatous plaque
+- If sensory or motor deficit is present and run-off is good
+	- Reconstructive operation is advised
 
 ### Q29
-A 70-year-old woman has a history of acute on chronic ischaemic right leg. This was treated initially with thrombolysis, which failed. An angiogram shows occlusion of the superficial femoral artery with poor distal run-off.
-#### Answer: E. Reconstruction - ?
+A 70-year-old woman has a history of acute on chronic ischaemic right leg. This was treated initially with thrombolysis, which *failed*. An angiogram shows occlusion of the superficial femoral artery with poor distal run-off.
+#### Answer: E. Reconstruction - *FALSE* = A. Amputation
+- If run-off is poor (with or without thrombus), amputation is recommended
+- If there is no motor or sensory deficit
+	- Thrombolysis is indicated as long as there are *no contraindications*
+- Failed thrombolysis + angiogram with poor run-off => preform amputation 
 
 
 Q30-35: Theme: Neck Lumps
@@ -256,28 +370,51 @@ Q30-35: Theme: Neck Lumps
 
 ### Q30
 A 12-year-old child presents with a painless midline neck swelling which is fluctuant on palpation. It moves both on swallowing and on protrusion of the tongue.
-#### Answer: E. Thyroglossal cyst - ?
+#### Answer: E. Thyroglossal cyst - TRUE
+- Thyroglossal cysts are remnants of the thyroglossal duct
+	- which runs from back of tongue to and including middle third of hyoid bone
+- Midline structures differentiated from thyroid swellings by the fact that 
+	- they move on protrusion of the tongue
 
 ### Q31
-A 2-year-old boy presents with unilateral painless swelling at the base of the neck. It *brilliantly transilluminates*.
-#### Answer: A. Branchial cyst - ?
+A 2-year-old boy presents with unilateral painless swelling at the *base of the neck*. It *brilliantly transilluminates*.
+#### Answer: A. Branchial cyst - *FALSE* = B. Cystic hygroma
+- Cystic hygroma: congenital cystic lymphatic malformations 
+	1. at the root of neck 
+	2. which transilluminate
 
 ### Q32
 A 25-year-old woman presents with an irregular, painless, midline neck swelling which moves on swallowing but not on protrusion of the tongue. She also complains of feeling anxious and sweaty, and has lost some weight in recent weeks.
-#### Answer: G. Toxic multinodular goitre - ?
+#### Answer: G. Toxic multinodular goitre - TRUE
+- Irregular thyroid swellings associated with symptoms of hyPERthyroidism 
+	- likely to be toxic multinodular goitres (TMG)
+- **NOTE** Thyroid cancers *rarely* present with toxic symptoms
 
 ### Q33
 A 35-year-old man presents with an enlarging neck lump between the junction of the *upper and middle thirds* of the anterior border of the left sternocleidomastoid muscle. The mass is non-tender.
-#### Answer: B. Cystic hygroma - ?
+#### Answer: B. Cystic hygroma - *FALSE* = A. Branchial cyst
+- Lump appearing between the upper and middle thirds of sternocleidomastoid (SCM)
+	- In 35-year-old is most likely to be a branchial cyst 
+	- Originates from remnant of **second** branchial arch
+- It should be excised before it becomes infected
 
 ### Q34
 A 69-year-old gentleman presents with weight loss, epigastric pain and a hard lump in the supraclavicular fossa.
-#### Answer: D. Lymphoma - ?
+#### Answer: D. Lymphoma - *FALSE* = C. Lymph node
+- Supraclavicular mass together with symptoms described
+	- Highly suggestive of **Virchow's node** in association with gastric carcinoma
 
 ### Q35
 A 50-year-old man attends complaining of a painless lump in the neck. On examination a 4-cm, smooth, firm lump is found in the upper part of the anterior triangle of the neck. It is pulsatile and, on further questioning, the patient admits to a number of recent blackouts.
-#### Answer: J. Chemodectoma - ?
-
+#### Answer: J. Chemodectoma - TRUE
+- Chemodectoma (*carotid body tumours*): tumour of chemoreceptor tissue in carotid body
+	- They arise in the carotid bifurcation at the level of the hyoid bone
+- Sometimes a transmitted pulsation from the adjacent arteries
+- Compression of arteries can produce Sx of transient cerebral ischaemia 
+	- Blackouts
+	- Transient paralysis
+	- Paraesthesia
+	
 
 Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
 ----------------------------------------------------------------
@@ -292,23 +429,44 @@ Q36-40: Theme: Surgical Management of Inflammatory Bowel Disease
 
 ### Q36
 A 15-year-old boy with a history of ulcerative colitis for 5 years has a 2-year history of severe disease, resulting in weight loss and growth failure. He is commenced on increasing doses of steroids without success. Disease is present from transverse colon to rectum.
-#### Answer: G. Subtotal colectomy + ileostomy + mucous fistula - ?
+#### Answer: G. Subtotal colectomy + ileostomy + mucous fistula - *FALSE* = D. Proctocolectomy and ileo-anal pouch
+- Ulcerative colitis: 
+	1. Restricted to large bowel
+	2. Always continuous with a diseased rectum
+- Traditional approach to eliminate all disease and remove the risk of developing a malignancy is a proctocolectomy and ileostomy formation
+- In a younger patient, for whom a permanent stoma is unacceptable
+	- Alternative is to form a ‘pouch’ from ileum and anastomose this to dentate line 
+- When rectum is **not** involved
+	- Colectomy and ileo-rectal anastomosis avoids a stoma
 
 ### Q37
 A 39-year-old gentleman with ulcerative colitis presents with a severe acute exacerbation. Three days after admission he develops severe abdominal pain, becomes septic, and on examination has a rigid abdomen with peritonism. Erect chest X-ray shows air under the diaphragm.
-#### Answer: E. Proctocolectomy and ileostomy - ?
+#### Answer: E. Proctocolectomy and ileostomy - *FALSE* = G. Subtotal colectomy + ileostomy + mucous fistula
+- Emergency surgery in ulcerative colitis, eg to treat a perforation
+	- Usually managed with subtotal colectomy, ileostomy and mucous fistula
+- Leaves an intact rectum and anal sphincter for restorative surgery in future
 
 ### Q38
 A 27-year-old woman with Crohn's disease is admitted for the fourth occasion in 6 months with small-bowel obstruction. Barium follow-through shows a 4-cm stricture of the proximal ileum.
-#### Answer: F. Stricturoplasty - ?
+#### Answer: F. Stricturoplasty - TRUE
+- Bowel-preserving technique in which 
+	1. inflammatory strictures are incised longitudinally, and
+	2. then sutured transversely, thus widening the bowel wall
 
 ### Q39
 A 22-year-old woman with diagnosis of Crohn's disease has a history over the past year of recurrent anaemia and weight loss. Colonoscopy shows severe inflammation and active disease affecting the caecum and terminal ileum. Maximum medical therapy has been unsuccessful.
-#### Answer: C. Ileo-caecal resection - ?
+#### Answer: C. Ileo-caecal resection - TRUE
+- Crohn's disease surgery differs from management of ulcerative colitis (UC)
+	- Purpose is to preserve as much bowel length as possible
+- Due to its relapsing and remitting nature and tendency to affect any part of GIT 	
+	- No surgery can be considered curative
 
 ### Q40
 A 21-year-old patient with a history of severe ulcerative colitis has failed on medical treatment alone. Investigations show rectal sparing.
-#### Answer: A. Colectomy and ileorectal anastomosis - ?
+#### Answer: A. Colectomy and ileorectal anastomosis - TRUE
+- Used in both Crohn's disease and ulcerative colitis to avoid an ileostomy
+- 33% of patients have a good result and 33% have a poor result
+	- Usually due to recurrent disease
 
 
 Q41-46: Theme: Scrotal Swellings
@@ -327,27 +485,47 @@ Q41-46: Theme: Scrotal Swellings
  
 ### Q41
 A 42-year-old man presents with a non-tender right scrotal swelling which has been gradually increasing in size over several months. On examination it is fluctuant and transilluminates. It is not possible to feel the right testicle separately from the swelling, but it is possible to get above it and feel the cord as a separate structure.
-#### Answer: B. Encysted hydrocoele of the cord - ?
+#### Answer: B. Encysted hydrocoele of the cord - *FALSE* = F. Hydrocoele
+- A hydrocoele is an abnormal collection of fluid within the tunica vaginalis
+- It can be primary or secondary to a disease process such as infection or carcinoma
+- It is fluctuant, transilluminable and it is impossibe to feel the testis as a separate structure
 
 ### Q42
 A 65-year-old man presents with a slowly enlarging painless scrotal swelling. On examination it is fluctuant and transilluminates. It is possible to get above it on examination and feel the testis as a separate structure. The swelling is found to lie above and slightly behind the testis.
-#### Answer: C. Epididymal cyst - ?
+#### Answer: C. Epididymal cyst - TRUE
+- An epididymal cyst is a fluid-filled swelling connected with the epididymis which is usually painless
+- It is fluctuant, transilluminable and felt separate to both the testis and the cord structures
+- It lies above and slightly behind the testis
 
 ### Q43
 A 70-year-old man has a history of a long-standing ‘aching’ sensation in the right testis. On examination he has a firm craggy mass and a few discharging sinuses on the scrotal skin. Urine microscopy shows sterile pyuria.
-#### Answer: D. Chronic epididymo-orchitis - ?
+#### Answer: D. Chronic epididymo-orchitis - TRUE
+- Chronic epididymo-orchitis is most commonly due to TB but can also be caused by sarcoidosis and unresolved acute epididymo-orchitis
+- Usually presents as a painless hard nodule and can be associated with
+	- Hydrocoele or ulceration and sinus formation on the scrotal skin
+- It may be treated with standard anti-tuberculosis medication
 
 ### Q44
 A 38-year-old man presents with a left-sided scrotal swelling. On examination it is a soft, compressible swelling which does not have a cough impulse. It is not possible to get above it and it disappears on lying down.
-#### Answer: G. Inguino-scrotal hernia - ?
+#### Answer: G. Inguino-scrotal hernia - *FALSE* = J. Varicocele
+- A varicocele is ‘varicose veins of the spermatic cord’ and is due to dilatation of the veins in the pampiniform plexus
+- It is usually asymptomatic can cause a dragging, aching pain
+- It is soft, irregularly shaped and non-transilluminable and disappears on lying down
+- Sudden appearance of a varicocele in older men should alert you to the possibility of retroperitoneal disease
 
 ### Q45
 A 45-year-old man presents with a right-sided scrotal swelling which increases in size on standing up. On examination it is not transilluminable and it is not possible to get above it. There is a positive cough impulse.
-#### Answer: G. Inguino-scrotal hernia - ?
+#### Answer: G. Inguino-scrotal hernia - TRUE
+- Inguino-scrotal hernias are those which descend into the scrotum and are most commonly of the indirect type
+- They are soft, reducible and nontransilluminable and it is impossible to get above them 	
+	- although possible to feel the testis as a separate structure
+- A cough impulse is present. 
 
 ### Q46
 A 25-year-old man presents with a smooth, left-sided, painless scrotal swelling which is transilluminable and fluctuant. It is possible to feel the testis as a separate structure below the swelling.
-#### Answer: F. Hydrocoele - ?
+#### Answer: F. Hydrocoele - *FALSE* = B. Encysted hydrocoele of the cord
+- An encysted hydrocoele of the cord is a fluid-fiIled structure which can lie at any point between the inguinal ring and the upper scrotum
+- It is fluctuant and transilluminable and it is possible to feel the testis as a separate structure.
 
 
 Q47-50: Theme: Upper Limb Fractures
@@ -362,19 +540,32 @@ Q47-50: Theme: Upper Limb Fractures
 
 ### Q47
 A 24-year-old woman presents with a painful left arm following an RTA. The X-ray shows a fracture of the upper third of the ulna together with an associated dislocated radial head.
-#### Answer: E. Monteggia's fracture - ?
+#### Answer: E. Monteggia's fracture - TRUE
 
 ### Q48
 An 84-year-old woman has a fall in the street, landing on her right hand, which appears swollen and deformed. An X-ray shows a fracture of the distal radius, which is angulated dorsally. The fracture extends intra-articularly and there is subluxation of the carpus.
-#### Answer: C. Colles’ fracture - ?
+#### Answer: C. Colles’ fracture - *FALSE* = A. Barton's fracture
 
 ### Q49
 A 76-year-old woman stumbles down the stairs at home, landing heavily on her left arm. On examination she has a deformed, bruised left wrist. An X-ray shows an extra-articular fracture of the distal radius, which is displaced volarly.
-#### Answer: F. Smith's fracture - ?
+#### Answer: F. Smith's fracture - TRUE
 
 ### Q50
 A 15-year-old boy is knocked off his bicycle and lands on his right arm. He presents to A&E with a swollen tender wrist. An X-ray shows a fracture of the mid-shaft of the radius and dislocation of the inferior radio-ulnar joint.
-#### Answer: D. Galeazzi's fracture - ?
+#### Answer: D. Galeazzi's fracture - TRUE
+
+#### Notes
+
+##### Monteggia's, Galeazzi's
+- Monteggia's and Galeazzi's fractures: forearm fractures associated with a dislocation
+- Monteggia's fracture is a fracture of the upper third of the ulna together with a dislocated radial head
+- Galeazzi's fracture is a fracture of the shaft of the radius together with a dislocation of the inferior radio-ulnar joint
+
+##### Smith's, Colles', Barton
+- Smith's and Colles’ fractures are both extra-articular fractures of the distal radius, but 
+in Smith's fracture there is volar displacement of the distal fragment whereas in Colles’ fracture there is dorsal and radial displacement
+- By definition, Colles’ fracture must occur within 2.5 cm of the wrist joint
+- Barton's fracture is an intra-articular fracture of the distal radius associated with subluxation of the carpus.
 
 
 Q51-53: Theme: Staging of Colon Cancer
@@ -387,15 +578,29 @@ Q51-53: Theme: Staging of Colon Cancer
 
 ### Q51
 A 68-year-old man presents with weight loss and iron-deficiency anaemia. Colonoscopy confirms a caecal mass. The specimen obtained at laparotomy shows adenocarcinoma extending through the bowel wall. All of the nine lymph nodes removed are involved.
-#### Answer: D. Duke's D stage - ?
+#### Answer: D. Duke's D stage - *FALSE* = C. Duke's C stage
 
 ### Q52
 A 52-year-old man presents with a history of increasingly severe constipation and rectal bleeding. He is found to have a stenosing lesion of the distal sigmoid colon. Biopsy confirms adenocarcinoma. He undergoes anterior resection and the specimen shows three out of the total seven nodes removed are involved.
-#### Answer: C. Duke's C stage - ?
+#### Answer: C. Duke's C stage - TRUE
 
 ### Q53
 A 25-year-old man from a family known to carry the HNPCC gene is found to have a lesion in the transverse colon at colonoscopy. Resection and histological examination of the specimen shows this to be invading the muscle layer of the bowel wall.
-#### Answer: B. Duke's B stage - ?
+#### Answer: B. Duke's B stage - *FALSE* = A. Duke's A stage
+
+#### Notes
+- Colorectal cancers are staged primarily on the pathological features of the resected specimen using Duke's system
+- Clinical staging takes account of whether the resection margin is involved
+
+##### Duke's Staging of Colorectal Cancer (related to 5-yr survival rate)
+- A = Confined to bowel wall
+- B = Spread through bowel wall but no nodes involved
+- C = Lymph node involvement
+	- Stage C is often divided into 
+		- stage C1 (highest node not involved) and 
+		- stage C2 (highest node involved)
+- D = Distant metastases
+	- Stage D was not included in the original staging but is often use
 
 
 Q54-56: Theme: Urinary System Trauma
@@ -410,15 +615,26 @@ Q54-56: Theme: Urinary System Trauma
  
 ### Q54
 A 25-year-old man slips while walking along the top of a metal gate and falls, straddling the gate. On examination he is in significant pain and has butterfly pattern bruising to the perineum. There is fresh blood at the urethral meatus.
-#### Answer: F. Urethrogram - ?
+#### Answer: F. Urethrogram - TRUE
+- Blood at the urethral meatus is a strong indicator of urethral rupture
+- In these circumstances, catheterisation is contraindicated
+- Urethrography should be performed using water-soluble contrast to demonstrate any leaks and if injury is confirmed, a suprapubic catheter should be sited
+- Formal urethral repair should be delayed for 3–6 months
 
 ### Q55
 A 30-year-old man involved in a fight sustains a blow to the groin with a blunt instrument. On examination there is gross swelling and bruising with an area of tense swelling around the left testicle, which is becoming increasingly large and painful.
-#### Answer: E. Surgical exploration - ?
+#### Answer: E. Surgical exploration - TRUE
+- If an injury is sustained to the suprapubic region and bladder trauma is suspected, cystography should be carried out as long as there is no blood at the meatus
+- Testicular trauma often results in haematoma formation
+- If this is small with no evidence of testicular rupture, it can be managed conservatively
+- If the haematoma is large, increasingly painful or there is evidence of testicular rupture, surgical exploration and evacuation of haematoma is required
 
 ### Q56
 A 52-year-old man is mugged and stabbed with a knife in the area of the left renal angle. He complains of loin pain. Dipstick shows microscopic haematuria.
-#### Answer: D. Retrograde uteropyelography - ?
+#### Answer: D. Retrograde uteropyelography - *FALSE* = B. CT scan
+- Renal trauma is most commonly blunt
+- In penetrating injuries or those due to rib fractures, associated injuries should be looked for
+- All such injuries should be investigated by CT scan or high-dose IVU
 
 
 Q57-59: Theme: Preparation of Patients for Endocrine Surgery
@@ -434,15 +650,25 @@ Q57-59: Theme: Preparation of Patients for Endocrine Surgery
 
 ### Q57
 A 28-year-old woman with Graves’ disease resistant to medical treatment is due to have a subtotal thyroidectomy for symptoms of compression.
-#### Answer: E. Thallium technetium scan - ?
+#### Answer: E. Thallium technetium scan - *FALSE* = G. Vocal cord examination
+- Patients due to undergo thyroidectomy require vocal cord examination as there is a risk of nerve damage during the operation
+- They should also be rendered euthyroid to prevent a ‘thyroid storm’ occurring when the thyroid is handled
 
 ### Q58
 A 42-year-old patient is planned to have a *parathyroidectomy* after presenting with raised calcium and parathyroid hormone levels with no history of renal disease.
-#### Answer: B. Calcitonin infusion - ?
+#### Answer: B. Calcitonin infusion - *FALSE* = E. Thallium technetium scan
+- Parathyroidectomy should be preceded by a technetium scan
+- Although 80% of primary hyperparathyroidism cases are due to a single adenoma
+	- 10–15% have hyperplasia, and
+	- 2% have two adenomas
+- All four parathyroids therefore need to be located
+	- they can occur in a variety of positions from hyoid bone to mediastinum
 
 ### Q59
 A 34-year-old patient is found to have bilateral adrenal masses on CT, and suspected to have phaeochromocytoma. An adrenalectomy is planned.
-#### Answer: C. Corticosteroids - ?
+#### Answer: C. Corticosteroids - *FALSE* = D. Phenoxybenzamine and propranolol
+- Patients due to undergo adrenalectomy must be thoroughly prepared with α- and β-adrenergic blockade using phenoxybenzamine and propranolol, respectively, 
+- Potentially fatal changes in cardiovascular system can occur under anaesthesia and while handling the tumour.
 
 
 Q60-62: Theme: Management of Paediatric Disorders
@@ -457,15 +683,18 @@ Q60-62: Theme: Management of Paediatric Disorders
 
 ### Q60
 A 40-day-old baby develops projectile vomiting approximately 20 minutes after each feed together with failure to thrive. On examination an olive-shaped mass is noted in the RUQ following feeding. Bloods show a metabolic alkalosis.
-#### Answer: F. Ramstedt's pyloromyotomy - ?
+#### Answer: F. Ramstedt's pyloromyotomy - TRUE
+- The baby has typical presenting features of pyloric stenosis secondary to hypertrophy of the circular pyloric muscles. Aetiology is unknown. It is diagnosed by carrying out a test feed and ultrasound scan. Patients should be adequately hydrated and electrolytes corrected prior to surgery.
 
 ### Q61
 A 2-day-old baby known to have cystic fibrosis presents with a distended abdomen and bilious vomiting. His rectum is empty.
-#### Answer: B. Gastrografin enema - ?
+#### Answer: B. Gastrografin enema - TRUE
+- The scenario suggests meconium ileus, which is found in 15% of babies with cystic fibrosis due to highly concentrated meconium which obstructs the terminal ileum pre-natally. This can be diagnosed pre-natally by ultrasound scan. Gastrografin enema can be therapeutic in an uncomplicated case due to its detergent-like effect, which loosens the meconium. However, the baby should also be prepared for laparotomy.
 
 ### Q62
 A 1-year-old infant presents with intermittent spasms of abdominal pain associated with drawing up of the legs and a small amount of rectal bleeding. A sausage-shaped mass is noted in the epigastrium. Two similar episodes in the past were treated with hydrostatic reduction.
-#### Answer: D. Laparotomy and proceed - ?
+#### Answer: D. Laparotomy and proceed - TRUE
+- The history is typical of intussusception. First-line treatment is hydrostatic or pneumatic reduction if there no evidence of peritonitis and if it is less than 24 hours since onset. However, if recurrent, laparotomy is indicated to identify a precipitating cause, eg Meckel's diverticulum or a polyp.
 
 
 Q63-69: Theme: Renal Stones
@@ -480,32 +709,50 @@ Q63-69: Theme: Renal Stones
 	G. Nephrectomy
 
 ### Q63
-A 54-year-old woman with a history of renal stone disease presents with a 2-month history of intermittent left loin pain. An intravenous urogram (IVU) shows a 1.5-cm stone in the left renal pelvis but no evidence of obstruction. She has a past history of ischaemic heart disease and has a 4-cm aortic aneurysm lying close to the origin of the left renal artery; this is under surveillance.
-#### Answer: B. Extracorporeal shock-wave lithotripsy (ESWL) - ?
+A 54-year-old woman with a history of renal stone disease presents with a 2-month history of intermittent left loin pain. An intravenous urogram (IVU) shows a 1.5-cm stone in the left renal pelvis but no evidence of obstruction. She has a past history of ischaemic heart disease and has a 4-cm **aortic aneurysm** lying close to the origin of the left renal artery; this is under surveillance.
+#### Answer: B. Extracorporeal shock-wave lithotripsy (ESWL) - *FALSE* = F. Percutaneous nephrolithotomy (PCNL)
+- Stones < 2 cm in the kidney or ureter are generally treated with ESWL
+- However, this is contraindicated in pregnancy or in patients with abdominal aortic aneurysms (AAAs) which lie in the blast path
+	- In such patients PCNL is a better option
+- This is also the preferred option for 
+	- stones > 2 cm or 
+	- stones > 1 cm in lower pole region, as they have poor clearance rates
 
 ### Q64
 A 27-year-old man presents to A&E with severe right loin and groin pain and microscopic haematuria on dipstick. Pain is well controlled with NSAIDs and pethidine. An IVU confirms the presence of a 4-mm stone in the right mid-ureter region.
-#### Answer: A. Watch and wait - ?
+#### Answer: A. Watch and wait - TRUE
 
 ### Q65
 A 42-year-old man presents to A&E with severe right loin pain radiating to the groin. He is sweating profusely and vomiting, with a temperature of 38.9°C. Dipstick shows 3+ blood and 3+ leucocytes. An IVU shows a 5-mm stone in the upper right ureter and dilated calyces.
-#### Answer: E. Laparoscopic ureterolithotomy - ?
+#### Answer: E. Laparoscopic ureterolithotomy - *FALSE* = B. Extracorporeal shock-wave lithotripsy (ESWL)
+- See A63
 
 ### Q66
 A 24-year-old woman develops severe loin pain with one episode of frank haematuria. She is apyrexial. An IVU shows a 1-cm calculus lying in the lower pole of the right kidney.
-#### Answer: F. Percutaneous nephrolithotomy (PCNL) - ?
+#### Answer: F. Percutaneous nephrolithotomy (PCNL) - TRUE
+- Nephrectomy is the preferred option for treatment of renal calculi if the affected kidney has a differential function of < 15% (with normal global renal function)
+- The presence of infection in an upper urinary tract obstructed by stone is dangerous and is an indication for urgent surgical intervention irrespective of the size of the stone
 
 ### Q67
 An asymptomatic 29-year-old woman undergoes an ultrasound scan which reveals a 1-cm renal calculus within a cyst.
-#### Answer: A. Watch and wait - ?
+#### Answer: A. Watch and wait - TRUE
+- Indications for conservative treatment of renal calculi include 
+	- Calculi less than 5 mm diameter
+	- Medullary sponge kidney
+	- Calculi within cysts
 
 ### Q68
 A 35-year-old man with right loin to groin pain, who is apyrexial, has a 5-mm calculus in the proximal ureter on IVU.
-#### Answer: C. Flexible ureteroscopy - ?
+#### Answer: C. Flexible ureteroscopy - *FALSE* = E. Laparoscopic ureterolithotomy
+- This is a large stone load
+	- Location of the calculus would require multiple treatments with ESWL
+- Laparoscopic ureterolithotomy allows this to be dealt with in single procedure
 
 ### Q69
-A 53-year-old man presents with left loin to groin pain and haematuria. IVU reveals a 1-cm calculus in the lower pole of the right kidney.
-#### Answer: F. Percutaneous nephrolithotomy (PCNL) - ?
+A 53-year-old man presents with left loin to groin pain and haematuria. IVU reveals a 1-cm calculus in the *lower pole* of the right kidney.
+#### Answer: F. Percutaneous nephrolithotomy (PCNL) - *FALSE* = C. Flexible ureteroscopy
+- Lower pole of the kidney is unfavourable anatomy for ESWL
+	- Flexible ureteroscopy is superior
 
 
 Q70-73: Theme: Management of Thyroid Cancer
@@ -519,19 +766,28 @@ Q70-73: Theme: Management of Thyroid Cancer
 
 ### Q70
 A 27-year-old man with history of previous neck irradiation for lymphoma presents with thyroid mass. Fine-needle aspiration reveals cells with 'orphan Annie' nuclei. CT shows localised disease.
-#### Answer: C. Subtotal thyroidectomy - ?
+#### Answer: C. Subtotal thyroidectomy - *FALSE* = E. Total thyroidectomy and thyroxine replacement
+- Papillary carcinoma of the thyroid is often seen in younger patients with a history of irradiation to the neck
+- Histological examination shows pale, empty-looking nuclei – so-called ‘orphan Annie’ nuclei
+- The 10-year survival rate is 90%.
 
 ### Q71
 A 90-year-old woman presents with a hard thyroid mass and a progressively hoarse voice. Cervical lymph nodes are hard and enlarged.
-#### Answer: D. Surgery and external beam radiotherapy - ?
+#### Answer: D. Surgery and external beam radiotherapy - TRUE
+- Elderly patients are more likely to develop anaplastic carcinomas
+	- which have a very poor prognosis despite Tx with surgery and radiotherapy.
 
 ### Q72
 A 48-year-old patient with a family history of multiple endocrine neoplasia (MEN) syndrome presents with a thyroid mass that appears malignant but shows no evidence of spread.
-#### Answer: E. Total thyroidectomy and thyroxine replacement - ?
+#### Answer: E. Total thyroidectomy and thyroxine replacement - TRUE
+- Medullary carcinomas of the thyroid are tumours of C-cells 
+	- which produce calcitonin and are associated with familial MEN syndrome
 
 ### Q73
 A 57-year-old woman presents with painless thyroid swelling and weight loss. Fine-needle aspiration of the swelling indicates that it is a lymphoma.
-#### Answer: E. Total thyroidectomy and thyroxine replacement - ?
+#### Answer: E. Total thyroidectomy and thyroxine replacement - *FALSE* = D. Surgery and external beam radiotherapy
+- Lymphoma of the thyroid is treated in a similar way to anaplastic carcinoma 
+	- but has better results
 
 
 Q74-77: Theme: Pruritus Ani
@@ -548,19 +804,24 @@ Q74-77: Theme: Pruritus Ani
 
 ### Q74
 A 35-year-old woman who regularly takes codeine-based analgesics for tension headaches presents with pruritus ani, rectal bleeding and severe pain following defecation.
-#### Answer: F. Haemorrhoids - ? 
+#### Answer: F. Haemorrhoids - *FALSE* = B. Anal fissure
+- Constipated patients (eg due to opioid-based analgesia) can develop anal fissures – longitudinal tears of the lower half of the anal canal. Although haemorrhoids can also present in this way they are infrequently associated with severe pain unless thrombosed. The pain associated with anal fissures can last for 1–2 hours following defecation.
 
 ### Q75
 A 57-year-old HIV-positive man has a history of long-standing anal intra-epithelial neoplasia (AIN) but was lost to follow-up for the past 5 years. He now presents with pruritus ani and a firm ulcerated mass at the anal margin with palpable lymph nodes.
-#### Answer: A. Anal carcinoma - ?
+#### Answer: A. Anal carcinoma - TRUE
+- Anal carcinoma is more common in homosexuals with a history of anal or genital warts and presents with bleeding, pain, swelling or ulceration and may be associated with enlarged inguinal lymph nodes. Diagnosis should be confirmed with examination under anaesthetic (EUA) and biopsy. Syphilis can present in a similar way but more usually as an shallow ulcer (chancre) rather than a mass.
 
 ### Q76
 A 25-year-old woman with a history of ulcerative colitis on maximum medical therapy to help control disease presents with pruritus ani. On examination the peri-anal area is red, inflamed and excoriated with a well-demarcated edge.
-#### Answer: B. Anal fissure - ? 
+#### Answer: B. Anal fissure - *FALSE* = H. Yeast infection
+- Steroids and other immunosuppressants are used in the medical management of ulcerative colitis and they predispose patients to developing opportunistic yeast overgrowth. Candidal infections affecting the skin usually cause areas of erythema with a well-demarcated edge.
 
 ### Q77
 A 48-year-old man presents with a 3-month history of weight loss and intermittent fever. He also complains of itching around the anus, associated with soreness and purulent discharge.
-#### Answer: D. Fistula in ano - ?
+#### Answer: D. Fistula in ano - TRUE
+- Fistula-in-ano can develop de novo or can be associated with Crohn's disease
+- There is discharge of pus from the external opening
 
 
 Q78-81: Theme: Management of Venous Disease of the Lower Limb
@@ -577,19 +838,23 @@ Q78-81: Theme: Management of Venous Disease of the Lower Limb
 
 ### Q78
 A 46-year-old woman has long-standing varicose veins affecting both legs which have recently started to ache. Doppler examination shows no problem with the deep venous system. Varicosities are in the distribution of the long saphenous vein.
-#### Answer: D. Sapheno-femoral ligation - ?
+#### Answer: D. Sapheno-femoral ligation - TRUE
+- Superficial varicosities can be treated conservatively with support stockings but if increasingly symptomatic (or if patient wishes for cosmetic reasons) surgery is indicated. Long and short saphenous vein incompetences are treated by sapheno-femoral and sapheno-popliteal ligation respectively. Branch varicosities can be treated by stab avulsions.
 
 ### Q79
 A 69-year-old woman has a history of deep vein thrombosis affecting the right leg 20 years ago. She now presents with longstanding ulcers over the right gaiter region. ABPI of both legs = 0.8. She is treated with debridement and compression dressing, but review at 12 weeks shows no improvement.
-#### Answer: B. Elevation and NSAIDs - ?
+#### Answer: B. Elevation and NSAIDs - *FALSE* = E. Split-skin graft
+- Debridement and compression bandaging is the usual first-line treatment for venous ulcers, as long as the ABPI is greater than 0.5. Failure to heal after 12 weeks of this treatment is an indication for split-skin grafting, as are ulcers greater than 10 cm2 in size.
 
 ### Q80
 An 84-year-old woman with a long-standing venous ulcer of the left shin, treated with regular debridement and dressings, notices it is becoming increasingly tender. On examination the ulcer has a small amount of purulent, offensive discharge and there is surrounding cellulitis.
-#### Answer: G. Systemic antibiotics - ?
+#### Answer: G. Systemic antibiotics - TRUE
+- Infected ulcers should be managed by taking a swab for culture followed by regular cleaning and dressing – topical antibiotics should be avoided. Surrounding cellulitis, however, is an indication for intravenous antibiotics.
 
 ### Q81
-A 60-year-old woman with a 10-year history of varicose veins affecting both legs presents with an acute episode of painful thrombophlebitis.
-#### Answer: H. Topical antibiotics - ?
+A 60-year-old woman with a 10-year history of varicose veins affecting both legs presents with an acute episode of painful *thrombophlebitis*.
+#### Answer: H. Topical antibiotics - *FALSE* = B. Elevation and NSAIDs
+- Thrombophlebitis is best managed with elevation, NSAIDs and support stockings.
 
 
 Q82-85: Theme: Abdominal Signs
@@ -605,19 +870,31 @@ Q82-85: Theme: Abdominal Signs
 
 ### Q82
 A 39-year-old man presents to A&E with severe epigastric and RUQ pain radiating through to the back, associated with nausea and vomiting. Inspection of the abdomen shows bruising around the umbilicus.
-#### Answer: B. Boas’ sign - ?
+#### Answer: B. Boas’ sign - *FALSE* = C. Cullen's sign
 
 ### Q83
 A 54-year-old alcoholic is found collapsed at home in a state of shock. She is unable to give a history but shouts out when her abdomen is palpated. Amylase is 3000 Somogyi U/dl, erect chest X-ray normal. A bluish discoloration is noticed around the flanks.
-#### Answer: D. Grey Turner's sign - ?
+#### Answer: D. Grey Turner's sign - TRUE
+
+#### Notes
+- Pancreatitis may be associated with discoloration or bruising around
+	1. Umbilicus (Cullen's sign)
+	2. Flanks (Grey Turner's sign)
+- Due to haemorrhagic pancreatitis with retroperitoneal spread of blood
 
 ### Q84
 A 45-year-old woman with known gallstones presents with RUQ pain and fever and is found to have a raised WCC. On palpation of the abdomen she is found to be tender in the RUQ and this increases when she breathes in, such that it causes her to stop inspiring.
-#### Answer: E. Murphy's sign - ?
+#### Answer: E. Murphy's sign - TRUE
+- Murphy's sign is seen in acute cholecystitis and should not be able to be reproduced in the left upper quadrant
+- It is caused by the downward movement of the inflamed gallbladder onto the examining hand during examination
+- Boas’ sign is also seen in acute cholecystitis - TODO
 
 ### Q85
 A 27-year-old man presents with right iliac fossa (RIF) pain, preceded by 2 days of generalised abdominal pain and associated vomiting. His WCC is raised. Palpation in the left iliac fossa (LIF) reproduces the pain in the RIF.
-#### Answer: G. Rovsing's sign - ?
+#### Answer: G. Rovsing's sign - TRUE
+- Rovsing's sign is seen in acute appendicitis
+	- palpation in LIF reproduces pain in RIF 
+		- due to movement of inflamed parietal peritoneum
 
 
 Q86-90: Theme: Abdominal Incisions
@@ -634,24 +911,39 @@ Q86-90: Theme: Abdominal Incisions
 	I. Rutherford–Morrison incision
 
 ### Q86
-A 36-year-old woman presents with abdominal distension. A CT scan reveals a benign-looking right ovarian cyst, 5 × 5 cm. An elective excision is planned.
-#### Answer: F. Paramedian incision - ?
+A 36-year-old woman presents with abdominal distension. A CT scan reveals a benign-looking right ovarian cyst, 5 × 5 cm. An *elective excision* is planned.
+#### Answer: F. Paramedian incision - *FALSE* = G. Pfannenstiel's incision
+- Pfannenstiel's incision provides excellent access for gynaecological procedures as well as bladder and prostate operations
+- It can also be used for bilateral hernia repair
+- In *emergency setting*, e.g. suspected torted ovarian cyst
+	- Midline incision may be more appropriate
 
 ### Q87
 A 38-year-old alcoholic presents with severe epigastric pain. Examination reveals a rigid abdomen and no bowel sounds. Erect chest X-ray shows air under the diaphragm.
-#### Answer: D. Laparoscopic port incision - ?
+#### Answer: D. Laparoscopic port incision - *FALSE* = E. (*Upper*) Midline incision
+- A perforated duodenal ulcer requires access for oversewing and washout
+	- An (upper) midline incision is appropriate
 
 ### Q88
 A 38-year-old woman who is in the second trimester of pregnancy has had multiple episodes of cholecystitis in recent months which are becoming increasingly frequent. She is to have cholecystectomy as soon as possible.
-#### Answer: B. Kocher's incision - ?
+#### Answer: B. Kocher's incision - TRUE
+- Kocher's incision is a good incision for 
+	1. Left: cholecystectomy, and 
+	2. Right: splenectomy
+- **NOTE** Laparoscopic cholecystectomy is contraindicated in pregnancy
 
 ### Q89
 A 16-year-old girl presents with central abdominal pain which shifts to the right iliac fossa and is associated with nausea and diarrhoea. She has a low-grade temperature and WCC of 18 × 10^9/l. Examination reveals rebound tenderness and guarding in the RIF.
-#### Answer: C. Lanz incision - ?
+#### Answer: C. Lanz incision - TRUE
+- Access for appendicitis can be via a gridiron or Lanz incision
+- Lanz's incision is more appropriate in a young woman
+	- It is lower and has a better cosmetic result
 
 ### Q90
 A 48-year-old woman admitted for curative surgery for carcinoma of the head of the pancreas.
-#### Answer: I. Rutherford–Morrison incision - ?
+#### Answer: I. Rutherford–Morrison incision - *FALSE* = H. Rooftop incision
+- Curative surgery for carcinoma of the head of the pancreas usually involves 
+	- pancreaticoduodenectomy (Whipple's operation) = via a rooftop incision
 
 
 Q91-96: Theme: Full Blood Count
@@ -679,27 +971,43 @@ F	| 15.0	|  89 	| 14.0	| 7.5			| 4.0			| 350
 
 ### Q91
 An 18-year-old girl returns from a gap year in Africa with fever, abdominal pain and diarrhoea. Positive stool sample indicates amoebic dysentery.
-#### Answer: F | 15.0 | 89 | 14.0 | 7.5 | 4.0 | 350
+#### Answer: F | 15.0 | 89 | 14.0 | 7.5 | 4.0 | 350 - TRUE
+- Amoebic dysentery, along with other parasitic infections, results in an eosinophilia
+- Also seen with allergic reactions and in asthmatics (type I hypersensitivity reaction)
 
 ### Q92
 A 67-year-old chronic alcoholic.
-#### Answer: A | 10.0 | 120 | 9.0 | 6.0 | 0.1 | 300  
+#### Answer: A | 10.0 | 120 | 9.0 | 6.0 | 0.1 | 300 - TRUE
+- Alcoholics are prone to developing *megaloblastic anaemia* (low Hb, high MCV)
+- This occurs when there is defective synthesis of DNA and delayed mitoses
+	- resulting in a nuclear-cytoplasmic asynchrony
+- It is usually due to vitamin B12 or folate deficiency
 
 ### Q93
 A 55-year-old woman on intravenous steroid therapy.
-#### Answer: D | 13.6 | 90 | 19.0 | 16.0 | 0.1 | 290
+#### Answer: D | 13.6 | 90 | 19.0 | 16.0 | 0.1 | 290 - TRUE
+- Chronic corticosteroid use can result in an 
+	- Increased release of neutrophils from bone marrow storage pool => *neutrophilia*
 
 ### Q94
 A 66-year-old man diagnosed with a friable tumour in the right colon on colonoscopy.
-#### Answer: C | 6.0 | 60 | 7.0 | 4.0 | 0.1 | 170
+#### Answer: C | 6.0 | 60 | 7.0 | 4.0 | 0.1 | 170 - TRUE
+- Pt with right-sided colon cancer has often had the tumour for a while prior to Dx
+	- Has probably had long-standing insidious blood loss via the GI tract
+- This results in iron deficiency, causing a hypochromatic, microcytic anaemia
 
 ### Q95
 A 33-year-old man known to have hereditary elliptocytosis (_haemolytic anaemia_).
-#### Answer: B | 7.0 | 80 | 8.0 | 5.0 | 0.2 | 250
+#### Answer: B | 7.0 | 80 | 8.0 | 5.0 | 0.2 | 250 - TRUE
+- Haemolytic anaemias, where there is destruction of circulating red blood cells, often results in a normocytic anaemia
+- In addition, release of bilirubin from red blood cells causes jaundice
 
 ### Q96
 A 75-year-old hypertensive man with a diagnosis of polycythaemia rubra vera.
-#### Answer: E | 22.0 | 87 | 5.0 | 2.5 | 0.3 | 350
+#### Answer: E | 22.0 | 87 | 5.0 | 2.5 | 0.3 | 350 - TRUE
+- Polycythaemia rubra vera is a myeloproliferative syndrome which causes increased amounts of erythroid precursors with increased red cell mass
+- Haematocrit and blood viscosity are also raised
+	- Increasing the risk of DVT in these individuals
 
 
 Q97-99: Theme: Salivary Glands
@@ -711,16 +1019,22 @@ Q97-99: Theme: Salivary Glands
 
 ### Q97
 The facial nerve runs through this gland and its blood supply comes from a branch of the external carotid artery. Of tumours arising in this gland, 80% are benign.
-#### Answer: A. Parotid gland - ?
+#### Answer: A. Parotid gland - TRUE
+- The parotid gland lies behind the mastoid process, styloid process and ramus of the mandible and has the facial nerve, retromandibular vein, external carotid artery and auriculotemporal nerve running through it
+- The parotid duct pierces the buccinator muscle to drain opposite the second upper molar
 
 ### Q98
 This gland secretes mucous and serous saliva. Secretomotor fibres come from the parasympathetic system which hitch-hike along with the chorda tympani and lingual nerve.
-#### Answer: B. Sublingual gland - ?
+#### Answer: B. Sublingual gland - *FALSE* = C. Submandibular gland
+- Submandibular is a *mixed salivary gland* secreting mucous and serous saliva 
+	- Duct enters the floor of the mouth next to the frenulum of Tongue
+- Sublingual lies in front of anterior border of hyoglossus, medial to genioglossus
+	It is a *mucus-secreting gland* and is supplied by lingual artery
 
 ### Q99
 This gland is divided into deep and superficial parts by the posterior border of the myohyoid muscle. Blood supply comes from the facial artery and vein.
-#### Answer: A. Parotid gland - ?
-
+#### Answer: A. Parotid gland - *FALSE* = C. Submandibular gland
+- See A98
 
 Q100-105: Theme: Management of Hernias
 --------------------------------------
@@ -730,27 +1044,27 @@ Q100-105: Theme: Management of Hernias
 	C. Emergency hernia repair
 	D. Urgent hernia repairs, i.e. on an elective list but prioritised over benign conditions
 
-### 100
+### Q100
 A 79-year-old woman presents to clinic with a small (3 cm) non-tender lump in her groin. It has been present for the past 2 months. It lies below and lateral to the pubic tubercle. It is irreducible and there is no cough impulse.
 #### Answer: D. Urgent hernia repairs, i.e. on an elective list but prioritised over benign conditions - ?
 
-### 101
+### Q101
 A 1-year-old boy presents with a small indirect inguinal hernia.
 #### Answer: C. Emergency hernia repair - ?
 
-### 102
+### Q102
 A 65-year-old man presents with an indirect inguinal hernia. It is non-tender and has been present for 3 weeks. It initially reduced spontaneously, but over the past 2 days it has not been reducible.
 #### Answer: B. Elective hernia repair - ?
 
-### 103
+### Q103
 An 84-year-old man with chronic bronchitis, diabetes mellitus and a past medical history of two episodes of myocardial infarction presents with an inguinal hernia. It has been present for 7 years, but for the past day it has been very painful and irreducible. On examination it is tender and erythematous and there is no cough impulse.
 #### Answer: C. Emergency hernia repair - ?
 
-### 104
+### Q104
 A healthy 84-year-old man presents to clinic with a small right inguinal hernia. On examination there is a 2-cm-diameter direct hernia which is palpable only on coughing.
 #### Answer: B. Elective hernia repair - ?
 
-### 105
+### Q105
 A 20-year-old man presents with a painless, reducible lump in the right groin, above and medial to the pubic tubercle, extending into the scrotum, which can be controlled with occlusion of the deep inguinal ring.
 #### Answer: B. Elective hernia repair - ?
 
