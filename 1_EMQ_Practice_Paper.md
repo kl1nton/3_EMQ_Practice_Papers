@@ -1,7 +1,7 @@
 EMQ Practice Paper: 1
 =====================
 
-Overall: ??/??? = ??.0% (?? errors)
+Overall: 103/187 = 55.0% (84 errors)
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
