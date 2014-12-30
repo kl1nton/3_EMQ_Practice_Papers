@@ -29,31 +29,31 @@ Group	| Score			| Errors 					|
 88-91	| 2/4 =  50%	| 88, 91
 92-94	| 1/3 =  33%	| 93, 94
 95-100	| 4/6 =  67%	| 97, 100
-101-104	| ?/4 =  ?%		| 
-105-107	| ?/3 =  ?%		| 
-108-110	| ?/3 =  ?%		| 
-111-114	| ?/4 =  ?%		| 
-115-117	| ?/3 =  ?%		| 
-118-122	| ?/5 =  ?%		| 
-123-126	| ?/4 =  ?%		| 
-127-132	| ?/6 =  ?%		| 
-133-138	| ?/6 =  ?%		| 
-139-142	| ?/4 =  ?%		| 
-143-144	| ?/2 =  ?%		| 
-145-147	| ?/3 =  ?%		| 
-148-151	| ?/4 =  ?%		| 
-152-154	| ?/3 =  ?%		| 
-155-156	| ?/3 =  ?%		| 
-157-159	| ?/3 =  ?%		| 
-160-162	| ?/3 =  ?%		| 
-163-165	| ?/3 =  ?%		| 
-166-168	| ?/3 =  ?%		| 
-169-171	| ?/3 =  ?%		| 
-172-174	| ?/3 =  ?%		| 
-175-177	| ?/3 =  ?%		| 
-178-180	| ?/3 =  ?%		| 
-181-183	| ?/3 =  ?%		| 
-184-187	| ?/4 =  ?%		| 
+101-104	| 2/4 =  50%	| 102, 103
+105-107	| 3/3 = 100%	| Ø
+108-110	| 1/3 =  33%	| 108, 109
+111-114	| 4/4 = 100%	| Ø
+115-117	| 1/3 =  33%	| 116, 117
+118-122	| 2/5 =  40%	| 119, 121, 122
+123-126	| 4/4 = 100%	| Ø
+127-132	| 3/6 =  50%	| 128, 129, 132
+133-138	| 4/6 =  67%	| 133, 134
+139-142	| 1/4 =  25%	| 140, 141, 142
+143-144	| 2/2 = 100%	| Ø
+145-147	| 2/3 =  67%	| 145
+148-151	| 2/4 =  50%	| 148, 151
+152-154	| 2/3 =  67%	| 153
+155-156	| 1/2 =  50%	| 156
+157-159	| 0/3 =   0%	| 157, 158, 159
+160-162	| 2/3 =  67%	| 162
+163-165	| 2/3 =  67%	| 165
+166-168	| 2/3 =  67%	| 167
+169-171	| 2/3 =  67%	| 170 
+172-174	| 2/3 =  67%	| 173
+175-177	| 2/3 =  67%	| 176
+178-180	| 1/3 =  33%	| 178, 179
+181-183	| 2/3 =  67%	| 182
+184-187	| 2/4 =  50%	| 184, 185
 
 
 Q1-5: Theme: Diathermy
@@ -1172,22 +1172,38 @@ Q101-104: Theme: Inotropes
 
 ### Q101
 The inotrope which has the greatest bronchodilator effect.
-#### Answer: A. Adrenaline (*epinephrine*) - ?
+#### Answer: A. Adrenaline (*epinephrine*) - TRUE
+- Adrenaline has strong β-adrenergic effects
+	- Mainly used as a bronchodilator in anaphylactic shock
 
 ### Q102
 The inotrope used in cardiac arrest situations to provoke ventricular fibrillation.
-#### Answer: B. Dobutamine - ?
+#### Answer: B. Dobutamine - *FALSE* = A. Adrenaline (*epinephrine*)
+- Adrenaline has a propensity to cause arrhythmia
+- Thus adrenaline is used in cardiac arrest situations to try to 
+	- Convert a non-shockable rhythm to ventricular fibrillation
+		- which is susceptible to electrical shock
 
 ### Q103
 The inotrope that in a low dose (less than 4 μg/kg per min) can be used to increase glomerular filtration rate and sodium excretion.
-#### Answer: D. Isoprenaline - ?
+#### Answer: D. Isoprenaline - *FALSE* = C. Dopamine
+- Stimulation of dopaminergic receptors leads to increased renal blood flow
+	- hence increased glomerular filtration rate and increased sodium excretion
+- However, at higher doses, β1 receptors are also stimulated
+	- Causing an increase in heart rate and contractility
+- At very high doses (>10 μg/kg per min) dopamine stimulates α1 receptors 
+	- Causing reduced tissue perfusion, reducing glomerular filtration rate
 
 ### Q104
 The inotrope that is used in the treatment of shock to increase total peripheral resistance, causing increase in both systolic and diastolic blood pressure.
-#### Answer: E. Noradrenaline (*norepinephrine*) - ?
+#### Answer: E. Noradrenaline (*norepinephrine*) - TRUE
+- Noradrenaline is a powerful α1 stimulant, and causes strong vasoconstriction
+- It causes increases in both systolic and diastolic pressure
+	- but also reduces renal blood flow
+- Mainly used in the treatment of shock
 
 
-Q105-107: Theme: Scrotal Swellings
+Q104-107: Theme: Scrotal Swellings
 ----------------------------------
 
 	A. Epididymo-orchitis
@@ -1205,16 +1221,24 @@ Q105-107: Theme: Scrotal Swellings
 For each of the following scenarios, choose the most likely diagnosis from the list above.	
 	
 ### Q105
-A 23-year-old man presents with acute scrotal pain. The right testicle is exquisitely tender and is higher than the left. There is some superficial erythema.
-#### Answer: E. Testicular torsion - ?
+A 23-year-old man presents with acute scrotal pain. The right testicle is *exquisitely tender* and is *higher* than the left. There is some *superficial erythema*.
+#### Answer: E. Testicular torsion - TRUE
 
 ### Q106
 A 65-year-old man presents with a scrotal swelling. It has recently enlarged, but is painless. Examination reveals a large soft swelling which transilluminates.
-#### Answer: C. Hydrocoele - ?
+#### Answer: C. Hydrocoele - TRUE
+- Primary hydrocoeles are most common over the age of 40
+	- Swelling fills one side of the scrotum
+- Fluid collects in *tunica vaginalis*
+	- Leading to a fluctuant swelling which transilluminates
 
 ### Q107
-A 70-year-old diabetic man presents in septic shock. The scrotum is swollen and dusky purple.
-#### Answer: B. Fournier's gangrene - ?
+A 70-year-old diabetic man presents in *septic shock*. The scrotum is swollen and *dusky purple*.
+#### Answer: B. Fournier's gangrene - TRUE
+- Fournier's gangrene is *necrotising fasciitis of the scrotum*
+- It is caused by a mixed infection in
+	- Deep fascia and skin of the perineum, scrotum and penis
+- Patients can present in septic shock
 
 
 Q108-110: Theme: Trauma
@@ -1233,19 +1257,27 @@ Q108-110: Theme: Trauma
 For each of the following scenarios, choose the most appropriate next step from the list above.
 
 ### Q108
-A 38-year-old man in a hard collar and with head restraints is brought to A&E by the paramedics on a spinal board. He has fallen from a horse. On arrival, he is unconscious and makes no response to painful stimuli. He has a large boggy swelling around his left occiput.
-#### Answer: F. Plain X-rays of the skull - ?
+A 38-year-old man in a hard collar and with head restraints is brought to A&E by the paramedics on a spinal board. He has fallen from a horse. On arrival, he is *unconscious* and makes *no response to painful stimuli*. He has a large boggy swelling around his left occiput.
+#### Answer: F. Plain X-rays of the skull - *FALSE* = E. Intubation
+- This man has a Glasgow Coma Scale (GCS) of 3 (E, V, M = 1)
+- Unable to protect his own airway; securing airway is therefore paramount
 
 ### Q109
 A 26-year-old man falls approximately 6 m down from a ladder. He has been unable to walk since, complaining of pain in his feet. X-rays requested from triage confirm bilateral calcaneal fractures.
-#### Answer: D. Immobilisation - ?
+#### Answer: D. Immobilisation - *FALSE* = C. Full spinal and neurological assessment
+- Calcaneal fractures are high-energy injuries
+	- Associated with injuries throughout the spinal column
+- A full spinal/neurological assessment should be carried out
 
 ### Q110
 A 48-year-old man is brought to A&E following an RTA. He was unconscious at the scene, but on arrival at the department he was fully conscious. He is now talking in a confused manner, opening his eyes in response to pain, and localising to pain.
-#### Answer: B. Computed tomography (CT) scan of the head - ?
+#### Answer: B. Computed tomography (CT) scan of the head - TRUE
+- This man has a GCS of 11 (eye opening 2, verbal 4, best motor 5)
+	- Sudden drop in GCS may indicate an intracranial haemorrhage
+- **NOTE** *Lucid interval* is common with extradural haemorrhage: CT scan is indicated
 
 
-Q111-114: Theme: Local Anaesthetics
+Q110-114: Theme: Local Anaesthetics - LEARN
 -----------------------------------
 
 	A. 5 mL
@@ -1264,25 +1296,25 @@ What is the maximum volume of each of the local anaesthetic agents given below t
 
 ### Q111
 Lidocaine 2%.
-#### Answer: B. 10 mL - ?
+#### Answer: B. 10 mL - TRUE
 - 1L (1kg = 1000g = 1000mL) => 2%: 1000mL = 20g = 20000mg => 1mL = 20 mg
 - 3mg per kg = 3 * 80 = 240 mg = 12mL of 2%
 
 ### Q112
 Bupivacaine 0.5%.
-#### Answer: D. 30 mL - ?
+#### Answer: D. 30 mL - TRUE
 - 1L (1kg = 1000g = 1000mL) => 0.5%: 1000mL = 5g = 5000mg => 1mL = 5 mg
 - 2mg per kg = 2 * 80 = 160 mg = 32 mL of 0.5%
 
 ### Q113
 Bupivacaine 0.25% with 1 in 200,000 adrenaline.
-#### Answer: H. 80 mL - ?
+#### Answer: H. 80 mL - TRUE
 - 1L (1kg = 1000g = 1000mL) => 0.25%: 1000mL = 2.5g = 2500mg => 1mL = 2.5 mg
 - 2.5 mg per kg = 2.5 * 80 = 200 mg = 80mL of 0.25%
 
 ### Q114
 Lidocaine 1% with 1 in 200,000 adrenaline.
-#### Answer: F. 50 mL - ?
+#### Answer: F. 50 mL - TRUE
 - 1L (1kg = 1000g = 1000mL) => 1%: 1000mL = 10g = 10000mg => 1mL = 10 mg
 - 7mg per kg = 7 * 80 = 560 mg = 56 mL of 1%
 
@@ -1300,15 +1332,21 @@ For each of the following scenarios, choose the most appropriate option from the
 
 ### Q115
 A 46-year-old woman presents with a breast lump. After wide local excision and axillary node clearance she is found to have ductal carcinoma in situ with the excision margins clear and no lymph node involvement.
-#### Answer: C. No chemotherapy - ?
+#### Answer: C. No chemotherapy - TRUE
+- ChemoTx is offered in invasive carcinoma of breast **with** lymph node involvement
 
 ### Q116
 A 54-year-old man has a right hemicolectomy. The histopathological report is well differentiated Duke's B carcinoma with vascular invasion.
-#### Answer: B. Neo-adjuvant chemotherapy - ?
+#### Answer: B. Neo-adjuvant chemotherapy - *FALSE* = A. Adjuvant chemotherapy
+- ChemoTx is offered for all Duke's B or C with poor prognostic indicators
+	- These include perforation, vascular invasion and poor differentiation
 
 ### Q117
 A 42-year-old woman has a cystectomy for squamous cell carcinoma of the bladder. The histopathological report is a poorly differentiated tumour with micrometastases in adjacent lymph nodes. A pre-operative staging CT did not show any evidence of metastasis.
-#### Answer: A. Adjuvant chemotherapy - ?
+#### Answer: A. Adjuvant chemotherapy - *FALSE* = C. No chemotherapy
+- ChemoTx would not be offered in this case 
+	- As micrometastases were not detected on routine scanning
+- **NOTE** it would be impossible to monitor response to treatment
 
 
 Q118-122: Theme: Diagnosis of Endocrine Disorders
@@ -1328,23 +1366,38 @@ For each of the following scenarios, choose the most appropriate investigation f
 
 ### Q118
 A 36-year-old man presents with a history of intermittent hypertension, anxiety, palpitations, tachycardia and excess sweating. Phaeochromocytoma is suspected.
-#### Answer: A. 24-hour urinary vanillylmandelic acid (VMA) - ?
+#### Answer: A. 24-hour urinary vanillylmandelic acid (VMA) - TRUE
+- Phaeochromocytomas are tumours of adrenal medulla arising from chromaffin cells 
+	- Which secrete *excess catecholamines*
+- VMA is a breakdown product of catecholamines and therefore urinary levels become elevated
 
 ### Q119
 A 46-year-old woman with history of vitiligo and rheumatoid arthritis presents with pigmentation of the buccal mucosa and skin, loss of body hair and postural hypotension, suggestive of Addison's disease.
-#### Answer: B. Dexamethasone suppression test - ?
+#### Answer: B. Dexamethasone suppression test - *FALSE* = F. Short Synacthen test
+- Addison's disease is often associated with other autoimmune disorders
+- It can be investigated for by using the short Synacthen test
+	- Does **not** cause a rise in plasma cortisol in *affected patients* 
 
 ### Q120
 A 54-year-old woman presents with hypertension, polyuria and polydipsia. Renal function, blood sugar and calcium levels are all normal. Conn syndrome is suspected.
-#### Answer: C. Plasma aldosterone levels - ?
+#### Answer: C. Plasma aldosterone levels - TRUE
+- Diagnosis of Conn syndrome (aldosterone-secreting adrenocortical adenoma)
+	- Made by measuring plasma aldosterone, and CT or MRI to locate adenoma
 
 ### Q121
 A 6-year-old child with short stature, penile enlargement and history of failure to thrive as an infant is suspected of having congenital adrenal hyperplasia.
-#### Answer: C. Plasma aldosterone levels - ?
+#### Answer: C. Plasma aldosterone levels - *FALSE* = D. Radio-immunoassay of 17-hydroxyprogesterone
+- Congenital adrenal hyperplasia occurs as a result of 21-hydroxylase deficiency
+	- 17-hydroxyprogesterone levels are *elevated*.
 
 ### Q122
 A 24-year-old woman is referred for investigation after developing excessive hair growth and acne, purple striae over the abdomen and central obesity.
-#### Answer: D. Radio-immunoassay of 17-hydroxyprogesterone - ?
+#### Answer: D. Radio-immunoassay of 17-hydroxyprogesterone - *FALSE = B. Dexamethasone suppression test
+- This is a typical presentation of someone with Cushing syndrome (excess cortisol)
+- Cushing syndrome can be diagnosed either by 
+	1. By measuring 24-hour urinary free cortisol or 
+	2. By an overnight dexamethasone suppression test
+		- which fails to suppress morning cortisol levels in affected patients
 
 
 Q123-126: Theme: Terms Used for Disorders of Growth and Differentiation
@@ -1363,19 +1416,27 @@ Q123-126: Theme: Terms Used for Disorders of Growth and Differentiation
 
 ### Q123
 Increased numbers of red blood cells in individuals living at altitude.
-#### Answer: D. Hyperplasia - ?
+#### Answer: D. Hyperplasia - TRUE
+- *Hyperplasia* is increased tissue or organ size due to *increased cell divisions* in response to increased functional demand
+- This is *different from hypertrophy*, which is an increase in cell size *without replication*
 
 ### Q124
 Weakness, reduced size and function of an arm immobilised for a long period of time.
-#### Answer: B. Atrophy - ?
+#### Answer: B. Atrophy - TRUE
+- *Atophy* is the decrease in size of an organ or tissue by reduction in cell size and/or reduction in cell numbers
+- It often involves apoptosis and occurs in both pathological and physiological conditions
 
 ### Q125
 Change of bladder transitional cell epithelium to squamous epithelium following Schistosoma haematobium infection.
-#### Answer: G. Metaplasia - ?
+#### Answer: G. Metaplasia - TRUE
+- Metaplasia is *reversible transformation* of one type of terminally differentiated cell type
+- It often occurs in response to environmental stress
 
 ### Q126
 Anencephaly (failure of neural tube development).
-#### Answer: A. Agenesis - ?
+#### Answer: A. Agenesis - TRUE
+- *Agenesis* is the *failure of development* of an organ or structure
+- Differs from *atresia*, which is failure of development of a lumen in a normally tubular structure
 
 
 Q127-132: Theme: Conditions Caused by Microbes
@@ -1394,27 +1455,44 @@ Q127-132: Theme: Conditions Caused by Microbes
 
 ### Q127
 A 42-year-old HIV-positive man with white fluffy patches in the mouth surrounded by painful areas of erythema.
-#### Answer: A. Candida albicans - ?
+#### Answer: A. Candida albicans - TRUE
+- Oral candidiasis (thrush) is seen in neonates and immunocompromised patients, or those on long-term antibiotics
+- It presents as white plaques on the mucous membrane
 
 ### Q128
-A 12-year-old girl with an enlarging, hot, tender, erythematous area on her right leg which began as an insect bite.
-#### Answer: F. Staphylococcus aureus - ?
+A 12-year-old girl with an enlarging, hot, tender, *erythematous area* on her *right leg* which began as an insect bite.
+#### Answer: F. Staphylococcus aureus - *FALSE* = H. Streptococcus pyogenes
+- Wound infection and surrounding inflammation (*cellulitis*) is commonly caused by *Streptococcus pyogenes*
+- This bacterium also causes tonsillitis, otitis media, erysipelas and necrotising fasciitis
 
 ### Q129
-A 42-year-old diabetic woman with dysuria, frequency and offensive-smelling urine.
-#### Answer: H. Streptococcus pyogenes - ?
+A 42-year-old diabetic woman with dysuria, frequency and *offensive-smelling urine*.
+#### Answer: H. Streptococcus pyogenes - *FALSE* = D. Escherichia coli
+- E. coli is the causative organism in 
+	- 90% of community-acquired urinary tract infections,and 
+	- 50% of hospital-acquired infections
+- Female diabetics are *three times more likely* to have a UTI than non-diabetics
 
 ### Q130
 A 66-year-old gentleman who had a recent operation for evacuation of traumatic haematoma of the thigh develops discoloration and swelling at the operation site, with crepitus on examination and a subcutaneous gas collection visible on X-ray.
-#### Answer: C. Clostridium perfringens - ?
+#### Answer: C. Clostridium perfringens - TRUE
+- *C. perfringens* is a normal bowel inhabitant
+- However, when present in an anaerobic environment such as a wound, its spores are converted into toxin-producing pathogens
+- The toxins destroy the surrounding microcirculation
+	- Gas formation occurs, with local crepitus
 
 ### Q131
 An 84-year-old woman, treated for 4 weeks with co-amoxiclav (_Augmentin_) for a respiratory tract infection, develops profuse, offensive-smelling diarrhoea.
-#### Answer: B. Clostridium difficile - ?
+#### Answer: B. Clostridium difficile - TRUE
+- *C. difficile* causes a diarrhoea which is generally associated with broad-spectrum antibiotic use
+- The best method of diagnosis is the demonstration of specific toxin in the faeces
 
 ### Q132
-A 33-year-old man presents to A&E with severe epigastric pain and signs of peritonism. Erect chest X-ray shows air under the diaphragm.
-#### Answer: D. Escherichia coli - ?
+A 33-year-old man presents to A&E with severe *epigastric pain* and signs of *peritonism*. Erect chest X-ray shows *air under the diaphragm*.
+#### Answer: D. Escherichia coli - *FALSE* = E. Helicobacter pylori
+- *H. pylori* is a Gram-negative, spirally shaped bacterium which colonises the gastric mucosa
+- It can cause gastritis and duodenal ulceration
+	- Puts patients at risk of developing gastric ulcers and carcinoma
 
 
 Q133-138: Theme: Hypersensitivity Reactions
@@ -1429,30 +1507,45 @@ Q133-138: Theme: Hypersensitivity Reactions
 
 ### Q133
 A 42-year-old woman develops itching, swelling and erythema at the site of the nickel buckle of a new watch.
-#### Answer: C. Type III hypersensitivity reaction - ?
+#### Answer: C. Type III hypersensitivity reaction - *FALSE* = D. Type IV hypersensitivity reaction (*cell-mediated*)
+- This type of reaction is also called ‘cell-mediated’ and is mediated by T-cells which have been sensitised previously by an allergen
+- They activate cytotoxic T-cells; which recruit and activate macrophages
 
 ### Q134
 A 15-year-old girl has a streptococcal throat infection, then goes on to develop post-streptococcal glomerulonephritis.
-#### Answer: B. Type II hypersensitivity reaction - ?
+#### Answer: B. Type II hypersensitivity reaction - *FALSE* = C. Type III hypersensitivity reaction (*immune complex–mediated*)
+- This type of reaction is also called ‘immune complex–mediated’
+- It results in the formation of antigen–antibody complexes in the circulation or at extravascular sites
+	- Which leads to complement activation, then neutrophil activation
 
 ### Q135
 A 14-year-old boy develops sneezing and watering of the eyes in the summer months when the pollen count is high.
-#### Answer: A. Type I hypersensitivity reaction - ?
+#### Answer: A. Type I hypersensitivity reaction - TRUE (*immediate*)
+- Type I reactions are also known as ‘immediate’ reactions
+- The body forms IgE in response to exposure to a certain allergen
+- IgE then binds to mast cells and basophils so that when there is re-exposure to the allergen
+	- Inflammatory mediators are released from the basophils and mast cells
 
 ### Q136
 A 44-year-old renal transplant patient develops graft-versus-host disease.
-#### Answer: D. Type IV hypersensitivity reaction - ?
+#### Answer: D. Type IV hypersensitivity reaction - TRUE (*cell-mediated*)
+- See A133
 
 ### Q137
 A 22-year-old man develops wheezing, rash and swelling of the mouth and tongue after eating a peanut.
-#### Answer: A. Type I hypersensitivity reaction - ?
+#### Answer: A. Type I hypersensitivity reaction - TRUE (*immediate*)
+- See A135
 
 ### Q138
 A baby develops haemolytic disease of the newborn. The mother is rhesus-negative.
-#### Answer: B. Type II hypersensitivity reaction - ?
+#### Answer: B. Type II hypersensitivity reaction - TRUE (*cytotoxic*)
+- Type II reactions are also known as ‘cytotoxic’ reactions
+- They are mediated by antibodies formed against antigens
+- Tissue damage then results via a variety of mechanisms
+	- including complement and antibody-dependent cell-mediated cytotoxicity
 
 
-Q139-142: Theme: Glasgow Coma Scale Scores
+Q139-142: Theme: Glasgow Coma Scale Scores - LEARN
 ------------------------------------------
 
 	A. 4
@@ -1466,32 +1559,55 @@ Q139-142: Theme: Glasgow Coma Scale Scores
 - Bk1: 15559
 
 ### Q139
-A 25-year-old motorcyclist is involved in a head-on collision with a lorry. On arrival in A&E he is unable to obey commands, but localises to pain and is able to speak but appears confused. He only opens his eyes in response to pain.
-#### Answer: E. 10 - ?
-- E: 2
-- V: 3
-- M: 5
+A 25-year-old motorcyclist is involved in a head-on collision with a lorry. On arrival in A&E he is unable to obey commands, but localises to pain and is able to speak but appears confused. He only opens his eyes *in response to pain*.
+#### Answer: E. 10 - TRUE
+- E - 2: open to painful stimulus
+- V - 3: inappropriate speech
+- M - 5: localises to pain
 
 ### Q140
-A 66-year-old man has a fall in the street, hitting his head. On initial assessment GCS is 15. However, on arrival in A&E he is unable to obey commands and withdraws only from painful stimuli, making incomprehensible sounds and not opening his eyes at all.
-#### Answer: D. 8 - ?
-- E: 1
-- V: 2
-- M: 5
+A 66-year-old man has a fall in the street, hitting his head. On initial assessment GCS is 15. However, on arrival in A&E he is unable to obey commands and *withdraws only from painful stimuli*, making incomprehensible sounds and not opening his eyes at all.
+#### Answer: D. 8 - *FALSE* = C. 7
+- E - 1: NONE
+- V - 2: incomprehensible sounds
+- M - ~5~ (4: withdraws from pain)
 
 ### Q141
-A 44-year-old known intravenous drug user (IVDU) is brought to A&E after being found collapsed after a suspected overdose. He will not open his eyes in response to commands but does so in response to painful stimuli. His pupils are pinpoint. His only movement is withdrawal from pain and he doesn't speak.
-#### Answer: D. 8 - ?
-- E: 2
-- V: 1
-- M: 5
+A 44-year-old known intravenous drug user (IVDU) is brought to A&E after being found collapsed after a suspected overdose. He will not open his eyes in response to commands but does so in *response to painful stimuli*. His pupils are pinpoint. His only movement is *withdrawal from pain* and he *doesn't speak*.
+#### Answer: D. 8 - *FALSE* = C. 7
+- E - 2: open to painful stimuli
+- V - 1: NONE
+- M - ~5~ (4: withdraws from pain)
 
 ### Q142
 A 29-year-old man involved in a pub brawl is hit over the head with a glass bottle. He is able to give a partial history but appears quite confused. He opens his eyes when spoken to and moves on command.
-#### Answer: G. 14 - ?
-- E: 4
-- V: 4
-- M: 6
+#### Answer: G. 14 - *FALSE* = F. 13
+- E: ~4~ (3: open to speech)
+- V: 4: confused
+- M: 6: obeys commands
+
+#### Notes
+- Glasgow Coma Scale (GCS) is a system used to record and monitor a patient's level of consciousness
+- There are a total of 15 points, based on three response categories
+	- Best Motor  
+		- 6 = obeys commands
+		- 5 = localises to pain
+		- 4 = withdraws from pain
+		- 3 = abnormal flexion
+		- 2 = abnormal extension
+		- 1 = none
+	- Best Verbal
+		- 5 = orientated
+		- 4 = confused
+		- 3 = inappropriate speech
+		- 2 = incomprehensible sounds
+		- 1 = none
+	- Best Eye-opening
+		- 4 = open spontaneously
+		- 3 = open to speech
+		- 2 = open to painful stimulus
+		- 1 = none
+- GCS = 8 is an *important score* as it is at this point that you consider a patient for intubation as they are unlikely to be able to *protect their airway*
 
 
 Q143-144: Theme: Management of Transitional Cell Carcinoma of the Bladder
@@ -1510,14 +1626,22 @@ Q143-144: Theme: Management of Transitional Cell Carcinoma of the Bladder
 
 ### Q143
 A 45-year-old woman presents with a 3-week history of haematuria. An IVU reveals a filling defect in the renal pelvis. This is confirmed as a soft-tissue mass on CT scan.
-#### Answer: G. Nephro-uretectomy - ?
+#### Answer: G. Nephro-uretectomy - TRUE
+- Transitional cell carcinomas of the renal pelvis resemble those affecting the bladder but are much less common
+- They tend to invade the renal parenchyma and have a tendency to distal spread
+	- There is also a strong tendency for these tumours to be multifocal
+- Conventional surgical treatment is by nephro-uretectomy
+	- **NOTE** Ureter must be removed with a cuff of bladder wall
 
 ### Q144
 A 55-year-old woman is found to have widespread carcinoma in situ (CIS) on cystoscopy and biopsy. She is treated initially with several instillations of intravesical BCG. Repeat cystoscopy shows no change in the CIS and urethral biopsy confirms CIS. She is keen to have aggressive treatment.
-#### Answer: C. Cystectomy + urethrectomy + ileal conduit - ?
+#### Answer: C. Cystectomy + urethrectomy + ileal conduit - TRUE
+- In patients who have primary CIS which is unresponsive to medical management, cystectomy is an option
+- Often this is accompanied by urethrectomy as the urethra is often also involved
+	- **NOTE** Urine is commonly diverted into an ileal conduit
 
 
-Q145-147: Theme: Haemorrhagic Shock
+Q145-147: Theme: Haemorrhagic Shock - LEARN
 -----------------------------------
 
 	A. Class I haemorrhagic shock
@@ -1529,15 +1653,32 @@ Q145-147: Theme: Haemorrhagic Shock
 
 ### Q145
 A 20-year-old man involved in an RTA sustains bilateral fractured femurs. He is brought to A&E, where on assessment he is found to be anxious and confused, with a pulse of 130/min and BP of 70/50 mmHg. Urine output over 1 hour is 10 ml.
-#### Answer: D. Class IV haemorrhagic shock - ?
+#### Answer: D. Class IV haemorrhagic shock - *FALSE*
+- 
 
 ### Q146
 A 70-year-old patient with a known 5-cm abdominal aortic aneurysm is admitted to A&E with severe central abdominal pain that radiates to the back. Prior to resuscitation, his pulse is 110/min, BP 120/100 mmHg and RR 24 breaths/min. He is slightly anxious but fully lucid.
-#### Answer: B. Class II haemorrhagic shock - ?
+#### Answer: B. Class II haemorrhagic shock - TRUE
 
 ### Q147
 A 60-year-old alcoholic has three episodes of haematemesis (total 500 ml) and melaena. On examination, he is anxious, sweaty and uncooperative with a pulse of 126/min, BP 80/60 mmHg and RR 24 breaths/min.
-#### Answer: C. Class III haemorrhagic shock - ?
+#### Answer: C. Class III haemorrhagic shock - TRUE
+
+#### Notes
+- Reduction of blood volume is associated with physiological responses mainly mediated by the sympathetic nervous system, which aim to maintain blood pressure and hence blood supply to the vital organs
+- Haemorrhagic shock can be divided into four classes depending on the amount of blood lost
+- Each class is associated with particular parameters which help in the estimation of blood loss
+
+#### Haemorrhagic Shock
+- Class I is loss of 0–15% of circulating volume
+	- there are no obvious changes apart from the patient perhaps feeling uncomfortable and restless
+ - Class II (15–30% loss) is associated with a rise in pulse rate to greater than 100/min, urine output reduced to 20–30 ml/h and a raised RR of 20–30 breaths/min
+	- The BP is normal but pulse pressure is reduced
+- Class III (30–40% loss) is associated with a tachycardia of >120/min, reduction in both pulse pressure and BP and reduction in urine output to 10 –20 ml/h
+ 
+- In Class IV (> 40% blood loss) the patient becomes anxious and may be confused
+	- There is tachycardia of >130/min, BP and pulse pressure are low and the patient is anuric
+	- The RR is over 40 breaths/min
 
 
 Q148-151: Theme: Management of Thyroid Disease
@@ -1556,19 +1697,32 @@ Q148-151: Theme: Management of Thyroid Disease
 
 ### Q148
 A 20-year-old woman presents with a smooth goitre, weight loss, palpitations and diarrhoea. She is diagnosed as having Graves’ disease but is unable to tolerate carbimazole due to development of agranulocytosis.
-#### Answer:  F. Subtotal thyroidectomy - ?
+#### Answer:  F. Subtotal thyroidectomy - *FALSE* = D. Propylthiouracil
+- First-line treatment for Graves’ disease is carbimazole
+- In certain individuals it has the unfortunate side effect of agranulocytosis
+	- So propylthiouracil is used instead
 
 ### Q149
 A 36-year-old woman is in her second trimester of pregnancy. She was mildly thyrotoxic at first but is increasingly symptomatic and requires treatment.
-#### Answer: D. Propylthiouracil - ?
+#### Answer: D. Propylthiouracil - TRUE
+- Propylthiouracil is also the drug of choice in pregnancy as it is protein-bound 
+	- Therefore less likely to cross the placenta
 
 ### Q150
 A 56-year-old woman diagnosed with toxic multinodular goitre which is unresponsive to medical treatment.
-#### Answer: E. Radio-iodine ablation - ?
+#### Answer: E. Radio-iodine ablation - TRUE
+- Radio-iodide ablation is safe for patients in 
+	- whom medical management has failed 
+	- who are not planning on becoming pregnant during treatment
 
 ### Q151
 A 54-year-old woman presents with a goitre which has been there for a long time but was not bothering her. She is now having some difficulty breathing when lying down and feels 'pressure' in her throat.
-#### Answer: H. Total thyroidectomy - ?
+#### Answer: H. Total thyroidectomy - *FALSE* = F. Subtotal thyroidectomy
+- Surgery for thyroid disorders is carried out for 
+	1. Cosmesis
+	2. Compression symptoms
+	3. Retrosternal extension 
+	4. Carcinoma
 
 
 Q152-154: Theme: Causes of Jaundice
@@ -1584,16 +1738,27 @@ Q152-154: Theme: Causes of Jaundice
 - Bk1: ?
 
 ### Q152
-A 20-year-old woman presents with complaints of dark-coloured urine, pale stools and weight loss for a few weeks. On examination she has painless jaundice.
-#### Answer: A. Carcinoma of the head of the pancreas - ?
+A 20-year-old woman presents with complaints of dark-coloured urine, pale stools and *weight loss* for a few weeks. On examination she has *painless jaundice*.
+#### Answer: A. Carcinoma of the head of the pancreas - TRUE
+- Painless jaundice together with a history of weight loss is strongly suggestive of a malignancy
+- Together with an obstructive picture (*pale stools and dark urine*)
+	- Carcinoma of the head of the pancreas is the most likely diagnosis
 
 ### Q153
-A 10-year-old boy with known sickle cell disease presents with pain in the epigastric region. On examination he has jaundice.
-#### Answer: D. Haemolytic anaemia - ?
+A 10-year-old boy with known sickle cell disease presents with pain in the *epigastric* region. On examination he has *jaundice*.
+#### Answer: D. Haemolytic anaemia - *FALSE* = B. Gallstones
+- Jaundice in children with sickle cell disease can be due to red cell haemolysis
+- However, coupled with episodes of epigastric pain and an obstructive picture
+	- Most likely diagnosis is gallstone obstruction of the common bile duct 
+		- as pigment bile stones are common
 
 ### Q154
 A known intravenous drug misuser with a history of hepatitis B presents with jaundice and loss of weight. Blood tests reveal raised α-fetoprotein. He admits sharing needles with other drug misusers.
-#### Answer: F. Primary liver carcinoma - ?
+#### Answer: F. Primary liver carcinoma - TRUE
+- Sharing of needles among intravenous drug misusers is a serious risk factor for hepatitis B and C
+	- both of which predispose to the development of hepatocellular cancer in later years
+- Alpha-fetoprotein is a marker for this cancer, although it is also raised in hepatoma
+
 
 ## Q155-156: Theme: Knee Injuries
 
@@ -1608,11 +1773,16 @@ A known intravenous drug misuser with a history of hepatitis B presents with jau
 
 ### Q155
 A 35-year-old rugby player twists his knee during a match. It gradually swells and becomes tender, and he finds himself unable to fully extend it. It is tender over the medial joint line. An X-ray shows evidence of an effusion. Despite aspiration of the traumatic effusion, he is still unable to fully extend the knee.
-#### Answer: D. Medial meniscus tear - ?
+#### Answer: D. Medial meniscus tear - TRUE
+- *Tenderness over joint line* following an *acute injury* is most likely due to a meniscal injury rather than a collateral ligament
+- Bucket-handle tears of menisci can result in positioning of the torn meniscus between the articular surfaces preventing full extension of the knee
 
 ### Q156
-A 25-year-old footballer hyperextends his knee while attempting to kick the ball. He hears a loud ‘popping’ sound. The knee swells up immediately. In the following weeks his knee is painful on weight-bearing and gives way without warning.
-#### Answer: F. Posterior cruciate ligament (PCL) tear - ?
+A 25-year-old footballer *hyperextends* his knee while attempting to kick the ball. He hears a loud ‘popping’ sound. The knee swells up immediately. In the following weeks his knee is painful on weight-bearing and gives way without warning.
+#### Answer: F. Posterior cruciate ligament (PCL) tear - *FALSE* = A. Anterior cruciate ligament (ACL) tear
+- Anterior cruciate ligament tears result in rapid swelling of the affected knee
+- This is because the ligament is intra-articular and haemarthrosis can follow a tear
+- **NOTE** Hyperextension is a classic mechanism by which ACL tears occur
 
 
 Q157-159: Theme: Treatment of Prostate Cancer
@@ -1628,15 +1798,26 @@ Q157-159: Theme: Treatment of Prostate Cancer
 
 ### Q157
 An 80-year-old man diagnosed with a pT1 prostate cancer, an incidental finding when the chips obtained from TURP were examined.
-#### Answer: B. Brachytherapy - ?
+#### Answer: B. Brachytherapy - *FALSE* = E. Surveillance
+- Curative treatment for prostate cancer can only be offered to those with T1 and T2 disease (ie localised)
+	- Such patients can be managed by surveillance alone (digital rectal examination (DRE) and regular prostate-specific antigen (PSA) measurements) 
+	- With further management when they become symptomatic or when PSA level rises
+- Radical prostatectomy is usually only offered to those with a life expectancy of > 10 years
+	- Associated with a relatively high level of impotence and incontinence when compared with other treatments
 
 ### Q158
 A 50-year-old man with pT2 prostate cancer diagnosed on rectal biopsy wants curative treatment. He is sexually active and wants to have a minimal chance of developing incontinence and impotence, and wants to reduce the amount of time spent in hospital. He has a small-volume prostate.
-#### Answer: A. Androgen ablation - ?
+#### Answer: A. Androgen ablation - *FALSE* = B. Brachytherapy
+- Localised disease can also be treated with 
+	1. radiotherapy in the form of external beam radiotherapy, which requires the patient to attend hospital on a daily basis for 4–6 weeks, or 
+	2. brachytherapy, which involves the implantation of radioactive seeds into the prostate
+- For this treatment the prostate must be less than 50–60 grams as the pubic arch can prevent implantation
+- T3 and T4 (locally advanced and metastatic disease) can be treated with hormone manipulation using luteinising hormone-releasing hormone (LHRH) agonist, anti-androgens or orchidectomy.
 
 ### Q159
 A 65-year-old man was diagnosed as having prostate cancer with lung and bony metastases and local invasion. He was treated with androgen ablation for 6 months but is now complaining of increasing bony and pelvic pain.
-#### Answer: D. Radical prostatectomy - ?
+#### Answer: D. Radical prostatectomy - *FALSE* = C. External beam radiotherapy
+- Radiotherapy can be used for symptomatic metastasis and hormone-relapsed cancer
 
 
 Q160-162: Theme: Management of Ankle Injuries
@@ -1651,16 +1832,23 @@ Q160-162: Theme: Management of Ankle Injuries
 - Bk1: 20831
 
 ### Q160
-A 46-year-old woman stumbles on a pavement kerb, landing awkwardly on her left ankle. She is unable to weight bear. An X-ray shows a fracture of the lateral malleolus only.
-#### Answer: B. Closed reduction and plaster of Paris - ?
+A 46-year-old woman stumbles on a pavement kerb, landing awkwardly on her left ankle. She is unable to weight bear. An X-ray shows a fracture of the *lateral malleolus only*.
+#### Answer: B. Closed reduction and plaster of Paris - TRUE
+- If an ankle fracture is stable (ie one malleolus affected or no talar shift)
+	- it can be managed perfectly well by closed reduction and plaster cast
 
 ### Q161
 A 34-year-old footballer has an eversion injury to the right ankle, resulting in an avulsion fracture of the medial malleolus. An X-ray also shows an undisplaced fracture of the fibula at the junction between the middle and lower thirds of the shaft.
-#### Answer: C. Open reduction and internal fixation - ?
+#### Answer: C. Open reduction and internal fixation - TRUE
+- Unstable fractures (ie those with talar shift, potential for talar shift or associated fibular fracture extending above the tibial plafond) 
+	- Require open reduction and internal fixation
 
 ### Q162
-A 29-year-old woman stumbles while running for the bus, landing heavily on her left ankle. The ankle becomes swollen over the lateral aspect and she has difficulty weight-bearing. An X-ray shows no fracture.
-#### Answer: D. Strict non-weight-bearing and physiotherapy only - ?
+A 29-year-old woman stumbles while running for the bus, landing heavily on her left ankle. The ankle becomes swollen over the lateral aspect and she has difficulty weight-bearing. An X-ray shows *no fracture*.
+#### Answer: D. Strict non-weight-bearing and physiotherapy only - *FALSE* = E. Support, non-steroidal anti-inflammatory drugs (NSAIDs) and early mobilisation
+- Ankle sprains should be 
+	1. Managed conservatively with analgesia, with or without strapping
+	2. Patient should be encouraged to move the ankle and weight-bear
 
 
 Q163-165: Theme: Complications of Colorectal Cancer
@@ -1677,15 +1865,21 @@ Q163-165: Theme: Complications of Colorectal Cancer
 
 ### Q163
 A 69-year-old man presents with a caecal mass presumed to be adenocarcinoma. While undergoing staging investigations, he develops right-sided abdominal pain, guarding and rebound in the right iliac fossa (RIF) associated with fever. There is a mild pyrexia and raised white blood cell count.
-#### Answer: A. Appendicitis - ?
+#### Answer: A. Appendicitis - TRUE
+- Appendicitis is a complication of caecal carcinoma due to obstruction of the lumen
+- However, an important differential is perforation and formation of a localised abscess 
+	- which can present with the same symptoms
 
 ### Q164
-A 70-year-old man with a known tumour of the transverse colon presents with spasms of abdominal pain, abdominal distension and dehydration. A new sausage-shaped mass is palpable in the epigastrium.
-#### Answer: B. Colocolic intussusception - ?
+A 70-year-old man with a *known tumour* of the transverse colon presents with spasms of abdominal pain, abdominal distension and dehydration. A new *sausage-shaped mass* is palpable in the epigastrium.
+#### Answer: B. Colocolic intussusception - TRUE
+- Intussusception typically presents as in this case and the tumour acts as the apex
+- **NOTE** Half of all adult intussusceptions are due to carcinoma
 
 ### Q165
 A 52-year-old man with metastatic adenocarcinoma of the transverse colon presents with faecal vomiting.
-#### Answer: F. Obstruction - ?
+#### Answer: F. Obstruction - *FALSE*
+- Direct invasion of a tumour into a neighbouring organ can cause a fistula, eg vesicocolic, rectovaginal or, in the case in the question, fistulation of the transverse colon to the stomach or duodenum
 
 
 Q166-168: Theme: Abnormalities of Calcium Balance
@@ -1702,15 +1896,29 @@ Q166-168: Theme: Abnormalities of Calcium Balance
 	
 ### Q166
 A 69-year-old woman presents with paraesthesia, muscle cramps and a tingling sensation around the mouth. She has a past history of thyroidectomy for benign goitre.
-#### Answer: C. Hypoparathyroidism - ?
+#### Answer: C. Hypoparathyroidism - TRUE
+- Hypoparathyroidism presents with the symptoms of hypocalcaemia, including 
+	- paraesthesia
+	- cramps
+	- tetany
+	- circumoral tingling
+	- convulsions
+- Although most commonly seen post-operatively owing to damage to the parathyroid glands (eg post-thyroidectomy)
+	- hypoparathyroidism is also seen after acute pancreatitis, in chronic renal failure and in vitamin D deficiency
 
 ### Q167
 A 54-year-old renal dialysis patient is found to have raised serum calcium and parathyroid hormone (PTH) levels.
-#### Answer: E. Secondary hyperparathyroidism - ?
+#### Answer: E. Secondary hyperparathyroidism - *FALSE* = F. Tertiary hyperparathyroidism
+- Primary hyperparathyroidism is most commonly due to a single parathyroid adenoma causing raised levels of PTH and calcium
+- Secondary hyperparathyroidism is caused by chronic renal failure in response to a low calcium level and is characterised by a low serum calcium and a raised PTH level
+- Tertiary hyperparathyroidism is also seen in chronic renal failure
+	- Due to parathyroid gland becoming hyperplastic and secreting PTH autonomously secondary to long-term stimulation
 
 ### Q168
 A 47-year-old woman with a history of postural hypotension and pigmentation of the buccal mucosa and skin is admitted as an emergency with abdominal pain and constipation. She had an episode of renal colic 2 weeks ago.
-#### Answer: A. Addison's disease - ?
+#### Answer: A. Addison's disease - TRUE
+- Addison's disease is a rarer cause of hyPERcalcaemia
+- Pigmentation of buccal mucosa and postural hypotension are typical features
 
 
 Q169-171: Theme: Management of Benign Prostatic Hyperplasia (BPH)
@@ -1730,15 +1938,25 @@ Q169-171: Theme: Management of Benign Prostatic Hyperplasia (BPH)
 	
 ### Q169
 A 60-year-old man, day 1 post-op right shoulder hemiarthroplasty for severe arthritis develops acute urinary retention. He is catheterised and found to have a residual volume of 800 ml. Digital rectal examination (DRE) shows a smooth, benign, moderately sized prostate.
-#### Answer: H. Trial without catheter (TWOC) and α-blocker - ?
+#### Answer: H. Trial without catheter (TWOC) and α-blocker - TRUE
+- A recent general anaesthetic and opioid-based analgesia causing constipation are two factors which predispose to developing urinary retention postoperatively
+- Success rates of TWOC in these circumstances are improved by starting an α-blocker 48 hours prior to catheter removal.
 
 ### Q170
-A 65-year-old man has bladder outflow obstruction secondary to benign prostatic hyperplasia (BPH) confirmed by urodynamic studies. Initial success with medical management has been followed by worsening of symptoms, severely affecting his quality of life. DRE reveals a benign-feeling prostate, 50 g in size. Transrectal ultrasound shows no hypoechogenic areas. The patient is very fit, well and active and will not accept long-term catheterisation.
-#### Answer: F. Transurethral incision of prostate - ?
+A 65-year-old man has bladder outflow obstruction secondary to benign prostatic hyperplasia (BPH) confirmed by urodynamic studies. Initial success with medical management has been followed by worsening of symptoms, severely affecting his quality of life. DRE reveals a benign-feeling prostate, *50 g in size*. Transrectal ultrasound shows no hypoechogenic areas. The patient is very fit, well and active and will not accept long-term catheterisation.
+#### Answer: F. Transurethral incision of prostate - *FALSE* = D. Open prostatectomy
+- Symptomatic bladder outflow obstruction secondary to BPH for which medical treatment has failed 
+	- Can be treated by surgery – most commonly *TURP or open prostatectomy*
+- Morbidity in patients with large prostates is less if they have an open prostatectomy rather than TURP as this 
+	- Reduces the operation time
+	- Avoids the excess fluid absorption that can occur during prolonged TURP surgery
+- Surgery is best avoided in those keen to start a family and remain sexually active, due to the risk of impotence.
 
 ### Q171
 A 56-year-old man recently remarried and wants to start a family. He has long-standing symptoms of hesitancy, frequency and terminal dribbling. He recently developed occasional haematuria – fully investigated and not found to be due to any other cause than BPH. DRE and ultrasound scan reveal a benign 40-g prostate.
-#### Answer: B. Finasteride - ?
+#### Answer: B. Finasteride - TRUE
+- Finasteride is effective in treating BPH associated with prostates > 30 g 
+	- Has the additional advantage of reducing prostatic bleeding
 
 
 Q172-174: Theme: Wound Complications
@@ -1755,15 +1973,19 @@ Q172-174: Theme: Wound Complications
 
 ### Q172
 A patient who has undergone appendicectomy has the sutures removed and the medial 2 cm of the wound opens up, with only a small serous discharge.
-#### Answer: F. Wound dehiscence - ?
+#### Answer: F. Wound dehiscence - TRUE
+- Opening of one or any of the layers of the wound is called dehiscence
 
 ### Q173
 A patient who has undergone laparotomy has pink fluid oozing from the wound a day before having the sutures removed. The wound opens and the bowel extrudes.
-#### Answer: D. Incisional hernia - ?
+#### Answer: D. Incisional hernia - *FALSE* = C. Evisceration
+- **Evisceration** = complete disruption of all layers of abdominal wall closure
+	- Often preceded by a blood-stained watery discharge
 
 ### Q174
 A patient who is 5 days post-op following appendicectomy develops low-grade pyrexia. The wound is full and very tender, and pressure on the medial aspect causes pus to extrude.
-#### Answer: A. Abscess - ?
+#### Answer: A. Abscess - TRUE
+- The low-grade pyrexia, fullness of the wound and purulent exudate with pressure suggest an abscess is more likely than an infection
 
 
 Q175-177: Theme: Management of Hernias
@@ -1781,16 +2003,22 @@ Q175-177: Theme: Management of Hernias
 - Bk2: Ch1
 
 ### Q175
-A 1-year-old infant of African origin has had an umbilical hernia since birth. He is asymptomatic.
-#### Answer: A. Conservative management - ?
+A 1-year-old infant of African origin has had an *umbilical hernia* since birth. He is asymptomatic.
+#### Answer: A. Conservative management - TRUE
+- **NOTE** Umbilical hernias in young children should be treated conservatively as most resolve spontaneously
+- Surgical repair should be reserved for those children in whom the hernia has not resolved by the age of 3 years and the fascial defect is > 1.5 cm in diameter
+- They should then undergo a repair similar to the ‘vest over pants’ Mayo repair used for repair of paraumbilical hernias in adults
 
 ### Q176
 A 38-year-old man presents to the outpatients department with a femoral hernia which is non-tender and with no evidence of strangulation or obstruction. He wants to have it repaired.
-#### Answer: C. Mayo's operation 'vest over pants' - ?
+#### Answer: C. Mayo's operation 'vest over pants' - *FALSE* = F. Repair via high inguinal (Lotheissen) approach
+- Royal College of Surgeons recommends the high inguinal approach for elective repair of *femoral hernias*, except in thin females, where a low crural approach is advised
 
 ### Q177
 A fit and well 32-year-old man develops bilateral inguinal hernias which are increasing in size and becoming unsightly. He has not had any abdominal surgery previously.
-#### Answer: B. Laparoscopic repair - ?
+#### Answer: B. Laparoscopic repair - TRUE
+- Laparoscopic repair of inguinal hernias is recommended for the management of bilateral inguinal hernias 
+	- Unless there are any contraindications present
 
 
 Q178-180: Theme: Treatment of Urinary Tract Infections
@@ -1808,18 +2036,31 @@ Q178-180: Theme: Treatment of Urinary Tract Infections
 
 ### Q178
 A 24-year-old woman presents with a several-month history of recurrent urinary tract infections (UTIs), recent night sweats and weight loss. Mid-stream urine shows many white blood cells but fails to grow any bacteria. She spent her childhood in Bangladesh.
-#### Answer: E. Mitomycin - ?
+#### Answer: E. Mitomycin - *FALSE* = G. Rifampicin
+- *Tuberculous* UTI present with symptoms of 
+	1. recurrent UTIs
+	2. weight loss
+	3. fever
+	4. night sweats
+- Mid-stream urine shows *sterile pyuria* (= tuberculosis)
+	- It is usually secondary to renal tuberculosis
+- It usually responds to antituberculous drugs, but in cases with advanced renal disease, infection may not subside until the involved kidney and ureter have been removed
+- **NOTE** Diabetic patients are particularly prone to developing UTIs.
 
 ### Q179
 A 47-year-old diabetic woman presents with dysuria, frequency and urgency. The urine is cloudy and smells offensive and is positive for nitrites and leucocytes on urine dipstick. She is systemically well.
-#### Answer: D. Metronidazole - ?
+#### Answer: D. Metronidazole - *FALSE* = F. Oral ciprofloxacin
+- If uncomplicated and patient is systemically well: MCC =  *Escherichia coli* 
+	- Tx: can be treated with an PO ABx: *ciprofloxacin* or *trimethoprim*
 
 ### Q180
 A 52-year-old man presents to A&E with a 2-day history of feeling generally unwell. Over the last 12 hours he has developed right loin pain and rigors and has a temperature of 39°C. Urine dipstick is positive for nitrites.
-#### Answer: C. Intravenous co-amoxiclav (Augmentin) - ?
+#### Answer: C. Intravenous co-amoxiclav (Augmentin) - TRUE
+- Loin pain, fever and evidence of urine infection should alert you to the possibility of *ascending infection* causing pyelonephritis
+- Tx: IV co-amoxiclav (*Augmentin*) and hospital admission is required
 
 
-Q181-183: Theme: Post-Operative Critical Care
+Q181-183: Theme: Post-Operative Critical Care - LEARN
 ---------------------------------------------
 
 	A. Anaphylactic shock
@@ -1830,15 +2071,21 @@ Q181-183: Theme: Post-Operative Critical Care
 
 ### Q181
 A post-operative patient in ICU has a pulse of 112/min, central venous pressure (CVP) 1 mmHg, cardiac output 4 l/min, and stroke volume 50 ml.
-#### Answer: C. Hypovolaemic shock - ?
+#### Answer: C. Hypovolaemic shock - TRUE
+- Increased pulse, decreased CVP, cardiac output and stroke volume
+	- Consistent with hypovolaemic shock.
 
 ### Q182
 A post-operative patient in ICU has: pulse 40/min, CVP 4 mmHg, cardiac output 3 l/min, and stroke volume 80 ml.
-#### Answer: B. Cardiogenic shock - ?
+#### Answer: B. Cardiogenic shock - *FALSE* = D. Neurogenic shock
+- **NOTE** decreased pulse is characteristic of neurogenic shock
+	- which also causes a decreased CO with normal CVP and SV
 
 ### Q183
 A post-operative patient in ICU has: pulse 109/min, CVP 5 mmHg, cardiac output 6 l/min, and stroke volume 40 ml.
-#### Answer: E. Septic shock - ?
+#### Answer: E. Septic shock - TRUE
+- Increased pulse, normal CVP, decreased stroke volume and increased cardiac output
+	- Consistent with septic shock
 
 
 Q184-187: Theme: Skin Lesions
@@ -1856,19 +2103,27 @@ Q184-187: Theme: Skin Lesions
 	J. Squamous cell carcinoma
 
 ### Q184
-A 64-year-old man presents with a circumscribed scaly plaque approximately 4 cm in diameter on the right calf. Histological examination shows full-thickness epidermal dysplasia.
-#### Answer: D. Keratoacanthoma - ?
+A 64-year-old man presents with a circumscribed scaly plaque approximately 4 cm in diameter on the *right calf*. Histological examination shows *full-thickness* epidermal dysplasia.
+#### Answer: D. Keratoacanthoma - *FALSE* = B. Bowen's disease
+- *Full-thickness* epidermal dysplasia is characteristic of Bowen's disease
+	- Most common on lower limbs
 
 ### Q185
-A 52-year-old man presents with an irregularly pigmented plaque on the left cheek, which has been increasing in size and was initially uniformly pigmented.
-#### Answer: F. Malignant melanoma - ?
+A 52-year-old man presents with an irregularly pigmented plaque on the *left cheek*, which has been increasing in size and was initially *uniformly pigmented*.
+#### Answer: F. Malignant melanoma - *FALSE* = E. Lentigo maligna
+- Change in pigmentation is common in *lentigo maligna*
+	- 90% of these occur on the face
 
 ### Q186
-An 84-year-old man presents with an enlarging painless ulcer with everted edges on the back of his neck. It has been bleeding intermittently.
-#### Answer: J. Squamous cell carcinoma - ?
+An 84-year-old man presents with an enlarging painless ulcer with *everted edges* on the back of his neck. It has been *bleeding intermittently*.
+#### Answer: J. Squamous cell carcinoma - TRUE
+- Squamous cell carcinoma is most common on *sun-exposed areas* 
+	- Frequently *bleeds* and is characterised by an *everted edge*
 
 ### Q187
-A 65-year-old woman presents with a 1-month history of an ulcer over the angle of the mandible with a rolled pearly edge.
-#### Answer: A. Basal cell carcinoma - ?
+A 65-year-old woman presents with a 1-month history of an ulcer over the angle of the mandible with a *rolled pearly edge*.
+#### Answer: A. Basal cell carcinoma - TRUE
+- Basal cell carcinoma is characterised by a *rolled pearly edge*
+- It does not tend to bleed as often as a squamous cell carcinoma
 
 ===
