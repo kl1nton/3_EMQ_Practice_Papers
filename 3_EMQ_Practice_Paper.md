@@ -61,24 +61,26 @@ Q1-4: Theme: Obstruction
 	G. Gallstone ileus
 	H. TB
  
+For each of the following scenarios, choose the most likely diagnosis from the list of options above. 
+
 ### Q1
 A 25-year-old woman with a history of eating disorders and laxative abuse presents with increasing abdominal pain, distension and absolute constipation for 4 days.
-#### Answer: 
+#### Answer: F. Crohn's disease - ?
 
 ### Q2
 A 65-year-old man with a 2-month history of altered bowel habit and weight loss presents with a 2-day history of increasing abdominal distension, pain and absolute constipation.
-#### Answer: 
+#### Answer: E. Carcinoma - ?
 
 ### Q3
 A 90-year-old woman 5 days post-op following a hemiarthroplasty of the left hip has increasing abdominal distension and pain and has not opened her bowels for 9 days.
-#### Answer: 
+#### Answer: A. Paralytic ileus - ?
 
 ### Q4
 A 46-year-old woman who has previously had a hysterectomy and several episodes of abdominal pain presents with increasing pain, distension and absolute constipation. Abdominal X-ray shows distended bowel loops and the biliary tree is outlined.
-#### Answer: 
+#### Answer: B. Adhesions - ?
 
 
-Q5-8: Theme: Investigation of Renal Trauma
+Q5-8: Theme: Investigation of Renal Trauma - TODO
 ------------------------------------------
 
 	A. Plain X-ray
@@ -90,6 +92,8 @@ Q5-8: Theme: Investigation of Renal Trauma
 	G. CT scan
 	H. CT scan with contrast
 	I. Arteriography
+
+For each of the following scenarios, choose the most appropriate investigation from the list above. 
 
 ### Q5
 An 18-year-old motorcyclist involved in a high-speed RTA sustains multiple injuries, including a head injury, haemothorax, fractured pelvis and femur. There is blood at the external urethral meatus.
@@ -122,21 +126,31 @@ Q9-12: Theme: Burns
 	I. 36%
 	J. 45%
 
+For each of the following scenarios, choose the correct percentage surface area of burn from the list above. 
+
 ### Q9
 A 37-year-old man is brought into A&E with red, blistered burns affecting the anterior aspects of both legs and the perineum.
-#### Answer: 
+#### Answer: G. 19% - ?
+- leg: 18%, perineum: 1%
+- 2x anterior leg + perineum = 2x9% + 1% = 19%
 
 ### Q10
 An 18-year-old woman presents to A&E having picked up a hot pan. She has red, painful, blistered burns on the palms of both hands.
-#### Answer: 
+#### Answer: C. 2.5% - ?
+- palm: 1%
+- 2x palm = 2x1% = 2%
 
 ### Q11
 A 69-year-old man is brought to A&E following a house fire, with black, insensate burns covering the trunk and red, painful burns to the anterior and posterior aspects of the right arm.
-#### Answer: 
+#### Answer: J. 45% - ?
+- trunk: 36%; arm: 9%
+- 1x trunk + arm = 36% + 9% = 45%
 
 ### Q12
 A 45-year-old woman presents to A&E with painful, red, blistered burns covering the head and neck, and pink, unblistered skin on the right palm.
-#### Answer: 
+#### Answer: D. 9% - ?
+- head/neck: 9%; palm: 1%
+- 1x head/neck + 0x palm = 1x9% + 0 = 9%
 
 
 Q13-15: Theme: Statistics
@@ -147,20 +161,22 @@ Q13-15: Theme: Statistics
 	C. Ordinal data
 	D. Nominal data
 
+For each of the following, choose the most appropriate option from the list above. 
+
 ### Q13
 Blood groups.
-#### Answer: 
+#### Answer: C. Ordinal data - ?
 
 ### Q14
 Blood pressure.
-#### Answer: 
+#### Answer: A. Quantitative measured data - ?
 
 ### Q15
 Staging of colorectal cancer.
-#### Answer: 
+#### Answer: D. Nominal data - ?
 
 
-Q16-20: Theme: Drains
+Q16-20: Theme: Drains - TODO
 ---------------------
 
 	A. Closed non-suction drain
@@ -169,6 +185,8 @@ Q16-20: Theme: Drains
 	D. No drain required
 	E. Sump drain
 	F. T-tube
+
+For each of the following situations, choose the most appropriate drain from the list above. 
 
 ### Q16
 Bowel anastomosis following uncomplicated elective surgery.
@@ -202,21 +220,23 @@ Q21-24: Theme: Fracture Classifications
 	F. Salter–Harris classification
 	G. Weber's classification
 
+For each of the following scenarios, choose the most appropriate option from the list above. 
+
 ### Q21
 An open tibial fracture.
-#### Answer: 
+#### Answer: F. Salter–Harris classification - ?
 
 ### Q22
 A displaced radial head fracture.
-#### Answer: 
+#### Answer: D. Mason's classification - ? 
 
 ### Q23
 A fractured distal radius in an 11-year-old child.
-#### Answer: 
+#### Answer: C. Gustilo–Anderson classification - ?
 
 ### Q24
 An intracapsular fractured neck of femur.
-#### Answer: 
+#### Answer: B. Garden's classification - ?
 
 
 Q25-29: Theme: Local Anaesthetics
@@ -230,25 +250,27 @@ Q25-29: Theme: Local Anaesthetics
 	F. Prilocaine
 	G. Ropivacaine
 
+For each of the following situations, choose the most appropriate option from the list above.
+
 ### Q25
 For a digital nerve block to allow suturing of a clean laceration.
-#### Answer: 
+#### Answer: D. Lidocaine - ?
 
 ### Q26
 For Bier's block to manipulate a Colles’ fracture.
-#### Answer: 
+#### Answer: E. Lidocaine and adrenaline - ?
 
 ### Q27
 Excision of a sebaceous cyst from the scalp.
-#### Answer: 
+#### Answer: E. Lidocaine and adrenaline - ?
 
 ### Q28
 For post-operative analgesia after Zadik's procedure under a general anaesthetic.
-#### Answer: 
+#### Answer: B. Bupivacaine and adrenaline - ?
 
 ### Q29
 For a spinal anaesthetic.
-#### Answer: 
+#### Answer: F. Prilocaine - ?
 
 
 Q30-33: Theme: Treatment of Fractures
@@ -261,21 +283,23 @@ Q30-33: Theme: Treatment of Fractures
 	E. Thomas’ splint
 	F. Traction
 
+For each of the following situations, choose the most appropriate treatment option from the list above. 
+
 ### Q30
 A closed fracture of the lateral malleolus above the level of the syndesmosis with talar shift.
-#### Answer: 
+#### Answer: D. Open reduction and internal fixation - ?
 
 ### Q31
 An undisplaced fracture of the radial head in the patient's non-dominant arm.
-#### Answer: 
+#### Answer: D. Open reduction and internal fixation - ?
 
 ### Q32
 A closed femoral shaft fracture in a patient injured in an RTA who has also sustained fractures of the tibia and fibula on the same side, and radius and ulna on the opposite side.
-#### Answer: 
+#### Answer: E. Thomas’ splint - ?
 
 ### Q33
 An undisplaced clavicle fracture, with no compromise of the overlying skin.
-#### Answer: 
+#### Answer: A. Broad arm sling - ?
 
 
 Q34-37: Theme: The Limping Child
@@ -288,27 +312,29 @@ Q34-37: Theme: The Limping Child
 	E. Transient synovitis
 	F. Tubercular arthritis
 
+For each of the following scenarios, choose the most appropriate option from the list above. 
+
 ### Q34
 A 6-year-old boy, weighing 15 kg, presents with a few days history of limp. He complains of intermittent right hip and thigh pain, of which he has previously had less severe episodes.
-#### Answer: 
+#### Answer: A. Osteomyelitis - ?
 
 ### Q35
 A 6-year-old boy presents with a 2-day history of left hip and thigh pain. He had a recent sore throat which has now resolved. He is apyrexial. On examination internal rotation is decreased. His WCC is 7 × 109/l, erythrocyte sedimentation rate (ESR) is 2 mm/h and C-reactive protein (CRP) is 2 mg/l.
-#### Answer: 
+#### Answer: F. Tubercular arthritis - ?
 
 ### Q36
 A 2-year-old boy with a chest infection is pyrexial and cries on all movements of the right leg.
-#### Answer: 
+#### Answer: C. Septic arthritis - ?
 
 ### Q37
 A 14-year-old boy, weighing 70 kg, presents with pain in the right thigh and knee and a decreased range of abduction.
-#### Answer: 
+#### Answer: D. SUFE - ?
 
 
 Q38-42: Theme: Fractured Neck of Femur
 --------------------------------------
 
-	A. Austin Moore hemiarthroplasty
+	A. Austin-Moore hemiarthroplasty
 	B. Closed reduction and cannulated screws
 	C. Dynamic hip screw (DHS)
 	D. Immediate cannulated screws
@@ -316,25 +342,27 @@ Q38-42: Theme: Fractured Neck of Femur
 	F. Total hip replacement (THR)
 	G. Open reduction and internal fixation (ORIF)
 
+For each of the following scenarios, choose the most appropriate treatment option from the list above. 
+
 ### Q38
 A 75-year-old woman tripped on the pavement and has a displaced subcapital fractured left neck of femur. Her only past medical history is hypertension.
-#### Answer: 
+#### Answer: A. Austin-Moore hemiarthroplasty - ?
 
 ### Q39
 A previously fit and well 60-year-old woman fell downstairs, sustaining a minimally displaced subcapital fracture of the left neck of femur.
-#### Answer: 
+#### Answer: D. Immediate cannulated screws - ?
 
 ### Q40
-An 82-year-old with a previous history of myocardial infarction fell while walking the dog. He sustains a two-part intertrochanteric fracture of the right neck of femur.
-#### Answer: 
+An 82-year-old with a previous history of *myocardial infarction* fell while walking the dog. He sustains a two-part intertrochanteric fracture of the right neck of femur.
+#### Answer: B. Closed reduction and cannulated screws - ?
 
 ### Q41
 A 26-year-old man is involved in an RTA and injures his right hip. An X-ray shows a displaced (Garden III) subcapital fractured neck of femur.
-#### Answer: 
+#### Answer: E. Thompson's hemiarthroplasty - ?
 
 ### Q42
 A 77-year-old woman trips while shopping, sustaining an intertrochanteric fracture of the left neck of femur. There is a 6-cm subtrochanteric extension.
-#### Answer: 
+#### Answer: F. Total hip replacement (THR) - ?
 
 
 Q43-46: Theme: Ischaemic Limbs
@@ -350,21 +378,23 @@ Q43-46: Theme: Ischaemic Limbs
 	H. Intravenous heparin
 	I. Reconstruction
 
+For each of the following scenarios, choose the most appropriate option from the list above. 
+
 ### Q43
-A patient presents with a history of sudden onset of a painful, cold, numb left foot. There are no previous symptoms. The pulse is irregularly irregular, with no pulses below the femoral in the left leg and all pulses present in right leg.
-#### Answer: 
+A patient presents with a history of sudden onset of a painful, cold, numb left foot. There are no previous symptoms. The pulse is *irregularly-irregular*, with no pulses below the femoral in the left leg and all pulses present in right leg.
+#### Answer: G. Embolectomy - ?
 
 ### Q44
 A patient with congestive cardiac failure (CCF) who is on a medical ward develops a sudden-onset cold, pulseless, numb right foot. Dorsalis pedis and posterior tibial pulses are absent on the right and all pulses are present on left.
-#### Answer: 
+#### Answer: D. Angiogram and thrombolysis - ?
 
 ### Q45
 A diabetic patient who has been on the ward for several weeks for treatment of large infected foot ulcers develops three black toes on the right foot.
-#### Answer: 
+#### Answer: A. Amputation - ?
 
 ### Q46
 A 64-year-old man, a heavy smoker, has a history of intermittent claudication affecting the right calf. He presents with an acutely ischaemic right leg. On examination the limb is found to have lost sensation. Angiography shows occlusion of the right femoral artery with good distal run-off.
-#### Answer: 
+#### Answer: I. Reconstruction - ?
 
 
 Q47-50: Theme: Abdominal Aortic Aneuryms (AAA)
@@ -378,21 +408,23 @@ Q47-50: Theme: Abdominal Aortic Aneuryms (AAA)
 	F. Ultrasound in 6 months
 	G. Ultrasound in 1 year
 
+For each of the following scenarios, choose the most appropriate option from the list above. 
+
 ### Q47
 A patient seen in clinic following an asymptomatic 3.5-cm AAA being discovered during an ultrasound of the renal tract.
-#### Answer: 
+#### Answer: G. Ultrasound in 1 year - ?
 
 ### Q48
 A patient known to have an AAA, which was 5.3 cm at the previous clinic appointment, has undergone a CT scan. The scan reveals a 5.7-cm infrarenal aneurysm extending from 0.5 cm below the renal arteries into both common iliacs.
-#### Answer: 
+#### Answer: B. Emergency surgery - ?
 
 ### Q49
 A patient known to have an AAA is reviewed in clinic for the third time. Ultrasound reveals an increase in size from 4 cm to 4.5 cm.
-#### Answer: 
+#### Answer: F. Ultrasound in 6 months - ?
 
 ### Q50
 An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. A scan taken 6 months before showed a 3.7-cm aneurysm.
-#### Answer: 
+#### Answer: C. Elective endoluminal repair - ?
 
 
 Q51-54: Theme: Carotid Artery Disease
@@ -402,21 +434,23 @@ Q51-54: Theme: Carotid Artery Disease
 	B. Endarterectomy left side
 	C. Endarterectomy right side
 
+For each of the following scenarios, choose the most appropriate option from the list above. 
+
 ### Q51
 A fit and well 76-year-old patient presents with a history of right-sided facial drooping lasting approximately 12 hours, then fully resolving. Duplex scans show a bilateral carotid artery stenosis of 86%.
-#### Answer: 
+#### Answer: C. Endarterectomy right side - ?
 
 ### Q52
 A 73-year-old woman presents with three episodes of amaurosis fugax affecting the right eye during the past 6 months. Duplex scans reveal a bilateral stenosis of 75%.
-#### Answer: 
+#### Answer: C. Endarterectomy right side - ?
 
 ### Q53
 An 87-year-old man presents with an episode of right-sided hemiparesis which fully resolves after 1 week. Duplex scans show a right-sided stenosis of 100% and a left-sided stenosis of 50%.
-#### Answer: 
+#### Answer: A. Best medical therapy - ?
 
 ### Q54
 An 82-year-old woman presents with a history of one episode of vertigo and diplopia resolving within 24 hours. Duplex scans show a left-sided stenosis of 60%.
-#### Answer: 
+#### Answer: A. Best medical therapy - ?
 
 
 Q55-58: Theme: Head Injuries
@@ -429,21 +463,23 @@ Q55-58: Theme: Head Injuries
 	E. Referral to neurosurgery
 	F. Skull X-ray
 
+For each of the following scenarios, choose the most appropriate option from the list above. 
+
 ### Q55
 A 50-year-old man falls and bangs his head on a cupboard. He cannot remember the events of the fall, but remembers everything since. He had a loss of consciousness of approximately 30 seconds witnessed by his wife, who lives with him.
-#### Answer: 
+#### Answer: C. Home with advice - ?
 
 ### Q56
 A 70-year-old man on warfarin for atrial fibrillation trips and falls. There is no loss of consciousness, but he has large laceration over the occiput. He lives with his wife.
-#### Answer: 
+#### Answer: F. Skull X-ray - ?
 
 ### Q57
 A 30-year-old woman is hit with a metal bar. She has a depressed skull fracture on X-ray. Her Glasgow Coma Scale (GCS) score is 15.
-#### Answer: 
+#### Answer: B. CT scan - ?
 
 ### Q58
 A 35-year-old woman has a head injury in an RTA. She remembers the events and did not lose consciousness. Her GCS is 15 throughout. She has a left haemotympanum on examination.
-#### Answer: 
+#### Answer: E. Referral to neurosurgery - ?
 
 
 Q59-62: Theme: Blood Gas Analysis
@@ -456,21 +492,23 @@ Q59-62: Theme: Blood Gas Analysis
 	E. Metabolic acidosis with compensation
 	F. Metabolic acidosis without compensation
 
+For each of the following situations, choose the most appropriate diagnosis from the list above. 
+
 ### Q59
 pH 7.47; Pa(O2) 12.3 kPa; Pa(CO2) 4.8 kPa; bicarbonate 25 mmol/l; base excess +5 mmol/l.
-#### Answer: 
+#### Answer: F. Metabolic acidosis without compensation - ?
 
 ### Q60
 pH 7.31; Pa(O2) 12.7 kPa; Pa(CO2) 3.2 kPa; bicarbonate 19 mmol/l; base excess –7 mmol/l.
-#### Answer: 
+#### Answer: F. Metabolic acidosis without compensation - ?
 
 ### Q61
 pH 7.29; Pa(O2) 8.4 kPa; Pa(CO2) 6.7 kPa; bicarbonate 32 mmol/l; base excess –1 mmol/l.
-#### Answer: 
+#### Answer: B. Respiratory acidosis with compensation - ?
 
 ### Q62
 pH 7.28; Pa(O2) 13.8 kPa; Pa(CO2) 5.0 kPa; bicarbonate 20 mmol/l; base excess –8 mmol/l.
-#### Answer: 
+#### Answer: C. Respiratory acidosis without compensation - ?
 
 
 Q63-66: Theme: Consent
@@ -482,21 +520,23 @@ Q63-66: Theme: Consent
 	D. Parents can consent for the patient
 	E. Refusal is not valid and can be overridden
 
+For each of the following situations, choose the most appropriate option from the list above.
+
 ### Q63
 A 24-year-old nurse presents with testicular torsion. He refuses surgery despite having had the benefits and risks of the procedure explained.
-#### Answer: 
+#### Answer: C. Patient's refusal is valid and doctor cannot override - ?
 
 ### Q64
 A 15-year-old girl whose parents are abroad requires an emergency appendicectomy. She understands the operation, its benefits and risks.
-#### Answer: 
+#### Answer: B. Patient can give valid consent - ?
 
 ### Q65
 An 86-year-old woman with dementia, mini-mental state score 4/10, is admitted with a fractured neck of femur. Her daughter states that she would not have wanted surgery, but there is no advance directive.
-#### Answer: 
+#### Answer: A. Doctor can consent for the patient - ?
 
 ### Q66
 A 15-year-old boy needs an appendicectomy. His parents refuse the surgery despite hearing the risks and benefits, but the patient gives consent. The patient has five GCSEs.
-#### Answer: 
+#### Answer: E. Refusal is not valid and can be overridden - ?
 
 
 Q67-71: Theme: Scrotal Swellings
@@ -512,25 +552,27 @@ Q67-71: Theme: Scrotal Swellings
 	H. Testicular tumour
 	I. Varicocele
 
+For each of the following scenarios, choose the most appropriate option from the list above. 
+
 ### Q67
 The patient has a right-sided swelling in the scrotum separate from the testis, which you cannot get above. The swelling transmits a cough impulse.
-#### Answer: 
+#### Answer: D. Hernia - ?
 
 ### Q68
 The patient has a left-sided swelling and dull ache for 1–2 weeks. The swelling is separate from the testis and transilluminates.
-#### Answer: 
+#### Answer: E. Hydrocoele - ?
 
 ### Q69
 The patient has a generalised, non-tender swelling of the left hemiscrotum, which has been gradually increasing in size for 2 months. The testis and epididymis cannot be defined. The swelling transilluminates.
-#### Answer: 
+#### Answer: A. Epididymal cyst - ?
 
 ### Q70
 A 28-year-old man presents with a 6-hour history of a painful right hemiscrotum. The testis and epididymis can be defined, with a normal lie of the testis, and the epididymis is tender to palpation. The patient has been feeling generally unwell and has had dysuria for 2 days.
-#### Answer: 
+#### Answer: B. Epididymo-orchitis - ?
 
 ### Q71
 A 20-year-old man presents with a 2-hour history of severe right-sided testicular pain and swelling. The hemiscrotum is very tender, with the testis lying normally.
-#### Answer: 
+#### Answer: G. Testicular torsion - ?
 
 
 Q72-77: Theme: Tumour Markers
@@ -547,29 +589,31 @@ Q72-77: Theme: Tumour Markers
 	I. Lactate dehydrogenase
 	J. Prostate-specific antigen (PSA)
 
+For each of the following malignancies, choose the most appropriate marker from the list above. 
+
 ### Q72
 Colorectal carcinoma.
-#### Answer: 
+#### Answer: E. Carcinoembryonic antigen (CEA) - ?
 
 ### Q73
 Breast cancer.
-#### Answer: 
+#### Answer: I. Lactate dehydrogenase - ?
 
 ### Q74
 Ovarian cancer.
-#### Answer: 
+#### Answer: C. CA 125 - ?
 
 ### Q75
 Prostate cancer.
-#### Answer: 
+#### Answer: J. Prostate-specific antigen (PSA) - ?
 
 ### Q76
 Choriocarcinoma.
-#### Answer: 
+#### Answer: H. β-Human chorionic gonadotropin (hCG) - ?
 
 ### Q77
 Small-cell lung cancer.
-#### Answer: 
+#### Answer: A. Adrenocorticotropic hormone (ACTH) - ?
 
 
 Q78-82: Theme: Congenital Gastrointestinal Anomalies
@@ -584,25 +628,27 @@ Q78-82: Theme: Congenital Gastrointestinal Anomalies
     G. Oesophageal atresia
     H. Small-bowel atresia
 
+For each of the following scenarios, choose the most likely anomaly from the list above. 
+
 ### Q78
 Neonate girl, born at term, presents with uncovered intestine and an ovary protruding through the abdominal wall to the right of the umbilicus, through a defect of approximately 3 cm.
-#### Answer: 
+#### Answer: C. Gastroschisis - ?
 
 ### Q79
 A term neonate boy, who has failed to pass meconium, has now developed bilious vomiting and abdominal distension. Per rectal examination reveals a mucus plug, removal of which temporarily relieves the symptoms, but they recur.
-#### Answer: 
+#### Answer: F. Meconium ileus - ?
 
 ### Q80
 A neonate girl presents with bilious vomiting and abdominal distension. She passed meconium, but has not opened her bowels since. An abdominal X-ray reveals distended bowel loops with fluid levels.
-#### Answer: 
+#### Answer: D. Hirschsprung's disease - ?
 
 ### Q81
 A neonate boy with trisomy 21 presents with bilious vomiting and abdominal distension on day 2. An abdominal X-ray reveals a double gas bubble.
-#### Answer: 
+#### Answer: A. Duodenal atresia - ?
 
 ### Q82
 A 1-month-old baby boy presents with repeated projectile vomiting of unaltered feed approximately 10 minutes after feeding.
-#### Answer: 
+#### Answer: E. Hypertrophic pyloric stenosis - ?
 
 
 Q83-85: Theme: Treatment of Gallstones
@@ -614,17 +660,19 @@ Q83-85: Theme: Treatment of Gallstones
     D. Low-fat diet
     E. Urgent cholecystectomy
 
+For each of the following scenarios, choose the most appropriate treatment option from the list above. 
+
 ### Q83
 A 46-year-old woman with renal calculi has a routine ultrasound which reveals three small stones in the gallbladder.
-#### Answer: 
+#### Answer: D. Low-fat diet - ?
 
 ### Q84
 A patient admitted 3 days ago with RUQ pain, vomiting, rigors and a temperature greater than 38°C, which have failed to settle despite intravenous antibiotics.
-#### Answer: 
+#### Answer: E. Urgent cholecystectomy - ?
 
 ### Q85
 A 50-year-old man known to have gallstones in the gallbladder, who has had two previous attacks of biliary colic, one requiring hospital admission. He has a past medical history of epilepsy, and a vagotomy and pyloroplasty.
-#### Answer: 
+#### Answer: B. Elective open cholecystectomy - ?
 
 
 Q86-93: Theme: Chest Injuries
@@ -640,37 +688,39 @@ Q86-93: Theme: Chest Injuries
     H. Tension pneumothorax
     I. Tracheobronchial injury
 
+For each of the following scenarios, choose the most appropriate option from the list above. 
+
 ### Q86
-A restrained driver involved in an RTA develops dyspnoea and tachypnoea prior to arrival in A&E. On examination air entry is decreased on the left side of the chest and decreased bowel sounds are audible.
-#### Answer: 
+A restrained driver involved in an RTA develops dyspnoea and tachypnoea prior to arrival in A&E. On examination *air entry is decreased* on the left side of the chest and *decreased bowel sounds* are audible.
+#### Answer: C. Diaphragmatic rupture - ?
 
 ### Q87
-A restrained passenger involved in an RTA develops dyspnoea, tachypnoea and tachycardia. On examination chest wall movements are paradoxical.
-#### Answer: 
+A restrained passenger involved in an RTA develops dyspnoea, tachypnoea and tachycardia. On examination *chest wall movements are paradoxical*.
+#### Answer: D. Flail chest - ?
 
 ### Q88
-A restrained front-seat passenger involved in an RTA in which a car travelling at high speed collided with a wall was haemodynamically unstable at the scene. Both radial pulses were absent and he went into cardiac arrest at the scene.
-#### Answer: 
+A restrained front-seat passenger involved in an RTA in which a car travelling at high speed collided with a wall was *haemodynamically unstable* at the scene. *Both radial pulses were absent* and he went into *cardiac arrest* at the scene.
+#### Answer: A. Aortic dissection/disruption - ?
 
 ### Q89
-A restrained back-seat passenger involved in an RTA has remained haemodynamically stable, but is tachypnoeic and dyspnoeic. Examination reveals no tracheal deviation, with decreased chest wall expansion, decreased air entry on the left and a dullness to percussion on this side.
-#### Answer: 
+A restrained back-seat passenger involved in an RTA has remained haemodynamically stable, but is tachypnoeic and dyspnoeic. Examination reveals *no tracheal deviation*, with *decreased chest wall expansion*, *decreased air entry* on the left and a *dullness to percussion* on this side.
+#### Answer: G. Simple pneumothorax - ?
 
 ### Q90
-A restrained driver involved in a high-speed impact with a tree has stridor, tachypnoea, dyspnoea and subcutaneous emphysema.
-#### Answer: 
+A restrained driver involved in a high-speed impact with a tree has *stridor*, *tachypnoea*, *dyspnoea* and *subcutaneous emphysema*.
+#### Answer: I. Tracheobronchial injury - ?
 
 ### Q91
-A 21-year-old is brought to A&E unconscious. He has been involved in an RTA. Primary survey reveals that he is hypotensive and tachycardic, and a chest X-ray reveals a flail chest but no obvious pneumothorax. He has refractory hypotension, with no obvious point of blood loss, so a laparotomy is organised. He is intubated in the department and has a 4-unit blood transfusion started in the department. As he is being transferred to the operating theatre he goes into cardiac arrest.
-#### Answer: 
+A 21-year-old is brought to A&E unconscious. He has been involved in an RTA. Primary survey reveals that he is *hypotensive* and *tachycardic*, and a chest X-ray reveals a *flail chest* but no obvious pneumothorax. He has *refractory hypotension*, with *no obvious point of blood loss*, so a laparotomy is organised. He is intubated in the department and has a 4-unit blood transfusion started in the department. As he is being transferred to the operating theatre he goes into cardiac arrest.
+#### Answer: A. Aortic dissection/disruption - ?
 
 ### Q92
 A 29-year-old has a stab injury to the left side of the chest. Primary survey shows a large left haemothorax which is subsequently drained with a water seal chest drain. After 30 minutes he appears to be in significant distress. On examination he is tachycardic at 120 beats/min and his BP is 90/50 mmHg. He appears to have engorgement of his neck veins and his heart sounds are difficult to hear.
-#### Answer: 
+#### Answer: B. Cardiac tamponade - ?
 
 ### Q93
 A 34-year-old is brought in with a stab wound to the right side of his chest. Primary survey shows a tension pneumothorax. This is initially treated with needle thoracocentesis. A chest drain is inserted. A check X-ray 30 minutes after tube insertion shows the tube to be in a satisfactory position. The patient continues to be in respiratory distress and a repeat chest X-ray after 30 minutes shows a persistent large pneumothorax.
-#### Answer: 
+#### Answer: I. Tracheobronchial injury - ?
 
 
 Q94-97: Theme: Sterilisation
@@ -683,21 +733,23 @@ Q94-97: Theme: Sterilisation
     E. Irradiation
     F. Low-temperature steam and formaldehyde
 
+For each of the following, choose the most appropriate form of sterilisation from the list above. 
+
 ### Q94
 Catheters
-#### Answer: 
+#### Answer: E. Irradiation - ?
 
 ### Q95
 Flexible naso-endoscope.
-#### Answer: 
+#### Answer: E. Irradiation - ?
 
 ### Q96
 Sutures.
-#### Answer: 
+#### Answer: F. Low-temperature steam and formaldehyde
 
 ### Q97
 Small McIndoe scissors.
-#### Answer: 
+#### Answer: A. Autoclave - ?
 
 
 Q98-100: Theme: Tourniquets
@@ -710,17 +762,19 @@ Q98-100: Theme: Tourniquets
     E. Tourniquet at 250 mmHg
     F. Tourniquet at 300 mmHg
 
+For each of the following scenarios, choose the most appropriate tourniquet from the list above. 
+
 ### Q98
-A patient with a blood pressure of 150/90 mmHg undergoing Zadik's procedure.
-#### Answer: 
+A patient with a blood pressure of 150/90 mmHg undergoing *Zadik's procedure*.
+#### Answer: A. No tourniquet - ?
 
 ### Q99
 A patient with a blood pressure of 140/80 mmHg undergoing fasciectomy for Dupuytren's contracture.
-#### Answer: 
+#### Answer: E. Tourniquet at 250 mmHg - ?
 
 ### Q100
 A patient with a blood pressure of 150/114 mmHg undergoing knee arthroscopy, who has previously had a femoro-popliteal bypass.
-#### Answer: 
+#### Answer: F. Tourniquet at 300 mmHg - ?
 
 
 Q101-104: Theme: Biopsy Techniques
@@ -734,21 +788,23 @@ Q101-104: Theme: Biopsy Techniques
     F. Frozen section
     G. Incisional biopsy
 
+For each of the following lesions, choose the most appropriate biopsy technique from the list above. 
+
 ### Q101
 A lymph node found during Whipple's procedure.
-#### Answer: 
+#### Answer: F. Frozen section - ?
 
 ### Q102
 A solitary nodule within the thyroid.
-#### Answer: 
+#### Answer: E. Fine-needle aspiration cytology - ?
 
 ### Q103
 A suspected basal cell carcinoma.
-#### Answer: 
+#### Answer: D. Excisional biopsy - ?
 
 ### Q104
 A mass on the bladder wall.
-#### Answer: 
+#### Answer: B. Core biopsy - ?
 
 
 Q105-112: Theme: Parotid Swellings
@@ -765,6 +821,8 @@ Q105-112: Theme: Parotid Swellings
 	I. Acute viral sialadenitis
 	J. Frey syndrome
 	K. Mikulicz syndrome
+
+For each of the following scenarios, choose the most appropriate diagnosis from the list above. 
 
 ### Q105
 A 47-year-old man presents with a 6-month history of a slowly growing, smooth lesion in the right parotid. All facial movements are normal.
