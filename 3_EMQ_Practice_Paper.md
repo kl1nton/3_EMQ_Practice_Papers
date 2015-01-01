@@ -1,7 +1,7 @@
 EMQ Practice Paper: 3
 =====================
 
-Overall: ??/??? = ??.?% (TODO errors)
+Overall: 99/177 = 56% (78 errors)
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
