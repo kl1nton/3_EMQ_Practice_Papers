@@ -28,25 +28,25 @@ Group	| Score			| Errors 					|
 86-93	| 6/8 =   75%	| 89, 91
 94-97	| 1/4 =   25%	| 95, 96, 97
 98-100	| 0/3 =    0%	| 98, 99, 100
-101-104	| ?/4 =  ?%		| 
-105-112	| ?/8 =  ?%		| 
-113-115	| ?/3 =  ?%		| 
-116-120	| ?/5 =  ?%		| 
-121-124	| ?/4 =  ?%		| 
-125-128	| ?/4 =  ?%		| 
-129-133	| ?/5 =  ?%		| 
-134-138	| ?/5 =  ?%		| 
-139-143	| ?/5 =  ?%		| 
-144-146	| ?/3 =  ?%		| 
-147-150	| ?/4 =  ?%		| 
-151-153	| ?/3 =  ?%		| 
-154-157	| ?/4 =  ?%		| 
-158-160	| ?/3 =  ?%		| 
-161-165	| ?/5 =  ?%		| 
-166-167	| ?/2 =  ?%		| 
-168-170	| ?/3 =  ?%		| 
-171-172	| ?/3 =  ?%		| 
-173-177	| ?/5 =  ?%		| 
+101-104	| 3/4 =   75%	| 104
+105-112	| 4/8 =   50%	| 106, 107, 109, 111
+113-115	| 2/3 =   67%	| 114
+116-120	| 4/5 =   80%	| 120
+121-124	| 3/4 =   75%	| 121
+125-128	| 2/4 =   50%	| 125, 128
+129-133	| 3/5 =   60%	| 131, 132
+134-138	| 5/5 =  100%	| Ø
+139-143	| 4/5 =   80%	| 141
+144-146	| 3/3 =  100%	| Ø 
+147-150	| 3/4 =   75%	| 147
+151-153	| 1/3 =   33%	| 152, 153
+154-157	| 3/4 =   75%	| 154
+158-160	| 1/3 =   33%	| 158, 160
+161-165	| 3/5 =   60%	| 161, 165
+166-167	| 0/2 =    0%	| 166, 167
+168-170	| 0/3 =    0%	| 168, 169, 170
+171-172	| 0/2 =    0%	| 171, 172
+173-177	| 3/5 =   60%	| 173, 174
 
 
 Q1-4: Theme: Obstruction
@@ -1065,19 +1065,24 @@ For each of the following lesions, choose the most appropriate biopsy technique 
 
 ### Q101
 A lymph node found during Whipple's procedure.
-#### Answer: F. Frozen section - ?
+#### Answer: F. Frozen section - TRUE
+- This situation requires an immediate result during operation
 
 ### Q102
 A solitary nodule within the thyroid.
-#### Answer: E. Fine-needle aspiration cytology - ?
+#### Answer: E. Fine-needle aspiration cytology - TRUE
+- Thyroid is easily accessible - though architectural data *cannot be gained* from this technique
+	- If result is *follicular cells*, a lobectomy can be performed
 
 ### Q103
-A suspected basal cell carcinoma.
-#### Answer: D. Excisional biopsy - ?
+A suspected basal cell carcinoma (BCC)
+#### Answer: D. Excisional biopsy - TRUE
+- Excisional biopsies are usually performed for skin lesions
 
 ### Q104
-A mass on the bladder wall.
-#### Answer: B. Core biopsy - ?
+A mass on the *bladder wall*.
+#### Answer: B. Core biopsy - *FALSE* = C. Endoscopic biopsy
+- Lesion can be accessed with a cystoscope to take a sample for a biopsy.
 
 
 Q105-112: Theme: Parotid Swellings
@@ -1098,36 +1103,64 @@ Q105-112: Theme: Parotid Swellings
 For each of the following scenarios, choose the most appropriate diagnosis from the list above. 
 
 ### Q105
-A 47-year-old man presents with a 6-month history of a slowly growing, smooth lesion in the right parotid. All facial movements are normal.
-#### Answer: D. Pleomorphic adenoma - ?
+A *47-year-old man* presents with a 6-month history of a *slowly growing*, smooth lesion in the *right parotid*. All facial movements are normal.
+#### Answer: D. Pleomorphic adenoma - TRUE
+- Pleomorphic adenomas are more common in men aged 40-60 years
+	- They are slow-growing, painless and usually unilateral
 
 ### Q106
-A 70-year-old man presents with a painless swelling of the left parotid which he has had for 3 months. He previously had surgery for a right parotid lesion. All facial movements are normal.
-#### Answer: E. Sarcoidosis - ?
+A *70-year-old man* presents with a *painless swelling* of the *left parotid* which he has had for 3 months. He *previously* had surgery for a *right parotid lesion*. All facial movements are normal.
+#### Answer: E. Sarcoidosis - *FALSE* = C. Adenolymphoma (Warthin's tumour)
+- Adenolymphomas (*Warthin's tumour*) 
+	- More common in men aged between 60-80 years
+	- They are painless
+- Approximately 10% are bilateral and these are usually asynchronous (*previous surgery*)
 
 ### Q107
-A 70-year-old man presents with a rapidly growing, painful, hard, left parotid lump, which has been there for 1 month. The left side of his mouth is drooping. He has previously had radiotherapy to his parathyroids.
-#### Answer: B. Adenocarcinoma - ?
+A *70-year-old man* presents with a *rapidly growing*, *painful*, hard, left parotid lump, which has been there for 1 month. The left side of his *mouth is drooping* (**invasive**). He has previously had *radiotherapy to his parathyroids*.
+#### Answer: B. Adenocarcinoma - *FALSE* = H. Squamous cell carcinoma
+- Squamous cell carcinomas (SCCs)
+	- More common in men and those who have had prior irradiation
+	- They are rapidly growing and aggressive
+	- They are also painful and tend to affect facial nerve (CN VII)
 
 ### Q108
-A 64-year-old man attends for routine post-operative follow-up following surgery to remove a stone from his parotid gland. He now complains of diffuse facial sweating before meals.
-#### Answer: J. Frey syndrome - ?
+A 64-year-old man attends for routine post-operative follow-up *following surgery* to remove a stone from his parotid gland. He now complains of diffuse *facial sweating before meals*.
+#### Answer: J. Frey syndrome - TRUE
+- Frey syndrome or *gustatory sweating* can occur after surgery to the parotid gland
+- Flushing and sweating usually occur along distribution of *auriculotemporal nerve*
+	- Damage to auriculotemporal nerve has been postulated to be a cause of Frey's
 
 ### Q109
-A 21-year-old man presents with bilateral tender swellings of his parotid glands along with bilaterally tender testes.
-#### Answer: K. Mikulicz syndrome - ?
+A 21-year-old man presents with *bilateral tender swellings of his parotid glands* along with *bilaterally tender testes*.
+#### Answer: K. Mikulicz syndrome - *FALSE* = I. Acute viral sialadenitis (aka *Mumps*)
+- Acute viral sialadenitis, better known as mumps, causes orchitis in 20% of post-pubertal men
+- Mumps: distinguished from other forms of acute parotitis by *absence of a neutrophil leucocytosis*
 
 ### Q110
 A 43-year-old woman with a history of systemic lupus erythematosus (SLE) presents with a severe dry mouth and dry eyes.
-#### Answer: G. Sjögren syndrome - ?
+#### Answer: G. Sjögren syndrome - TRUE
+- 2º Sjögren syndrome is associated with connective tissue disorders such as SLE and RA
+- Its features consist of dry eyes (*xerophthalmia*) and a dry mouth (*xerostomia*)
 
 ### Q111
-A 79-year-old woman with recently diagnosed acute lymphocytic leukaemia presents with symmetrical enlargement of all salivary glands, narrowing of her palpebral fissures and a dry mouth.
-#### Answer: I. Acute viral sialadenitis - ?
-
+A 79-year-old woman with recently diagnosed acute lymphocytic leukaemia presents with *symmetrical enlargement of all salivary glands*, *narrowing of her palpebral fissures* and a *dry mouth*.
+#### Answer: I. Acute viral sialadenitis - *FALSE* = K. Mikulicz syndrome
+- Mikulicz syndrome is a triad consisting of 
+	1. Symmetrical enlargement of *all salivary glands*
+	2. *Narrowing of palpebral fissures* 2º to lacrimal gland enlargement
+	3. Parchment-like *dryness of the mouth*
+- There is enlargement of glands 2º to leukaemia or generalised disease
+	- Due to an autoimmune process in salivary glands
+ 
 ### Q112
 A 59-year-old woman presents with left parotid swelling. It occurs *immediately before meals* and is *exquisitely tender*.
-#### Answer: F. Sialolithiasis - ?
+#### Answer: F. Sialolithiasis - TRUE
+- Stone formation in salivary glands *usually occurs in submandibular gland*
+	- But it can occur in any of the glands
+- Just before meals, salivation is stimulated
+	- Causing saliva to build up behind obstruction
+	- Resulting in swelling and increased pain
 
 
 Q113-115: Theme: Joint Infections
@@ -1140,17 +1173,23 @@ Q113-115: Theme: Joint Infections
     E. Staphylococcus aureus
 
 ### Q113
-Septic arthritis in a 2-year-old child.
-#### Answer: C. Haemophilus influenzae - ?
+*Septic arthritis* in a *2-year-old* child.
+#### Answer: C. Haemophilus influenzae - TRUE
+- *Haemophilus influenzae* is 3x more common a cause of septic arthritis
+	- than Staphylococcus aureus in children aged under 5 years
 
 ### Q114
-Septic arthritis in a 9-year-old child.
-#### Answer: D. Neisseria gonorrhoeae - ?
+*Septic arthritis* in a *9-year-old* child.
+#### Answer: D. Neisseria gonorrhoeae - *FALSE* = E. Staphylococcus aureus
+- *Staphylococcus aureus* is most common cause of septic arthritis in 
+	1. Children aged over 5 years 
 
 ### Q115
-Osteomyelitis in a 49-year-old man.
-#### Answer: E. Staphylococcus aureus - ?
-
+*Osteomyelitis* in a 49-year-old man.
+#### Answer: E. Staphylococcus aureus - TRUE
+- *Staphylococcus aureus* is most common cause of osteomyelitis in 
+	1. Children aged over 5 years 
+	2. Adults
 
 Q116-120: Theme: Suture Materials
 ---------------------------------
@@ -1166,23 +1205,31 @@ Q116-120: Theme: Suture Materials
 
 ### Q116
 Distal sutures for a femoro-distal anastomosis.
-#### Answer: D. 6-0 Prolene - ?
+#### Answer: D. 6-0 Prolene - TRUE
+- Distal portion of a femoro-distal anastomosis requires *very small sutures*
+- In vascular surgery a smooth *monofilament non-absorbable suture* is used
 
 ### Q117
 Abdominal mass closure following laparotomy.
-#### Answer: A. 1 PDS (polydioxanone suture) - ?
+#### Answer: A. 1 PDS (polydioxanone suture) -  TRUE
+- *Large, absorbable sutures* are required to provide strength for a mass abdominal closure
 
 ### Q118
 Interrupted sutures following Dupuytren's contracture surgery.
-#### Answer: C. 3-0 Prolene - ?
+#### Answer: C. 3-0 Prolene - TRUE
+- A *non-absorbable monofilament* suture
 
 ### Q119
 Sternal closure following bypass surgery.
-#### Answer: F. Steel wire - ?
+#### Answer: F. Steel wire - TRUE
+- Steel wire is required to provide strength in sternal closure
 
 ### Q120
 An absorbable suture commonly used for bowel anastomosis.
-#### Answer: C. 3-0 Prolene - ?
+#### Answer: C. 3-0 Prolene - *FALSE* = B. 3-0 PDS
+- *Absorbable monofilament* used on an atraumatic round-bodied needle 
+	- to perform a single-layer interrupted seromuscular anastomosis 
+- **NOTE** as recommended by the Royal College of Surgeons
 
 
 Q121-124: Theme: Multiple Endocrine Neoplasia (MEN)
@@ -1194,19 +1241,25 @@ Q121-124: Theme: Multiple Endocrine Neoplasia (MEN)
 
 ### Q121
 A very tall 20-year-old man with a high, arched palate, large span and long fingers, presenting with a *medullary thyroid carcinoma*.
-#### Answer: B. Sipple syndrome - ?
+#### Answer: B. Sipple syndrome - *FALSE* = A. Gorlin syndrome (MEN IIb)
+- Patient has a *marfanoid appearance* - associated with MEN IIb, *Gorlin syndrome*
 
 ### Q122
 A 40-year-old woman presents with *bilateral phaeochromocytoma*. She has a past medical history of *medullary thyroid carcinoma*.
-#### Answer: B. Sipple syndrome - ?
+#### Answer: B. Sipple syndrome - TRUE (MEN IIa)
+- MEN IIa, *Sipple syndrome*, is associated with *phaeochromocytoma* in 20–50%
+	- These are commonly *bilateral*
 
 ### Q123
 A 50-year-old woman presents with *pituitary adenoma* and *parathyroid hyperplasia*. Her mother also had a pituitary adenoma.
-#### Answer: C. Werner syndrome - ?
+#### Answer: C. Werner syndrome - TRUE (MEN I)
+- *Pituitary adenoma* and *parathyroid hyperplasia* are common in MEN I, *Werner syndrome* 
+	- MEN I, Werner syndrome, has an *autosomal dominant* (AD) inheritance
 
 ### Q124
 A 60-year-old man who has *multiple mucosal neuromas* presents with a *medullary thyroid carcinoma*.
-#### Answer: A. Gorlin syndrome - ?
+#### Answer: A. Gorlin syndrome - TRUE (MEN IIb)
+- MEN IIb, *Gorlin syndrome*, is associated with *multiple mucosal neuromas*
 
 
 Q125-128: Theme: Types of Graft
@@ -1220,19 +1273,30 @@ Q125-128: Theme: Types of Graft
 
 ### Q125
 A kidney transplant from mother to son.
-#### Answer: B. Allogenic orthotopic graft - ?
+#### Answer: B. Allogenic orthotopic graft - *FALSE* = A. Allogenic heterotropic graft
+- Kidneys are transplanted to a *different anatomical location* in the recipient
 
 ### Q126
 A baboon's heart into a human recipient.
-#### Answer: E. Xenogenic orthotopic graft - ?
+#### Answer: E. Xenogenic orthotopic graft - TRUE
+- Transplant between two species (*normal anatomical location*)
 
 ### Q127
 A full-thickness skin graft.
-#### Answer: C. Autogenic graft - ?
+#### Answer: C. Autogenic graft - TRUE
+- This transplant is from one site on an individual to another site in *same individual*
 
 ### Q128
 Pancreas from an unrelated human donor to a recipient.
-#### Answer: B. Allogenic orthotopic graft - ?
+#### Answer: B. Allogenic orthotopic graft - *FALSE* = A. Allogenic heterotropic graft
+- Pancreas is transplanted to a *different anatomical location* in the recipient
+
+#### Notes
+- Allografts - grafts from a member of a species to another of the *same species*
+- Autografts - grafts from one site on an individual to *another site*
+- Xenografts - grafts from a member of a species to a member of *another species*
+- Orthotopic - grafts are transplanted to the *normal anatomical site* in the donor
+- Heterotopic - grafts are transplanted to a *different anatomical site*
 
 
 Q129-133: Theme: Upper Gastrointestinal Haemorrhage - HERE
@@ -1248,24 +1312,37 @@ Q129-133: Theme: Upper Gastrointestinal Haemorrhage - HERE
     H. Vascular malformation
 
 ### Q129
-A 80-year-old woman presents with haematemesis. She has had intermittent epigastric pain after food for the past 6 months. She has lost weight – about 3.5 kg (half a stone). She was recently commenced on diclofenac.
-#### Answer: D. Gastric ulcer - ?
+A 80-year-old woman presents with *haematemesis*. She has had *intermittent epigastric pain after food* for the past 6 months. She has *lost weight* – about 3.5 kg (half a stone). She was recently commenced on *diclofenac*.
+#### Answer: D. Gastric ulcer - TRUE
+- Gastric ulcer is more common in elderly patients
+- It is associated with 
+	1. Pain brought on by food
+	2. Often weight loss secondary to this
+- It is also associated with NSAIDs
 
 ### Q130
-A 21-year-old student presents with haematemesis. He drank a large amount of alcohol last night and was retching prior to the haematemesis.
-#### Answer: E. Mallory–Weiss tear - ?
+A 21-year-old student presents with *haematemesis*. He drank a *large amount of alcohol* last night and was *retching prior to the haematemesis*.
+#### Answer: E. Mallory–Weiss tear - TRUE
+- Mallory–Weiss tears are associated with 
+	1. Retching prior to onset of haematemesis
+	2. Alcohol excess
 
 ### Q131
-A 50-year-old man presents with a massive haematemesis. He is haemodynamically unstable. He has clubbing, palmar erythema, gynaecomastia and hepatomegaly.
-#### Answer: C. Gastric malignancy - ? H. Vascular malformation - ?
+A 50-year-old man presents with a *massive haematemesis*. He is haemodynamically unstable. He has *clubbing*, palmar erythema, gynaecomastia and *hepatomegaly*.
+#### Answer: C. Gastric malignancy - *FALSE* = F. Oesophageal varices (*stigmata of liver disease*)
+- Patient has stigmata of liver disease 
+	- associated with *variceal haemorrhage* - typically causes large bleeds
 
 ### Q132
-A 30-year-old man presents with haematemesis. He complains of a year-long history of epigastric pain relieved by eating. He is a smoker.
-#### Answer: G. Oesophagitis - ?
+A *30-year-old man* presents with *haematemesis*. He complains of a year-long history of epigastric pain *relieved by eating*. He is a *smoker*.
+#### Answer: G. Oesophagitis - *FALSE* = B. Duodenal ulcer
+- Duodenal ulcers are more common in young men who smoke
+	- Associated with pain relieved by eating
 
 ### Q133
 A 64-year-old man presents with haematemesis and melaena. He is haemodynamically unstable. He has a previous history of an AAA repair 15 years ago.
-#### Answer: A. Aorto-enteric fistula - ?
+#### Answer: A. Aorto-enteric fistula - TRUE
+- Aorto-enteric fistulae are a *known late complication* following AAA repair
 
 
 Q134-138: Theme: Lower Gastrointestinal haemorrhage
@@ -1280,24 +1357,44 @@ Q134-138: Theme: Lower Gastrointestinal haemorrhage
     G. Ulcerative colitis
 
 ### Q134
-A 40-year-old patient presents with *recurrent episodes* of *fresh bleeding per rectum*, with no associated abdominal pain. Fresh blood, but no mass is found on rectal examination. The patient has *telangiectasia on the face and mouth*. His haemoglobin is 9.2 g/dl.
-#### Answer: A. Angiodysplasia - ?
+A 40-year-old patient presents with *recurrent episodes* of *fresh bleeding per rectum*, with no associated abdominal pain. Fresh blood, but *no mass* is found on rectal examination. The patient has *telangiectasia on the face and mouth*. His haemoglobin is 9.2 g/dl.
+#### Answer: A. Angiodysplasia - TRUE
+- Recurrent painless episodes of rectal bleeding or a single large bleed can be presentation of this condition
+	- The telangiectasia point to *Osler-Weber-Rendu syndrome* - associated with angiodysplasia
 
 ### Q135
-A 25-year-old woman presents with a 1-month history of worsening intermittent bloody *diarrhoea with mucus*, associated with *crampy abdominal pain*. She has *lost 3.5 kg* (half a stone). There is *clubbing of her fingers*.
-#### Answer: G. Ulcerative colitis - ?
+A 25-year-old woman presents with a 1-month history of worsening intermittent *bloody diarrhoea with mucus*, associated with *crampy abdominal pain*. She has *lost 3.5 kg* (half a stone). There is *clubbing of her fingers*.
+#### Answer: G. Ulcerative colitis - TRUE
+- Features of Inflammatory Bowel Disease (IBD) 
+	1. Age of patient 
+	2. Presence of *mucus accompanying the alteration in bowel habit*
+	3. Crampy pain 
+- Clubbing is also associated with inflammatory bowel disease
+- **NOTE** Bleeding is more common in ulcerative colitis (UC)
 
 ### Q136
 A *70-year-old woman* presents with a large, fresh rectal bleed. She has no abdominal pain. She gives a history of *altered bowel habit* and *left-sided abdominal pain* *relieved by defecation* for 1 year. She has *not lost any weight*.
-#### Answer: D. Diverticular disease - ?
+#### Answer: D. Diverticular disease - TRUE
+- Diverticular disease is 
+	- Common in patients over 60
+	- Incidence increases with age
+- Diagnosis of diverticular disease is more likely than that of colorectal cancer
+	1. *Length of history* with *no associated weight loss*
+	2. Left-sided pain *relieved by defecation *
 
 ### Q137
 A *75-year-old man* presents with a *painless rectal bleed*. He complains of *altered bowel habit* and *tenesmus for a month*, associated with smaller rectal bleeds. He has *lost 1.5 kg* (quarter of a stone).
-#### Answer: B. Colorectal cancer - ?
+#### Answer: B. Colorectal cancer - TRUE
+- Patient has 
+	1. *Lost weight over a very short period of time*, coupled with
+	2. Alteration in bowel habit and rectal bleeding
+- **NOTE** all sinister features suggesting malignancy
 
 ### Q138
 A 30-year-old *pregnant woman* presents with *fresh bleeding per rectum*, which she has *noticed on the toilet paper*.
-#### Answer: E. Haemorrhoids - ?
+#### Answer: E. Haemorrhoids - TRUE
+- Haemorrhoids are more common in pregnancy 
+	- Associated with fresh blood on the toilet paper (*not mixed with stool*)
 
 
 Q139-143: Theme: Fluids
@@ -1315,24 +1412,36 @@ Q139-143: Theme: Fluids
 
 ### Q139
 The sodium concentration of serum.
-#### Answer: H. 142 mmol/l - ?
+#### Answer: H. 142 mmol/l - TRUE
 
 ### Q140
 The sodium concentration of Hartmann's solution.
-#### Answer: G. 130 mmol/l - ?
+#### Answer: G. 130 mmol/l - TRUE
 
 ### Q141
 The sodium concentration of Gelofusine.
-#### Answer: A. 0 mmol/l - ?
+#### Answer: A. 0 mmol/l - *FALSE*
+- Gelofusine has same [Na] as 0.9% (isotonic) NaCl = 154 mmol/L
 
 ### Q142
 The sodium concentration of 4% dextrose saline.
-#### Answer: E. 30 mmol/l - ?
+#### Answer: E. 30 mmol/l - TRUE
 - 4% dextrose-saline = 4% Dex + 0.18% NaCl => 150/5 = 30 mmol/L
 
 ### Q143
 The potassium concentration of Gelofusine.
-#### Answer: A. 0 mmol/l - ?
+#### Answer: A. 0 mmol/l - TRUE
+
+#### Sodium and Potassium Concentrations - LEARN
+
+Fluid									| [Na] mmol/L	| [K] mmol/L	|
+----------------------------------------|--------------:|--------------:|
+Serum									| 142			| 4.5
+Normal Saline							| 154			| --
+Dextrose-Saline (4% Dex + 0.18% NaCl)	|  30			| --
+5% Dextrose								|   0			| --
+Hartman's (CSL)							| 130			| 5.0
+Gelofusine								| 154			| --
 
 
 Q144-146: Theme: Hypovolaemic Shock - LEARN
@@ -1344,16 +1453,28 @@ Q144-146: Theme: Hypovolaemic Shock - LEARN
     D. Class IV hypovolaemic shock
 
 ### Q144
-An 18-year-old man involved in an RTA has a fractured right femur and open fracture of the left tibia. His pulse is 109/min regular, BP 114/90 mmHg and RR 25 breaths/min.
-#### Answer: B. Class II hypovolaemic shock - ?
+An 18-year-old man involved in an RTA has a fractured right femur and open fracture of the left tibia. His *pulse is 109/min* regular, *BP 114/90 mmHg* and *RR 25 breaths/min*.
+#### Answer: B. Class II hypovolaemic shock - TRUE
+- Pulse: 109 = >100 (II); BP: 114/90 = normal (I, II); RR: 25 = 20-30 (II)
 
 ### Q145
 A 50-year-old man with a bleeding peptic ulcer. His pulse is 98/min, BP 134/72 mmHg and RR 20 breaths/min.
-#### Answer: A. Class I hypovolaemic shock - ?
+#### Answer: A. Class I hypovolaemic shock - TRUE
+- Pulse: 98 = <100 (I); BP: 134/72 = normal (I, II); RR: 20 = 14-20 (I)
 
 ### Q146
 A 30-year-old pregnant woman with a per vaginal bleed. Her pulse is 138/min, BP 92/70 mmHg, RR 35 breaths/min.
-#### Answer: C. Class III hypovolaemic shock - ?
+#### Answer: C. Class III hypovolaemic shock - TRUE
+- Pulse: 138 = >120 (III); BP: 92/70 = decreased (III, IV); RR: 35 = 30-40 (III)
+
+#### HyPOvolaemic Shock
+
+Criteria	| Class I	| Class II	| Class III	| Class IV	|
+------------|-----------|-----------|-----------|-----------|
+HR (bpm)	| < 100		| > 100 	| > 120 	| > 140
+RR (rpm)	| 14-20		| 20-30		| 30-40		| > 40
+BP			| NORMAL	| NORMAL	| &darr;	| &darr;
+PP			| NORMAL	| &darr;	| &darr;	| &darr;
 
 
 Q147-150: Theme: Nutritional Support
@@ -1367,20 +1488,29 @@ Q147-150: Theme: Nutritional Support
     F. Total parenteral nutrition (TPN)
 
 ### Q147
-A patient with severe acute pancreatitis.
-#### Answer: B. Nasogastric feeding - ?
+A patient with severe *acute pancreatitis*.
+#### Answer: B. Nasogastric feeding - *FALSE* = C. Nasojejunal feeding
+- *Acute Pancreatitis* require *medium-term* feeding
+	- Needs a method which infuses food *distal to pancreas*
 
 ### Q148
 A patient who has had a CVA affecting their swallowing a week ago.
-#### Answer: E. Percutaneous endoscopic gastrostomy (PEG) feeding - ?
+#### Answer: E. Percutaneous endoscopic gastrostomy (PEG) feeding - TRUE
+- PEG feeding is the best option for *long-term* feeding (e.g. post stroke)
 
 ### Q149
 A patient undergoing Whipple's procedure.
-#### Answer: A. Jejunostomy - ?
+#### Answer: A. Jejunostomy - TRUE
+- Indications for jejunostomy (4)
+	1. Major upper abdominal surgery
+	2. Major abdominal trauma
+	3. Post-operative chemotherapy or radiotherapy
+	4. Malnourished patients undergoing abdominal surgery
 
 ### Q150
 A patient with Crohn's disease affecting the small bowel.
-#### Answer: F. Total parenteral nutrition (TPN) - ?
+#### Answer: F. Total parenteral nutrition (TPN) - TRUE
+- No other route is appropriate (but TPN) as small bowel is affected
 
 
 Q151-153: Theme: Thyroid Neoplasms
@@ -1394,16 +1524,21 @@ Q151-153: Theme: Thyroid Neoplasms
     F. Papillary carcinoma
 
 ### Q151
-A 35-year-old woman presents with a painless nodule, gradually increasing in size, in the left lobe of the thyroid. Histological examination reveals *psammoma bodies*.
-#### Answer: F. Papillary carcinoma - ?
+A *35-year-old woman* presents with a painless nodule, gradually increasing in size, in the left lobe of the thyroid. Histological examination reveals *psammoma bodies*.
+#### Answer: F. Papillary carcinoma - TRUE
+- Papillary carcinoma is characterised by *psammoma bodies*
+	- It is more common in *women aged 20-50 years*
 
 ### Q152
-An 83-year-old woman presents with a rapidly growing *hard painless lump* in the right lobe of the thyroid, associated with *dysphagia*.
-#### Answer: D. Medullary carcinoma - ?
+An *83-year-old* woman presents with a rapidly growing *hard painless lump* in the right lobe of the thyroid, associated with *dysphagia*.
+#### Answer: D. Medullary carcinoma - *FALSE* = A. Anaplastic carcinoma
+- *Anaplastic carcinoma* presents more commonly in the older patient and is *aggressive*
+	- Often presents with *dysphagia*, *dysphonia* or *stridor*
 
 ### Q153
 A 47-year-old woman presents with a *painless lump*, gradually increasing in size, in the left lobe of the thyroid. Her *serum calcitonin* level is elevated.
-#### Answer: B. Follicular carcinoma - ?
+#### Answer: B. Follicular carcinoma - *FALSE* = D. Medullary carcinoma
+- **NOTE** Raised calcitonin level indicates *medullary carcinoma*
 
 
 Q154-157: Theme: Nipple Discharge
@@ -1417,20 +1552,27 @@ Q154-157: Theme: Nipple Discharge
     F. Prolactinoma
 
 ### Q154
-A 20-year-old woman with a *bloody single-duct discharge* and a *palpable mass at the areola*. *No malignant cells* are isolated from the discharge.
-#### Answer: B. Duct ectasia - ?
+A 20-year-old woman with a *bloody, single-duct discharge* and a *palpable mass at the areola*. *No malignant cells* are isolated from the discharge.
+#### Answer: B. Duct ectasia - *FALSE* = C. Intraductal papilloma
+- Benign neoplasm associated with *bloody, single-duct discharge*
 
 ### Q155
-A 31-year-old woman, a smoker, with a *purulent discharge* associated with *tenderness*.
-#### Answer: D. Periductal mastitis - ?
+A 31-year-old woman, a *smoker*, with a *purulent discharge* associated with *tenderness*.
+#### Answer: D. Periductal mastitis - TRUE
+- Periductal mastitis
+	- Strongly associated with *smoking*
+	- It causes a *purulent discharge*
 
 ### Q156
-A 62-year-old woman with a *bloody single-duct discharge*. There is *no palpable mass*.
-#### Answer: A. Ductal carcinoma in situ - ?
+A 62-year-old woman with a *bloody, single-duct discharge*. There is *no palpable mass*.
+#### Answer: A. Ductal carcinoma in situ - TRUE
+- Bloody discharge should be assumed to be *from malignancy until proved otherwise*
 
 ### Q157
 A 33-year-old multiparous woman presents with a *multiductal white discharge*, no blood on dipstick. She is being investigated for *weight gain* and *irregular menstruation*.
-#### Answer: F. Prolactinoma - ?
+#### Answer: F. Prolactinoma - TRUE
+- Prolactinoma = essential lactation unrelated to childbirth
+- Systemic Sx &rarr; cause of discharge being part of an endocrine process
 
 
 Q158-160: Theme: Shoulder Pain
@@ -1446,16 +1588,23 @@ Q158-160: Theme: Shoulder Pain
     H. Subacromial impingement
 
 ### Q158
-A 25-year-old woman presents with a 12-hour history of rapidly increasing *severe right shoulder pain*, *worst on abduction* between 120 and 170 degrees.
-#### Answer: H. Subacromial impingement - ?
+A *25-year-old* woman presents with a 12-hour history of rapidly increasing *severe right shoulder pain*, *worst on abduction* between 120 and 170 degrees.
+#### Answer: H. Subacromial impingement - *FALSE* = A. Acute calcific tendonitis
+- Acute calcific tendonitis arises without injury, and is acutely and very painful
+	- It is more common in women and in those in their third or fourth decades
 
 ### Q159
 An 18-year-old rugby player presents with *severe left shoulder pain* following a direct *blow to the shoulder*. The left *shoulder appears flattened*.
-#### Answer: B. Acute dislocation - ?
+#### Answer: B. Acute dislocation - TRUE
+- Player has sustained a direct blow causing an *acute dislocation*
+	- Characterised by *flattening* of the normal shape of Deltoid
 
 ### Q160
-A 73-year-old man presents *3 days after a fall* with a *painful left shoulder*. The *pain is worse at night* and he is unable to lie on that side. *Abduction and external rotation* are severely decreased, and *all movements are painful*.
-#### Answer: G. Rotator cuff tear - ? / A. Acute calcific tendonitis - ?
+A 73-year-old man presents *3 days after a fall* with a *painful left shoulder*. The *pain is worse at night* and he is unable to lie on that side. *Abduction and external rotation* are severely decreased, and all movements are painful.
+#### Answer: G. Rotator cuff tear - *FALSE* = C. Frozen shoulder
+- Frozen shoulder often presents *following minor trauma in elderly people*
+	- Pain is often worse at night
+	- Abduction and external rotation are the movements worst affected
 
 
 Q161-165: Theme: ASA Grading - Classification of Physical Status - LEARN
@@ -1470,27 +1619,45 @@ Q161-165: Theme: ASA Grading - Classification of Physical Status - LEARN
 For each of the following patients select the most appropriate ASA (*American Society of Anesthesiologists*) grade. 
 
 ### Q161
-A 54-year-old man with chronic renal failure, requiring dialysis. He wants to have a total hip replacement for severe osteoarthritis.
-#### Answer: C. Class 3 - ?
+A 54-year-old man with chronic renal failure, *requiring dialysis*. He wants to have a total hip replacement for severe osteoarthritis.
+#### Answer: C. Class 3 - *FALSE* = D. Class 4
+- Class IV: Patient with incapacitating disease that is a constant threat to life
 
 ### Q162
-A 64-year-old woman with tablet-controlled hypertension for whom a laparoscopic cholecystectomy has been planned.
-#### Answer: B. Class 2 - ?
+A 64-year-old woman with *tablet-controlled hypertension* for whom a laparoscopic cholecystectomy has been planned.
+#### Answer: B. Class 2 - TRUE
+- Class II: Patient with *mild systemic disease*
 
 ### Q163
 A 34-year-old man ruptures his *anterior cruciate ligament* (ACL) playing football and needs to have it repaired.
-#### Answer: A. Class 1 - ?
+#### Answer: A. Class 1 - TRUE
+- Class I: Normal, healthy individual
 
 ### Q164
-A 32-year-old patient with a 10-year history of *ulcerative colitis*, *fully controlled with medication*, due to undergo varicose vein stripping in the lower limbs.
-#### Answer: B. Class 2 - ?
+A 32-year-old patient with a 10-year history of ulcerative colitis, *fully controlled with medication*, due to undergo varicose vein stripping in the lower limbs.
+#### Answer: B. Class 2 - TRUE
+- Class II: Patient with *mild systemic disease*
 
 ### Q165
-An 18-year-old man due to undergo inguinal hernia repair. He has a *history of severe asthma* that needed ICU admission in the past. He has to *use inhalers four times a day*, and is admitted to hospital with an *acute exacerbation* at least twice a year.
-#### Answer: D. Class 4 - ?
+An 18-year-old man due to undergo inguinal hernia repair. He has a *history of severe asthma that needed ICU admission* in the past. He has to *use inhalers four times a day*, and is *admitted to hospital with an acute exacerbation* at least twice a year.
+#### Answer: D. Class 4 - *FALSE* = C. Class 3
+- Class III: Patient with *severe systemic disease* that limits activity but is *not incapacitating*
+
+##### ASA Grading - LEARN
+- ASA grading is used by anaesthetists to place patients in groups 
+	- According to their pre-operative physical condition
+	- Irrespective of type of surgery they are planned to undergo
+
+Class	| Description 																				|
+:------:|-------------------------------------------------------------------------------------------|
+I		| Normal, healthy individual
+II		| Patient with *mild systemic disease*
+III		| Patient with *severe systemic disease* that limits activity but is *not incapacitating*
+IV		| Patient with incapacitating disease that is a constant threat to life
+V		| Moribund patient who is not expected to survive without an operation
 
 
-Q166-167: Theme: Staging of Transitional Cell Carcinoma of the Bladder - LEARN
+Q166-167: Theme: Staging of Transitional Cell Carcinoma of the Bladder
 ----------------------------------------------------------------------
 
     A. Tis
@@ -1503,12 +1670,35 @@ Q166-167: Theme: Staging of Transitional Cell Carcinoma of the Bladder - LEARN
     H. T4b
 
 ### Q166
-A 67-year-old woman presents with a several-month history of *painless haematuria*. Ultrasound of the *upper tracts in normal* but urine cytological examination is *positive for malignant cells*. Bimanual examination under general anaesthetic shows that the *tumour is fixed to the left lateral side wall*.
-#### Answer: G. T4a - ?
+A 67-year-old woman presents with a several-month history of *painless haematuria*. Ultrasound of the *upper tracts in normal* but urine cytological examination is *positive for malignant cells*. Bimanual examination under general anaesthetic shows that the tumour is *fixed to the left lateral side wall*.
+#### Answer: G. T4a - *FALSE* = H. T4b
+- Staging
+	- T4b = *fixed to the left lateral side wall*
 
 ### Q167
 A 70-year-old man presents for 6-monthly surveillance cystoscopy following a diagnosis and resection of transitional cell carcinoma bladder (stage T1) 2 years ago. A suspicious area is seen and TURBT is carried out. Histological examination shows that the tumour *breaches the lamina propria* and invades the *superficial muscle*.
-#### Answer: D. T2b - ?
+#### Answer: D. T2b - *FALSE* = C. T2a
+- Staging
+	- T1 = *breaches the lamina propria*
+	- **T2a** = *superficial muscle*
+
+#### Staging of Bladder Cancer - LEARN
+- Staging of bladder cancer depends on how far into the bladder wall the tumour has invaded
+- During TURBT tumours should be carefully resected in layers to 
+	- Get specimens for accurate staging and
+	- Fully remove more superficial tumours
+
+Stage	| Description						|
+:------:|-----------------------------------|
+Tis		| *in situ*
+Ta		| Confined to epithelium
+T1		| Invading lamina propria
+T2a		| Invading superficial muscle
+T2b		| Invading deep muscle
+T3a		| Microscopic perivesical invasion
+T3b		| Macroscopic perivesical invasion
+T4a		| Invasion into adjacent organs
+T4b		| Fixed to pelvic side wall
 
 
 Q168-170: Theme: Polyps
@@ -1524,15 +1714,39 @@ Q168-170: Theme: Polyps
 
 ### Q168
 The *most common polyp found in children*. Present as *PR bleeding* or by *prolapsing* through the anus. *Not pre-malignant*.
-#### Answer: E. Peutz–Jeghers polyp - ?
+#### Answer: E. Peutz–Jeghers polyp - *FALSE* = D. Juvenile polyp
 
 ### Q169
 *Rare colonic tumour* which arises from the *submucosal layer*. Can contain *muscle or glandular tissue*.
-#### Answer: B. Hyperplastic polyp - ?
+#### Answer: B. Hyperplastic polyp - *FALSE* = A. Fibroma
 
 ### Q170
 *Most common type of polyp*, usually found *in the rectum*. No evidence that they undergo malignant change.
-#### Answer: F. Tubular adenoma - ?
+#### Answer: F. Tubular adenoma - *FALSE* = B. Hyperplastic polyp
+
+#### Polyps - LEARN
+- A polyp is defined as an "abnormal elevation from an epithelial surface and can be malignant or benign"
+
+##### Hyperplastic Polyps
+- Hyperplastic polyps are **most common type**
+- Flat and the same colour as bowel mucosa
+	- Do *not undergo malignant change*
+
+##### Juvenile Polyps
+- Juvenile polyps are typically found in children under the age of 10 years
+- Usually present in the rectum but can be found anywhere in the large bowel
+	- Also *not pre-malignant*
+
+##### Fibromas
+- Fibromas are rare colonic tumours arising from the submucosal layer
+- Hard, mobile and pedunculated
+	- *Rarely undergo malignant change*
+
+##### Peutz-Jeghers polyps
+- Peutz-Jeghers polyps are associated with familial disorder 
+	- Associated with buccal hyperpigmentation
+- Most commonly found in small bowel and are usually multiple
+	- *Low-grade malignant potential*
 
 
 Q171-172: Theme: Radiological Appearances
@@ -1548,11 +1762,37 @@ Q171-172: Theme: Radiological Appearances
 
 ### Q171
 *Distended loop of bowel* and *'beak sign'* on instant enema.
-#### Answer: C. Hirschprung's disease - ?
+#### Answer: C. Hirschprung's disease - *FALSE* = F. Sigmoid volvulus
+- **NOTE** Sigmoid volvulus is identified as a loop of distended bowel and ‘beak sign’ on instant enema
 
 ### Q172
 *Tubular shaped colon* with *no faecal matter* within the affected part of the bowel.
-#### Answer: F. Sigmoid volvulus - ?
+#### Answer: F. Sigmoid volvulus - *FALSE* = G. Ulcerative colitis
+- Features indicating Ulcerative Colitis (UC)
+	1. Loss of haustral fold pattern
+	2. Mucosal irregularity
+	3. *Tubular ('lead pipe') shaped colon* 
+	4. *Absence of faecal residue within the affected segment of bowel*
+
+#### Notes
+
+##### Hirschsprung's Disease
+- Hirschsprung's disease can be diagnosed by presence of of a ‘cone’
+	- Between collapsed distal and dilated proximal bowel on contrast enema
+	- Due to portion of *aganglionic bowel* 
+
+##### Necrotising Enterocolitis
+- Intramural gas is a sign of necrotising enterocolitis, which affects neonates 
+
+##### Duodenal Atresia
+- Duodenal atresia is also seen in newborns 
+- Picked up by the presence of a ‘double bubble’ on abdominal X-ray
+	- consisting of an air-filled stomach and first part of duodenum
+
+##### Diverticular Disease
+- Diverticular disease *cannot be diagnosed on plain abdominal X-ray* 
+- *Gastrografin enema*
+	- Often appears as segmental lumen narrowing and tethered mucosa
 
 
 Q173-177: Theme: Peripheral Nerve Injury
@@ -1567,22 +1807,41 @@ Q173-177: Theme: Peripheral Nerve Injury
 
 ### Q173
 A 21-year-old man suffers an *anterior dislocation of his right shoulder*. Examination after reduction reveals an area of sensory loss around the *lateral aspect of the shoulder*.
-#### Answer: C. Musculocutaneous nerve - ?
+#### Answer: C. Musculocutaneous nerve - *FALSE* = A. Axillary nerve
+- Axillary Nerve is damaged in up to 5% of *dislocations of shoulder*
+- Damage to Axillary Nerve leads to sensory loss in 'regimental patch' area
+	- This is on lateral aspect of arm, around lower border of deltoid muscle
 
 ### Q174
 A 53-year-old woman *falls onto an outstretched hand* (FOOSH). X-rays of the elbow reveal a *fracture of the radial neck*. She has *no sensory loss*, but has *weak extension of the wrist* and *cannot extend her fingers*.
-#### Answer: E. Radial nerve - ?
+#### Answer: E. Radial nerve - *FALSE* = D. Posterior interosseous nerve of the forearm
+- Posterior Interosseous Nerve passes around Neck of Radius 
+	- Is susceptible to injury here 
+- It supplies most of the *extensors of wrist and fingers* although 
+	- Extensor carpi radialis longus (ECRL) is supplied by Radial Nerve before it divides
+		- So *some wrist extension remains*
+- Posterior Interosseous Nerve is *purely motor* (so no sensation is lost)
 
 ### Q175
 A 66-year-old woman falls, fracturing the *surgical neck of humerus*. Six months after the injury she *continues to struggle to abduct her shoulder*.
-#### Answer: A. Axillary nerve - ?
+#### Answer: A. Axillary nerve - TRUE
+- Axillary Nerve wraps around surgical Neck of Humerus 
+	- Is susceptible to injury here
+- It supplies Deltoid - damage to Axillary Nerve limits shoulder abduction
 
 ### Q176
 An 8-year-old boy has a *supracondylar fracture of the right elbow*. After initial K-wire fixation he reattends the clinic for routine follow-up. There is *hyperextension of the metacarpophalangeal joints* of the *ring and little fingers* and flexion of the interphalangeal joints.
-#### Answer: F. Ulnar nerve - ?
+#### Answer: F. Ulnar nerve - TRUE
+- Ulnar Nerve runs just behind the medial epicondyle
+- Damage to the nerve produces a typical ‘claw’ hand, with 
+	1. Unopposed action of Extensors
+	2. Paralysis of deep flexors to Ring and Little Fingers 
+	3. In conjunction with paralysis of Lumbricals and Interossei
 
 ### Q177
-A 23-year-old man has a deep laceration to the *anterior aspect of his arm*. When seen in A&E there is pulsatile bleeding from the wound and he is *unable to flex at the wrist*.
-#### Answer: B. Median nerve - ?
+A 23-year-old man has a deep laceration to the *anterior aspect of his arm*. When seen in A&E there is *pulsatile bleeding* from the wound and he is *unable to flex at the wrist*.
+#### Answer: B. Median nerve - TRUE
+- Median Nerve crosses Brachial Artery anteriorly in Arm
+- *Pulsatile bleeding* suggesting brachial artery damage includes damage Median Nerve
 
 ---
