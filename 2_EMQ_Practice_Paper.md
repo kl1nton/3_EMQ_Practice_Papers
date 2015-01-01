@@ -1,7 +1,7 @@
 EMQ Practice Paper: 2
 =====================
 
-Overall: 98/180 = 54.0% (48+33 = 81 errors)
+Overall: 99/180 = 55.0% (81 errors)
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
