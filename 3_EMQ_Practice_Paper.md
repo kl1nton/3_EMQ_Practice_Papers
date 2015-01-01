@@ -5,29 +5,29 @@ Overall: ??/??? = ??.?% (TODO errors)
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1-4		| ?/4 =  ?%		| 
-5-8		| ?/4 =  ?%		| 
-9-12	| ?/4 =  ?%		| 
-13-15	| ?/3 =  ?%		| 
-16-20	| ?/5 =  ?%		| 
-21-24	| ?/4 =  ?%		| 
-25-29	| ?/5 =  ?%		| 
-30-33	| ?/4 =  ?%		| 
-34-37	| ?/4 =  ?%		| 
-38-42	| ?/5 =  ?%		| 
-43-46	| ?/4 =  ?%		| 
-47-50	| ?/4 =  ?%		| 
-51-54	| ?/4 =  ?%		| 
-55-58	| ?/4 =  ?%		| 
-59-62	| ?/4 =  ?%		| 
-63-66	| ?/4 =  ?%		| 
-67-71	| ?/5 =  ?%		| 
-72-77	| ?/6 =  ?%		| 
-78-82	| ?/5 =  ?%		| 
-83-85	| ?/3 =  ?%		| 
-86-93	| ?/8 =  ?%		| 
-94-97	| ?/4 =  ?%		| 
-98-100	| ?/3 =  ?%		| 
+1-4		| 2/4 =  50%	| 1, 4
+5-8		| 0/4 =   0%	| 5, 6, 7, 8 
+9-12	| 4/4 =  100%	| Ø
+13-15	| 1/3 =   33%	| 13, 15
+16-20	| 1/5 =   20%	| 16, 17, 19, 20
+21-24	| 2/4 =   50%	| 21, 23
+25-29	| 2/5 =   40%	| 26, 28, 29
+30-33	| 2/4 =   50%	| 31, 32
+34-37	| 2/4 =   50%	| 34, 35
+38-42	| 1/5 =   20%	| 38, 40, 41, 42
+43-46	| 4/4 =  100%	| Ø 
+47-50	| 2/4 =   50%	| 48, 50
+51-54	| 3/4 =   75%	| 51
+55-58	| 1/4 =   25%	| 56, 57, 58
+59-62	| 1/4 =   25%	| 59, 60, 62
+63-66	| 3/4 =   75%	| 66
+67-71	| 3/5 =   60%	| 68, 69
+72-77	| 5/6 =   83%	| 73
+78-82	| 3/5 =   60%	| 79, 80
+83-85	| 3/3 =  100%	| Ø
+86-93	| 6/8 =   75%	| 89, 91
+94-97	| 1/4 =   25%	| 95, 96, 97
+98-100	| 0/3 =    0%	| 98, 99, 100
 101-104	| ?/4 =  ?%		| 
 105-112	| ?/8 =  ?%		| 
 113-115	| ?/3 =  ?%		| 
@@ -64,23 +64,36 @@ Q1-4: Theme: Obstruction
 For each of the following scenarios, choose the most likely diagnosis from the list of options above. 
 
 ### Q1
-A 25-year-old woman with a history of eating disorders and laxative abuse presents with increasing abdominal pain, distension and absolute constipation for 4 days.
-#### Answer: F. Crohn's disease - ?
+A 25-year-old woman with a history of *eating disorders* and *laxative abuse* presents with increasing *abdominal pain*, *distension* and *absolute constipation* for 4 days.
+#### Answer: F. Crohn's disease - *FALSE* - D. Volvulus (*Sigmoid*)
+- Hx of constipation and laxative abuse - linked to &uarr; risk of sigmoid volvulus
 
 ### Q2
-A 65-year-old man with a 2-month history of altered bowel habit and weight loss presents with a 2-day history of increasing abdominal distension, pain and absolute constipation.
-#### Answer: E. Carcinoma - ?
+A 65-year-old man with a 2-month history of *altered bowel habit* and *weight loss* presents with a 2-day history of increasing abdominal distension, pain and *absolute constipation*.
+#### Answer: E. Carcinoma - TRUE
+- Hx of 
+	1. Altered bowel habit, and
+	2. Weight loss, associated with 
+	3. Obstruction
+- Carcinoma *until proved otherwise*
 
 ### Q3
-A 90-year-old woman 5 days post-op following a hemiarthroplasty of the left hip has increasing abdominal distension and pain and has not opened her bowels for 9 days.
-#### Answer: A. Paralytic ileus - ?
+A 90-year-old woman *5 days post-op* following a *hemiarthroplasty* of the left hip has increasing *abdominal distension* and *pain* and has *not opened her bowels* for 9 days.
+#### Answer: A. Paralytic ileus - TRUE
+- Ileus is common in 
+	- Post-op patients lying still in bed for lengthy periods, and
+	- Patients undergoing spinal surgery
 
 ### Q4
-A 46-year-old woman who has previously had a hysterectomy and several episodes of abdominal pain presents with increasing pain, distension and absolute constipation. Abdominal X-ray shows distended bowel loops and the biliary tree is outlined.
-#### Answer: B. Adhesions - ?
+A 46-year-old woman who has *previously had a hysterectomy* and *several episodes of abdominal pain* presents with increasing pain, distension and *absolute constipation*. Abdominal X-ray shows *distended bowel loops* and the *biliary tree is outlined*.
+#### Answer: B. Adhesions - *FALSE* = G. Gallstone ileus
+- While previous abdominal surgery predisposes to adhesions
+	Past medical history of abdominal pain could represent gallstones
+- **NOTE** Finding of air outlining the biliary tree or gallbladder on X-ray 
+	- is characteristic of *gallstone ileus*
 
 
-Q5-8: Theme: Investigation of Renal Trauma
+Q5-8: Theme: Investigation of Renal Trauma - LEARN
 ------------------------------------------
 
 	A. Plain X-ray
@@ -97,19 +110,45 @@ For each of the following scenarios, choose the most appropriate investigation f
 
 ### Q5
 An 18-year-old motorcyclist involved in a *high-speed RTA* sustains multiple injuries, including a head injury, haemothorax, fractured pelvis and femur. There is *blood at the external urethral meatus*.
-#### Answer: H. CT scan with contrast - ?
+#### Answer: H. CT scan with contrast - *FALSE* = F. Urethrogram
+- Patient has blood at the external urethral meatus
+	- Urethrography must be *first investigation*, prior to passing a catheter
 
 ### Q6
 A 45-year-old man involved in an RTA as the *restrained driver* sustains *fractures of ribs 8-12*. He is initially haemodynamically unstable, but responds to fluids. There is *free fluid in the abdomen* on a FAST scan (focused abdominal sonography for trauma) and *frank haematuria* is draining from the catheter.
-#### Answer: F. Urethrogram - ?
+#### Answer: F. Urethrogram - *FALSE* = H. CT scan with contrast
+- Patient is most likely to have a *renal injury*, given level of rib fractures
+	- Contrast CT is required in this stable patient (renal injuries = Contrast CT)
 
 ### Q7
 A 25-year-old man sustains a *stab wound* to the left flank. He has *haematuria draining from his catheter* and *severe left loin pain*.
-#### Answer: B. KUB study - ?
+#### Answer: B. KUB study - *FALSE* = H. CT scan with contrast
+- Patient is likely to have ureteric injury: > 90% are due to penetrating injuries
+- High risk of other intra-abdominal injuries - *Contrast CT* is preferable to IVU
 
 ### Q8
 A 30-year-old motorcyclist sustains an *unstable pelvic fracture*. His catheter is draining *frank haematuria*.
-#### Answer: C. Ultrasound scan (USS) - ?
+#### Answer: C. Ultrasound scan (USS) - *FALSE* = E. Cystogram
+- Bladder trauma is commonly associated with pelvic fractures 
+	- **Not well** visualised on CT
+- Cystogram is Ix of choice in a case of suspected bladder injury
+
+#### Notes
+- Imaging of renal trauma is dependent on the injury suspected
+	- **NOTE** Plain X-rays, KUB studies and USS have little or no role to play
+
+##### Intravenous Urogram (IVU)
+- IVU can be useful for *renal injuries* - contrast CT is more sensitive and specific 
+- IVU **is** used for *ureteric injuries*, unless other injuries are suspected
+	- In which case contrast CT can image these as well
+
+##### Urethrogram
+- Urethrogram must be performed prior to catheterisation if
+	1. Blood is seen at the *external urethral meatus*, or 
+	2. There is a *high-riding prostate*
+
+##### Cystogram
+- In cases of *suspected bladder injury* a cystogram is investigation of choice
 
 
 Q9-12: Theme: Burns
@@ -130,27 +169,37 @@ For each of the following scenarios, choose the correct percentage surface area 
 
 ### Q9
 A 37-year-old man is brought into A&E with red, blistered burns affecting the anterior aspects of both legs and the perineum.
-#### Answer: G. 19% - ?
+#### Answer: G. 19% - TRUE
 - leg: 18%, perineum: 1%
 - 2x anterior leg + perineum = 2x9% + 1% = 19%
 
 ### Q10
 An 18-year-old woman presents to A&E having picked up a hot pan. She has red, painful, blistered burns on the palms of both hands.
-#### Answer: C. 2.5% - ?
-- palm: 1%
-- 2x palm = 2x1% = 2%
+#### Answer: C. 2.5% - TRUE
+- palm: 1.25%
+- 2x palm = 2x1.25% = 2.5%
 
 ### Q11
 A 69-year-old man is brought to A&E following a house fire, with black, insensate burns covering the trunk and red, painful burns to the anterior and posterior aspects of the right arm.
-#### Answer: J. 45% - ?
+#### Answer: J. 45% - TRUE
 - trunk: 36%; arm: 9%
 - 1x trunk + arm = 36% + 9% = 45%
 
 ### Q12
-A 45-year-old woman presents to A&E with painful, red, blistered burns covering the head and neck, and pink, unblistered skin on the right palm.
-#### Answer: D. 9% - ?
+A 45-year-old woman presents to A&E with painful, red, blistered burns covering the head and neck, and pink, *unblistered skin* on the right palm.
+#### Answer: D. 9% - TRUE
 - head/neck: 9%; palm: 1%
 - 1x head/neck + 0x palm = 1x9% + 0 = 9%
+
+#### Burns - Wallace's Rule of 9s
+- Surface area of burns is calculated using Wallace's rule of 9s
+- **NOTE** Simple areas of erythema are not included
+	- Head and neck – 9%
+	- Trunk – 36% (18% anterior aspect and 18% posterior aspect)
+	- Perineum – 1%
+	- Arms – 9% each
+	- Palm of the hand – 1.25%
+	- Legs – 18% each (9% anterior surface and 9% posterior)
 
 
 Q13-15: Theme: Statistics
@@ -165,15 +214,31 @@ For each of the following, choose the most appropriate option from the list abov
 
 ### Q13
 Blood groups.
-#### Answer: C. Ordinal data - ?
+#### Answer: C. Ordinal data - *FALSE* = D. Nominal data
+- Names: A, B, AB, O = Nominal
 
 ### Q14
 Blood pressure.
-#### Answer: A. Quantitative measured data - ?
+#### Answer: A. Quantitative measured data - TRUE
+- Quantitative: how much of a variable
+- Measured: continuous variables, e.g. BP
 
 ### Q15
 Staging of colorectal cancer.
-#### Answer: D. Nominal data - ?
+#### Answer: D. Nominal data - *FALSE* = C. Ordinal data
+- Order: A, B, C, D = Ordinal (*ordered*)
+
+#### Notes
+
+##### Quantitative Data
+- Measurement of how much of a particular variable, or how much its respective value 
+	- Measured: continuous variables, e.g. BP
+	- Counted: whole numbers, e.g. prevalence of a condition
+
+##### Categorical Data
+- Categorical data measure the type of a variable
+	- *Ordinal* data: *ordered* categories, e.g. staging of cancers
+	- *Nominal*: *named*, but unordered, categories, e.g. blood groups
 
 
 Q16-20: Theme: Drains
@@ -190,23 +255,33 @@ For each of the following situations, choose the most appropriate drain from the
 
 ### Q16
 Bowel anastomosis following uncomplicated elective surgery.
-#### Answer: B. Closed suction drain - ?
+#### Answer: B. Closed suction drain - *FALSE* = D. No drain required
+- Drainage is **not** recommended following uncomplicated bowel anastomosis
 
 ### Q17
 Immediately following thyroidectomy.
-#### Answer: C. Corrugated drain - ?
+#### Answer: C. Corrugated drain - *FALSE* = B. Closed suction drain
+- A closed suction drain is recommended immediately following thyroidectomy to 
+	- *Prevent haematoma formation* and airway compromise
 
 ### Q18
 A high-output enteric fistula.
-#### Answer: E. Sump drain - ?
+#### Answer: E. Sump drain - TRUE
+- High-output enteric fistula requires a sump drain to
+	- Allow *aspiration and irrigation* without stimulating further output, and 
+	- *Prevent fistula* effluent spilling onto the skin
 
 ### Q19
 A skin flap.
-#### Answer: D. No drain required - ?
+#### Answer: D. No drain required - *FALSE* = B. Closed suction drain
+- Skin flap requires a closed suction drain to 
+	- *Prevent haematoma formation* disrupting blood supply to flap
 
 ### Q20
 An oesophageal perforation.
-#### Answer: B. Closed suction drain - ?
+#### Answer: B. Closed suction drain - *FALSE* = F. T-tube
+- T-tubes can be used for CBD (common bile duct) and oesophageal perforations 
+	- To prevent further damage to friable tissues
 
 
 Q21-24: Theme: Fracture Classifications
@@ -224,19 +299,25 @@ For each of the following scenarios, choose the most appropriate option from the
 
 ### Q21
 An open tibial fracture.
-#### Answer: F. Salter–Harris classification - ?
+#### Answer: F. Salter–Harris classification - *FALSE* = C. Gustilo–Anderson classification
+- Open fractures are classified using Gustilo–Anderson classification
 
 ### Q22
 A displaced radial head fracture.
-#### Answer: D. Mason's classification - ? 
+#### Answer: D. Mason's classification - TRUE
+- Mason classified radial head fractures
 
 ### Q23
 A fractured distal radius in an 11-year-old child.
-#### Answer: C. Gustilo–Anderson classification - ?
+#### Answer: C. Gustilo–Anderson classification - *FALSE* = F. Salter–Harris classification
+- Distal radial fracture in a child would extend into the epiphysis 
+	- Is therefore considered a growth plate injury
+- Growth plate injuries are classified by Salter–Harris classification
 
 ### Q24
 An intracapsular fractured neck of femur.
-#### Answer: B. Garden's classification - ?
+#### Answer: B. Garden's classification - TRUE
+- Intracapsular hip fractures are classified using Garden's classification
 
 
 Q25-29: Theme: Local Anaesthetics
@@ -253,24 +334,32 @@ Q25-29: Theme: Local Anaesthetics
 For each of the following situations, choose the most appropriate option from the list above.
 
 ### Q25
-For a digital nerve block to allow suturing of a clean laceration.
-#### Answer: D. Lidocaine - ?
+For a *digital nerve block* to allow suturing of a clean laceration.
+#### Answer: D. Lidocaine - TRUE
+- Lidocaine *without* adrenaline is choice of LA 
+	- As procedure requires rapid onset of anaesthesia
+- **NOTE** As it is on a digit, **adrenaline must not be used**
 
 ### Q26
 For Bier's block to manipulate a Colles’ fracture.
-#### Answer: E. Lidocaine and adrenaline - ?
+#### Answer: E. Lidocaine and adrenaline - *FALSE* = F. Prilocaine
+- Prilocaine is most commonly used LA for IV administration in Bier's blocks
 
 ### Q27
 Excision of a sebaceous cyst from the scalp.
-#### Answer: E. Lidocaine and adrenaline - ?
+#### Answer: E. Lidocaine and adrenaline - TRUE
+- Scalp is *very vascular*: adrenaline is used to prevent excessive haemorrhage
 
 ### Q28
-For post-operative analgesia after Zadik's procedure under a general anaesthetic.
-#### Answer: B. Bupivacaine and adrenaline - ?
+For *post-operative analgesia* after Zadik's procedure under a *general anaesthetic*.
+#### Answer: B. Bupivacaine and adrenaline - *FALSE* = A. Bupivacaine
+- Bupivacaine alone allows longer-duration analgesia once the patient has recovered following a general anaesthetic
+	- Again, adrenaline should not be added as the procedure is on a digit
 
 ### Q29
-For a spinal anaesthetic.
-#### Answer: F. Prilocaine - ?
+For a *spinal* anaesthetic.
+#### Answer: F. Prilocaine - *FALSE* = A. Bupivacaine
+- Bupivacaine without adrenaline can be used in spinal anaesthesia
 
 
 Q30-33: Theme: Treatment of Fractures
@@ -286,20 +375,29 @@ Q30-33: Theme: Treatment of Fractures
 For each of the following situations, choose the most appropriate treatment option from the list above. 
 
 ### Q30
-A closed fracture of the lateral malleolus above the level of the syndesmosis with talar shift.
-#### Answer: D. Open reduction and internal fixation - ?
+A closed fracture of the *lateral malleolus* above the level of the syndesmosis *with talar shift*.
+#### Answer: D. Open reduction and internal fixation - TRUE
+- Type of fracture is an unstable injury which requires an anatomical reduction
+	- open reduction and internal fixation (ORIF) is necessary to achieve this
 
 ### Q31
-An undisplaced fracture of the radial head in the patient's non-dominant arm.
-#### Answer: D. Open reduction and internal fixation - ?
+An *undisplaced fracture of the radial head* in the patient's *non-dominant arm*.
+#### Answer: D. Open reduction and internal fixation - *FALSE* = A. Broad arm sling
+- Type of fracture requires treatment only to rest affected limb
+	- Broad arm sling provides relief from pain
 
 ### Q32
-A closed femoral shaft fracture in a patient injured in an RTA who has also sustained fractures of the tibia and fibula on the same side, and radius and ulna on the opposite side.
-#### Answer: E. Thomas’ splint - ?
+A *closed femoral shaft fracture* in a patient injured in an RTA who has *also sustained fractures* of the tibia and fibula on the same side, and radius and ulna on the opposite side.
+#### Answer: E. Thomas’ splint - *FALSE* = B. Intramedullary nail
+- Patient has undergone **polytrauma** - fractures *must be treated surgically*
+	- Femoral shaft # should be treated with aIM nail (**not** Thomas’ splint)
 
 ### Q33
-An undisplaced clavicle fracture, with no compromise of the overlying skin.
-#### Answer: A. Broad arm sling - ?
+An *undisplaced clavicle fracture*, with *no compromise* of the overlying skin.
+#### Answer: A. Broad arm sling - TRUE
+- Undisplaced clavicle fracture with no neurovascular or skin complications 
+	- Requires *only* conservative treatment
+- A *broad arm sling* is the best of the options
 
 
 Q34-37: Theme: The Limping Child
@@ -315,23 +413,38 @@ Q34-37: Theme: The Limping Child
 For each of the following scenarios, choose the most appropriate option from the list above. 
 
 ### Q34
-A 6-year-old boy, weighing 15 kg, presents with a few days history of limp. He complains of intermittent right hip and thigh pain, of which he has previously had less severe episodes.
-#### Answer: A. Osteomyelitis - ?
+A *6-year-old boy*, weighing *15 kg*, presents with a few days *history of limp*. He complains of *intermittent right hip and thigh pain*, of which he has previously had *less severe episodes*.
+#### Answer: A. Osteomyelitis - *FALSE* = B. Perthes’ disease
+- Perthes’ disease is most likely Dx
+	It is most common in *boys aged 5-7* years who are *small for their age*
+- Pain tends to be vague - they can have had similar *previous episodes*
 
 ### Q35
-A 6-year-old boy presents with a 2-day history of left hip and thigh pain. He had a recent sore throat which has now resolved. He is apyrexial. On examination internal rotation is decreased. His WCC is 7 × 109/l, erythrocyte sedimentation rate (ESR) is 2 mm/h and C-reactive protein (CRP) is 2 mg/l.
-#### Answer: F. Tubercular arthritis - ?
-
+A 6-year-old boy presents with a *2-day history* of left hip and thigh pain. He had a *recent sore* throat which has now resolved. He is apyrexial. On examination *internal rotation is decreased*. His WCC is 7 × 10^9/l, erythrocyte sedimentation rate (ESR) is 2 mm/h and C-reactive protein (CRP) is 2 mg/l.
+#### Answer: F. Tubercular arthritis - *FALSE* = E. Transient synovitis
+- Transient synovitis is a diagnosis of exclusion - *always rule out septic arthritis*
+- In this case, transient synovitis is the most likely diagnosis
+	- Child is *systemically well*
+	- Recent *Hx of viral illness* (and **normal bloods**)
+	- *Loss of internal rotation*, making this diagnosis most likely
+ 
 ### Q36
-A 2-year-old boy with a chest infection is pyrexial and cries on all movements of the right leg.
-#### Answer: C. Septic arthritis - ?
+A 2-year-old boy with a *chest infection* is *pyrexial* and *cries on all movements* of the right leg.
+#### Answer: C. Septic arthritis - TRUE
+- Septic arthritis is the most likely cause in this child
+	- Source for *haematological spread* of infection
+ 	- Child is *systemically unwell*, and
+	- There is *pain on all movements* of right leg
+
 
 ### Q37
-A 14-year-old boy, weighing 70 kg, presents with pain in the right thigh and knee and a decreased range of abduction.
-#### Answer: D. SUFE - ?
+A *14-year-old* *boy*, weighing *70 kg*, presents with *pain* in the right *thigh and knee* and a *decreased range of abduction*.
+#### Answer: D. SUFE (Slipped Upper Femoral Epiphysis) - TRUE
+- SUFE is more common in boys aged 14–16 years who are overweight
+- SUFE presents with *knee pain* and causes *loss of abduction*
 
 
-Q38-42: Theme: Fractured Neck of Femur
+Q38-42: Theme: Fractured Neck of Femur - LEARN
 --------------------------------------
 
 	A. Austin-Moore hemiarthroplasty
@@ -345,24 +458,43 @@ Q38-42: Theme: Fractured Neck of Femur
 For each of the following scenarios, choose the most appropriate treatment option from the list above. 
 
 ### Q38
-A 75-year-old woman tripped on the pavement and has a displaced subcapital fractured left neck of femur. Her only past medical history is hypertension.
-#### Answer: A. Austin-Moore hemiarthroplasty - ?
+A 75-year-old woman tripped on the pavement and has a *displaced subcapital* fractured left neck of femur. Her only past medical history is hypertension.
+#### Answer: A. Austin-Moore hemiarthroplasty - *FALSE* = E. Thompson's hemiarthroplasty
+- Patient requires a hemiarthroplasty as the fracture is displaced intracapsular 
+	- Avascular necrosis (AVN) is a significant risk
+- Patient does not have significant past medical problems restricting length of GA
+	- Cemented (*Thompson's*) hemiarthroplasty would be best choice 
 
 ### Q39
-A previously fit and well 60-year-old woman fell downstairs, sustaining a minimally displaced subcapital fracture of the left neck of femur.
-#### Answer: D. Immediate cannulated screws - ?
+A *previously fit and well* *60-year-old* woman fell downstairs, sustaining a *minimally displaced subcapital fracture* of the left neck of femur.
+#### Answer: D. Immediate cannulated screws - TRUE
+- Patient is *under 65* with 
+	- No significant co-morbidities, and 
+	- Minimally displaced intracapsular fracture
+- Cannulated screws as a surgical emergency are best choice to preserve blood supply to the femoral head
 
 ### Q40
-An 82-year-old with a previous history of *myocardial infarction* fell while walking the dog. He sustains a two-part intertrochanteric fracture of the right neck of femur.
-#### Answer: B. Closed reduction and cannulated screws - ?
+An *82-year-old* with a previous history of *myocardial infarction* fell while walking the dog. He sustains a two-part *intertrochanteric fracture* of the right neck of femur.
+#### Answer: B. Closed reduction and cannulated screws - *FALSE* = C. Dynamic hip screw (DHS)
+- Inter-trochanteric fracture = blood supply to femoral head is not at risk
+	- Dynamic hip screw (DHS) is the most suitable treatment
 
 ### Q41
-A 26-year-old man is involved in an RTA and injures his right hip. An X-ray shows a displaced (Garden III) subcapital fractured neck of femur.
-#### Answer: E. Thompson's hemiarthroplasty - ?
+A *26-year-old* man is involved in an RTA and injures his right hip. An X-ray shows a *displaced (Garden III) subcapital fractured* neck of femur.
+#### Answer: E. Thompson's hemiarthroplasty - *FALSE* = G. Open reduction and internal fixation (ORIF) w. Gamma Nail
+- Undisplaced subcapital # - good chance of maintaining blood supply if there is minimal disruption of capsule
+	- They can generally be treated with the insertion of cannulated screws
+- *Displaced fracture* (Garden III and IV) - high risk of developing AVN of femoral head
+	- Hemiarthroplasty is preferred management
+- **NOTE** Exception is young patients - preservation of femoral head is vital 
+	- Rather than insertion of a prosthesis at a young age
+	- Open reduction and internal fixation is preferable (*Gamma Nail*)
 
 ### Q42
-A 77-year-old woman trips while shopping, sustaining an intertrochanteric fracture of the left neck of femur. There is a 6-cm subtrochanteric extension.
-#### Answer: F. Total hip replacement (THR) - ?
+A 77-year-old woman trips while shopping, sustaining an *intertrochanteric fracture* of the left neck of femur. There is a 6-cm *subtrochanteric extension*.
+#### Answer: F. Total hip replacement (THR) - *FALSE* = G. Open reduction and internal fixation (ORIF) w. IM Nail
+- Subtrochanteric extension of the fracture renders it highly unstable - unsuitable for DHS
+- Requires open reduction and internal fixation, e.g. with an intramedullary (IM) Nail
 
 
 Q43-46: Theme: Ischaemic Limbs
@@ -381,20 +513,28 @@ Q43-46: Theme: Ischaemic Limbs
 For each of the following scenarios, choose the most appropriate option from the list above. 
 
 ### Q43
-A patient presents with a history of sudden onset of a painful, cold, numb left foot. There are no previous symptoms. The pulse is *irregularly-irregular*, with no pulses below the femoral in the left leg and all pulses present in right leg.
-#### Answer: G. Embolectomy - ?
+A patient presents with a history of *sudden onset* of a painful, cold, numb left foot. There are no previous symptoms. The pulse is *irregularly-irregular*, with *no pulses below the femoral* in the left leg and all pulses present in right leg.
+#### Answer: G. Embolectomy - TRUE
+- Atrial fibrillation (AF) is most likely cause of embolus in previously asymptomatic individual
 
 ### Q44
-A patient with congestive cardiac failure (CCF) who is on a medical ward develops a sudden-onset cold, pulseless, numb right foot. Dorsalis pedis and posterior tibial pulses are absent on the right and all pulses are present on left.
-#### Answer: D. Angiogram and thrombolysis - ?
+A patient with *congestive cardiac failure* (CCF) who is on a medical ward develops a sudden-onset cold, pulseless, numb right foot. Dorsalis pedis and posterior tibial *pulses are absent on the right* and all pulses are present on left.
+#### Answer: D. Angiogram and thrombolysis - TRUE
+- CCF is a known exacerbating condition for thrombus formation
+	- Patient is likely to have been relatively immobile
 
 ### Q45
-A diabetic patient who has been on the ward for several weeks for treatment of large infected foot ulcers develops three black toes on the right foot.
-#### Answer: A. Amputation - ?
+A *diabetic patient* who has been on the ward for several weeks for treatment of *large infected foot ulcers* *develops three black toes* on the right foot.
+#### Answer: A. Amputation - TRUE
+- Patient with chronic arterial insufficiency and now acute deterioration
+- Disease is distal - there is already extensive skin loss and infection
+	- Bypass is not likely an option
 
 ### Q46
-A 64-year-old man, a heavy smoker, has a history of intermittent claudication affecting the right calf. He presents with an acutely ischaemic right leg. On examination the limb is found to have lost sensation. Angiography shows occlusion of the right femoral artery with good distal run-off.
-#### Answer: I. Reconstruction - ?
+A 64-year-old man, a heavy smoker, has a *history of intermittent claudication* affecting the right calf. He presents with an *acutely ischaemic right leg*. On examination the limb is found to have *lost sensation*. Angiography shows occlusion of the right femoral artery with *good distal run-off*.
+#### Answer: I. Reconstruction - TRUE
+- *Acute-on-chronic ischaemia* is usually 2º to thrombus formation on *atheromatous plaque*
+	- If sensory or motor deficit is present and run-off is good, reconstruction is advised
 
 
 Q47-50: Theme: Abdominal Aortic Aneuryms (AAA)
@@ -411,20 +551,26 @@ Q47-50: Theme: Abdominal Aortic Aneuryms (AAA)
 For each of the following scenarios, choose the most appropriate option from the list above. 
 
 ### Q47
-A patient seen in clinic following an asymptomatic 3.5-cm AAA being discovered during an ultrasound of the renal tract.
-#### Answer: G. Ultrasound in 1 year - ?
+A patient seen in clinic following an *asymptomatic 3.5-cm AAA* being discovered during an ultrasound of the renal tract.
+#### Answer: G. Ultrasound in 1 year - TRUE
+- *Annual surveillance* is suitable for aneurysms smaller than 4 cm.
 
 ### Q48
-A patient known to have an AAA, which was 5.3 cm at the previous clinic appointment, has undergone a CT scan. The scan reveals a 5.7-cm infrarenal aneurysm extending from 0.5 cm below the renal arteries into both common iliacs.
-#### Answer: B. Emergency surgery - ?
+A patient known to have an AAA, which was 5.3 cm at the previous clinic appointment, has undergone a CT scan. The scan reveals a *5.7-cm infrarenal aneurysm* extending from *0.5 cm below the renal arteries* into both common iliacs.
+#### Answer: B. Emergency surgery - *FALSE* = D. Elective open repair
+- Gradual increase in size of aneurysm necessitates *elective repair* in a medically fit patient
+- *Unsuitable for endoluminal repair* as it is only 0.5 cm below the renal arteries
+	- Aneurysm would need to be 2 cm below for endoluminal repair
 
 ### Q49
-A patient known to have an AAA is reviewed in clinic for the third time. Ultrasound reveals an increase in size from 4 cm to 4.5 cm.
-#### Answer: F. Ultrasound in 6 months - ?
+A patient known to have an AAA is reviewed in clinic for the third time. Ultrasound reveals an *increase in size from 4 cm to 4.5 cm*.
+#### Answer: F. Ultrasound in 6 months - TRUE
+- Aneurysm is asymptomatic + between 4.0 and 5.5 cm = surveillance should be increased to 6-monthly
 
 ### Q50
-An asymptomatic patient is reviewed in clinic. The ultrasound shows a 5-cm AAA. A scan taken 6 months before showed a 3.7-cm aneurysm.
-#### Answer: C. Elective endoluminal repair - ?
+An asymptomatic patient is reviewed in clinic. The ultrasound shows a *5-cm AAA*. A scan taken *6 months before showed a 3.7-cm aneurysm*.
+#### Answer: C. Elective endoluminal repair - *FALSE* = E. Urgent elective repair
+- Rapid increase in size of more than 1 cm (in 6mo) means that urgent surgery is required
 
 
 Q51-54: Theme: Carotid Artery Disease
@@ -437,20 +583,29 @@ Q51-54: Theme: Carotid Artery Disease
 For each of the following scenarios, choose the most appropriate option from the list above. 
 
 ### Q51
-A fit and well 76-year-old patient presents with a history of right-sided facial drooping lasting approximately 12 hours, then fully resolving. Duplex scans show a bilateral carotid artery stenosis of 86%.
-#### Answer: C. Endarterectomy right side - ?
+A fit and well 76-year-old patient presents with a history of *right-sided facial drooping* lasting approximately 12 hours, then fully resolving. Duplex scans show a bilateral carotid artery stenosis of 86%.
+#### Answer: C. Endarterectomy right side - *FALSE* = B. Endarterectomy left side
+- Sx of *facial drooping* occurs on **contralateral side**
+	- Stenosis of &ge; 75% warrants *surgical intervention*
 
 ### Q52
-A 73-year-old woman presents with three episodes of amaurosis fugax affecting the right eye during the past 6 months. Duplex scans reveal a bilateral stenosis of 75%.
-#### Answer: C. Endarterectomy right side - ?
+A 73-year-old woman presents with three episodes of *amaurosis fugax* affecting the *right eye* during the past 6 months. Duplex scans reveal a bilateral stenosis of 75%.
+#### Answer: C. Endarterectomy right side - TRUE
+- Visual loss occurs on *ipsilateral side* 
+	- Right side is responsible for these Sx
 
 ### Q53
-An 87-year-old man presents with an episode of right-sided hemiparesis which fully resolves after 1 week. Duplex scans show a right-sided stenosis of 100% and a left-sided stenosis of 50%.
-#### Answer: A. Best medical therapy - ?
+An 87-year-old man presents with an episode of *right-sided hemiparesis* which *fully resolves* after 1 week. Duplex scans show a right-sided stenosis of 100% and a left-sided stenosis of 50%.
+#### Answer: A. Best medical therapy - TRUE
+- Hemiparesis is a sign which occurs on *contralateral side*
+	- But stenosis on right side is 100%
+- Collateral flow is sufficient as Sx resolved - *surgery is not required*
 
 ### Q54
-An 82-year-old woman presents with a history of one episode of vertigo and diplopia resolving within 24 hours. Duplex scans show a left-sided stenosis of 60%.
-#### Answer: A. Best medical therapy - ?
+An 82-year-old woman presents with a history of one episode of *vertigo and diplopia* resolving within 24 hours. Duplex scans show a *left-sided stenosis* of 60%.
+#### Answer: A. Best medical therapy - TRUE
+- Sx suggest a source in vertebrobasilar territory not carotid
+	- Carotid surgery is not indicated (also stenosis < 75%)
 
 
 Q55-58: Theme: Head Injuries
@@ -466,23 +621,34 @@ Q55-58: Theme: Head Injuries
 For each of the following scenarios, choose the most appropriate option from the list above. 
 
 ### Q55
-A 50-year-old man falls and bangs his head on a cupboard. He cannot remember the events of the fall, but remembers everything since. He had a loss of consciousness of approximately 30 seconds witnessed by his wife, who lives with him.
-#### Answer: C. Home with advice - ?
+A 50-year-old man falls and bangs his head on a cupboard. He *cannot remember the events* of the fall, but remembers everything since. He had a *loss of consciousness* of approximately 30 seconds witnessed by his wife, who *lives with him*.
+#### Answer: C. Home with advice - TRUE
+- Post-traumatic amnesia and brief loss of consciousness - *not indications for admission*
+	- This patient also has someone to accompany him home and observe him
 
 ### Q56
-A 70-year-old man on warfarin for atrial fibrillation trips and falls. There is no loss of consciousness, but he has large laceration over the occiput. He lives with his wife.
-#### Answer: F. Skull X-ray - ?
+A 70-year-old man *on warfarin* for atrial fibrillation trips and falls. There is no loss of consciousness, but he has large laceration over the occiput. He lives with his wife.
+#### Answer: F. Skull X-ray - *FALSE* = A. Admission for neurological observations
+- Patient requires admission for observation as he is on *anticoagulants*
 
 ### Q57
-A 30-year-old woman is hit with a metal bar. She has a depressed skull fracture on X-ray. Her Glasgow Coma Scale (GCS) score is 15.
-#### Answer: B. CT scan - ?
+A 30-year-old woman is hit with a metal bar. She has a *depressed skull fracture* on X-ray. Her Glasgow Coma Scale (GCS) score is 15.
+#### Answer: B. CT scan - *FALSE* = E. Referral to neurosurgery
+- Depressed skull fracture is an indication for a *neurosurgical consultation*
 
 ### Q58
 A 35-year-old woman has a head injury in an RTA. She remembers the events and did not lose consciousness. Her GCS is 15 throughout. She has a left haemotympanum on examination.
-#### Answer: E. Referral to neurosurgery - ?
+#### Answer: E. Referral to neurosurgery - *FALSE* = B. CT Scan
+- **Haemotympanum** suggests a *basal skull fracture*
+	- CT scan is needed to confirm this diagnosis
+
+#### Indications for Admission
+1. Anticoagulants: warfarin, heparin
+2. Intoxication
+3. Clotting Abnormalities
 
 
-Q59-62: Theme: Blood Gas Analysis
+Q59-62: Theme: Blood Gas Analysis - LEARN
 ---------------------------------
 
 	A. Respiratory alkalosis
@@ -495,20 +661,31 @@ Q59-62: Theme: Blood Gas Analysis
 For each of the following situations, choose the most appropriate diagnosis from the list above. 
 
 ### Q59
-pH 7.47; Pa(O2) 12.3 kPa; Pa(CO2) 4.8 kPa; bicarbonate 25 mmol/l; base excess +5 mmol/l.
-#### Answer: F. Metabolic acidosis without compensation - ?
+pH 7.47; Pa(O2) 12.3 kPa; Pa(CO2) 4.8 kPa; **bicarbonate** 25 mmol/l; **base excess** +5 mmol/l.
+#### Answer: F. Metabolic acidosis without compensation - *FALSE* = D. Metabolic alkalosis
+- &uarr; pH = alkalosis
+- Positive base excess and &uarr; bicarbonate = *metabolic alkalosis*
 
 ### Q60
-pH 7.31; Pa(O2) 12.7 kPa; Pa(CO2) 3.2 kPa; bicarbonate 19 mmol/l; base excess –7 mmol/l.
-#### Answer: F. Metabolic acidosis without compensation - ?
+pH 7.31; Pa(O2) 12.7 kPa; **Pa(CO2)** 3.2 kPa; **bicarbonate** 19 mmol/l; base excess –7 mmol/l.
+#### Answer: F. Metabolic acidosis without compensation - *FALSE* = E. Metabolic acidosis with compensation
+- &darr; pH = acidosis
+- &darr; bicarbonate and negative base excess = *metabolic acidosis*
+	- &darr; Pa(CO2) reveals *respiratory compensation*
 
 ### Q61
 pH 7.29; Pa(O2) 8.4 kPa; Pa(CO2) 6.7 kPa; bicarbonate 32 mmol/l; base excess –1 mmol/l.
-#### Answer: B. Respiratory acidosis with compensation - ?
+#### Answer: B. Respiratory acidosis with compensation - TRUE
+- &darr; pH = acidosis
+- &uarr; Pa(CO2) = *respiratory acidosis*
+	- &uarr; bicarbonate with a normal base excess indicate *metabolic compensation*
 
 ### Q62
-pH 7.28; Pa(O2) 13.8 kPa; Pa(CO2) 5.0 kPa; bicarbonate 20 mmol/l; base excess –8 mmol/l.
-#### Answer: C. Respiratory acidosis without compensation - ?
+pH 7.28; Pa(O2) 13.8 kPa; Pa(CO2) 5.0 kPa; **bicarbonate** 20 mmol/l; base excess –8 mmol/l.
+#### Answer: C. Respiratory acidosis without compensation - *FALSE* = F. Metabolic acidosis without compensation
+- &darr; pH = acidosis
+- &darr; bicarbonate and negative base excess = *metabolic acidosis*
+	- Normal Pa(CO2) indicates a *lack of respiratory compensation*
 
 
 Q63-66: Theme: Consent
@@ -524,19 +701,29 @@ For each of the following situations, choose the most appropriate option from th
 
 ### Q63
 A 24-year-old nurse presents with testicular torsion. He refuses surgery despite having had the benefits and risks of the procedure explained.
-#### Answer: C. Patient's refusal is valid and doctor cannot override - ?
+#### Answer: C. Patient's refusal is valid and doctor cannot override - TRUE
+- Adult patient who understands risks and benefits of surgery but *does not consent* 
+	- **NOTE** Cannot be forced to undergo procedure
 
 ### Q64
-A 15-year-old girl whose parents are abroad requires an emergency appendicectomy. She understands the operation, its benefits and risks.
-#### Answer: B. Patient can give valid consent - ?
+A *15-year-old* girl whose parents are abroad requires an *emergency appendicectomy*. She *understands* the operation, its benefits and risks.
+#### Answer: B. Patient can give valid consent - TRUE
+- A patient <16 years of age is Gillick competent if she
+	- Understands the procedure, and its risks and benefits
+- Patient can give consent to treatment
 
 ### Q65
 An 86-year-old woman with dementia, mini-mental state score 4/10, is admitted with a fractured neck of femur. Her daughter states that she would not have wanted surgery, but there is no advance directive.
-#### Answer: A. Doctor can consent for the patient - ?
+#### Answer: A. Doctor can consent for the patient - TRUE
+- No adult can consent for another adult
+	- Daughter cannot consent for her mother
+- The decision regarding surgery lies with doctor
 
 ### Q66
 A 15-year-old boy needs an appendicectomy. His parents refuse the surgery despite hearing the risks and benefits, but the patient gives consent. The patient has five GCSEs.
-#### Answer: E. Refusal is not valid and can be overridden - ?
+#### Answer: E. Refusal is not valid and can be overridden - *FALSE* = B. Patient can give valid consent
+- Patient under 16 years of age with five GCSEs is likely to be *Gillick competent*
+	- If doctor considers him Gillick competent he can consent for himself
 
 
 Q67-71: Theme: Scrotal Swellings
@@ -556,23 +743,34 @@ For each of the following scenarios, choose the most appropriate option from the
 
 ### Q67
 The patient has a right-sided swelling in the scrotum separate from the testis, which you cannot get above. The swelling transmits a cough impulse.
-#### Answer: D. Hernia - ?
+#### Answer: D. Hernia - TRUE
+- Swelling cannot be got above and transmits a cough impulse = likely diagnosis is hernia
 
 ### Q68
-The patient has a left-sided swelling and dull ache for 1–2 weeks. The swelling is separate from the testis and transilluminates.
-#### Answer: E. Hydrocoele - ?
+The patient has a left-sided swelling and dull ache for 1–2 weeks. The swelling is *separate from the testis* and *transilluminates*.
+#### Answer: E. Hydrocoele - *FALSE* = A. Epididymal cyst
+- Swelling *separate from testis* but not generalised = epididymis
+- *Transillumination* = cystic
 
 ### Q69
-The patient has a generalised, non-tender swelling of the left hemiscrotum, which has been gradually increasing in size for 2 months. The testis and epididymis cannot be defined. The swelling transilluminates.
-#### Answer: A. Epididymal cyst - ?
+The patient has a generalised, *non-tender swelling* of the left hemiscrotum, which has been gradually increasing in size for *2 months*. The testis and epididymis *cannot be defined*. The swelling *transilluminates*.
+#### Answer: A. Epididymal cyst - *FALSE* = E. Hydrocoele
+- Swelling that *cannot* be localised to testis or epididymis and transilluminates = hydrocoele
 
 ### Q70
 A 28-year-old man presents with a 6-hour history of a painful right hemiscrotum. The testis and epididymis can be defined, with a normal lie of the testis, and the epididymis is tender to palpation. The patient has been feeling generally unwell and has had dysuria for 2 days.
-#### Answer: B. Epididymo-orchitis - ?
+#### Answer: B. Epididymo-orchitis - TRUE
+- Following Sx point to epididymo-orchitis (rather than torsion)
+	- Epididymis alone being tender
+	- Normal lie of the testis
+	- Previous urinary symptoms
+	- Previous systemic symptoms 
 
 ### Q71
-A 20-year-old man presents with a 2-hour history of severe right-sided testicular pain and swelling. The hemiscrotum is very tender, with the testis lying normally.
-#### Answer: G. Testicular torsion - ?
+A 20-year-old man presents with a *2-hour history* of *severe right-sided testicular pain* and swelling. The hemiscrotum is very tender, with the testis lying normally.
+#### Answer: G. Testicular torsion - TRUE
+- Sudden-onset severe pain and severe testicular tenderness point to torsion
+- **NOTE** Normal lie of the testis does not exclude torsion as correct Dx
 
 
 Q72-77: Theme: Tumour Markers
@@ -593,27 +791,33 @@ For each of the following malignancies, choose the most appropriate marker from 
 
 ### Q72
 Colorectal carcinoma.
-#### Answer: E. Carcinoembryonic antigen (CEA) - ?
+#### Answer: E. Carcinoembryonic antigen (CEA) - TRUE
+- CEA is a non-specific tumour marker which can be used for colorectal carcinoma
 
 ### Q73
 Breast cancer.
-#### Answer: I. Lactate dehydrogenase - ?
+#### Answer: I. Lactate dehydrogenase - *FALSE* = E. Carcinoembryonic antigen (CEA)
+- **CEA** can also be used as a marker for **breast cancer**
 
 ### Q74
 Ovarian cancer.
-#### Answer: C. CA 125 - ?
+#### Answer: C. CA 125 - TRUE
+- CA 125 can be used as a marker for ovarian cancer
 
 ### Q75
 Prostate cancer.
-#### Answer: J. Prostate-specific antigen (PSA) - ?
+#### Answer: J. Prostate-specific antigen (PSA) - TRUE
+- PSA can be used for prostate cancer
 
 ### Q76
 Choriocarcinoma.
-#### Answer: H. β-Human chorionic gonadotropin (hCG) - ?
+#### Answer: H. β-Human chorionic gonadotropin (hCG) - TRUE
+- β-hCG can be used for choriocarcinoma
 
 ### Q77
 Small-cell lung cancer.
-#### Answer: A. Adrenocorticotropic hormone (ACTH) - ?
+#### Answer: A. Adrenocorticotropic hormone (ACTH) - TRUE
+- ACTH is secreted by small-cell lung cancers
 
 
 Q78-82: Theme: Congenital Gastrointestinal Anomalies
@@ -631,24 +835,40 @@ Q78-82: Theme: Congenital Gastrointestinal Anomalies
 For each of the following scenarios, choose the most likely anomaly from the list above. 
 
 ### Q78
-Neonate girl, born at term, presents with uncovered intestine and an ovary protruding through the abdominal wall to the right of the umbilicus, through a defect of approximately 3 cm.
-#### Answer: C. Gastroschisis - ?
+Neonate girl, born at term, presents with uncovered *intestine and an ovary* protruding through the abdominal wall to the *right of the umbilicus*, through a defect of approximately 3 cm.
+#### Answer: C. Gastroschisis - TRUE
+- Intestine protruding to right of umbilicus points to *gastroschisis instead of exomphalos*
+	1. In exomphalos the intestine has a membranous covering
+	2. **NOTE** Ovaries are more commonly involved in gastroschisis
 
 ### Q79
-A term neonate boy, who has failed to pass meconium, has now developed bilious vomiting and abdominal distension. Per rectal examination reveals a mucus plug, removal of which temporarily relieves the symptoms, but they recur.
-#### Answer: F. Meconium ileus - ?
+A term neonate boy, who has *failed to pass meconium*, has now developed *bilious vomiting* and *abdominal distension*. Per rectal examination reveals a *mucus plug*, removal of which *temporarily relieves the symptoms*, but they recur.
+#### Answer: F. Meconium ileus - *FALSE* = D. Hirschsprung's disease
+- Failure to pass meconium + bilious vomiting + abdominal distension &rarr; meconium ileus or Hirschsprung's
+- Temporary relief of Sx by removal of mucus plug makes Dx of Hirschsprung's much more likely
 
 ### Q80
-A neonate girl presents with bilious vomiting and abdominal distension. She passed meconium, but has not opened her bowels since. An abdominal X-ray reveals distended bowel loops with fluid levels.
-#### Answer: D. Hirschsprung's disease - ?
+A neonate girl presents with *bilious vomiting* and *abdominal distension*. She **passed meconium**, but has not opened her bowels since. An abdominal X-ray reveals distended bowel loops with fluid levels.
+#### Answer: D. Hirschsprung's disease - *FALSE* = H. Small-bowel atresia
+- Baby has passed meconium = rules out meconium ileus and Hirschsprung's
+- X-ray finding of distended bowel points to *small-bowel atresia* 
+	- As opposed to duodenal atresia
 
 ### Q81
-A neonate boy with trisomy 21 presents with bilious vomiting and abdominal distension on day 2. An abdominal X-ray reveals a double gas bubble.
-#### Answer: A. Duodenal atresia - ?
+A neonate boy with *trisomy 21* presents with *bilious vomiting* and *abdominal distension* on day 2. An abdominal X-ray reveals a *double gas bubble*.
+#### Answer: A. Duodenal atresia - TRUE
+- Double bubble sign on the abdominal X-ray is a feature of duodenal atresia
+	- there is a gastric bubble and a second duodenal bubble
+- **NOTE** Duodenal atresia is linked to Down syndrome
 
 ### Q82
-A 1-month-old baby boy presents with repeated projectile vomiting of unaltered feed approximately 10 minutes after feeding.
-#### Answer: E. Hypertrophic pyloric stenosis - ?
+A 1-month-old *baby boy* presents with repeated *projectile vomiting* of *unaltered feed* approximately 10 minutes *after feeding*.
+#### Answer: E. Hypertrophic pyloric stenosis - TRUE
+- Facts that point to pyloric stenosis, include
+	- Child was healthy for first month
+	- Developed projectile vomiting, and 
+	- Feed is unaltered
+	- More common in males
 
 
 Q83-85: Theme: Treatment of Gallstones
@@ -663,16 +883,24 @@ Q83-85: Theme: Treatment of Gallstones
 For each of the following scenarios, choose the most appropriate treatment option from the list above. 
 
 ### Q83
-A 46-year-old woman with renal calculi has a routine ultrasound which reveals three small stones in the gallbladder.
-#### Answer: D. Low-fat diet - ?
+A 46-year-old woman with renal calculi has a *routine ultrasound* which reveals *three small stones* in the gallbladder.
+#### Answer: D. Low-fat diet - TRUE
+- Patient is asymptomatic 
+	- Only a small proportion of asymptomatic calculi actually go on to provoke an attack or require surgery
+- *Prophylactic surgery is not required*
 
 ### Q84
-A patient admitted 3 days ago with RUQ pain, vomiting, rigors and a temperature greater than 38°C, which have failed to settle despite intravenous antibiotics.
-#### Answer: E. Urgent cholecystectomy - ?
+A patient admitted 3 days ago with *RUQ pain*, *vomiting*, *rigors* and a *temperature* greater than 38°C, which have failed to settle *despite intravenous antibiotics*.
+#### Answer: E. Urgent cholecystectomy - TRUE
+- Patient is having an acute attack of cholecystitis 
+	- May have an empyema, which has failed to settle with conservative treatment
+- NOTE Urgent surgery is required
 
 ### Q85
-A 50-year-old man known to have gallstones in the gallbladder, who has had two previous attacks of biliary colic, one requiring hospital admission. He has a past medical history of epilepsy, and a vagotomy and pyloroplasty.
-#### Answer: B. Elective open cholecystectomy - ?
+A 50-year-old man *known to have gallstones* in the gallbladder, who has had *two previous attacks* of biliary colic, one requiring hospital admission. He has a *past medical history* of epilepsy, and a *vagotomy* and *pyloroplasty*.
+#### Answer: B. Elective open cholecystectomy - TRUE
+- Patient has had several attacks of biliary colic - *requires surgery*
+	- PSHx of upper abdominal surgery - an open procedure is required
 
 
 Q86-93: Theme: Chest Injuries
@@ -691,36 +919,65 @@ Q86-93: Theme: Chest Injuries
 For each of the following scenarios, choose the most appropriate option from the list above. 
 
 ### Q86
-A restrained driver involved in an RTA develops dyspnoea and tachypnoea prior to arrival in A&E. On examination *air entry is decreased* on the left side of the chest and *decreased bowel sounds* are audible.
-#### Answer: C. Diaphragmatic rupture - ?
+A *restrained driver* involved in an RTA develops dyspnoea and tachypnoea prior to arrival in A&E. On examination *air entry is decreased* on the *left side of the chest* and *decreased bowel sounds* are audible.
+#### Answer: C. Diaphragmatic rupture - TRUE
+- &darr; bowel sounds audible in left side of chest point to diaphragmatic rupture
+	- Condition is more common on left, side on which the driver's seatbelt lies
 
 ### Q87
 A restrained passenger involved in an RTA develops dyspnoea, tachypnoea and tachycardia. On examination *chest wall movements are paradoxical*.
-#### Answer: D. Flail chest - ?
+#### Answer: D. Flail chest - TRUE
+- Paradoxical chest wall movements are characteristic of *flail chest*
+	- Associated with respiratory distress
 
 ### Q88
-A restrained front-seat passenger involved in an RTA in which a car travelling at high speed collided with a wall was *haemodynamically unstable* at the scene. *Both radial pulses were absent* and he went into *cardiac arrest* at the scene.
-#### Answer: A. Aortic dissection/disruption - ?
+A restrained front-seat passenger involved in an RTA in which a *car travelling at high speed* collided with a wall was *haemodynamically unstable* at the scene. *Both radial pulses were absent* and he went into *cardiac arrest* at the scene.
+#### Answer: A. Aortic dissection/disruption - TRUE
+- Signs of Aortic Dissection
+	1. *Rapid deceleration* as a mechanism of injury
+	2. Immediate decompensation and *loss of radial pulses* *prior to arrest*
+- Results in death at scene, usually before arrival of emergency services
 
 ### Q89
 A restrained back-seat passenger involved in an RTA has remained haemodynamically stable, but is tachypnoeic and dyspnoeic. Examination reveals *no tracheal deviation*, with *decreased chest wall expansion*, *decreased air entry* on the left and a *dullness to percussion* on this side.
-#### Answer: G. Simple pneumothorax - ?
+#### Answer: G. Simple pneumothorax - *FALSE* = E. Haemothorax
+- &darr; air entry and chest wall expansion suggest haemothorax or pneumothorax
+	- **NOTE** Lack of tracheal deviation rules out tension pneumothorax
+	- **NOTE** Dullness to percussion is a sign of *haemothorax*
 
 ### Q90
-A restrained driver involved in a high-speed impact with a tree has *stridor*, *tachypnoea*, *dyspnoea* and *subcutaneous emphysema*.
-#### Answer: I. Tracheobronchial injury - ?
+A restrained driver involved in a *high-speed impact* with a tree has *stridor*, tachypnoea, dyspnoea and *subcutaneous emphysema*.
+#### Answer: I. Tracheobronchial injury - TRUE
+- Following facts point to rupture of *tracheobronchial tree*
+	1. Rapid deceleration injury
+	2. Patient has stridor and subcutaneous emphysema 
 
 ### Q91
-A 21-year-old is brought to A&E unconscious. He has been involved in an RTA. Primary survey reveals that he is *hypotensive* and *tachycardic*, and a chest X-ray reveals a *flail chest* but no obvious pneumothorax. He has *refractory hypotension*, with *no obvious point of blood loss*, so a laparotomy is organised. He is intubated in the department and has a 4-unit blood transfusion started in the department. As he is being transferred to the operating theatre he goes into cardiac arrest.
-#### Answer: A. Aortic dissection/disruption - ?
+A 21-year-old is brought to A&E unconscious. He has been involved in an RTA. Primary survey reveals that he is *hypotensive* and *tachycardic*, and a chest X-ray reveals a *flail chest* but no obvious pneumothorax. He has *refractory hypotension*, with *no obvious point of blood loss*, so a laparotomy is organised. He is **intubated** in the department and has a 4-unit blood transfusion started in the department. As he is being transferred to the operating theatre he goes into cardiac arrest.
+#### Answer: A. Aortic dissection/disruption - *FALSE* = H. Tension pneumothorax
+- Patient has a flail chest
+- Positive intrathoracic pressure
+	- produced by intubation and artificial ventilation
+	- is likely to have caused a *tension pneumothorax*
+- Intubation in this kind of scenario is usually covered by insertion of a chest drain
 
 ### Q92
-A 29-year-old has a stab injury to the left side of the chest. Primary survey shows a large left haemothorax which is subsequently drained with a water seal chest drain. After 30 minutes he appears to be in significant distress. On examination he is tachycardic at 120 beats/min and his BP is 90/50 mmHg. He appears to have engorgement of his neck veins and his heart sounds are difficult to hear.
-#### Answer: B. Cardiac tamponade - ?
+A 29-year-old has a stab injury to the left side of the chest. Primary survey shows a large left haemothorax which is subsequently drained with a water seal chest drain. After 30 minutes he appears to be in significant distress. On examination he is tachycardic at 120 beats/min and his *BP is 90/50 mmHg*. He appears to have *engorgement of his neck veins* and his *heart sounds are difficult to hear*.
+#### Answer: B. Cardiac tamponade - TRUE
+- Classic picture of cardiac tamponade
+- Blood collects in pericardium, causing 
+	1. Muffled heart sounds
+	2. &uarr; JVP
+	3. &darr; systolic BP
+- Aspiration of as little as 15 ml of blood can produce significant symptomatic relief
 
 ### Q93
-A 34-year-old is brought in with a stab wound to the right side of his chest. Primary survey shows a tension pneumothorax. This is initially treated with needle thoracocentesis. A chest drain is inserted. A check X-ray 30 minutes after tube insertion shows the tube to be in a satisfactory position. The patient continues to be in respiratory distress and a repeat chest X-ray after 30 minutes shows a persistent large pneumothorax.
-#### Answer: I. Tracheobronchial injury - ?
+A 34-year-old is brought in with a *stab wound* to the right side of his chest. Primary survey shows a *tension pneumothorax*. This is initially treated with needle thoracocentesis. A chest drain is inserted. A check X-ray 30 minutes after tube insertion shows the tube to be in a satisfactory position. The patient continues to be in respiratory distress and a repeat chest X-ray after 30 minutes shows a *persistent large pneumothorax*.
+#### Answer: I. Tracheobronchial injury - TRUE
+- Chest drain is in the correct position
+	- Despite this, there is evidence of a large air leak, given &uarr; size of pneumothorax
+- Tracheobronchial injury is likely. 
+	- May require insertion of more than one chest drains until definitive Tx can be achieved
 
 
 Q94-97: Theme: Sterilisation
@@ -737,19 +994,28 @@ For each of the following, choose the most appropriate form of sterilisation fro
 
 ### Q94
 Catheters
-#### Answer: E. Irradiation - ?
+#### Answer: E. Irradiation - TRUE
+- Catheters are mass-produced and can be sterilised industrially in *large batches by irradiation*
 
 ### Q95
 Flexible naso-endoscope.
-#### Answer: E. Irradiation - ?
+#### Answer: E. Irradiation - *FALSE* = D. Glutaraldehyde
+- Scopes are 
+	- *heat-sensitive* 
+	- Require *rapid disinfection* between patients
+- Glutaraldehyde (2%) can rapidly accomplish this
 
 ### Q96
 Sutures.
-#### Answer: F. Low-temperature steam and formaldehyde
+#### Answer: F. Low-temperature steam and formaldehyde - *FALSE* = C. Ethylene oxide
+- Sutures are both *single-use* and *heat-sensitive*
+	- Ethylene oxide can sterilise without affecting suture material
 
 ### Q97
 Small McIndoe scissors.
-#### Answer: A. Autoclave - ?
+#### Answer: A. Autoclave - *FALSE* = B. Dry heat
+- Fine blades of these scissors are *very sensitive to corrosion*
+	- Sterilisation which does not involve moisture must be used
 
 
 Q98-100: Theme: Tourniquets
@@ -766,15 +1032,22 @@ For each of the following scenarios, choose the most appropriate tourniquet from
 
 ### Q98
 A patient with a blood pressure of 150/90 mmHg undergoing *Zadik's procedure*.
-#### Answer: A. No tourniquet - ?
+#### Answer: A. No tourniquet - *FALSE* = B. Simple tourniquet
+
+##### Zadik's Procedure (Surgical Matrisectomy) 
+- Surgical correction of ingrowing toenail
 
 ### Q99
-A patient with a blood pressure of 140/80 mmHg undergoing fasciectomy for Dupuytren's contracture.
-#### Answer: E. Tourniquet at 250 mmHg - ?
+A patient with a blood pressure of **140/80 mmHg** undergoing fasciectomy for Dupuytren's contracture.
+#### Answer: E. Tourniquet at 250 mmHg - *FALSE* = D. Tourniquet at 200 mmHg
+- Dupuytren's is a upper limb (UL) procedure which requires a tourniquet
+	- **NOTE** UL tourniquets should be inflated to 50 mmHg over systolic BP
 
 ### Q100
-A patient with a blood pressure of 150/114 mmHg undergoing knee arthroscopy, who has previously had a femoro-popliteal bypass.
-#### Answer: F. Tourniquet at 300 mmHg - ?
+A patient with a blood pressure of 150/114 mmHg undergoing knee arthroscopy, who has previously had a **femoro-popliteal bypass**.
+#### Answer: F. Tourniquet at 300 mmHg - *FALSE* = A. No tourniquet
+- Arthroscopy would *usually* require a tourniquet
+	- PHx of peripheral vascular disease (**PVD**) - tourniquet cannot be used
 
 
 Q101-104: Theme: Biopsy Techniques
